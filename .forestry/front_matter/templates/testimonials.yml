@@ -1,0 +1,32 @@
+---
+label: Testimonials
+hide_body: true
+fields:
+- name: testimonials
+  type: field_group_list
+  fields:
+  - name: testimonial
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Testimonial
+    description: The testimonial
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
+    description: If you have received permission to do so, you can add the name of
+      the person who gave the testimonial. If left blank, it will say "Anonymous".
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Testimonials
+pages:
+- testimonials.md
+- testimonials.md

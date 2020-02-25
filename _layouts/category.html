@@ -1,0 +1,116 @@
+---
+layout: default
+---
+
+<div class="page__header" style="background-image: url('{{ "/assets/images/banner-catalogues.jpg" | relative_url }}');">
+  <div class="container">
+    <div class="grid-middle">
+        <div class="col-12">
+          <h1 class="page__header-title">{{ page.title }}</h1>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="page__content">
+  {% if page.products.size > 0 %}
+    <div class="container margin-60">
+      <div class="grid-center">
+        <div class="col-8_lg-10_md-12">
+
+          <div class="page__title-wrapper cf">
+            <div class="page__title-img-wrapper">
+              <img class="page__title-img" src="{{ '/assets/images/title-products.svg' | relative_url }}" />
+            </div>
+            <h2 class="page__title">Products</h2>
+          </div>
+
+          <div class="grid">
+            <div class="col-6_sm-12 sm-margin-10">
+              <p>Here are the products we offer for {{ page.title }}.</p>
+              <div class="sm-hide">
+                <p>Finding the right products for your specific needs is what we do best. Email us your request and we’ll get back to you within 48 hours.</p>
+                <a class="btn" href="{{ "/contact-us" | relative_url }}"><i class="btn__icon fal fa-envelope"></i> <span class="btn__text">Contact Us</span></a>
+              </div>
+            </div>
+            <div class="col-6_sm-12 sm-margin-20">
+              <div class="table category__table table--6">
+                <div class="grid-noGutter">
+                  {% for product in page.products %}
+                  <div class="col-6 table__cell">
+                    <div class="table__cell-inner" title="{{ product }}">
+                      {{ product }}
+                    </div>
+                  </div>
+                  {% endfor %}
+                </div>
+              </div>
+            </div>
+            <div class="col-12 sm-show">
+              <p>Finding the right products for your specific needs is what we do best. Email us your request and we’ll get back to you within 48 hours.</p>
+              <a class="btn" href="{{ "/contact-us" | relative_url }}"><i class="btn__icon fal fa-envelope"></i> <span class="btn__text">Contact Us</span></a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  {% endif %}
+  {% if page.photos.size > 0 %}
+  <div class="container margin-60">
+    <div class="grid-center">
+      <div class="col-8_lg-10_md-12">
+
+        <div class="page__title-wrapper cf">
+          <div class="page__title-img-wrapper">
+            <img class="page__title-img" src="{{ '/assets/images/title-photos.svg' | relative_url }}" />
+          </div>
+          <h2 class="page__title">Photos</h2>
+        </div>
+
+        <div class="grid">
+          {% for photo in page.photos %}
+            <div class="col-3">
+              <a href="{{ photo.photo | prepend: site.mediaUrl }}" class="category__photo-wrapper" title="{{ photo.title }}">
+                <img class="category__photo" src="{{ photo.photo | prepend: site.mediaUrl }}" />
+              </a>
+            </div>
+          {% endfor %}
+        </div>
+
+      </div>
+      
+    </div>
+  </div>
+  {% endif %}
+  {% assign strippedPermalink = page.permalink | remove: '"' | remove_first: '/' | append: '~~' | remove: '/~~' | append: '.md' %}
+  {% assign brandPages = site.pages | where: 'layout', "brand" %}
+  {% assign brandPages = brandPages | where_exp: 'brand', "brand.categories contains strippedPermalink" %}
+  {% if brandPages.size > 0 %}
+    <div class="container">
+      <div class="grid-center">
+        <div class="col-8_lg-10_md-12">
+
+          <div class="page__title-wrapper cf">
+            <div class="page__title-img-wrapper">
+              <img class="page__title-img" src="{{ '/assets/images/title-suppliers.svg' | relative_url }}" />
+            </div>
+            <h2 class="page__title">Brands</h2>
+          </div>
+
+          <div class="relative">
+
+            <div class="suppliers__all">
+              <div class="grid">
+                {% for brand in brandPages %}
+                  {% include brand-grid.html %}
+                {% endfor %}
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  {% endif %}
+</div>

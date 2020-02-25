@@ -1,0 +1,73 @@
+<div class="footer">
+
+  <div class="footer-top">
+    <div class="container">
+      <div class="grid-center">
+        <div class="col-4_md-5_sm-12 sm-margin-20">
+          <h3 class="white-text">Looking for something?</h3>
+          <p class="white-text opacity-70">We know our suppliers like the back of our hand. Let us know what you’re looking for and we’ll make sure you get the best products, the best prices and the best service.</p>
+        </div>
+        <div class="col-6_md-7_sm-12">
+          <form class="footer-form form--white" action="https://formspree.io/info@balticathletics.com" method="POST">
+            <div class="grid">
+              <div class="col-6_xs-12 margin-20">
+                <div class="input-wrapper">
+                  <label class="label-wire" for="name">Name*</label>
+                  <input id="name" class="input-wire__text required" type="text" name="Name" placeholder="Jane Doe" />
+                </div>
+              </div>
+              <div class="col-6_xs-12 margin-20">
+                <div class="input-wrapper">
+                  <label class="label-wire" for="email">Email*</label>
+                  <input id="email" class="input-wire__text required" type="text" name="_replyto" placeholder="jane.doe@email.com" />
+                </div>
+              </div>
+              <div class="col-6_xs-12 margin-20">
+                <div class="input-wrapper">
+                  <label class="label-wire" for="subject">School or Organization*</label>
+                  <input id="school_or_organization" class="input-wire__text required" type="text" name="School or Organization" placeholder="School or organization name" />
+                </div>
+              </div>
+              <div class="col-6_xs-12 margin-20">
+                <div class="input-wrapper">
+                  <label class="label-wire" for="subject">Subject*</label>
+                  <input id="subject" class="input-wire__text required" type="text" name="_subject" placeholder="Custom jersey inquiry" />
+                </div>
+              </div>
+              <div class="col-12 margin-20">
+                <div class="input-wrapper">
+                  <label class="label-wire" for="message">Message*</label>
+                  <textarea id="message" class="input-wire__text input__textarea required" name="Message" placeholder="Hello, I'm looking for..."></textarea>
+                </div>
+              </div>
+              <div class="col-12">
+                <div class="btn btn--inverse form-submit"><i class="fas fa-paper-plane btn__icon"></i><span class="btn__text">Send message</span></div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="grid-middle">
+        <div class="col-7_sm-12 sm-text-center sm-margin-20">
+          <img class="footer-bottom__logo" src="{{ "/assets/images/logo-long-white.svg" | relative_url }}" alt="Baltic Athletics Logo" />
+          <div class="footer-bottom__divider"></div>
+          <img class="footer-bottom__logo-two" src="{{ "/assets/images/bbb-logo.png" | relative_url }}" alt="BBB Acredited Business" />
+        </div>
+        <div class="col-5_sm-12 text-right sm-text-center">
+          <p class="footer-bottom__text">
+            Copyright &copy; {{ "now" | date: "%Y" }} Baltic Athletics Inc.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script type="text/javascript" src="{{ "/assets/scripts/vendors.js" | relative_url }}"></script>
+<script type="text/javascript" src="{{ "/assets/scripts/main.js" | relative_url }}"></script>

@@ -1,0 +1,144 @@
+---
+layout: default
+---
+
+<div class="page__header" style="background-image: url('{{ "/assets/images/banner-catalogues.jpg" | relative_url }}');">
+  <div class="container">
+    <div class="grid-middle">
+        <div class="col-12">
+          <h1 class="page__header-title">{{ page.title }}</h1>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="page__content">
+  <div class="container margin-60">
+    <div class="grid-center">
+      <div class="col-12 text-center">
+        <img class="supplier__section-logo" src="{{ page.logo | prepend: site.mediaUrl }}" alt="{{ page.title }} logo" />
+      </div>
+    </div>
+  </div>
+  {% if page.website.size > 0 %}
+    <div class="container margin-60">
+      <div class="grid-center">
+        <div class="col-8_lg-10_md-12">
+          <div class="page__title-wrapper cf">
+            <div class="page__title-img-wrapper">
+              <img class="page__title-img" src="{{ '/assets/images/title-website.svg' | relative_url }}" />
+            </div>
+            <h2 class="page__title">Website</h2>
+          </div>
+          <div class="page__section">
+            <a class="supplier__section-website" href="{{ page.website }}" target="_blank" title="{{ page.website }}"><i class="fal fa-external-link"></i> {{ page.website }}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+  {% if page.catalogues.size > 0 %}
+    <div class="container margin-60">
+      <div class="grid-center">
+        <div class="col-8_lg-10_md-12">
+
+          <div class="page__title-wrapper cf">
+            <div class="page__title-img-wrapper">
+              <img class="page__title-img" src="{{ '/assets/images/title-pdfs.svg' | relative_url }}" />
+            </div>
+            <h2 class="page__title">Catalogues</h2>
+          </div>
+
+          <div class="grid">
+
+            <div class="col-6_sm-12 sm-margin-10">
+              <p>Here are some catalogues for {{ page.title }}. Click to download and view them.</p>
+              <div class="sm-hide">
+                <p>Finding the right products for your specific needs is what we do best. Email us your request and we’ll get back to you within 48 hours.</p>
+                <a class="btn" href="{{ "/contact-us" | relative_url }}"><i class="btn__icon fal fa-envelope"></i> <span class="btn__text">Contact Us</span></a>
+              </div>
+            </div>
+
+            <div class="col-6_sm-12 sm-margin-20">
+              <ul class="supplier__pdfs">
+                {% for catalogue in page.catalogues %}
+                  <li class="supplier__pdf-wrapper">
+                    <a class="supplier__pdf" href="{{ catalogue.pdf | prepend: site.mediaUrl }}" target="_blank" title="{{ catalogue.title }}">
+                      <div class="supplier__pdf-icon supplier__pdf-icon--default">
+                        <i class="fal fa-file-pdf"></i>
+                      </div>
+                      <div class="supplier__pdf-icon supplier__pdf-icon--hover">
+                        <i class="fas fa-file-download"></i>
+                      </div>
+                      <h5 class="supplier__pdf-title">{% if catalogue.year > 0 %}<span class="supplier__pdf-year">{{ catalogue.year }}</span>{% endif %}{{ catalogue.title }}</h5>
+                      <p class="supplier__pdf-link">{{ catalogue.pdf | remove_first: "/" }}</p>
+                    </a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  {% endif %}
+  {% if page.info.size > 0 %}
+    <div class="container margin-60">
+      <div class="grid-center">
+        <div class="col-8_lg-10_md-12">
+
+          <div class="page__title-wrapper cf">
+            <div class="page__title-img-wrapper">
+              <img class="page__title-img" src="{{ '/assets/images/title-info.svg' | relative_url }}" />
+            </div>
+            <h2 class="page__title">Info</h2>
+          </div>
+          <div class="page__section">
+            <div class="markdown">
+              {{ page.info | markdownify }}
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  {% endif %}
+  
+  {% if page.categories.size > 0 %}
+    <div class="container">
+      <div class="grid-center">
+        <div class="col-8_lg-10_md-12">
+
+          <div class="page__title-wrapper cf">
+            <div class="page__title-img-wrapper">
+              <img class="page__title-img" src="{{ '/assets/images/title-sports.svg' | relative_url }}" />
+            </div>
+            <h2 class="page__title">Product categories</h2>
+          </div>
+
+          <div class="grid">
+            {% assign categoryPages = site.pages | where: 'layout', "category" %}
+            {% for category in page.categories %}
+              {% assign categoryHandle = category | remove: "catalogue/" | remove: ".md" %}
+              {% assign categoryPermalink = category | remove: ".md" | prepend: "/" | append: "/" %}
+              {% assign categoryPage = categoryPages | where: 'permalink', categoryPermalink %}
+              {% capture categoryImageUrl %}/assets/images/category-{{ categoryHandle }}.svg{% endcapture %}
+              <div class="col-3_sm-4 catalogue__category-wrapper">
+                <a href="{{ categoryPermalink | relative_url }}" class="catalogue__category">
+                  <div class="catalogue__category-img-wrapper">
+                    <img class="catalogue__category-img" src="{{ categoryImageUrl | relative_url }}" />
+                  </div>
+                  <div class="catalogue__category-title-wrapper">
+                    <h5 class="catalogue__category-title">{{ categoryPage[0].title }}</h5>
+                  </div>
+                </a>
+              </div>
+            {% endfor %}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  {% endif %}
+</div>

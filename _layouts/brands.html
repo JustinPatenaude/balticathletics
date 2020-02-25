@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="page__header" style="background-image: url('{{ "/assets/images/banner-catalogues.jpg" | relative_url }}');">
+  <div class="container">
+    <div class="grid-middle">
+        <div class="col-12">
+          <h1 class="page__header-title">Brands</h1>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="grid-center">
+    <div class="col-10_md-12">
+      <div class="search">
+        <form class="search__form supplier__search-form">
+          <div class="input__wrapper search__input-wrapper cf">
+            <input class="input__text search__input" type="text" placeholder="What are you looking for?" />
+            <button class="btn search__btn"><i class="fal fa-search"></i><span class="search__btn-text sm-hide"> Search</span></button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="relative">
+  <div class="suppliers__all">
+    <div class="container">
+      <div class="grid-center">
+        <div class="col-10_md-12">
+
+          {% assign brandPages = site.pages | where: 'layout', "brand" %}
+          <div class="grid">
+            {% for brand in brandPages %}
+              {% include brand-grid.html %}
+            {% endfor %}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="categories__empty hide text-center">
+  <p>Oops, it looks like we don't have any categories containing your search. Reset or try a different search query!</p>
+</div>

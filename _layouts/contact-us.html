@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<div class="page__header" style="background-image: url('{{ "/assets/images/banner-catalogues.jpg" | relative_url }}');">
+  <div class="container">
+    <div class="grid-middle">
+        <div class="col-12">
+          <h1 class="page__header-title">{{ page.title }}</h1>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="container page__content">
+  <div class="grid-center">
+    <div class="col-8_md-12 rte">
+      <form action="https://formspree.io/info@balticathletics.com" method="POST">
+        <div class="grid">
+          <div class="col-12 margin-30">
+              {{ content }}
+          </div>
+          <div class="col-6_xs-12 margin-20">
+            <div class="input-wrapper">
+              <label class="label-wire" for="name">Name</label>
+              <input id="name" class="input-wire__text required" type="text" name="Name" placeholder="Jane Doe" />
+            </div>
+          </div>
+          <div class="col-6_xs-12 margin-20">
+            <div class="input-wrapper">
+              <label class="label-wire" for="email">Email</label>
+              <input id="email" class="input-wire__text required" type="email" name="_replyto" placeholder="jane.doe@email.com" />
+            </div>
+          </div>
+          <div class="col-6_xs-12 margin-20">
+            <div class="input-wrapper">
+              <label class="label-wire" for="subject">School/Organization</label>
+              <input id="school_or_organization" class="input-wire__text required" type="text" name="School or Organization" placeholder="School or organization name" />
+            </div>
+          </div>
+          <div class="col-6_xs-12 margin-20">
+            <div class="input-wrapper">
+              <label class="label-wire" for="subject">Subject</label>
+              <input id="subject" class="input-wire__text required" type="text" name="_subject" placeholder="Custom jersey inquiry" />
+            </div>
+          </div>
+          <div class="col-12 margin-20">
+            <div class="input-wrapper">
+              <label class="label-wire" for="message">Message</label>
+              <textarea id="message" class="input-wire__text input__textarea required" name="Message" placeholder="Hello, I'm looking for..."></textarea>
+            </div>
+          </div>
+          <div class="col-12">
+            <div class="btn form-submit"><i class="fas fa-paper-plane btn__icon"></i><span class="btn__text">Send message</span></div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

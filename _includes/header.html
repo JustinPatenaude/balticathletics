@@ -1,0 +1,94 @@
+<div class="header">
+  <div class="container">
+    <div class="grid-middle">
+
+      <div class="col-2">
+        <div class="logo__wrapper">
+          <a href="{{ "/" | relative_url }}" class="logo">
+            <img src="{{ "/assets/images/logo.svg" | relative_url }}" alt="Baltic Athletics Logo" />
+          </a>
+        </div>
+      </div>
+
+      <div class="col-10 text-right">
+        <div class="nav__wrapper">
+          <div class="nav__item-wrapper menu-hide">
+            <div class="nav__item">
+              <a href="{{ "/catalogue" | relative_url }}" class="nav__link" title="Catalogue">
+                <i class="fal fa-book"></i> Catalogue
+              </a>
+            </div>
+            <div class="nav__item">
+              <a href="{{ "/brands" | relative_url }}" class="nav__link {% if page.url contains "/brands" %}active{% endif %}" title="Brands">
+                <i class="fal fa-truck"></i> Brands
+              </a>
+            </div>
+            <div class="nav__item">
+              <a href="{{ "/clearance" | relative_url }}" class="nav__link {% if page.url contains "/clearance" %}active{% endif %}" title="Clearance">
+                <i class="fal fa-badge-percent"></i> Clearance
+              </a>
+            </div>
+            <div class="nav__item">
+              <a href="https://baltic-athletics.myshopify.com" target="_blank" class="nav__link" title="Team Order Management">
+                <i class="fal fa-clipboard"></i> Team Order Management
+              </a>
+            </div>
+            <div class="nav__item">
+              <a href="{{ "/contact-us" | relative_url }}" class="nav__link" title="Contact Us">
+                <i class="fal fa-envelope"></i> Contact Us
+              </a>
+            </div>
+          </div>
+          <div class="nav__item nav__item--has-sub btn">
+            <span class="nav__item-btn-text menu-hide">More</span><span class="nav__item-btn-text menu-show-ib">Menu</span><i class="fal fa-chevron-down"></i>
+            <div class="sub-nav__wrapper">
+              <div class="sub-nav__inner">
+                <div class="sub-nav__item menu-show">
+                  <a href="{{ "/catalogue" | relative_url }}" class="sub-nav__link {% if page.url contains "/catalogue" %}active{% endif %}" title="Catalogue">
+                    <i class="fal fa-book"></i> Catalogue
+                  </a>
+                </div>
+                <div class="sub-nav__item menu-show">
+                  <a href="https://baltic-athletics.myshopify.com" target="_blank" class="sub-nav__link" title="Team Order Management">
+                    <i class="fal fa-clipboard"></i> Team Order Management
+                  </a>
+                </div>
+                <div class="sub-nav__item menu-show">
+                  <a href="{{ "/brands" | relative_url }}" class="sub-nav__link {% if page.url contains "/brands" %}active{% endif %}" title="Brands">
+                    <i class="fal fa-truck"></i> Brands
+                  </a>
+                </div>
+                <div class="sub-nav__item menu-show">
+                  <a href="{{ "/clearance" | relative_url }}" class="sub-nav__link {% if page.url contains "/clearance" %}active{% endif %}" title="Clearance">
+                    <i class="fal fa-badge-percent"></i> Clearance
+                  </a>
+                </div>
+                <div class="sub-nav__item">
+                  <a href="{{ "/gallery" | relative_url }}" class="sub-nav__link {% if page.url contains "/gallery" %}active{% endif %}" title="Gallery">
+                    <i class="fal fa-images"></i> Gallery
+                  </a>
+                </div>
+                <div class="sub-nav__item">
+                  <a href="{{ "/meet-the-team" | relative_url }}" class="sub-nav__link {% if page.url contains "/meet-the-team" %}active{% endif %}" title="Meet the Team">
+                    <i class="fal fa-users"></i> Meet the Team
+                  </a>
+                </div>
+                <div class="sub-nav__item sub-nav__item--last-desktop">
+                  <a href="{{ "/testimonials" | relative_url }}" class="sub-nav__link {% if page.url contains "/testimonials" %}active{% endif %}" title="Testimonials">
+                    <i class="fal fa-quote-left"></i> Testimonials
+                  </a>
+                </div>
+                <div class="sub-nav__item menu-show sub-nav__item--last-mobile">
+                  <a href="{{ "/contact-us" | relative_url }}" class="sub-nav__link {% if page.url contains "/contact-us" %}active{% endif %}" title="Contact Us">
+                    <i class="fal fa-envelope"></i> Contact Us
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>

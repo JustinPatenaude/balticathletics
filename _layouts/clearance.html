@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<div class="page__header" style="background-image: url('{{ "/assets/images/banner-catalogues.jpg" | relative_url }}');">
+  <div class="container">
+    <div class="grid-middle">
+        <div class="col-12">
+          <h1 class="page__header-title">Clearance</h1>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="products page__content">
+  <div class="container">
+    <div class="grid-center">
+      {% if page.products.size > 0 %}
+        <div class="col-8_lg-10_md-12">
+          <div class="page__contact">
+            <div class="grid-middle">
+              <div class="col-8_sm-12 sm-text-center sm-margin-10">
+                <p>Interested in any of our clearance products? Let us know!</p>
+              </div>
+              <div class="col-4_sm-12 text-right sm-text-center">
+                <a class="btn" href="/contact-us"><i class="btn__icon fal fa-envelope"></i> <span class="btn__text">Contact Us</span></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% for product in page.products %}
+          <div class="col-8_lg-10_md-12">
+
+            <div class="product">
+              <div class="grid">
+                <div class="col-5">
+                  <div class="product__image-wrapper">
+                    <img class="product__image" src="{{ product.image | prepend: site.mediaUrl }}" />
+                  </div>
+                </div>
+                <div class="col-7">
+                  <h2 class="product__title">{{ product.title }}</h2>
+                  <h4 class="product__price">{{ product.price | prepend: "$" }}</h4>
+                  {{ product.description | markdownify }}
+                </div>
+              </div>
+            </div>
+
+          </div>
+        {% endfor %}
+      {% else %}
+      <div class="col-8_lg-10_md-12">
+        <div class="page__contact text-center">
+          <p>Oops, doesn't look like we have anything here right now. Check back soon for great deals on clearance items!</p>
+        </div>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>

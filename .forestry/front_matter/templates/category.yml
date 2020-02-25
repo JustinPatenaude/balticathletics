@@ -1,0 +1,241 @@
+---
+label: Category
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  description: 'Layout should be: category'
+  config:
+    required: true
+  default: category
+- type: text
+  name: title
+  label: Title
+  hidden: false
+- type: text
+  name: permalink
+  label: Permalink
+  hidden: false
+  description: 'Permalink should be: "/catalogue/TITLE" where TITLE is the lowercased
+    version of the title. Example: Beach Volleyball would be "/catalogue/beach-volleyball".'
+  config:
+    required: false
+  default: "/catalogue/TITLE"
+- type: list
+  name: products
+  label: Products
+  description: A list of products your suppliers offer in this category
+  config:
+    use_select: false
+    source:
+      type: documents
+- name: photos
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: photo
+    type: file
+    config:
+      maxSize: 250
+    label: Photo
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Photos
+pages:
+- catalogue/pe-equipment.md
+- catalogue/helmet-decals.md
+- catalogue/parkour.md
+- catalogue/gymnastics.md
+- catalogue/snowshoes.md
+- catalogue/juggling.md
+- catalogue/blankets.md
+- catalogue/tools-lights-keytags.md
+- catalogue/futsal.md
+- catalogue/posts.md
+- catalogue/nets.md
+- catalogue/racquetball.md
+- catalogue/water-polo.md
+- catalogue/dividers.md
+- catalogue/home.md
+- catalogue/storage-solutions.md
+- catalogue/health-fitness.md
+- catalogue/marine-suppliers.md
+- catalogue/shirts.md
+- catalogue/field-marking.md
+- catalogue/jerseys.md
+- catalogue/event-planning.md
+- catalogue/ultimate.md
+- catalogue/bags-totes-duffels.md
+- catalogue/coaching.md
+- catalogue/weight-lifting.md
+- catalogue/pickleball.md
+- catalogue/wind-flags.md
+- catalogue/banners.md
+- catalogue/rhythmic-gymnastics.md
+- catalogue/jackets.md
+- catalogue/team-handball.md
+- catalogue/safety.md
+- catalogue/table-covers.md
+- catalogue/notebooks.md
+- catalogue/seating.md
+- catalogue/volleyball.md
+- catalogue/snowshoes.md
+- catalogue/table-tennis.md
+- catalogue/floor-hockey.md
+- catalogue/umbrellas.md
+- catalogue/workwear.md
+- catalogue/scoreboards.md
+- catalogue/track-field.md
+- catalogue/tissues.md
+- catalogue/tennis.md
+- catalogue/tech-items.md
+- catalogue/food-gifts.md
+- catalogue/tennis-1.md
+- catalogue/shorts.md
+- catalogue/orienteering.md
+- catalogue/auto.md
+- catalogue/wall-pads.md
+- catalogue/eyewear.md
+- catalogue/pants.md
+- catalogue/hats.md
+- catalogue/football.md
+- catalogue/ringette.md
+- catalogue/lacrosse.md
+- catalogue/towels.md
+- catalogue/games.md
+- catalogue/hockey.md
+- catalogue/sweaters.md
+- catalogue/aprons.md
+- catalogue/cross-country-skiing.md
+- catalogue/handball.md
+- catalogue/soccer.md
+- catalogue/hoodies.md
+- catalogue/basketball.md
+- catalogue/softball.md
+- catalogue/inflators.md
+- catalogue/custom-mats.md
+- catalogue/golf.md
+- catalogue/boxing.md
+- catalogue/luggage.md
+- catalogue/chairs.md
+- catalogue/curling.md
+- catalogue/bowling.md
+- catalogue/darts.md
+- catalogue/pens.md
+- catalogue/weight-lifting.md
+- catalogue/rhythmic-gymnastics.md
+- catalogue/shirts.md
+- catalogue/pinnies.md
+- catalogue/lanyards.md
+- catalogue/martial-arts.md
+- catalogue/gift-sets.md
+- catalogue/martial-arts.md
+- catalogue/pinnies.md
+- catalogue/track-suits.md
+- catalogue/squash.md
+- catalogue/training-supplies.md
+- catalogue/baseball.md
+- catalogue/travel.md
+- catalogue/badminton.md
+- catalogue/officials-equipment.md
+- catalogue/beach-volleyball.md
+- catalogue/first-aid.md
+- catalogue/pets.md
+- catalogue/sweaters.md
+- catalogue/coaching.md
+- catalogue/training-supplies.md
+- catalogue/blankets.md
+- catalogue/pants.md
+- catalogue/rugby.md
+- catalogue/wall-pads.md
+- catalogue/misc.md
+- catalogue/football.md
+- catalogue/tools-lights-keytags.md
+- catalogue/baseball.md
+- catalogue/hats.md
+- catalogue/notebooks.md
+- catalogue/softball.md
+- catalogue/table-tennis.md
+- catalogue/workwear.md
+- catalogue/auto.md
+- catalogue/shorts.md
+- catalogue/disc-golf.md
+- catalogue/scorekeeping-tables.md
+- catalogue/first-aid.md
+- catalogue/umbrellas.md
+- catalogue/volleyball.md
+- catalogue/golf.md
+- catalogue/squash.md
+- catalogue/track-field.md
+- catalogue/basketball.md
+- catalogue/plush-novelties.md
+- catalogue/home.md
+- catalogue/event-planning.md
+- catalogue/officials-equipment.md
+- catalogue/health-fitness.md
+- catalogue/wind-flags.md
+- catalogue/team-handball.md
+- catalogue/track-suits.md
+- catalogue/travel.md
+- catalogue/banners.md
+- catalogue/safety.md
+- catalogue/tennis-1.md
+- catalogue/handball.md
+- catalogue/eyewear.md
+- catalogue/drinkware.md
+- catalogue/beach-volleyball.md
+- catalogue/scoreboards.md
+- catalogue/racquetball.md
+- catalogue/soccer.md
+- catalogue/pets.md
+- catalogue/pickleball.md
+- catalogue/marine-suppliers.md
+- catalogue/ringette.md
+- catalogue/nets.md
+- catalogue/jerseys.md
+- catalogue/tissues.md
+- catalogue/ultimate.md
+- catalogue/table-covers.md
+- catalogue/posts.md
+- catalogue/tech-items.md
+- catalogue/juggling.md
+- catalogue/games.md
+- catalogue/canopies.md
+- catalogue/cross-country-skiing.md
+- catalogue/lacrosse.md
+- catalogue/field-marking.md
+- catalogue/badminton.md
+- catalogue/bags-totes-duffels.md
+- catalogue/dividers.md
+- catalogue/aprons.md
+- catalogue/seating.md
+- catalogue/tennis.md
+- catalogue/boxing.md
+- catalogue/futsal.md
+- catalogue/hockey.md
+- catalogue/hoodies.md
+- catalogue/storage-solutions.md
+- catalogue/towels.md
+- catalogue/food-gifts.md
+- catalogue/orienteering.md
+- catalogue/water-polo.md
+- catalogue/jackets.md
+- catalogue/floor-hockey.md
+- catalogue/custom-mats.md
+- catalogue/disc-golf.md
+- catalogue/scorekeeping-tables.md
+- catalogue/gift-sets.md
+- catalogue/plush-novelties.md
+- catalogue/drinkware.md
+- catalogue/lanyards.md
+- catalogue/canopies.md
+- catalogue/rugby.md
+- catalogue/misc.md

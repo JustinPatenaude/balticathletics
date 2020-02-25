@@ -1,0 +1,48 @@
+---
+label: Meet the Team
+hide_body: true
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: meet-the-team
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: Meet the Team
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: true
+  default: "/meet-the-team/"
+- type: field_group_list
+  name: team-members
+  label: Team members
+  description: The members of the team
+  fields:
+  - type: text
+    name: name
+    label: Name
+    description: First and last name of the team member
+    config:
+      required: true
+  - type: textarea
+    name: bio
+    label: Bio
+    description: A short bio about the team member.
+    config:
+      required: true
+      wysiwyg: true
+      schema:
+        format: markdown
+  - type: file
+    label: Photo
+    name: photo
+    description: The team member's photo
+  config:
+    labelField: name
+pages:
+- meet-the-team.md
+- meet-the-team.md

@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="page__header" style="background-image: url('{{ "/assets/images/banner-catalogues.jpg" | relative_url }}');">
+  <div class="container">
+    <div class="grid-middle">
+        <div class="col-12">
+          <h1 class="page__header-title">{{ page.title }}</h1>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="container page__content">
+  <div class="grid-center">
+    <div class="col-8_md-12 rte">
+      {% for teamMember in page.team-members reversed %}
+        <div class="grid-middle margin-30 rte">
+          {% assign forloopModulo = forloop.index | modulo: 2 %}
+          {% if forloopModulo > 0 %}
+            <div class="col-4_xs-6 sm-margin-30">
+              <img class="image__block rounded" src="{{ teamMember.photo | prepend: site.mediaUrl }}" />
+            </div>
+            <div class="col-8_sm-12">
+              <h2 class="h4">{{ teamMember.name }}</h2>
+              {{ teamMember.bio | markdownify }}
+            </div>
+          {% else %}
+            <div class="col-8_sm-12">
+              <h2 class="h4">{{ teamMember.name }}</h2>
+              {{ teamMember.bio | markdownify }}
+            </div>
+            <div class="col-4_xs-6_sm-first sm-margin-30">
+              <img class="image__block rounded" src="{{ teamMember.photo | prepend: site.mediaUrl }}" />
+            </div>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

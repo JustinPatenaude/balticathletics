@@ -1,0 +1,73 @@
+---
+label: Brand
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: brand
+  description: 'Layout should be: brand'
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+  description: 'Permalink should be: "/brands/TITLE" where TITLE is the lowercased
+    version of the title. Example: Monsens Sporting Goods Limited would be "/brands/monsens-sporting-goods-limited".'
+  default: "/brands/TITLE"
+- type: file
+  name: logo
+  label: Logo
+  description: Brand's logo
+- type: text
+  name: website
+  label: Website
+  description: Brand's website
+- name: catalogues
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: year
+    type: number
+    label: Year
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  - name: pdf
+    type: file
+    config:
+      maxSize: 250
+    label: PDF
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Catalogues
+- type: textarea
+  name: info
+  label: Info
+  description: Extra info useful to your customers.
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: list
+  name: categories
+  label: Categories
+  description: All the categories that this brand sells.
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: catalogues
+      file: _data/categories.yml
+  default: []
