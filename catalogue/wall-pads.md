@@ -8,6 +8,8 @@ products:
 - Removable Pads
 - Permanent Pads
 photos:
+- title: Floater Mat 2
+  photo: ''
 - title: Floater Mats
   photo: "/Floater Mat 01.png"
 suppliers: []
