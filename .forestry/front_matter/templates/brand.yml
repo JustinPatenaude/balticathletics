@@ -52,6 +52,26 @@ fields:
     max: 
     labelField: 
   label: Catalogues
+- name: photos
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+    description: The title or short description of the image.
+  - name: photo
+    type: file
+    config:
+      maxSize: 250
+    label: Photo
+    description: The photo.
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Photos
 - type: textarea
   name: info
   label: Info

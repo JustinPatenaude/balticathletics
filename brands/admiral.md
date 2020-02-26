@@ -13,8 +13,7 @@ pdfs:
 info: ''
 date: '2019-03-29T22:15:15.000+00:00'
 catalogues:
-- title: 2019 Admiral Catalogue
-  year: 2019
-  pdf: "/2019 Admiral Catalogue.pdf"
+- title: 2020 Admiral Catalogue
+  year: 2020
 
 ---
