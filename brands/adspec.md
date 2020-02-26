@@ -17,6 +17,9 @@ pdfs:
 info: Great supplier for outdoor tents often used for track & field
 date: '2019-03-29T22:15:29.000+00:00'
 catalogues:
+- title: Canopy colours offered
+  year: 2020
+  pdf: "/Canopy Colours 10x10.png"
 - title: Adspec Catalogue
   pdf: "/adspec-2018.pdf"
   year: 2018
