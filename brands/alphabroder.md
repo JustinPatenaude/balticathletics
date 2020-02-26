@@ -16,6 +16,8 @@ info: 'PDF Catalogue link: [https://viewer.zoomcatalog.com/alphabroder-2019-cana
   "https://viewer.zoomcatalog.com/alphabroder-2019-canada")'
 date: '2019-03-29T22:17:21.000+00:00'
 catalogues:
+- title: 2019 Fall Alphabroder Essential Apparel
+  year: 2019
 - title: 2019 Alphabroder Catalogue
   year: 2019
 
