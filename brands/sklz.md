@@ -2,13 +2,13 @@
 layout: brand
 permalink: "/brands/sklz/"
 categories:
-- catalogue/umbrellas.md
-- catalogue/golf.md
-- catalogue/football.md
-- catalogue/basketball.md
-- catalogue/baseball.md
-- catalogue/soccer.md
-- catalogue/health-fitness.md
+- products/umbrellas.md
+- products/golf.md
+- products/football.md
+- products/basketball.md
+- products/baseball.md
+- products/soccer.md
+- products/health-fitness.md
 title: Sklz
 logo: "/sklz-logo.png"
 website: ''

@@ -2,9 +2,9 @@
 layout: brand
 permalink: "/brands/canadawide-sports/"
 categories:
-- catalogue/baseball.md
-- catalogue/hockey.md
-- catalogue/soccer.md
+- products/baseball.md
+- products/hockey.md
+- products/soccer.md
 title: Canadawide Sports
 logo: "/canadawide-sports-logo.png"
 website: https://canadawidesports.com/

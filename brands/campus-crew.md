@@ -2,11 +2,11 @@
 layout: brand
 permalink: "/brands/campus-crew/"
 categories:
-- catalogue/hats.md
-- catalogue/jackets.md
-- catalogue/pants.md
-- catalogue/shirts.md
-- catalogue/shorts.md
+- products/hats.md
+- products/jackets.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
 title: Campus Crew
 logo: "/campus-crew-logo.jpg"
 website: ''

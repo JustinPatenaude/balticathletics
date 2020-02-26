@@ -2,9 +2,9 @@
 layout: brand
 permalink: "/brands/eletto/"
 categories:
-- catalogue/jerseys.md
-- catalogue/shorts.md
-- catalogue/soccer.md
+- products/jerseys.md
+- products/shorts.md
+- products/soccer.md
 title: Eletto
 logo: "/eletto-logo.jpg"
 website: ''

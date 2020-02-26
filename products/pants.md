@@ -1,0 +1,10 @@
+---
+layout: category
+permalink: "/products/pants/"
+title: Pants
+products: []
+photos: []
+suppliers: []
+date: 2019-03-29 18:06:29 -0500
+
+---

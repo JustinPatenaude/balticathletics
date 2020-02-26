@@ -2,9 +2,9 @@
 layout: brand
 permalink: "/brands/admiral/"
 categories:
-- catalogue/soccer.md
-- catalogue/shorts.md
-- catalogue/jerseys.md
+- products/soccer.md
+- products/shorts.md
+- products/jerseys.md
 title: Admiral
 logo: "/admiral-logo.png"
 website: https://admiral-sports.com/shop/

@@ -2,9 +2,9 @@
 layout: brand
 permalink: "/brands/lowry/"
 categories:
-- catalogue/floor-hockey.md
-- catalogue/hockey.md
-- catalogue/lacrosse.md
+- products/floor-hockey.md
+- products/hockey.md
+- products/lacrosse.md
 title: Lowry
 logo: "/lowry-logo.png"
 website: http://lowrysports.com/

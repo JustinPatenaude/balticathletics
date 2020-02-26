@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/monsens-sporting-goods-limited/"
 categories:
-- catalogue/archery.md
+- products/archery.md
 title: Monsens Sporting Goods Limited
 logo: "/monsens-logo.png"
 website: http://www.monsens.ca/

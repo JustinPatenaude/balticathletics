@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/diadora/"
 categories:
-- catalogue/soccer.md
+- products/soccer.md
 title: Diadora
 logo: "/diadora-logo.jpg"
 website: http://www.diadora.com/en/

@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/yonex/"
 categories:
-- catalogue/badminton.md
+- products/badminton.md
 title: Yonex
 logo: "/yonex-logo.jpg"
 website: ''

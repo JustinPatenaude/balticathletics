@@ -25,15 +25,15 @@ info: |-
   * Gym floor protective covers
 date: 2019-03-29 03:29:10 +0000
 categories:
-- catalogue/archery.md
-- catalogue/badminton.md
-- catalogue/basketball.md
-- catalogue/floor-hockey.md
-- catalogue/hockey.md
-- catalogue/lacrosse.md
-- catalogue/misc.md
-- catalogue/team-handball.md
-- catalogue/tennis.md
-- catalogue/volleyball.md
+- products/archery.md
+- products/badminton.md
+- products/basketball.md
+- products/floor-hockey.md
+- products/hockey.md
+- products/lacrosse.md
+- products/misc.md
+- products/team-handball.md
+- products/tennis.md
+- products/volleyball.md
 
 ---

@@ -40,7 +40,7 @@ Click **Categories** in the sidebar and click **Create new > Categories** at the
 * `Title`
   The title of the category
 * `Permalink`
-  This is what the URL will look like. It should be lowercase and dashes converted into spaces. Example: Archery would be /catalogue/archery
+  This is what the URL will look like. It should be lowercase and dashes converted into spaces. Example: Archery would be /products/archery
 * `Products`
   This is a simple list of products for a particular category. This is just off the top of your head, and isn't a reference to any other part of the site. Example: in the Baseball category, you could add: Bats, Balls, Gloves, Catchers Equipment, Helmets, etc. This gives your customers an idea of what you can offer for a particular category.
 * `Photos`

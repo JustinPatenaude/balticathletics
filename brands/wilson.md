@@ -2,10 +2,10 @@
 layout: brand
 permalink: "/brands/wilson/"
 categories:
-- catalogue/basketball.md
-- catalogue/football.md
-- catalogue/soccer.md
-- catalogue/volleyball.md
+- products/basketball.md
+- products/football.md
+- products/soccer.md
+- products/volleyball.md
 title: Wilson
 logo: "/wilson-logo.png"
 website: ''

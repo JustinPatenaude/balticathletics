@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/york/"
 categories:
-- catalogue/weight-lifting.md
+- products/weight-lifting.md
 title: York
 logo: "/york-logo.png"
 website: https://yorkbarbell.com/

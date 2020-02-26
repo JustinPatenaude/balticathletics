@@ -2,10 +2,10 @@
 layout: brand
 permalink: "/brands/hot-chillys/"
 categories:
-- catalogue/hats.md
-- catalogue/jackets.md
-- catalogue/pants.md
-- catalogue/shirts.md
+- products/hats.md
+- products/jackets.md
+- products/pants.md
+- products/shirts.md
 title: Hot Chillys
 logo: "/hot-chillys-logo.png"
 website: https://www.hotchillys.com/

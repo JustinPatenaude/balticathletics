@@ -2,13 +2,13 @@
 layout: brand
 permalink: "/brands/fiel/"
 categories:
-- catalogue/aprons.md
-- catalogue/auto.md
-- catalogue/bags.md
-- catalogue/blankets.md
-- catalogue/table-covers.md
-- catalogue/towels.md
-- catalogue/travel.md
+- products/aprons.md
+- products/auto.md
+- products/bags.md
+- products/blankets.md
+- products/table-covers.md
+- products/towels.md
+- products/travel.md
 title: Fiel
 logo: "/fiel-logo.png"
 website: http://www.fiel.com/

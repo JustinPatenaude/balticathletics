@@ -2,9 +2,9 @@
 layout: brand
 permalink: "/brands/powertek/"
 categories:
-- catalogue/bags.md
-- catalogue/floor-hockey.md
-- catalogue/hockey.md
+- products/bags.md
+- products/floor-hockey.md
+- products/hockey.md
 title: Powertek
 logo: "/powertek-logo.png"
 website: http://www.powerteksport.com/

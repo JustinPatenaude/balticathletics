@@ -2,9 +2,9 @@
 layout: brand
 permalink: "/brands/kwik-goal/"
 categories:
-- catalogue/soccer.md
-- catalogue/nets.md
-- catalogue/posts.md
+- products/soccer.md
+- products/nets.md
+- products/posts.md
 title: Kwik Goal
 logo: "/kwik-goal-logo.png"
 website: ''

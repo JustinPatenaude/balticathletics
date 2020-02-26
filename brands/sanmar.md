@@ -2,11 +2,11 @@
 layout: brand
 permalink: "/brands/sanmar/"
 categories:
-- catalogue/jackets.md
-- catalogue/jerseys.md
-- catalogue/pants.md
-- catalogue/shirts.md
-- catalogue/shorts.md
+- products/jackets.md
+- products/jerseys.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
 title: Sanmar
 logo: "/sanmar-atc.jpg"
 website: https://www.sanmarcanada.com/

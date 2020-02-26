@@ -83,6 +83,33 @@ layout: default
       </div>
     </div>
   {% endif %}
+  {% if page.photos.size > 0 %}
+  <div class="container margin-60">
+    <div class="grid-center">
+      <div class="col-8_lg-10_md-12">
+
+        <div class="page__title-wrapper cf">
+          <div class="page__title-img-wrapper">
+            <img class="page__title-img" src="{{ '/assets/images/title-photos.svg' | relative_url }}" />
+          </div>
+          <h2 class="page__title">Photos</h2>
+        </div>
+
+        <div class="grid">
+          {% for photo in page.photos %}
+            <div class="col-3">
+              <a href="{{ photo.photo | prepend: site.mediaUrl }}" class="category__photo-wrapper" title="{{ photo.title }}">
+                <img class="category__photo" src="{{ photo.photo | prepend: site.mediaUrl }}" />
+              </a>
+            </div>
+          {% endfor %}
+        </div>
+
+      </div>
+      
+    </div>
+  </div>
+  {% endif %}
   {% if page.info.size > 0 %}
     <div class="container margin-60">
       <div class="grid-center">
@@ -120,11 +147,11 @@ layout: default
           <div class="grid">
             {% assign categoryPages = site.pages | where: 'layout', "category" %}
             {% for category in page.categories %}
-              {% assign categoryHandle = category | remove: "catalogue/" | remove: ".md" %}
+              {% assign categoryHandle = category | remove: "products/" | remove: ".md" %}
               {% assign categoryPermalink = category | remove: ".md" | prepend: "/" | append: "/" %}
               {% assign categoryPage = categoryPages | where: 'permalink', categoryPermalink %}
               {% capture categoryImageUrl %}/assets/images/category-{{ categoryHandle }}.svg{% endcapture %}
-              <div class="col-3_sm-4 catalogue__category-wrapper">
+              <div class="col-2_md-3_sm-4_xs-6 catalogue__category-wrapper">
                 <a href="{{ categoryPermalink | relative_url }}" class="catalogue__category">
                   <div class="catalogue__category-img-wrapper">
                     <img class="catalogue__category-img" src="{{ categoryImageUrl | relative_url }}" />

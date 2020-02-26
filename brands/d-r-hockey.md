@@ -2,9 +2,9 @@
 layout: brand
 permalink: "/brands/dr-hockey/"
 categories:
-- catalogue/floor-hockey.md
-- catalogue/hockey.md
-- catalogue/ringette.md
+- products/floor-hockey.md
+- products/hockey.md
+- products/ringette.md
 title: D&R Hockey
 logo: "/dr-hockey-logo.jpeg"
 website: ''

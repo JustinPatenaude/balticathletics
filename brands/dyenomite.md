@@ -2,11 +2,11 @@
 layout: brand
 permalink: "/brands/dyenomite/"
 categories:
-- catalogue/bags.md
-- catalogue/hats.md
-- catalogue/shirts.md
-- catalogue/sweaters.md
-- catalogue/towels.md
+- products/bags.md
+- products/hats.md
+- products/shirts.md
+- products/sweaters.md
+- products/towels.md
 title: Dyenomite
 logo: "/dyenomite-logo.png"
 website: http://www.dyenomite.com/

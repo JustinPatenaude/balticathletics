@@ -2,8 +2,8 @@
 layout: brand
 permalink: "/brands/salming/"
 categories:
-- catalogue/squash.md
-- catalogue/floor-hockey.md
+- products/squash.md
+- products/floor-hockey.md
 title: Salming
 logo: "/salming-logo.png"
 website: ''

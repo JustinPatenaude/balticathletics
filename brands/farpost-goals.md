@@ -2,8 +2,8 @@
 layout: brand
 permalink: "/brands/farpost-goals/"
 categories:
-- catalogue/nets.md
-- catalogue/soccer.md
+- products/nets.md
+- products/soccer.md
 title: Farpost Goals
 logo: "/farpost-logo.png"
 website: http://farpostgoals.com/

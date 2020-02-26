@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/adidas/"
 categories:
-- catalogue/soccer.md
+- products/soccer.md
 title: Adidas
 logo: "/adidas-logo.png"
 website: ''

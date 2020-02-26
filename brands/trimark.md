@@ -2,9 +2,9 @@
 layout: brand
 permalink: "/brands/trimark/"
 categories:
-- catalogue/jackets.md
-- catalogue/pants.md
-- catalogue/shirts.md
+- products/jackets.md
+- products/pants.md
+- products/shirts.md
 title: Trimark
 logo: "/trimark-logo.jpg"
 website: http://www.trimarksportswear.com/cgi-bin/triweb/site.w?location=site-home.w&action=catalog&sponsor=000100&popup=true

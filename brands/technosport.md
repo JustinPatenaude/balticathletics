@@ -2,12 +2,12 @@
 layout: brand
 permalink: "/brands/technosport/"
 categories:
-- catalogue/bags-totes-duffels.md
-- catalogue/jackets.md
-- catalogue/jerseys.md
-- catalogue/pants.md
-- catalogue/shirts.md
-- catalogue/shorts.md
+- products/bags-totes-duffels.md
+- products/jackets.md
+- products/jerseys.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
 title: Technosport
 logo: "/technosport-logo.png"
 website: https://www.technosport.com/home

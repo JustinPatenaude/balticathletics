@@ -2,13 +2,13 @@
 layout: brand
 permalink: "/brands/champion-sports/"
 categories:
-- catalogue/baseball.md
-- catalogue/basketball.md
-- catalogue/lacrosse.md
-- catalogue/misc.md
-- catalogue/pe-equipment.md
-- catalogue/soccer.md
-- catalogue/volleyball.md
+- products/baseball.md
+- products/basketball.md
+- products/lacrosse.md
+- products/misc.md
+- products/pe-equipment.md
+- products/soccer.md
+- products/volleyball.md
 title: Champion Sports
 logo: "/champion-sports-logo.png"
 website: http://www.championsports.com/

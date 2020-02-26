@@ -2,13 +2,13 @@
 layout: brand
 permalink: "/brands/projoy/"
 categories:
-- catalogue/curling.md
-- catalogue/bowling.md
-- catalogue/darts.md
-- catalogue/lacrosse.md
-- catalogue/ringette.md
-- catalogue/hockey.md
-- catalogue/jerseys.md
+- products/curling.md
+- products/bowling.md
+- products/darts.md
+- products/lacrosse.md
+- products/ringette.md
+- products/hockey.md
+- products/jerseys.md
 title: Projoy
 logo: "/projoy-logo.png"
 website: ''

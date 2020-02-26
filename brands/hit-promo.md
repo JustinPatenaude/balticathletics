@@ -2,20 +2,20 @@
 layout: brand
 permalink: "/brands/hit-promo/"
 categories:
-- catalogue/pens.md
-- catalogue/auto.md
-- catalogue/bags.md
-- catalogue/custom-mats.md
-- catalogue/drinkware.md
-- catalogue/eyewear.md
-- catalogue/food-gifts.md
-- catalogue/home.md
-- catalogue/notebooks.md
-- catalogue/plush-novelties.md
-- catalogue/table-covers.md
-- catalogue/tech-items.md
-- catalogue/tools-lights-keytags.md
-- catalogue/umbrellas.md
+- products/pens.md
+- products/auto.md
+- products/bags.md
+- products/custom-mats.md
+- products/drinkware.md
+- products/eyewear.md
+- products/food-gifts.md
+- products/home.md
+- products/notebooks.md
+- products/plush-novelties.md
+- products/table-covers.md
+- products/tech-items.md
+- products/tools-lights-keytags.md
+- products/umbrellas.md
 title: HIT Promo
 logo: "/hit-logo.png"
 website: https://www.hitpromo.net/

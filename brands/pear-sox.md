@@ -2,11 +2,11 @@
 layout: brand
 permalink: "/brands/pear-sox/"
 categories:
-- catalogue/baseball.md
-- catalogue/basketball.md
-- catalogue/football.md
-- catalogue/hockey.md
-- catalogue/soccer.md
+- products/baseball.md
+- products/basketball.md
+- products/football.md
+- products/hockey.md
+- products/soccer.md
 title: Pear Sox
 logo: "/pearsox-logo.jpg"
 website: https://www.pearsox.com/

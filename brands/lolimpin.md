@@ -2,16 +2,16 @@
 layout: brand
 permalink: "/brands/lolimpin/"
 categories:
-- catalogue/custom-mats.md
-- catalogue/dividers.md
-- catalogue/seating.md
-- catalogue/soccer.md
-- catalogue/volleyball.md
-- catalogue/futsal.md
-- catalogue/football.md
-- catalogue/boxing.md
-- catalogue/basketball.md
-- catalogue/badminton.md
+- products/custom-mats.md
+- products/dividers.md
+- products/seating.md
+- products/soccer.md
+- products/volleyball.md
+- products/futsal.md
+- products/football.md
+- products/boxing.md
+- products/basketball.md
+- products/badminton.md
 title: Lolimpin
 logo: "/lolimpin-logo.png"
 website: ''

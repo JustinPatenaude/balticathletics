@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/cramer-sports-medicine/"
 categories:
-- catalogue/trainer-supplies.md
+- products/trainer-supplies.md
 title: Cramer Sports Medicine
 logo: "/cramer-sports-logo.jpg"
 website: https://www.cramersportsmed.com/

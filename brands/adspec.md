@@ -2,13 +2,13 @@
 layout: brand
 permalink: "/brands/adspec/"
 categories:
-- catalogue/banners.md
-- catalogue/canopies.md
-- catalogue/misc.md
-- catalogue/table-covers.md
-- catalogue/track-field.md
-- catalogue/umbrellas.md
-- catalogue/wind-flags.md
+- products/banners.md
+- products/canopies.md
+- products/misc.md
+- products/table-covers.md
+- products/track-field.md
+- products/umbrellas.md
+- products/wind-flags.md
 title: Adspec
 logo: "/adspec-logo.png"
 website: http://adspecimages.com/

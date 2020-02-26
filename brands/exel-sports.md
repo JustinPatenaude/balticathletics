@@ -2,8 +2,8 @@
 layout: brand
 permalink: "/brands/exel-sports/"
 categories:
-- catalogue/floor-hockey.md
-- catalogue/hockey.md
+- products/floor-hockey.md
+- products/hockey.md
 title: Exel Sports
 logo: "/exel-sports-logo.jpg"
 website: http://www.exelsports.com/

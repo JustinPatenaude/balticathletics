@@ -2,19 +2,19 @@
 layout: brand
 permalink: "/brands/martini-promotions/"
 categories:
-- catalogue/apparel.md
-- catalogue/auto.md
-- catalogue/bags.md
-- catalogue/blankets.md
-- catalogue/eyewear.md
-- catalogue/home.md
-- catalogue/lanyards.md
-- catalogue/plush-novelties.md
-- catalogue/pets.md
-- catalogue/tech-items.md
-- catalogue/tissues.md
-- catalogue/towels.md
-- catalogue/travel.md
+- products/apparel.md
+- products/auto.md
+- products/bags.md
+- products/blankets.md
+- products/eyewear.md
+- products/home.md
+- products/lanyards.md
+- products/plush-novelties.md
+- products/pets.md
+- products/tech-items.md
+- products/tissues.md
+- products/towels.md
+- products/travel.md
 title: Martini Promotions
 logo: "/martini-logo.png"
 website: https://www.martinivispak.com/en_ca

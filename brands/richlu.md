@@ -2,10 +2,10 @@
 layout: brand
 permalink: "/brands/richlu/"
 categories:
-- catalogue/jackets.md
-- catalogue/shirts.md
-- catalogue/safety.md
-- catalogue/workwear.md
+- products/jackets.md
+- products/shirts.md
+- products/safety.md
+- products/workwear.md
 title: Richlu
 logo: "/richlu-logo.png"
 website: ''

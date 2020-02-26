@@ -2,10 +2,10 @@
 layout: brand
 permalink: "/brands/russell-athletic/"
 categories:
-- catalogue/football.md
-- catalogue/jerseys.md
-- catalogue/shirts.md
-- catalogue/pants.md
+- products/football.md
+- products/jerseys.md
+- products/shirts.md
+- products/pants.md
 title: Russell Athletic
 logo: "/russell-logo.png"
 website: https://www.russellathletic.com/

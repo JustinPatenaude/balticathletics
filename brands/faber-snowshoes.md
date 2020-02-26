@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/faber/"
 categories:
-- catalogue/snowshoes.md
+- products/snowshoes.md
 title: Faber
 logo: "/faber-logo.png"
 website: https://www.fabersnowshoes.com/

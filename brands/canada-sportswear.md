@@ -2,12 +2,12 @@
 layout: brand
 permalink: "/brands/canada-sportswear/"
 categories:
-- catalogue/track-suits.md
-- catalogue/hoodies.md
-- catalogue/workwear.md
-- catalogue/sweaters.md
-- catalogue/shirts.md
-- catalogue/jackets.md
+- products/track-suits.md
+- products/hoodies.md
+- products/workwear.md
+- products/sweaters.md
+- products/shirts.md
+- products/jackets.md
 title: Canada Sportswear
 logo: "/canada-sportswear-logo.png"
 website: http://www.canadasportswear.com/

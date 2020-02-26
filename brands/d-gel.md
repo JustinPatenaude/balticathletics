@@ -2,9 +2,9 @@
 layout: brand
 permalink: "/brands/d-gel/"
 categories:
-- catalogue/floor-hockey.md
-- catalogue/hockey.md
-- catalogue/ringette.md
+- products/floor-hockey.md
+- products/hockey.md
+- products/ringette.md
 title: D-GEL
 logo: "/d-gel-logo.png"
 website: http://www.d-gel.com/

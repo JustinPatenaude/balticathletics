@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/pukka/"
 categories:
-- catalogue/hats.md
+- products/hats.md
 title: Pukka
 logo: "/pukka-logo.jpg"
 website: https://www.pukkainc.com/

@@ -2,12 +2,12 @@
 layout: brand
 permalink: "/brands/alphabroder/"
 categories:
-- catalogue/sweaters.md
-- catalogue/jackets.md
-- catalogue/jerseys.md
-- catalogue/pants.md
-- catalogue/shirts.md
-- catalogue/shorts.md
+- products/sweaters.md
+- products/jackets.md
+- products/jerseys.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
 title: Alphabroder
 logo: "/alphabroder-logo.jpg"
 website: https://www.alphabroder.ca/

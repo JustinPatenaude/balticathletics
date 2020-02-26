@@ -2,8 +2,8 @@
 layout: brand
 permalink: "/brands/edgewood/"
 categories:
-- catalogue/misc.md
-- catalogue/wall-pads.md
+- products/misc.md
+- products/wall-pads.md
 title: Edgewood
 logo: "/edgewood-logo.png"
 website: http://edgewoodgroup.ca/

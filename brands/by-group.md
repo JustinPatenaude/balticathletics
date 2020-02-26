@@ -2,9 +2,9 @@
 layout: brand
 permalink: "/brands/by-group/"
 categories:
-- catalogue/boxing.md
-- catalogue/games.md
-- catalogue/table-tennis.md
+- products/boxing.md
+- products/games.md
+- products/table-tennis.md
 title: BY Group
 logo: "/by-group-logo.png"
 website: ''

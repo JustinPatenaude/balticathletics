@@ -2,8 +2,8 @@
 layout: brand
 permalink: "/brands/dom-sports/"
 categories:
-- catalogue/floor-hockey.md
-- catalogue/nets.md
+- products/floor-hockey.md
+- products/nets.md
 title: Dom Sports
 logo: "/dom-sports-logo.jpg"
 website: http://www.domsports.com/

@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/bauer/"
 categories:
-- catalogue/floor-hockey.md
+- products/floor-hockey.md
 title: Bauer
 logo: "/bauer-logo.png"
 website: ''

@@ -2,12 +2,12 @@
 layout: brand
 permalink: "/brands/brandwear/"
 categories:
-- catalogue/bags.md
-- catalogue/hats.md
-- catalogue/jackets.md
-- catalogue/pants.md
-- catalogue/shirts.md
-- catalogue/shorts.md
+- products/bags.md
+- products/hats.md
+- products/jackets.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
 title: Brandwear
 logo: "/brandwear-logo.png"
 website: http://www.brandwear.ca/

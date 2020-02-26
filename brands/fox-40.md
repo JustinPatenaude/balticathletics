@@ -2,12 +2,12 @@
 layout: brand
 permalink: "/brands/fox-40/"
 categories:
-- catalogue/first-aid.md
-- catalogue/marine-suppliers.md
-- catalogue/misc.md
-- catalogue/officials-equipment.md
-- catalogue/safety.md
-- catalogue/trainer-supplies.md
+- products/first-aid.md
+- products/marine-suppliers.md
+- products/misc.md
+- products/officials-equipment.md
+- products/safety.md
+- products/trainer-supplies.md
 title: Fox 40
 logo: "/fox40-logo.png"
 website: http://www.fox40world.com/

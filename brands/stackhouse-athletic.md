@@ -2,11 +2,11 @@
 layout: brand
 permalink: "/brands/stackhouse-athletic/"
 categories:
-- catalogue/baseball.md
-- catalogue/football.md
-- catalogue/soccer.md
-- catalogue/track-field.md
-- catalogue/volleyball.md
+- products/baseball.md
+- products/football.md
+- products/soccer.md
+- products/track-field.md
+- products/volleyball.md
 title: Stackhouse Athletic
 logo: "/stackhouse-logo.png"
 website: ''

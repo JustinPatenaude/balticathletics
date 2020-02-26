@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/stahls/"
 categories:
-- catalogue/helmet-decals.md
+- products/helmet-decals.md
 title: Stahls
 logo: "/stahls-logo.png"
 website: ''

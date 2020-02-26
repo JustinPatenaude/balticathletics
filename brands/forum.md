@@ -2,13 +2,13 @@
 layout: brand
 permalink: "/brands/forum/"
 categories:
-- catalogue/basketball.md
-- catalogue/dividers.md
-- catalogue/nets.md
-- catalogue/posts.md
-- catalogue/soccer.md
-- catalogue/volleyball.md
-- catalogue/wall-pads.md
+- products/basketball.md
+- products/dividers.md
+- products/nets.md
+- products/posts.md
+- products/soccer.md
+- products/volleyball.md
+- products/wall-pads.md
 title: Forum
 logo: "/forum-logo.png"
 website: http://www.forumathletic.ca/

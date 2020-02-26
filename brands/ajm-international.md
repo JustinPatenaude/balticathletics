@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/ajm-international/"
 categories:
-- catalogue/hats.md
+- products/hats.md
 title: AJM International
 logo: "/ajm-international-logo.jpg"
 website: http://ajmintl.com/

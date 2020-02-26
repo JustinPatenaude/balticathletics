@@ -2,14 +2,14 @@
 layout: brand
 permalink: "/brands/kobe-sportswear/"
 categories:
-- catalogue/basketball.md
-- catalogue/baseball.md
-- catalogue/hockey.md
-- catalogue/jackets.md
-- catalogue/jerseys.md
-- catalogue/pants.md
-- catalogue/shirts.md
-- catalogue/shorts.md
+- products/basketball.md
+- products/baseball.md
+- products/hockey.md
+- products/jackets.md
+- products/jerseys.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
 title: Kobe Sportswear
 logo: "/kobe-logo.jpg"
 website: http://kobesportswear.com/

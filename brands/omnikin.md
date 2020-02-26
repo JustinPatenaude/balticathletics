@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/omnikin/"
 categories:
-- catalogue/misc.md
+- products/misc.md
 title: Omnikin
 logo: "/omnikin-logo.png"
 website: ''
