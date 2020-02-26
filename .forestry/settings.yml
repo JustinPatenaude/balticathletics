@@ -19,8 +19,8 @@ sections:
   templates:
   - brand
 - type: directory
-  path: catalogue
-  label: Categories
+  path: products
+  label: Products
   create: documents
   match: "**/*"
   exclude: "**/index.md"
