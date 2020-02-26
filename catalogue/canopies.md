@@ -4,6 +4,8 @@ permalink: "/catalogue/canopies/"
 title: Canopies
 products: []
 photos:
+- title: Adspec - 10x20 black canopy
+  photo: "/TS20-I0BK.jpg"
 - title: Adspec - 10x10 Royal canopy - 1 imprint location
   photo: "/TS10-I1RB-800x800.jpg"
 - title: Adspec - 10x10 sublimation canopy
