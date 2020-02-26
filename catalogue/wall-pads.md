@@ -9,7 +9,7 @@ products:
 - Permanent Pads
 photos:
 - title: Floater Mat 2
-  photo: ''
+  photo: "/Floater Mat 02.png"
 - title: Floater Mats
   photo: "/Floater Mat 01.png"
 suppliers: []
