@@ -38,5 +38,6 @@ date: '2019-03-29T22:13:46.000+00:00'
 catalogues:
 - title: 360 Athletics Catalogue
   year: 2020
+  pdf: "/2020 360 Athletics Catalogue.pdf"
 
 ---
