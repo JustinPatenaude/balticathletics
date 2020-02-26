@@ -7,7 +7,9 @@ products:
 - Customized Pads
 - Removable Pads
 - Permanent Pads
-photos: []
+photos:
+- title: Floater Mats
+  photo: "/Floater Mat 01.png"
 suppliers: []
 date: '2019-03-29T23:08:48.000+00:00'
 
