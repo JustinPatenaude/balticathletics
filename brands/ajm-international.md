@@ -13,10 +13,7 @@ info: ''
 date: '2019-03-29T22:15:52.000+00:00'
 catalogues:
 - title: 2020 AJM Catalogue
-  pdf: "/ajm-2018.pdf"
+  pdf: ''
   year: 2020
-- title: AJM Baseball
-  pdf: "/ajm-baseball-2018.pdf"
-  year: 2018
 
 ---
