@@ -3,6 +3,12 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Spalding 73-3038C NBA For Her Basketball - Size 28.5
+  image: "/733038C Spalding NBA For Her BB size 6.jpg"
+  price: 12
+  description: |-
+    rubber
+    - 12 available
 - title: Spalding 72-6548C Advance Pro Composite Football
   image: "/726548C Advance Pro Spalding FB.jpg"
   price: 30
