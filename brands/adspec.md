@@ -24,6 +24,8 @@ catalogues:
   year: 2020
   pdf: "/Canopy Colours 10x10.png"
 photos:
+- title: 10x10 colours available
+  photo: "/Canopy Colours 10x10.png"
 - title: Championship Banners
   photo: "/banners.jpg"
 - photo: "/10x10.jpg"
