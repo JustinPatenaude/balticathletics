@@ -30,7 +30,7 @@ catalogues:
 photos:
 - title: 10x10 Sublimation TS10-DS
   photo: "/sublimation.jpg"
-- title: 10x10 Royal canopy
+- title: 10x10 Royal canopy TS10-I1
   photo: "/TS10-I1RB-800x800.jpg"
 - photo: "/10x10.jpg"
   title: Adspec 10x10 red - 1 imprint location
