@@ -40,6 +40,8 @@ catalogues:
   year: 2020
   pdf: "/2020 360 Athletics Catalogue.pdf"
 photos:
+- title: All types of cones
+  photo: "/c12 cone 360.jpg"
 - title: Rebounder sets
   photo: "/Rebounder_Set.jpg"
 - title: Ultraskin Balls are fabulous! Value & Quality!
