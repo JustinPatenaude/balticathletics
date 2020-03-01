@@ -33,7 +33,7 @@ photos:
 - title: Adspec 10x10 Royal TS10-I1 - 1 imprint location
   photo: "/TS10-I1RB-800x800.jpg"
 - photo: "/10x10.jpg"
-  title: Adspec 10x10 red TS10-I1 - 1 imprint location
+  title: Adspec 10x10 Red TS10-I1 - 1 imprint location
 - title: 10x10 colours available
   photo: "/Canopy Colours 10x10.png"
 - title: Championship Banners
