@@ -40,6 +40,8 @@ catalogues:
   year: 2020
   pdf: "/2020 360 Athletics Catalogue.pdf"
 photos:
+- title: Rebounder sets
+  photo: "/Rebounder_Set.jpg"
 - title: Ultraskin Balls are fabulous! Value & Quality!
   photo: "/ultraskin dodgeballs.jpg"
 
