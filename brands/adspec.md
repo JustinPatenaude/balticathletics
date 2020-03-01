@@ -20,10 +20,9 @@ catalogues:
 - title: Adspec Catalogue
   pdf: "/adspec-2018.pdf"
   year: 2018
-- title: 10x10 Canopy colours offered
-  year: 2020
-  pdf: "/Canopy Colours 10x10.png"
 photos:
+- title: 10x10 Sublimation
+  photo: "/sublimation.jpg"
 - title: 10x10 colours available
   photo: "/Canopy Colours 10x10.png"
 - title: Championship Banners
