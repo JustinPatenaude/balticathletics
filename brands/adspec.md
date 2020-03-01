@@ -23,5 +23,10 @@ catalogues:
 - title: 10x10 Canopy colours offered
   year: 2020
   pdf: "/Canopy Colours 10x10.png"
+photos:
+- title: Championship Banners
+  photo: "/banners.jpg"
+- photo: "/10x10.jpg"
+  title: Adspec 10x10 red - 1 imprint location
 
 ---
