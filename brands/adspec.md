@@ -28,7 +28,7 @@ catalogues:
   pdf: "/adspec-2018.pdf"
   year: 2018
 photos:
-- title: 10x10 Sublimation TS10-DS
+- title: Adspec 10x10 TS10-DS - Sublimation
   photo: "/sublimation.jpg"
 - title: Adspec 10x10 royal TS10-I1 - 1 imprint location
   photo: "/TS10-I1RB-800x800.jpg"
