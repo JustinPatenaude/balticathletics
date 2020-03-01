@@ -34,7 +34,7 @@ photos:
   photo: "/TS10-I1RB-800x800.jpg"
 - photo: "/10x10.jpg"
   title: Adspec 10x10 Red TS10-I1 - 1 imprint location
-- title: 10x10 colours available
+- title: Adspec 10x10 Deluxe tent canopy colours available
   photo: "/Canopy Colours 10x10.png"
 - title: Championship Banners
   photo: "/banners.jpg"
