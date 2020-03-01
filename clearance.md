@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Spalding 710708C Rookie Basketball - 27.5
+  image: "/710708C Spalding Rookie BB 27.5.jpg"
+  price: 12.0
+  description: Armadillo graphics rubber ball (25% lighter weight)
 - title: Spalding 642478C NBA Outdoor Jr Basketball - 28.5
   image: "/642478C Spalding NBA Outdoor Jr BB 28.5.jpg"
   price: 12.0
