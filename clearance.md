@@ -9,7 +9,7 @@ products:
   description: |-
     Composite varsity size 9 football
     - 11 available
-- title: Spalding 710708C Rookie Basketball - size 27.5
+- title: Spalding 71-0708C Rookie Basketball - size 27.5
   image: "/710708C Spalding Rookie BB 27.5.jpg"
   price: 12
   description: |-
