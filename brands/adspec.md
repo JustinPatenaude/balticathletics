@@ -21,13 +21,15 @@ catalogues:
   pdf: "/adspec-2018.pdf"
   year: 2018
 photos:
+- title: 10x10 Royal canopy
+  photo: "/TS10-I1RB-800x800.jpg"
 - title: 10x10 Sublimation
   photo: "/sublimation.jpg"
+- photo: "/10x10.jpg"
+  title: Adspec 10x10 red - 1 imprint location
 - title: 10x10 colours available
   photo: "/Canopy Colours 10x10.png"
 - title: Championship Banners
   photo: "/banners.jpg"
-- photo: "/10x10.jpg"
-  title: Adspec 10x10 red - 1 imprint location
 
 ---
