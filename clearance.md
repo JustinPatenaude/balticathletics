@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: 880200 Diadora Aluminum Water Bottle
+  image: "/880200 Diadora Alum water bottle.jpg"
+  price: 
+  description: 11 available
 - title: Spalding 73-3038C NBA For Her Basketball - Size 28.5
   image: "/733038C Spalding NBA For Her BB size 6.jpg"
   price: 12
