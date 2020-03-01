@@ -3,6 +3,12 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Spalding 72-6548C Advance Pro Composite Football
+  image: "/726548C Advance Pro Spalding FB.jpg"
+  price: 30
+  description: |-
+    Advance Pro Soft Tack Varsity Size 9 Composite Football
+    - 14 available
 - title: Spalding 72-6218C TF-COMP Football
   image: "/726218C TF-COMP Spalding FB.jpg"
   price: 30
