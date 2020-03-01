@@ -42,6 +42,7 @@ catalogues:
   pdf: "/2020 360 Athletics Catalogue.pdf"
 photos:
 - photo: "/MONSTER_BALL_CART_-_BC80.jpg"
+  title: BC80 Ball Cart
 - title: Ultraskin Balls are fabulous! Value & Quality!
   photo: "/ultraskin dodgeballs.jpg"
 - title: All types of cones
