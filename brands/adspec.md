@@ -14,7 +14,14 @@ logo: "/adspec-logo.png"
 website: http://adspecimages.com/
 pdfs:
 - "/adspec-2018.pdf"
-info: Great supplier for outdoor tent canopies often used for track & field.
+info: |-
+  Great supplier for outdoor tent canopies often used for track & field.
+
+  Peak Imprint: 50" x 17"
+
+  Valance Imprint: 60" x 8"
+
+  If you want a larger logo or all over branding/decorating then sublimation is the way to go!
 date: '2019-03-29T22:15:29.000+00:00'
 catalogues:
 - title: Adspec Catalogue
