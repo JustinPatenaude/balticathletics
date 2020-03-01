@@ -33,11 +33,14 @@ categories:
 title: 360 Athletics
 logo: "/360-athletics-logo.jpg"
 website: https://www.360athletics.com/
-info: ''
+info: A good supplier for phys-ed general equipment - balls, hoops, ropes etc
 date: '2019-03-29T22:13:46.000+00:00'
 catalogues:
 - title: 360 Athletics Catalogue
   year: 2020
   pdf: "/2020 360 Athletics Catalogue.pdf"
+photos:
+- title: Ultraskin Balls are fabulous! Value & Quality!
+  photo: "/ultraskin dodgeballs.jpg"
 
 ---
