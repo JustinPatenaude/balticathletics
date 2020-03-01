@@ -30,7 +30,7 @@ catalogues:
 photos:
 - title: Adspec 10x10 TS10-DS - Sublimation
   photo: "/sublimation.jpg"
-- title: Adspec 10x10 royal TS10-I1 - 1 imprint location
+- title: Adspec 10x10 Royal TS10-I1 - 1 imprint location
   photo: "/TS10-I1RB-800x800.jpg"
 - photo: "/10x10.jpg"
   title: Adspec 10x10 red TS10-I1 - 1 imprint location
