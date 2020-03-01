@@ -9,9 +9,9 @@ products:
   description: |-
     Armadillo graphics rubber ball (25% lighter weight)
     20 available
-- title: Spalding 642478C NBA Outdoor Jr Basketball - 28.5
+- title: Spalding 642478C NBA Outdoor Jr Basketball - size 28.5
   image: "/642478C Spalding NBA Outdoor Jr BB 28.5.jpg"
-  price: 12.0
+  price: 12
   description: rubber
 - image: "/234DBMK Russell baseball pants.jpg"
   price: 20
