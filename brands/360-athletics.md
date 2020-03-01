@@ -43,6 +43,8 @@ catalogues:
   year: 2020
   pdf: "/2020 360 Athletics Catalogue.pdf"
 photos:
+- title: Adult Scrimmage Vests - many colours and sizes available
+  photo: "/P98BES_-_Blue_Scrimmage_Vest15264947495afc761ded632.jpg"
 - title: Ultraskin Balls are fabulous! Value & Quality!
   photo: "/ultraskin dodgeballs.jpg"
 - title: All types of cones
