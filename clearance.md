@@ -3,6 +3,21 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Spalding 3" Aluminum Slide Multi-Sport System
+  image: "/spalding system.png"
+  price: 2950
+  description: |-
+    Lightweight and easy to set up
+    Height strength upright made of 3" (76mm) O.D. extruded aluminum
+    Navy blue powder coated upright with silver powder coated sliders
+    Easy adjustment regardless of competitive height
+    Use at all levels of volleyball, tennis and badminton
+    Requires 3" floor sleeves - sold separately
+
+    SS110 One-Court Slide Multi-Sport System, includes:
+    - Slide Multi-Sport Upright Package
+    - Kevlar Net, Antennas, Pockets
+    - Upright End Pads - Pair (RED)
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
