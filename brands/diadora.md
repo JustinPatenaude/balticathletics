@@ -15,10 +15,10 @@ catalogues:
   pdf: "/diadora-soccer-spring-2016.pdf"
   year: 2016
 photos:
-- title: Bags
-  photo: "/888330---MEDIUM-TEAM-BAG---green.jpg"
-- title: Warm ups suits
-  photo: "/886350-Conquer-Elite-Jacket-343402-Dark-Navy.png"
+- title: Ball
+  photo: "/158846 - PERFORMANCE - FIFA APPROVED.jpg"
+- photo: "/158848---EUROPA-SOFT-TOUCH-BALL-C4686.jpg"
+  title: Diadora ball
 - title: Jerseys
   photo: "/883300-DOMINATE-JERSEY-040200-royal-white.jpg"
 - photo: "/885020-GAMMA-SOCK-030200-Red-White.jpg"
@@ -27,7 +27,9 @@ photos:
   photo: "/883355 - BLOCK GK JERSEY.jpg"
 - title: Goal gloves
   photo: "/158860-GK-EURO-C4686-fluo-yellow--pair-PHOTO.jpg"
-- photo: "/158848---EUROPA-SOFT-TOUCH-BALL-C4686.jpg"
-  title: Diadora ball
+- title: Warm ups suits
+  photo: "/886350-Conquer-Elite-Jacket-343402-Dark-Navy.png"
+- title: Bags
+  photo: "/888330---MEDIUM-TEAM-BAG---green.jpg"
 
 ---
