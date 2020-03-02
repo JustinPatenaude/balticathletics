@@ -3,17 +3,6 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Admiral Pro Soccer Socks
-  image: "/admiral gold soccer sock.jpg"
-  price: 8
-  description: |-
-    Adult size 10-13
-    High quality sock, padded foot, ribbed articulated ankle, arch support
-    14 pairs available
-- title: Dunlop 762034 Pro Racquetball Balls (3 pk)
-  image: "/dunlop-pro-racketball-ball-3-pack-box-3.jpg"
-  price: 0
-  description: ''
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
@@ -47,6 +36,13 @@ products:
   image: "/TELSTAR 18 Adidas World Cup SB.jpg"
   price: 
   description: ''
+- title: Admiral Pro Soccer Socks
+  image: "/admiral gold soccer sock.jpg"
+  price: 8
+  description: |-
+    Adult size 10-13
+    High quality sock, padded foot, ribbed articulated ankle, arch support
+    14 pairs available
 - title: Badminton Centre Posts LO-B733
   image: "/LO-Bad Center.jpg"
   price: 57
@@ -80,6 +76,10 @@ products:
   image: "/880200 Diadora Alum water bottle.jpg"
   price: 
   description: 11 available
+- title: Dunlop 762034 Pro Racquetball Balls (3 pk)
+  image: "/dunlop-pro-racketball-ball-3-pack-box-3.jpg"
+  price: 0
+  description: ''
 - title: Full Size Double First Base M155 w/spikes
   image: "/M155_double-base.png"
   price: 0
