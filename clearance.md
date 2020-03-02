@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Adidas Telstar 18 World Cup Soccer Ball
+  image: "/TELSTAR 18 Adidas World Cup SB.jpg"
+  price: 
+  description: ''
 - title: Adams Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 3
