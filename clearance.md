@@ -3,15 +3,6 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Deluxe Outdoor Ball Locker BC44
-  image: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
-  price: 
-  description: |-
-    -This powder coated all-steel construction ball locker has lockable hinge cover
-    -Holds up to 24 basketballs, soccer balls or Playground balls
-    - Large wheels for indoor and outdoor use
-    - Size: 42” L x 24” W x 36” H
-    - MRSP $517.99
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
@@ -81,6 +72,15 @@ products:
     • Computer calibrated unwind for consistency and performance roll to roll
     • Non-Latex adhesive
     • A high-quality porous, 100% cotton tape at an affordable price
+- title: Deluxe Outdoor Ball Locker BC44
+  image: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
+  price: 
+  description: |-
+    -This powder coated all-steel construction ball locker has lockable hinge cover
+    -Holds up to 24 basketballs, soccer balls or Playground balls
+    - Large wheels for indoor and outdoor use
+    - Size: 42” L x 24” W x 36” H
+    - MRSP $517.99
 - title: Diadora 880200 Aluminum Water Bottle
   image: "/880200 Diadora Alum water bottle.jpg"
   price: 
