@@ -3,6 +3,11 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Adams Flag Football Belt w/flags
+  image: "/AFFB Adams Flag Football belt.flags.jpg"
+  price: 3
+  description: Flag football web belt (metal D-rings) with flags (red, blue, green,
+    yellow)
 - title: Puma Arsenal Soccer Ball - Size 5
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 
