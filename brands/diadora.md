@@ -15,6 +15,8 @@ catalogues:
   pdf: "/diadora-soccer-spring-2016.pdf"
   year: 2016
 photos:
+- title: Bags
+  photo: "/888330---MEDIUM-TEAM-BAG---green.jpg"
 - title: Warm ups suits
   photo: "/886350-Conquer-Elite-Jacket-343402-Dark-Navy.png"
 - title: Jerseys
