@@ -3,10 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Nike Pitch Training Ball - Size 5
-  image: "/Nike Training SB size 5.jpg"
-  price: 0
-  description: 40 available
+- title: Nike Pitch Game Soccer Ball - Size 5
+  image: "/PITCH Nike SB size 5.jpg"
+  price: 
+  description: Only 1 available
 - title: Adams Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 3
@@ -29,6 +29,10 @@ products:
   image: "/880200 Diadora Alum water bottle.jpg"
   price: 
   description: 11 available
+- title: Nike Pitch Training Ball - Size 5
+  image: "/Nike Training SB size 5.jpg"
+  price: 0
+  description: 40 available
 - title: Puma Arsenal Soccer Ball - Size 5
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 
