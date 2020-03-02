@@ -3,12 +3,6 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Referee Pinnie SKP67A
-  image: "/SKP67_-_Referee_Pinnie.jpg"
-  price: 4
-  description: |-
-    - This water resistant nylon pinnie has elastic stretch webbing on one side and velcro on the other.
-    - 10 available
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
@@ -119,6 +113,12 @@ products:
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 
   description: Only 1 available
+- title: Referee Pinnie SKP67A
+  image: "/SKP67_-_Referee_Pinnie.jpg"
+  price: 4
+  description: |-
+    - This water resistant nylon pinnie has elastic stretch webbing on one side and velcro on the other.
+    - 10 available
 - image: "/234DBMK Russell baseball pants.jpg"
   price: 20
   description: Full length, straight hem, double knees, welt pockets, tunnel belt
