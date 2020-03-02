@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 48"
+  image: "/CosomPowerShaftHockeyStick.jpg"
+  price: 13
+  description: ''
 - title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
   image: "/CosomPowerShaftHockeyStick 42.jpg"
   price: 9.5
