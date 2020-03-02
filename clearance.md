@@ -16,7 +16,7 @@ products:
 - title: Adidas Pink/Blue Soccer Ball - Size 5
   image: "/Adidas game ball size 5.jpg"
   price: 
-  description: ''
+  description: 12 available
 - title: Adidas European Club Soccer Ball - Size 5
   image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
   price: 0
