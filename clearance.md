@@ -6,7 +6,9 @@ products:
 - title: Traditions 209 Starting Pistol Blanks
   image: "/209 primer blanks.jpg"
   price: 12
-  description: 100/box
+  description: |-
+    100 blanks per box
+    To be used with Traditions 209 starting pistol
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 235
