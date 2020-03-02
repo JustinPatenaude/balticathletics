@@ -72,7 +72,7 @@ products:
 - title: Monster Ball Cart BC80
   image: "/MONSTER_BALL_CART_-_BC80.jpg"
   price: 199
-  description: ''
+  description: 2 available
 - title: Nike Pitch Game Soccer Ball - Size 5
   image: "/PITCH Nike SB size 5.jpg"
   price: 
