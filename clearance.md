@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Scooter 16x16 square w/handles
+  image: "/cosom 16x16 deluxe scooter.jpeg"
+  price: 22
+  description: ''
 - title: Scooter wheels
   image: "/upgraded scooter wheels.jpg"
   price: 12
