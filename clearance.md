@@ -3,6 +3,13 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Scooter wheels
+  image: "/upgraded scooter wheels.jpg"
+  price: 12
+  description: |-
+    Rollarblade ballbearing scooter wheels
+    Sets of 4 wheels
+    - 4 sets available
 - title: Scooter 16x16 rounded w/handles
   image: ''
   price: 22
