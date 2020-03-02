@@ -3,6 +3,13 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Admiral Pro Soccer Socks
+  image: "/admiral gold soccer sock.jpg"
+  price: 8
+  description: |-
+    Adult size 10-13
+    High quality sock, padded foot, ribbed articulated ankle, arch support
+    14 pairs available
 - title: Dunlop 762034 Pro Racquetball Balls (3 pk)
   image: "/dunlop-pro-racketball-ball-3-pack-box-3.jpg"
   price: 0
