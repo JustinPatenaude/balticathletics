@@ -29,9 +29,9 @@ team-members:
   photo: "/chloe.jpg"
 - name: Mikayla Patenaude
   bio: |-
-    Mikayla has many roles in this company but her main one is being head of the art department. She also manages clothing orders, assists Corina in the Team Order Management department, and helps respond to Baltic emails.
+    Mikayla has many roles in the company but the one she enjoys the most is handling the art department. She also manages clothing orders, assists Corina in the Team Order Management department, and helps respond to Baltic emails.
 
-    Mikayla is married to Justin, who is a web designer, and they have a young daughter, Lexie. Outside of work, Mikayla is a part-time interior design student. She also likes to play piano and guitar, and is always practicing photography.
+    Mikayla is married to Justin, who is a web designer, and they have two young children, Lexie & Aiden. Outside of work, Mikayla holds an interior design certificate. She also likes to play piano and guitar, and is always practicing photography.
   photo: "/mikayla.jpg"
 - name: Corina Ruus
   bio: |-
