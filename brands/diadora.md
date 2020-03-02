@@ -15,6 +15,9 @@ catalogues:
   pdf: "/diadora-soccer-spring-2016.pdf"
   year: 2016
 photos:
+- title: Jerseys
+  photo: "/883300-DOMINATE-JERSEY-040200-royal-white.jpg"
+- {}
 - title: Keeper Jerseys
   photo: "/883355 - BLOCK GK JERSEY.jpg"
 - title: Goal gloves
