@@ -36,7 +36,7 @@ products:
 - title: Puma Arsenal Soccer Ball - Size 5
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 
-  description: ''
+  description: Only 1 available
 - image: "/234DBMK Russell baseball pants.jpg"
   price: 20
   description: Full length, straight hem, double knees, welt pockets, tunnel belt
