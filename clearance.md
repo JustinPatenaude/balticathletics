@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: 22 Caliber 6mm Acorn Starting Blanks
+  image: "/22 Cal blanks.jpg"
+  price: 30
+  description: 100 blanks per container
 - title: Traditions 209 Starting Pistol Blanks
   image: "/209 primer blanks.jpg"
   price: 12
