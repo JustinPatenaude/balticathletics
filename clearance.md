@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Dunlop 762034 Pro Racquetball Balls (3 pk)
+  image: "/dunlop-pro-racketball-ball-3-pack-box-3.jpg"
+  price: 0
+  description: ''
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
