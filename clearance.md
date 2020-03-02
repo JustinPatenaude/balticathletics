@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Adidas Krasava Soccer Ball - Size 5
+  image: "/KRASAVA Adidas SB size 5.jpg"
+  price: 
+  description: 1 available
 - title: Adams Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 3
