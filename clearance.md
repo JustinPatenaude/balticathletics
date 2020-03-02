@@ -12,6 +12,7 @@ products:
   price: 235
   description: |-
     uses 209 primers (100/box $12)
+    * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
     - 20 pistols available
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
