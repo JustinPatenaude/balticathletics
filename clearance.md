@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Traditions 209 Starting Pistol Blanks
+  image: "/209 primer blanks.jpg"
+  price: 12
+  description: 100/box
 - title: Traditions 209 Starting Pistol
   image: "/Olympic starting pistol 209 shotgun primer.JPG"
   price: 235
