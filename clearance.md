@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Puma Arsenal Soccer Ball - Size 5
+  image: "/ARSENAL Puma SB size 5.jpg"
+  price: 
+  description: ''
 - title: Adidas Pink/Blue Soccer Ball - Size 5
   image: "/Adidas game ball size 5.jpg"
   price: 
