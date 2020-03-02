@@ -3,12 +3,12 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Table Tennis Paddle Kit TT2P
-  image: "/TT2P Table Tennis Paddle Kit.jpg"
-  price: 14
+- title: Table Tennis Set TT3S
+  image: "/TT3S Table Tennis set.jpg"
+  price: 22
   description: |-
-    Set of 2 paddles with balls and carrying bag
-    - 20 sets available
+    2 player set with paddles, balls, net and clamps
+    - 8 available
 - title: Adams Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 3
@@ -82,6 +82,12 @@ products:
   description: |-
     rubber
     - 14 available
+- title: Table Tennis Paddle Kit TT2P
+  image: "/TT2P Table Tennis Paddle Kit.jpg"
+  price: 14
+  description: |-
+    Set of 2 paddles with balls and carrying bag
+    - 20 sets available
 - title: Track & Field Measuring Tape MT100 - 30 metres
   image: "/MT100 FT measuring tape.jpg"
   price: 10
