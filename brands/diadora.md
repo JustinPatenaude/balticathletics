@@ -15,6 +15,8 @@ catalogues:
   pdf: "/diadora-soccer-spring-2016.pdf"
   year: 2016
 photos:
+- title: Keeper Jerseys
+  photo: "/883355 - BLOCK GK JERSEY.jpg"
 - title: Goal gloves
   photo: "/158860-GK-EURO-C4686-fluo-yellow--pair-PHOTO.jpg"
 - photo: "/158848---EUROPA-SOFT-TOUCH-BALL-C4686.jpg"
