@@ -14,7 +14,7 @@ products:
     with shaft 80cm flex 32mm\n* A90 model weight 240g,  with shaft  90cm Flex 28mm
     is suggested for player’s height from 5’1” to 5’8”\n* A100 model weight 260g,
     \ with shaft 100cm Flex 26mm is suggested for player’s height 5’8” and above"
-- title: Adams Flag Football Belt w/flags
+- title: Adams AFFB Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 3
   description: |-
@@ -54,6 +54,19 @@ products:
   image: "/bean bags.jpg"
   price: 1.75
   description: assorted colours
+- title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
+  image: "/w1B3205-1BasicTrainingBall.jpg"
+  price: 19
+  description: |-
+    - A great ball for training and at home practice and comes in multiple sizes for different age groups.
+    - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
+    - 32 panel
+    - High gloss finish
+
+    Ball Size: Age
+    3 : 8 and Under
+    4 : 8-12
+    5 : 13 and Up
 - title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
   image: "/CosomPowerShaftHockeyStick 42.jpg"
   price: 9.5
