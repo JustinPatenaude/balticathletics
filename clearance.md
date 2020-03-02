@@ -3,6 +3,16 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Scooter 16x16 rounded w/handles
+  image: ''
+  price: 22
+  description: |-
+    assorted colours
+    - 11 available
+- title: Scooter 12x12, w/handles
+  image: "/cosom 12x12 deluxe scooter.jpeg"
+  price: 22
+  description: assorted colours
 - title: Scooter 12x12, no handles
   image: "/cosom scooter no handles.jpg"
   price: 18
