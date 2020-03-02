@@ -3,15 +3,6 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Wilson 84-7967 Prestige Indoor Volleyball
-  image: "/wilson prestige vb.jpg"
-  price: 25
-  description: |-
-    - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
-    - Wound, cloth-wrapped (CW) carcass construction for extended durability
-    - V-Tec seams
-    - Official size and weight
-    - 6 available
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
@@ -253,5 +244,14 @@ products:
   description: |-
     Open reel
     - 22 available
+- title: Wilson 84-7967 Prestige Indoor Volleyball
+  image: "/wilson prestige vb.jpg"
+  price: 25
+  description: |-
+    - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
+    - Wound, cloth-wrapped (CW) carcass construction for extended durability
+    - V-Tec seams
+    - Official size and weight
+    - 6 available
 
 ---
