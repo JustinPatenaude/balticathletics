@@ -3,26 +3,17 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Badminton Centre Posts LO-B733
-  image: "/LO-Bad Center.jpg"
-  price: 56.5
-  description: |-
-    48mm[1-7/8"] dia. Steel Badminton Center Post
-
-    Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
-  description: "They feature a premium composite shaft, a curved and reinforced HDPE
-    blade, and tactic soft PU grips. They are truly high performance sticks.\n\nFeatures:\nAvailable
-    in 6 colours and both left & right handed.\nLightweight premium composite shafts
-    for consistent and power shooting.\nPre-hook curved blade for accurate shots and
-    ball handling.\nTwo-tone soft PU grip for comfotable and griping power\nFor both
-    indoor and outdoor use, Plus it is an ideal for playing ball hockey and  practicing
-    hockey skill and trick      \n\nA80 model 220g, with shaft 80cm flex 32mm\n\nA90
-    model weight 240g,  with shaft  90cm Flex 28mm is suggested for player’s height
-    from 5’1” to 5’8”\n\nA100 model weight 260g,  with shaft 100cm Flex 26mm is suggested
-    for player’s height 5’8” and above"
+  description: "Features:\nAvailable in 6 colours and both left & right handed.\nLightweight
+    premium composite shafts for consistent and power shooting.\nPre-hook curved blade
+    for accurate shots and ball handling.\nTwo-tone soft PU grip for comfortable and
+    griping power\nFor both indoor and outdoor use, Plus it is an ideal for playing
+    ball hockey and  practicing hockey skill and trick      \n\n* A80 model 220g,
+    with shaft 80cm flex 32mm\n* A90 model weight 240g,  with shaft  90cm Flex 28mm
+    is suggested for player’s height from 5’1” to 5’8”\n* A100 model weight 260g,
+    \ with shaft 100cm Flex 26mm is suggested for player’s height 5’8” and above"
 - title: Adams Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 3
@@ -45,6 +36,13 @@ products:
   image: "/TELSTAR 18 Adidas World Cup SB.jpg"
   price: 
   description: ''
+- title: Badminton Centre Posts LO-B733
+  image: "/LO-Bad Center.jpg"
+  price: 56.5
+  description: |-
+    48mm[1-7/8"] dia. Steel Badminton Center Post
+
+    Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
 - title: Cramer Athletic Trainer's Tape - Box of 32 rolls
   image: "/cramer 950 tape.jpg"
   price: 95
