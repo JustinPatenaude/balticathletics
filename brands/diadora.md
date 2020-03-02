@@ -8,7 +8,8 @@ logo: "/diadora-logo.jpg"
 website: http://www.diadora.com/en/
 pdfs:
 - "/diadora-soccer-spring-2016.pdf"
-info: ''
+info: "Diadora has great selection for all your soccer needs. \n\nBrand name clothing
+  without busting the bank!"
 date: '2019-03-29T22:24:20.000+00:00'
 catalogues:
 - title: Diadora Soccer Spring Catalogue
