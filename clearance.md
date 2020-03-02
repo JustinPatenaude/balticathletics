@@ -18,7 +18,7 @@ products:
 - title: Scooter 12x12, no handles
   image: "/cosom scooter no handles.jpg"
   price: 18
-  description: ''
+  description: 3 available
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
