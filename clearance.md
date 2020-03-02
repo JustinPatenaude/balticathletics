@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
+  image: "/CosomPowerShaftHockeyStick 42.jpg"
+  price: 9.5
+  description: ''
 - title: Monster Ball Cart BC80
   image: "/MONSTER_BALL_CART_-_BC80.jpg"
   price: 199
