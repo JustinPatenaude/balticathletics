@@ -14,5 +14,7 @@ catalogues:
 - title: Diadora Soccer Spring Catalogue
   pdf: "/diadora-soccer-spring-2016.pdf"
   year: 2016
+photos:
+- photo: "/158848---EUROPA-SOFT-TOUCH-BALL-C4686.jpg"
 
 ---
