@@ -3,37 +3,6 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Scooter 16x16 square, no handles
-  image: "/cosom scooter no handles.jpg"
-  price: 22
-  description: ''
-- title: Scooter 16x16 square w/handles
-  image: "/cosom 16x16 deluxe scooter.jpeg"
-  price: 25
-  description: 25 available
-- title: Scooter 16x16 rounded w/handles
-  image: ''
-  price: 25
-  description: |-
-    assorted colours
-    - 11 available
-- title: Scooter wheels
-  image: "/upgraded scooter wheels.jpg"
-  price: 12
-  description: |-
-    Rollarblade ballbearing scooter wheels
-    Sets of 4 wheels
-    - 4 sets available
-- title: Scooter 12x12 square, no handles
-  image: "/cosom scooter no handles.jpg"
-  price: 18
-  description: 3 available
-- title: Scooter 12x12 square, w/handles
-  image: "/cosom 12x12 deluxe scooter.jpeg"
-  price: 22
-  description: |-
-    assorted colours
-    - 24 available
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
@@ -105,6 +74,37 @@ products:
   description: Full length, straight hem, double knees, welt pockets, tunnel belt
     loops, brass zipper
   title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
+- title: Scooter 12x12 square, no handles
+  image: "/cosom scooter no handles.jpg"
+  price: 18
+  description: 3 available
+- title: Scooter 12x12 square, w/handles
+  image: "/cosom 12x12 deluxe scooter.jpeg"
+  price: 22
+  description: |-
+    assorted colours
+    - 24 available
+- title: Scooter 16x16 square, no handles
+  image: "/cosom scooter no handles.jpg"
+  price: 22
+  description: ''
+- title: Scooter 16x16 square w/handles
+  image: "/cosom 16x16 deluxe scooter.jpeg"
+  price: 25
+  description: 25 available
+- title: Scooter 16x16 rounded w/handles
+  image: ''
+  price: 25
+  description: |-
+    assorted colours
+    - 11 available
+- title: Scooter wheels
+  image: "/upgraded scooter wheels.jpg"
+  price: 12
+  description: |-
+    Rollarblade ballbearing scooter wheels
+    Sets of 4 wheels
+    - 4 sets available
 - title: Spalding 73-3038C NBA For Her Basketball - Size 28.5
   image: "/733038C Spalding NBA For Her BB size 6.jpg"
   price: 12
