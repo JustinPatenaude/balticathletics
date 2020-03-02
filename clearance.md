@@ -3,6 +3,12 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Track & Field Measuring Tape MT100 - 30 metres
+  image: "/MT100 FT measuring tape.jpg"
+  price: 10
+  description: |-
+    Open reel
+    - 22 available
 - title: Adidas Krasava Soccer Ball - Size 5
   image: "/KRASAVA Adidas SB size 5.jpg"
   price: 
