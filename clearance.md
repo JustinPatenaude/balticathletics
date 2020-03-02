@@ -3,22 +3,6 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 48"
-  image: "/CosomPowerShaftHockeyStick.jpg"
-  price: 13
-  description: ''
-- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
-  image: "/CosomPowerShaftHockeyStick 42.jpg"
-  price: 9.5
-  description: 13 available
-- title: Monster Ball Cart BC80
-  image: "/MONSTER_BALL_CART_-_BC80.jpg"
-  price: 199
-  description: ''
-- title: Full Size Double First Base M155 w/spikes
-  image: "/M155_double-base.png"
-  price: 0
-  description: 7 available
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
@@ -59,6 +43,14 @@ products:
     48mm[1-7/8"] dia. Steel Badminton Center Post
 
     Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
+- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
+  image: "/CosomPowerShaftHockeyStick 42.jpg"
+  price: 9.5
+  description: 13 available
+- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 47"
+  image: "/CosomPowerShaftHockeyStick.jpg"
+  price: 13
+  description: 75 available
 - title: Cramer Athletic Trainer's Tape - Box of 32 rolls
   image: "/cramer 950 tape.jpg"
   price: 95
@@ -73,6 +65,14 @@ products:
   image: "/880200 Diadora Alum water bottle.jpg"
   price: 
   description: 11 available
+- title: Full Size Double First Base M155 w/spikes
+  image: "/M155_double-base.png"
+  price: 0
+  description: 7 available
+- title: Monster Ball Cart BC80
+  image: "/MONSTER_BALL_CART_-_BC80.jpg"
+  price: 199
+  description: ''
 - title: Nike Pitch Game Soccer Ball - Size 5
   image: "/PITCH Nike SB size 5.jpg"
   price: 
