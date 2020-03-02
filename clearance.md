@@ -3,6 +3,21 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Tchoukball TRN2 Frames (Red)
+  image: "/TRN2-rebounder-360athl.jpg"
+  price: 350
+  description: |-
+    Includes:
+    - 2 frames
+    - 2 balls (sizes 0, 1, 2 or 3)
+    - Game instructions (in English or French)
+
+    FITB approved! Drawn steel tube with rounded corners and a strong foldable
+    support mechanism keeps the frame stable during play. Net is held by 52 steel
+    “S” hooks spread around the frame. Non-marking guards at the bottom. Frame
+    size is 1 m x 1 m and features rust-proof steel net rings.
+
+    FOB Winnipeg
 - title: Adams Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 3
