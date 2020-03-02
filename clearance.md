@@ -3,10 +3,6 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Bean Bag - Ultra-soft, 4" PX-501695-00
-  image: "/bean bags.jpg"
-  price: 1.75
-  description: assorted colours
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
@@ -47,6 +43,10 @@ products:
     48mm[1-7/8"] dia. Steel Badminton Center Post
 
     Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
+- title: Bean Bag - Ultra-soft, 4" PX-501695-00
+  image: "/bean bags.jpg"
+  price: 1.75
+  description: assorted colours
 - title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
   image: "/CosomPowerShaftHockeyStick 42.jpg"
   price: 9.5
