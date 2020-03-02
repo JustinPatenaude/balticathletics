@@ -14,7 +14,9 @@ products:
 - Mouthguards
 - Belts w/ Flags
 - Footballs
-photos: []
+photos:
+- title: Adams Flag Football belt w/flags
+  photo: "/adams-flag-football-belt-sets.jpg"
 suppliers: []
 date: '2019-03-29T22:59:58.000+00:00'
 
