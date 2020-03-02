@@ -75,7 +75,7 @@ products:
   image: "/CosomPowerShaftHockeyStick.jpg"
   price: 13
   description: 75 available
-- title: Cramer Athletic Trainer's Tape - Box of 32 rolls
+- title: Cramer 950 Athletic Trainer's Tape - Box of 32 rolls
   image: "/cramer 950 tape.jpg"
   price: 95
   description: |-
