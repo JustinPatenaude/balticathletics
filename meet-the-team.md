@@ -17,7 +17,7 @@ team-members:
   photo: "/bill.jpg"
 - name: Suzie Doiron
   bio: |-
-    We are excited to have Suzie join our Baltic team! She helps out wherever is needed around the company, so her job varies day to day.
+    Suzie is the hands on person at Baltic.  She basically touches every order and gets it out to you. She helps out wherever is needed, so her job varies day to day, keeping her on her toes!
 
     Suzie enjoys spending time in nature, and can often be found at the lake, camping, fishing, or boating. Since recently finishing two years on mission trips, she is now a junior high volleyball coach, as well as a youth ministry coordinator for various youth groups. In the near future, Suzie plans to return to school to study liberal arts at the post-secondary level.
   photo: "/suzie.jpg"
