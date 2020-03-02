@@ -3,10 +3,12 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Adidas Telstar 18 World Cup Soccer Ball
-  image: "/TELSTAR 18 Adidas World Cup SB.jpg"
-  price: 
-  description: ''
+- title: Table Tennis Paddle Kit TT2P
+  image: "/TT2P Table Tennis Paddle Kit.jpg"
+  price: 14
+  description: |-
+    Set of 2 paddles with balls and carrying bag
+    - 20 sets available
 - title: Adams Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 3
@@ -25,6 +27,10 @@ products:
   image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
   price: 0
   description: 1 available
+- title: Adidas Telstar 18 World Cup Soccer Ball
+  image: "/TELSTAR 18 Adidas World Cup SB.jpg"
+  price: 
+  description: ''
 - title: Diadora 880200 Aluminum Water Bottle
   image: "/880200 Diadora Alum water bottle.jpg"
   price: 
