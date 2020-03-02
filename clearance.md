@@ -3,6 +3,14 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Wilson 84-7967 Prestige Volleyball
+  image: "/wilson prestige vb.jpg"
+  price: 25
+  description: |-
+    - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
+    - Wound, cloth-wrapped (CW) carcass construction for extended durability
+    - V-Tec seams
+    - Official size and weight
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
@@ -54,19 +62,6 @@ products:
   image: "/bean bags.jpg"
   price: 1.75
   description: assorted colours
-- title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
-  image: "/w1B3205-1BasicTrainingBall.jpg"
-  price: 19
-  description: |-
-    - A great ball for training and at home practice and comes in multiple sizes for different age groups.
-    - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
-    - 32 panel
-    - High gloss finish
-
-    Ball Size: Age
-    3 : 8 and Under
-    4 : 8-12
-    5 : 13 and Up
 - title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
   image: "/CosomPowerShaftHockeyStick 42.jpg"
   price: 9.5
@@ -97,6 +92,19 @@ products:
   image: "/M155_double-base.png"
   price: 0
   description: 7 available
+- title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
+  image: "/w1B3205-1BasicTrainingBall.jpg"
+  price: 19
+  description: |-
+    - A great ball for training and at home practice and comes in multiple sizes for different age groups.
+    - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
+    - 32 panel
+    - High gloss finish
+
+    Ball Size: Age
+    3 : 8 and Under
+    4 : 8-12
+    5 : 13 and Up
 - title: Monster Ball Cart BC80
   image: "/MONSTER_BALL_CART_-_BC80.jpg"
   price: 199
