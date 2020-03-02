@@ -12,9 +12,10 @@ products:
     for consistent and power shooting.\nPre-hook curved blade for accurate shots and
     ball handling.\nTwo-tone soft PU grip for comfotable and griping power\nFor both
     indoor and outdoor use, Plus it is an ideal for playing ball hockey and  practicing
-    hockey skill and trick      \n\nA90 model weight 240g,  with shaft  90cm Flex
-    28mm is suggested for player’s height from 5’1” to 5’8”\n\nA100 model weight 260g,
-    \ with shaft 100cm Flex 26mm is suggested for player’s height 5’8” and above"
+    hockey skill and trick      \n\nA80 model 220g, with shaft 80cm flex 32mm\n\nA90
+    model weight 240g,  with shaft  90cm Flex 28mm is suggested for player’s height
+    from 5’1” to 5’8”\n\nA100 model weight 260g,  with shaft 100cm Flex 26mm is suggested
+    for player’s height 5’8” and above"
 - title: Adams Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 3
