@@ -40,9 +40,9 @@ products:
   image: "/admiral gold soccer sock.jpg"
   price: 8
   description: |-
-    Adult size 10-13
-    High quality sock, padded foot, ribbed articulated ankle, arch support
-    14 pairs available
+    - Adult size 10-13
+    - High quality sock, padded foot, ribbed articulated ankle, arch support
+    - 14 pairs available
 - title: Badminton Centre Posts LO-B733
   image: "/LO-Bad Center.jpg"
   price: 57
