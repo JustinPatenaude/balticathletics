@@ -8,7 +8,7 @@ products:
   price: 3
   description: |-
     Flag football web belt (metal D-rings) with flags
-    - available in red, blue, green or yellow
+    - available with red, blue, green or yellow flags
 - title: Adidas Krasava Soccer Ball - Size 5
   image: "/KRASAVA Adidas SB size 5.jpg"
   price: 
