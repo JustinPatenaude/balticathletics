@@ -20,7 +20,7 @@ products:
   description: |-
     assorted colours
     - 11 available
-- title: Scooter 12x12, w/handles
+- title: Scooter 12x12 square, w/handles
   image: "/cosom 12x12 deluxe scooter.jpeg"
   price: 22
   description: |-
