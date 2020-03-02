@@ -3,7 +3,7 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Tchoukball TRN2 Frames (Red)
+- title: Tchoukball TRN2 Frames (Red) - Sold as set of 2
   image: "/TRN2-rebounder-360athl.jpg"
   price: 350
   description: |-
