@@ -59,7 +59,7 @@ products:
     48mm[1-7/8"] dia. Steel Badminton Center Post
 
     Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
-- title: Bean Bag - Ultra-soft, 4" PX-501695-00
+- title: Bean Bag - Ultra-soft, 4" PX-501695
   image: "/bean bags.jpg"
   price: 1.75
   description: assorted colours
