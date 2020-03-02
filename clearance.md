@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Scooter 12x12, no handles
+  image: "/cosom scooter no handles.jpg"
+  price: 18
+  description: ''
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
