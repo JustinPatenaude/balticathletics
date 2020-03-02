@@ -3,6 +3,13 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Badminton Centre Posts LO-B733
+  image: "/LO-Bad Center.jpg"
+  price: 56.5
+  description: |-
+    48mm[1-7/8"] dia. Steel Badminton Center Post
+
+    Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
