@@ -15,6 +15,8 @@ catalogues:
   pdf: "/diadora-soccer-spring-2016.pdf"
   year: 2016
 photos:
+- title: Warm ups suits
+  photo: "/886350-Conquer-Elite-Jacket-343402-Dark-Navy.png"
 - title: Jerseys
   photo: "/883300-DOMINATE-JERSEY-040200-royal-white.jpg"
 - photo: "/885020-GAMMA-SOCK-030200-Red-White.jpg"
