@@ -3,6 +3,12 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Traditions 209 Starting Pistol
+  image: "/Olympic starting pistol 209 shotgun primer.JPG"
+  price: 235
+  description: |-
+    uses 209 primers (100/box $12)
+    - 20 available
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
