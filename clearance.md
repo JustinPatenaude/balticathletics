@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Adidas European club Soccer Ball - Size 5
+  image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
+  price: 0
+  description: 1 available
 - title: 880200 Diadora Aluminum Water Bottle
   image: "/880200 Diadora Alum water bottle.jpg"
   price: 
