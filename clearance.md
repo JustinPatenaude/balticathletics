@@ -238,8 +238,9 @@ products:
   image: "/209 primer blanks.jpg"
   price: 12
   description: |-
-    100 blanks per box
-    To be used with Traditions 209 starting pistol
+    - 100 blanks per box
+    - To be used with Traditions 209 starting pistol
+    - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
 - title: 22 Caliber 6mm Acorn Starting Blanks
   image: "/22 Cal blanks.jpg"
   price: 30
