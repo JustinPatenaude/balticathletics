@@ -3,6 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
+- title: Bean Bag - Ultra-soft, 4" PX-501695-00
+  image: "/bean bags.jpg"
+  price: 1.75
+  description: assorted colours
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 25
