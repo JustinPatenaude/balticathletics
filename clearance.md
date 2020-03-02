@@ -3,21 +3,16 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Tchoukball TRN2 Frames (Red) - Sold as set of 2
-  image: "/TRN2-rebounder-360athl.jpg"
-  price: 350
+- title: Cramer Athletic Trainer's Tape - Box of 32 rolls
+  image: "/cramer 950 tape.jpg"
+  price: 95
   description: |-
-    Includes:
-    - 2 frames
-    - 2 balls (sizes 0, 1, 2 or 3)
-    - Game instructions (in English or French)
+    Designed from the ground up to meet the needs of athletic trainers. Quality adhesive, consistent unwind, easy tear...everything an athletic trainer needs 950 delivers.
 
-    FITB approved! Drawn steel tube with rounded corners and a strong foldable
-    support mechanism keeps the frame stable during play. Net is held by 52 steel
-    “S” hooks spread around the frame. Non-marking guards at the bottom. Frame
-    size is 1 m x 1 m and features rust-proof steel net rings.
-
-    FOB Winnipeg
+    • Zinc Oxide Tape provides excellent tensile strength and superior conformability
+    • Computer calibrated unwind for consistency and performance roll to roll
+    • Non-Latex adhesive
+    • A high-quality porous, 100% cotton tape at an affordable price
 - title: Adams Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 3
@@ -103,6 +98,21 @@ products:
   description: |-
     2 player set with paddles, balls, net and clamps
     - 8 available
+- title: Tchoukball TRN2 Frames (Red) - Sold as set of 2
+  image: "/TRN2-rebounder-360athl.jpg"
+  price: 350
+  description: |-
+    Includes:
+    - 2 frames
+    - 2 balls (sizes 0, 1, 2 or 3)
+    - Game instructions (in English or French)
+
+    FITB approved! Drawn steel tube with rounded corners and a strong foldable
+    support mechanism keeps the frame stable during play. Net is held by 52 steel
+    “S” hooks spread around the frame. Non-marking guards at the bottom. Frame
+    size is 1 m x 1 m and features rust-proof steel net rings.
+
+    FOB Winnipeg
 - title: Track & Field Measuring Tape MT100 - 30 metres
   image: "/MT100 FT measuring tape.jpg"
   price: 10
