@@ -3,12 +3,10 @@ layout: clearance
 title: Clearance
 permalink: "/clearance/"
 products:
-- title: Track & Field Measuring Tape MT100 - 30 metres
-  image: "/MT100 FT measuring tape.jpg"
-  price: 10
-  description: |-
-    Open reel
-    - 22 available
+- title: Nike Pitch Training Ball - Size 5
+  image: "/Nike Training SB size 5.jpg"
+  price: 0
+  description: 40 available
 - title: Adams Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 3
@@ -27,14 +25,19 @@ products:
   image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
   price: 0
   description: 1 available
-- title: Puma Arsenal Soccer Ball - Size 5
-  image: "/ARSENAL Puma SB size 5.jpg"
-  price: 
-  description: ''
 - title: Diadora 880200 Aluminum Water Bottle
   image: "/880200 Diadora Alum water bottle.jpg"
   price: 
   description: 11 available
+- title: Puma Arsenal Soccer Ball - Size 5
+  image: "/ARSENAL Puma SB size 5.jpg"
+  price: 
+  description: ''
+- image: "/234DBMK Russell baseball pants.jpg"
+  price: 20
+  description: Full length, straight hem, double knees, welt pockets, tunnel belt
+    loops, brass zipper
+  title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
 - title: Spalding 73-3038C NBA For Her Basketball - Size 28.5
   image: "/733038C Spalding NBA For Her BB size 6.jpg"
   price: 12
@@ -65,10 +68,11 @@ products:
   description: |-
     rubber
     - 14 available
-- image: "/234DBMK Russell baseball pants.jpg"
-  price: 20
-  description: Full length, straight hem, double knees, welt pockets, tunnel belt
-    loops, brass zipper
-  title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
+- title: Track & Field Measuring Tape MT100 - 30 metres
+  image: "/MT100 FT measuring tape.jpg"
+  price: 10
+  description: |-
+    Open reel
+    - 22 available
 
 ---
