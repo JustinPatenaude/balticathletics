@@ -9,20 +9,16 @@ products:
   description: |-
     Open reel
     - 22 available
-- title: Adidas Krasava Soccer Ball - Size 5
-  image: "/KRASAVA Adidas SB size 5.jpg"
-  price: 
-  description: 1 available
 - title: Adams Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 3
   description: |-
     Flag football web belt (metal D-rings) with flags
     - available in red, blue, green or yellow
-- title: Puma Arsenal Soccer Ball - Size 5
-  image: "/ARSENAL Puma SB size 5.jpg"
+- title: Adidas Krasava Soccer Ball - Size 5
+  image: "/KRASAVA Adidas SB size 5.jpg"
   price: 
-  description: ''
+  description: 1 available
 - title: Adidas Pink/Blue Soccer Ball - Size 5
   image: "/Adidas game ball size 5.jpg"
   price: 
@@ -31,7 +27,11 @@ products:
   image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
   price: 0
   description: 1 available
-- title: 880200 Diadora Aluminum Water Bottle
+- title: Puma Arsenal Soccer Ball - Size 5
+  image: "/ARSENAL Puma SB size 5.jpg"
+  price: 
+  description: ''
+- title: Diadora 880200 Aluminum Water Bottle
   image: "/880200 Diadora Alum water bottle.jpg"
   price: 
   description: 11 available
