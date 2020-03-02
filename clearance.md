@@ -7,7 +7,7 @@ products:
   image: "/Adidas game ball size 5.jpg"
   price: 
   description: ''
-- title: Adidas European club Soccer Ball - Size 5
+- title: Adidas European Club Soccer Ball - Size 5
   image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
   price: 0
   description: 1 available
