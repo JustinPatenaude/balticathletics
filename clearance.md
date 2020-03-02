@@ -13,7 +13,7 @@ products:
   description: 25 available
 - title: Scooter 16x16 rounded w/handles
   image: ''
-  price: 22
+  price: 25
   description: |-
     assorted colours
     - 11 available
