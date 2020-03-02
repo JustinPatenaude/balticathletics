@@ -7,7 +7,8 @@ products:
   image: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
   price: 
   description: |-
-    - This powder coated all-steel construction ball locker has lockable hinge cover - Holds up to 24 basketballs, soccer balls or Playground balls
+    - This powder coated all-steel construction ball locker has lockable hinge cover
+    - Holds up to 24 basketballs, soccer balls or Playground balls
     - Large wheels for indoor and outdoor use
     - Size: 42” L x 24” W x 36” H
     - MRSP $517.99
