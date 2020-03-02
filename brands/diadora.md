@@ -17,7 +17,8 @@ catalogues:
 photos:
 - title: Jerseys
   photo: "/883300-DOMINATE-JERSEY-040200-royal-white.jpg"
-- {}
+- photo: "/885020-GAMMA-SOCK-030200-Red-White.jpg"
+  title: Socks
 - title: Keeper Jerseys
   photo: "/883355 - BLOCK GK JERSEY.jpg"
 - title: Goal gloves
