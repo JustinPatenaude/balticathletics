@@ -9,7 +9,7 @@ products:
   description: ''
 - title: Scooter 16x16 square w/handles
   image: "/cosom 16x16 deluxe scooter.jpeg"
-  price: 22
+  price: 25
   description: 25 available
 - title: Scooter 16x16 rounded w/handles
   image: ''
