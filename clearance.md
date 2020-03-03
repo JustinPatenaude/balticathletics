@@ -74,7 +74,7 @@ products:
     • A high-quality porous, 100% cotton tape at an affordable price
 - title: Deluxe Outdoor Ball Locker BC44
   image: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
-  price: 
+  price: 295
   description: |-
     -This powder coated all-steel construction ball locker has lockable hinge cover
     -Holds up to 24 basketballs, soccer balls or Playground balls
