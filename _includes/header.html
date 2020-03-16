@@ -14,6 +14,11 @@
         <div class="nav__wrapper">
           <div class="nav__item-wrapper menu-hide">
             <div class="nav__item">
+              <a href="{{ "/promotions" | relative_url }}" class="nav__link {% if page.url contains "/promotions" %}active{% endif %}" title="Promotions">
+                <i class="fal fa-star"></i> Promotions
+              </a>
+            </div>
+            <div class="nav__item">
               <a href="{{ "/products" | relative_url }}" class="nav__link" title="Products">
                 <i class="fal fa-book"></i> Products
               </a>
@@ -21,11 +26,6 @@
             <div class="nav__item">
               <a href="{{ "/brands" | relative_url }}" class="nav__link {% if page.url contains "/brands" %}active{% endif %}" title="Brands">
                 <i class="fal fa-truck"></i> Brands
-              </a>
-            </div>
-            <div class="nav__item">
-              <a href="{{ "/clearance" | relative_url }}" class="nav__link {% if page.url contains "/clearance" %}active{% endif %}" title="Clearance">
-                <i class="fal fa-badge-percent"></i> Clearance
               </a>
             </div>
             <div class="nav__item">

@@ -1,7 +1,7 @@
 ---
-layout: clearance
-title: Clearance
-permalink: "/clearance/"
+layout: promotions
+title: Promotions
+permalink: "/promotions/"
 products:
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
