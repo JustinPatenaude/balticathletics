@@ -9,7 +9,8 @@ categories:
 title: Barbarian
 logo: "/barbarian-logo.png"
 website: ''
-catalogues: []
+catalogues:
+- title: Barbarian Performance Apparel
 info: ''
 
 ---
