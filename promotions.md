@@ -30,7 +30,7 @@ products:
   description: 12 available
 - title: Adidas European Club Soccer Ball - Size 5
   image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
-  price: 0
+  price: 
   description: 1 available
 - title: Adidas Telstar 18 World Cup Soccer Ball
   image: "/TELSTAR 18 Adidas World Cup SB.jpg"
@@ -87,11 +87,11 @@ products:
   description: 11 available
 - title: Dunlop 762034 Pro Racquetball Balls (3 pk)
   image: "/dunlop-pro-racketball-ball-3-pack-box-3.jpg"
-  price: 0
+  price: 
   description: ''
 - title: Full Size Double First Base M155 w/spikes
   image: "/M155_double-base.png"
-  price: 0
+  price: 
   description: 7 available
 - title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
   image: "/w1B3205-1BasicTrainingBall.jpg"
@@ -116,7 +116,7 @@ products:
   description: Only 1 available
 - title: Nike Pitch Training Ball - Size 5
   image: "/Nike Training SB size 5.jpg"
-  price: 0
+  price: 
   description: 40 available
 - title: Puma Arsenal Soccer Ball - Size 5
   image: "/ARSENAL Puma SB size 5.jpg"

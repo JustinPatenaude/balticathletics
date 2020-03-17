@@ -43,3 +43,5 @@ fields:
     labelField: 
   label: Products
   description: The products on clearance
+pages:
+- promotions.md
