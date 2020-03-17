@@ -16,7 +16,7 @@ website: https://www.bizcollection.ca/
 catalogues:
 - title: Biz Collection 2020
   year: 2020
-  pdf: ''
+  pdf: "/2020 Biz Collection - CA.pdf"
 - title: 2020 New Styles Catalogue
   year: 2020
   pdf: "/2020 Stylebook _CA New Styles.pdf"
