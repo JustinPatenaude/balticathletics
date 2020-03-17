@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/by-group/"
 categories:
+- products/health-fitness.md
 - products/boxing.md
 - products/games.md
 - products/table-tennis.md
