@@ -14,7 +14,8 @@ website: http://www.canadasportswear.com/
 catalogues:
 - title: 2020 Spring Supplement
   year: 2020
-- title: Canada Sportswear Catalogue
+  pdf: "/2020 Spring Supplement.pdf"
+- title: 2019-20 Canada Sportswear Catalogue
   year: 2019
   pdf: "/2019 CSW_MainCatL1.pdf"
 info: '2019-20 Online CSW Catalogue: [http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01](http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01
