@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/augusta-sportswear/"
 categories:
-- products/bags.md
+- products/bags-totes-duffels.md
 - products/baseball.md
 - products/basketball.md
 - products/beach-volleyball.md
