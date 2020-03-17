@@ -20,5 +20,7 @@ catalogues:
   year: 2019
 - title: 2019 Alphabroder Catalogue
   year: 2019
+photos:
+- photo: "/2019 cover.PNG"
 
 ---
