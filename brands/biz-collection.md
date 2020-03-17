@@ -21,6 +21,8 @@ catalogues:
   year: 2020
   pdf: "/2020 Stylebook _CA New Styles.pdf"
 photos:
+- title: Pace 1/4 Zip Hoodie
+  photo: "/SW635L_Worn.jpg"
 - title: Hype Two-Tone Hoodie
   photo: "/SW025M_Worn.jpg"
 - title: Hype Pants
