@@ -17,6 +17,8 @@ catalogues:
   pdf: "/black-knight-2019.pdf"
   year: 2019
 photos:
+- title: Sceptre BA150
+  photo: "/BA-150-SCEPTRE-ANGLE - 024_0221-500x500.jpg"
 - title: The Beast - BA180
   photo: "/BA-180-THE BEAST-ANGLE - 023_0241-500x500.jpg"
 
