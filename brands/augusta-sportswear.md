@@ -25,11 +25,14 @@ website: http://www.augustasportswear.com/
 pdfs:
 - "/augusta-football-2017.pdf"
 - "/augusta-basketball-2017.pdf"
-info: 'Online 2020 Augusta catalogue:  [https://www.augustasportswear.com/catalog](https://www.augustasportswear.com/catalog
-  "https://www.augustasportswear.com/catalog")'
+info: |-
+  Online 2020 Augusta catalogue:  [https://www.augustasportswear.com/catalog](https://www.augustasportswear.com/catalog "https://www.augustasportswear.com/catalog")
+
+  Online 2020 Augusta Baseball/Softball Catalogue: [https://static.augustasportswear.com/marketing/2019%20WEBSITE/Catalogs/Base_Soft_Catalog_2020.pdf](https://static.augustasportswear.com/marketing/2019%20WEBSITE/Catalogs/Base_Soft_Catalog_2020.pdf "https://static.augustasportswear.com/marketing/2019%20WEBSITE/Catalogs/Base_Soft_Catalog_2020.pdf")
+
+  Online 2020 Augusta Football Catalogue: [https://static.augustasportswear.com/marketing/2019%20WEBSITE/Catalogs/ASB-Football-2020.pdf](https://static.augustasportswear.com/marketing/2019%20WEBSITE/Catalogs/ASB-Football-2020.pdf "https://static.augustasportswear.com/marketing/2019%20WEBSITE/Catalogs/ASB-Football-2020.pdf")
 date: '2019-03-29T22:18:11.000+00:00'
 catalogues:
-- title: 2020 Augusta Football
-  year: 2020
+- pdf: "/ASB-Football-2020.pdf"
 
 ---
