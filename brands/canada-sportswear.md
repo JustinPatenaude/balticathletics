@@ -21,6 +21,8 @@ catalogues:
 info: '2019-20 Online CSW Catalogue: [http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01](http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01
   "http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01")'
 photos:
+- title: S05805 Ralph Polo Shirt
+  photo: "/S05805 real life pic.jpg"
 - title: L04070 Victory Performance Athletic Twill Track Jacket
   photo: "/L04070_blk-ryl.jpg"
 
