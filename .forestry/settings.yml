@@ -28,8 +28,8 @@ sections:
   templates:
   - category
 - type: document
-  path: clearance.md
-  label: Clearance
+  path: promotions.md
+  label: Promotions
 - type: document
   path: gallery.md
   label: Gallery
