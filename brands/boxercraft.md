@@ -2,11 +2,11 @@
 layout: brand
 permalink: "/brands/boxercraft"
 categories:
-- products/shorts.md
-- products/shirts.md
-- products/pants.md
-- products/jackets.md
 - products/hoodies.md
+- products/jackets.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
 title: Boxercraft
 logo: "/boxercraft logo.jpg"
 website: https://www.boxercraft.com/
