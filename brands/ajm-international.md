@@ -15,5 +15,7 @@ catalogues:
 - title: 2020 AJM Catalogue
   pdf: ''
   year: 2020
+photos:
+- photo: "/0A630M.jpg"
 
 ---
