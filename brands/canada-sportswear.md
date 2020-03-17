@@ -28,6 +28,6 @@ photos:
 - title: S05805 Ralph Polo Shirt
   photo: "/S05805 real life pic.jpg"
 - title: L04070 Victory Performance Athletic Twill Track Jacket
-  photo: "/L04070_blk-ryl.jpg"
+  photo: "/L04070-black-red.jpg"
 
 ---
