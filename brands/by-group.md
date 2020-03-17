@@ -8,7 +8,7 @@ categories:
 - products/table-tennis.md
 title: BY Group
 logo: "/by-group-logo.png"
-website: ''
+website: http://www.bygroup.ca/
 pdfs:
 - "/by-group-2017.pdf"
 info: ''
