@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/TITLE"
+permalink: "/brands/biz-collection"
 categories:
 - products/track-suits.md
 - products/sweaters.md
