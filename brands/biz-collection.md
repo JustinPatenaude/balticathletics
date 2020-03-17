@@ -2,14 +2,14 @@
 layout: brand
 permalink: "/brands/biz-collection"
 categories:
-- products/track-suits.md
-- products/sweaters.md
-- products/shorts.md
-- products/shirts.md
-- products/pants.md
-- products/jackets.md
-- products/hoodies.md
 - products/aprons.md
+- products/hoodies.md
+- products/jackets.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
+- products/sweaters.md
+- products/track-suits.md
 title: Biz Collection
 logo: "/Biz-Collection logo.jpg"
 website: https://www.bizcollection.ca/
