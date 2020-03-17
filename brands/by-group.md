@@ -13,8 +13,7 @@ pdfs:
 info: ''
 date: '2019-03-29T22:20:42.000+00:00'
 catalogues:
-- title: BY Group Catalogue
-  pdf: "/by-group-2017.pdf"
-  year: 2017
+- title: BY Group 2019
+  year: 2019
 
 ---
