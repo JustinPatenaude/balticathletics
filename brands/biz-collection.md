@@ -33,6 +33,5 @@ info: |-
   2020 Online Catalogue: [https://issuu.com/fashionbiznz/docs/2020_biz_collection_-_ca?fr=sZTUzZDg2NjQ3](https://issuu.com/fashionbiznz/docs/2020_biz_collection_-_ca?fr=sZTUzZDg2NjQ3 "https://issuu.com/fashionbiznz/docs/2020_biz_collection_-_ca?fr=sZTUzZDg2NjQ3")
 
   2020 Online New Styles Guide: [https://issuu.com/fashionbiznz/docs/2020_stylebook__ca_new_styles?fr=sZmNmYjg2NjQ3](https://issuu.com/fashionbiznz/docs/2020_stylebook__ca_new_styles?fr=sZmNmYjg2NjQ3 "https://issuu.com/fashionbiznz/docs/2020_stylebook__ca_new_styles?fr=sZmNmYjg2NjQ3")
-published: false
 
 ---
