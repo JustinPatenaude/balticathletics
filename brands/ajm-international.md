@@ -16,6 +16,7 @@ catalogues:
   pdf: ''
   year: 2020
 photos:
+- photo: "/9L594L.jpg"
 - photo: "/8G017M.jpg"
 - photo: "/0A630M.jpg"
 
