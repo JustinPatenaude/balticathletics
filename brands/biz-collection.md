@@ -14,13 +14,15 @@ title: Biz Collection
 logo: ''
 website: ''
 catalogues:
-- title: 2020 New Styles Catalogue
-  year: 2020
-  pdf: ''
 - title: Biz Collection 2020
   year: 2020
   pdf: ''
-photos: []
+- title: 2020 New Styles Catalogue
+  year: 2020
+  pdf: "/2020 Stylebook _CA New Styles.pdf"
+photos:
+- title: Hype Pants
+  photo: "/TP712M_Worn.jpg.jpg"
 info: |-
   2020 Online Catalogue: [https://issuu.com/fashionbiznz/docs/2020_biz_collection_-_ca?fr=sZTUzZDg2NjQ3](https://issuu.com/fashionbiznz/docs/2020_biz_collection_-_ca?fr=sZTUzZDg2NjQ3 "https://issuu.com/fashionbiznz/docs/2020_biz_collection_-_ca?fr=sZTUzZDg2NjQ3")
 
