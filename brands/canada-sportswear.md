@@ -21,6 +21,8 @@ catalogues:
 info: '2019-20 Online CSW Catalogue: [http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01](http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01
   "http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01")'
 photos:
+- title: L00687 Palm Aire Pullover Hoodie
+  photo: "/L00687-blue.jpg"
 - title: L00227 Melton/Leather Jacket
   photo: "/L00227-black-red.jpg"
 - title: L00811 Dynamic Fleece Jacket
