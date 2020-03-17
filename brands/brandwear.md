@@ -18,6 +18,8 @@ catalogues:
 - title: Brandwear 2019
   year: 2019
 photos:
+- title: 214 Grace
+  photo: "/214-Grace-Open-Shoulder-564x846.jpg"
 - title: 422 Dawson Hoodie
   photo: "/422-Dawson-Pullover-Hood-564x846.jpg"
 
