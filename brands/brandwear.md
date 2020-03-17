@@ -17,7 +17,10 @@ date: '2019-03-29T22:20:31.000+00:00'
 catalogues:
 - title: Brandwear 2019
   year: 2019
+  pdf: "/Brandwear2019.pdf"
 photos:
+- title: 116 Diego
+  photo: "/116-Diego-V-Neck-564x846.jpg"
 - title: 214 Grace
   photo: "/214-Grace-Open-Shoulder-564x846.jpg"
 - title: 422 Dawson Hoodie
