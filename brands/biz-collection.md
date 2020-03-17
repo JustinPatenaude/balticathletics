@@ -21,6 +21,8 @@ catalogues:
   year: 2020
   pdf: "/2020 Stylebook _CA New Styles.pdf"
 photos:
+- title: Hype Two-Tone Hoodie
+  photo: "/SW025M_Worn.jpg"
 - title: Hype Pants
   photo: "/TP712M_Worn.jpg.jpg"
 info: |-
