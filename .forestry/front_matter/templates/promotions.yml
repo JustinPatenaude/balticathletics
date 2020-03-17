@@ -43,5 +43,3 @@ fields:
     labelField: 
   label: Products
   description: The products on clearance
-pages:
-- clearance.md

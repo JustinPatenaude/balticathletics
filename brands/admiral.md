@@ -7,7 +7,7 @@ categories:
 - products/jerseys.md
 title: Admiral
 logo: "/admiral-logo.png"
-website: https://admiral-sports.com/shop/
+website: ''
 pdfs:
 - "/admiral-2016.pdf"
 info: ''
