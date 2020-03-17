@@ -19,6 +19,8 @@ catalogues:
   year: 2019
   pdf: "/Brandwear2019.pdf"
 photos:
+- title: 722 Darcie
+  photo: "/722-Darcie-Jacket-564x846.jpg"
 - title: 116 Diego
   photo: "/116-Diego-V-Neck-564x846.jpg"
 - title: 214 Grace
