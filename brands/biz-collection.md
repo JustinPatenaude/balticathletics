@@ -11,8 +11,8 @@ categories:
 - products/hoodies.md
 - products/aprons.md
 title: Biz Collection
-logo: ''
-website: ''
+logo: "/Biz-Collection logo.jpg"
+website: https://www.bizcollection.ca/
 catalogues:
 - title: Biz Collection 2020
   year: 2020
