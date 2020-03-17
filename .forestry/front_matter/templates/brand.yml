@@ -91,3 +91,5 @@ fields:
       section: categories
       file: _data/categories.yml
   default: []
+pages:
+- brands/biz-collection.md
