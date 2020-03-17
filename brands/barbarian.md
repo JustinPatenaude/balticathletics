@@ -11,6 +11,7 @@ logo: "/barbarian-logo.png"
 website: ''
 catalogues:
 - title: Barbarian Performance Apparel
-info: ''
+  pdf: "/BARBARIAN-Performance-Apparel.pdf"
+info: Known for their Rugby Wear - Made in Canada
 
 ---
