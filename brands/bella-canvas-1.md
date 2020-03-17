@@ -12,6 +12,8 @@ website: https://www.bellacanvas.com/
 catalogues: []
 info: Call or email for selection and availability.
 photos:
+- title: Bella & Canvas Garments - Available in Winnipeg - Page 6
+  photo: "/Bella pg06.PNG"
 - title: Bella & Canvas Garments - Available in Winnipeg - Page 5
   photo: "/Bella pg05.PNG"
 - title: Bella & Canvas Garments - Available in Winnipeg - Page 4
