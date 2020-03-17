@@ -17,5 +17,8 @@ date: '2019-03-29T22:20:31.000+00:00'
 catalogues:
 - title: Brandwear 2019
   year: 2019
+photos:
+- title: 422 Dawson Hoodie
+  photo: "/422-Dawson-Pullover-Hood-564x846.jpg"
 
 ---
