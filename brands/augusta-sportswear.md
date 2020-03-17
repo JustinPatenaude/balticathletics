@@ -25,14 +25,11 @@ website: http://www.augustasportswear.com/
 pdfs:
 - "/augusta-football-2017.pdf"
 - "/augusta-basketball-2017.pdf"
-info: ''
+info: 'Online 2020 Augusta catalogue:  [https://www.augustasportswear.com/catalog](https://www.augustasportswear.com/catalog
+  "https://www.augustasportswear.com/catalog")'
 date: '2019-03-29T22:18:11.000+00:00'
 catalogues:
-- title: Augusta Basketball
-  pdf: "/augusta-basketball-2017.pdf"
-  year: 2017
-- title: Augusta Football
-  pdf: "/augusta-football-2017.pdf"
-  year: 2017
+- title: 2020 Augusta Football
+  year: 2020
 
 ---
