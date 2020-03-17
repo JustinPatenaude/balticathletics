@@ -1,6 +1,6 @@
 ---
 label: Promotions
-hide_body: false
+hide_body: true
 fields:
 - name: products
   type: field_group_list
