@@ -14,6 +14,7 @@ catalogues:
   pdf: "/BARBARIAN-Performance-Apparel.pdf"
 info: Known for their Rugby Wear - Made in Canada since 1981
 photos:
+- photo: "/bar men real.PNG"
 - photo: "/bar mat 03.PNG"
 - photo: "/barb wmn.PNG"
 - photo: "/bar shorts.PNG"
