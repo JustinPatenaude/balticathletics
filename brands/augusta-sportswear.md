@@ -41,6 +41,7 @@ date: '2019-03-29T22:18:11.000+00:00'
 catalogues: []
 photos:
 - photo: "/high 5 logo.jpg"
+  title: High 5
 - photo: "/russell logo.jpg"
 - photo: "/augusta-sportswear-1660-navy-white.webp"
 - photo: "/augusta-sportswear-1548-red-red-mod.webp"
