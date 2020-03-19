@@ -13,11 +13,14 @@ website: http://catalystgroupbrands.com/wp-content/uploads/CAT/CH/01/html5/index
 catalogues:
 - title: 2019 Champion Team Wear
   year: 2019
+  pdf: "/Champion-Team-Wear.pdf"
 - year: 2020
   title: 2020 Catalyst Group Catalogue (including Champion, Next Level & Timberlea)
   pdf: "/2020 CG Stock Catalogue.pdf"
 info: Call or email for selection and availability.
 photos:
+- title: S260 Champion Performance Full Zip Jacket
+  photo: "/S260-stone-grey-black.jpg"
 - title: 8187 Champion Shorts
   photo: "/8187-black.jpg"
 - title: P1022 Champion Pants
