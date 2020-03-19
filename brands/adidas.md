@@ -24,6 +24,8 @@ catalogues:
   year: 2019
 info: Adidas was founded in 1949 and since then has become a household brand name.
 photos:
+- title: Tango Soccer Ball
+  photo: "/Tango ball.PNG"
 - title: Amplifier Tee
   photo: "/Amplifier Tee.PNG"
 
