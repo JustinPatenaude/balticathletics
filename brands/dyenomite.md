@@ -21,10 +21,11 @@ date: '2019-03-29T22:24:46.000+00:00'
 catalogues: []
 photos:
 - title: 4-H tee
-- title: beach tee
-  photo: "/tee.PNG"
+  photo: "/Tie_dye_Spider_Lime_Left_front.png"
 - title: Hoodie
   photo: "/854TI_Tide_Tie_Dye_Hoodies_Blue.png"
+- title: beach tee
+  photo: "/tee.PNG"
 - title: Tye-dye Beach Towel
   photo: "/beach towel.png"
 
