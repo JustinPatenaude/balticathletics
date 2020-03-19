@@ -4,7 +4,7 @@ permalink: "/brands/fiel/"
 categories:
 - products/aprons.md
 - products/auto.md
-- products/bags.md
+- products/bags-totes-duffels.md
 - products/blankets.md
 - products/table-covers.md
 - products/towels.md
