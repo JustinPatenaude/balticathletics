@@ -24,6 +24,8 @@ catalogues:
   year: 2019
 info: Adidas was founded in 1949 and since then has become a household brand name.
 photos:
+- title: TIRO 19 Training Jacket
+  photo: "/TIRO 19 Training Jacket.PNG"
 - title: TIRO 19 Training Pant
   photo: "/TIRO 19 Training Pant.PNG"
 - title: Tango Soccer Ball
