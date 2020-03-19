@@ -78,6 +78,8 @@ catalogues:
   pdf: "/dynamic-fanwear-and-pro-gear-2019.pdf"
   year: 2019
 photos:
+- title: Warm ups
+  photo: "/Dynamic_Warm-ups.jpg"
 - title: Soccer
   photo: "/Soccer ladies.png"
 - title: Football
@@ -88,15 +90,15 @@ photos:
   photo: "/2020.02.19 Dyn PO 5748 RR Wild front.jpg"
 - title: Ladies Long-Sleeve Volleyball
   photo: "/shock-black.png"
-- title: Track singlets
-  photo: "/glenella-mens.png"
+- title: Throwback Tee Crew Neck
+  photo: "/Throwback tee crew neck.PNG"
 - title: Volleyball
   photo: "/Screenshot_3.png"
+- title: Track singlets
+  photo: "/glenella-mens.png"
 - title: Track Singlets
   photo: "/killarney-black.png"
 - title: Basketball
   photo: "/PO 3765 Non-Reversible.png"
-- title: Throwback Tee Crew Neck
-  photo: "/Throwback tee crew neck.PNG"
 
 ---
