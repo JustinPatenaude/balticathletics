@@ -66,7 +66,7 @@ photos:
   photo: "/Screenshot_3.png"
 - title: Track Singlets
   photo: "/killarney-black.png"
-- title: Treherne Basketball
+- title: Basketball
   photo: "/PO 3765 Non-Reversible.png"
 - title: Throwback Tee Crew Neck
   photo: "/Throwback tee crew neck.PNG"
