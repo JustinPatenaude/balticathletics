@@ -88,21 +88,21 @@ photos:
   photo: "/Football jersey.png"
 - title: Hockey
   photo: "/Hockey 2.png"
-- title: Basketball
-  photo: "/PO 3765 Non-Reversible.png"
 - title: Warm ups
   photo: "/Dynamic_Warm-ups.jpg"
 - title: Throwback Tee Crew Neck
   photo: "/Throwback tee crew neck.PNG"
 - title: Short Sleeve Volleyball
   photo: "/2020.02.19 Dyn PO 5748 RR Wild front.jpg"
-- title: Ladies Long-Sleeve Volleyball
-  photo: "/shock-black.png"
+- title: Basketball
+  photo: "/PO 3765 Non-Reversible.png"
 - title: Volleyball
   photo: "/Screenshot_3.png"
 - title: Track singlets
   photo: "/glenella-mens.png"
 - title: Track Singlets
   photo: "/killarney-black.png"
+- title: Ladies Long-Sleeve Volleyball
+  photo: "/shock-black.png"
 
 ---
