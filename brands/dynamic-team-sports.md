@@ -78,6 +78,8 @@ catalogues:
   pdf: "/dynamic-fanwear-and-pro-gear-2019.pdf"
   year: 2019
 photos:
+- title: hockey
+  photo: "/Hockey 2.png"
 - title: Short Sleeve Volleyball
   photo: "/2020.02.19 Dyn PO 5748 RR Wild front.jpg"
 - title: Ladies Long-Sleeve Volleyball
