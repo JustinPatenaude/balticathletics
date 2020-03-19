@@ -78,6 +78,8 @@ catalogues:
   pdf: "/dynamic-fanwear-and-pro-gear-2019.pdf"
   year: 2019
 photos:
+- title: Football
+  photo: "/Football jersey.png"
 - title: hockey
   photo: "/Hockey 2.png"
 - title: Short Sleeve Volleyball
