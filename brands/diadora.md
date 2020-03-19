@@ -2,6 +2,10 @@
 layout: brand
 permalink: "/brands/diadora/"
 categories:
+- products/bags-totes-duffels.md
+- products/jackets.md
+- products/jerseys.md
+- products/pants.md
 - products/soccer.md
 title: Diadora
 logo: "/diadora-logo.jpg"
