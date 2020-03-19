@@ -78,6 +78,8 @@ catalogues:
   pdf: "/dynamic-fanwear-and-pro-gear-2019.pdf"
   year: 2019
 photos:
+- title: Soccer
+  photo: "/Soccer ladies.png"
 - title: Football
   photo: "/Football jersey.png"
 - title: Hockey
