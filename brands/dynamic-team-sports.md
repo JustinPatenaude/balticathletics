@@ -80,7 +80,7 @@ catalogues:
 photos:
 - title: Football
   photo: "/Football jersey.png"
-- title: hockey
+- title: Hockey
   photo: "/Hockey 2.png"
 - title: Short Sleeve Volleyball
   photo: "/2020.02.19 Dyn PO 5748 RR Wild front.jpg"
