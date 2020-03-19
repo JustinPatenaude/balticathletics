@@ -13,6 +13,7 @@ website: http://catalystgroupbrands.com/wp-content/uploads/CAT/CH/01/html5/index
 catalogues:
 - year: 2020
   title: 2020 Catalyst Group Catalogue (including Champion, Next Level & Timberlea)
+  pdf: "/2020 CG Stock Catalogue.pdf"
 info: Call or email for selection and availability.
 
 ---
