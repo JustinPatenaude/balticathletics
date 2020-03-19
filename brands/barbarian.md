@@ -15,5 +15,6 @@ catalogues:
 info: Known for their Rugby Wear - Made in Canada since 1981
 photos:
 - photo: "/bar shorts.PNG"
+  title: Barbarian Shorts
 
 ---
