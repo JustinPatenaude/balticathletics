@@ -48,7 +48,7 @@ info: |-
   * Does not peel, crack or fade
   * Will not be discontinued
   * All sports offered
-  * Repeat order is ONE minimum, with underquantity charge
+  * Repeat order is ONE minimum, with under quantity charge
 
   They have a great jersey builder on their website to assist you in designing your jerseys.
 date: '2019-03-29T22:25:07.000+00:00'
