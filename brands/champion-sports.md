@@ -14,9 +14,12 @@ logo: "/champion-sports-logo.png"
 website: http://www.championsports.com/
 pdfs: []
 info: |-
-  Click for [Online Catalogue](https://web.archive.org/web/20180814185309/http://www.championsports.com/flipbook/files/assets/basic-html/index.html#1)
+  Click for [Online Catalogue](https://www.championsports.com/catalog/)
 
-  ***All prices in USD**
-date: 2019-03-29 22:21:27 +0000
+  \***All prices in USD**
+date: '2019-03-29T22:21:27.000+00:00'
+photos:
+- photo: "/bp2040-front_t Baseball backpack.jpg"
+  title: BP2040 Baseball Backpack
 
 ---
