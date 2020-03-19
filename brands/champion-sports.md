@@ -23,5 +23,8 @@ photos:
   photo: "/VCPRO.jpg"
 - photo: "/bp2040-front_t Baseball backpack.jpg"
   title: BP2040 Baseball Backpack
+catalogues:
+- title: 2019-2020 Champion Sports Catalogue
+  year: 2020
 
 ---
