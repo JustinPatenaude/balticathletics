@@ -25,10 +25,18 @@ website: http://www.augustasportswear.com/
 pdfs:
 - "/augusta-football-2017.pdf"
 - "/augusta-basketball-2017.pdf"
-info: "Link to [Augusta Online Main Catalogue](https://www.augustasportswear.com/catalog)
-  \ \n\nLink to [Augusta Baseball/Softball Catalogue](https://viewer.zoomcatalog.com/augusta-sportswear-baseball-softball-2020)
-  \n\nLink to [Augusta Football Catalogue](https://viewer.zoomcatalog.com/augusta-sportswear-football-2020)
-  \n\nLink to [High 5 Soccer Catalogue](https://viewer.zoomcatalog.com/augusta-sportswear-soccer-2020)"
+info: |-
+  Augusta is located in Augusta, Georgia and offers not only Augusta brands but Holloway, High 5, Pacific Headwear and Russell Athletic.
+
+  Link to [Augusta Online Main Catalogue](https://www.augustasportswear.com/catalog)
+
+  Link to [Augusta Baseball/Softball Catalogue](https://viewer.zoomcatalog.com/augusta-sportswear-baseball-softball-2020)
+
+  Link to [Augusta Football Catalogue](https://viewer.zoomcatalog.com/augusta-sportswear-football-2020)
+
+  Link to [High 5 Soccer Catalogue](https://viewer.zoomcatalog.com/augusta-sportswear-soccer-2020)
+
+  [Augusta Sportswear Brands Sizes and Fits](https://www.augustasportswear.com/sizes-and-fits)
 date: '2019-03-29T22:18:11.000+00:00'
 catalogues:
 - pdf: "/ASB-Football-2020.pdf"
