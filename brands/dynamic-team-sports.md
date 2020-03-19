@@ -62,6 +62,8 @@ catalogues:
   pdf: "/dynamic-fanwear-and-pro-gear-2019.pdf"
   year: 2019
 photos:
+- title: Treherne Basketball
+  photo: "/PO 3765 Non-Reversible.png"
 - title: Throwback Tee Crew Neck
   photo: "/Throwback tee crew neck.PNG"
 
