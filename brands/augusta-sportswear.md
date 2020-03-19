@@ -40,12 +40,12 @@ info: |-
 date: '2019-03-29T22:18:11.000+00:00'
 catalogues: []
 photos:
-- title: Holloway
-  photo: "/Holloway_stacked_colorjpg.jpg"
-- photo: "/high 5 logo.jpg"
-  title: High 5
 - photo: "/russell logo.jpg"
   title: Russell
+- photo: "/high 5 logo.jpg"
+  title: High 5
+- title: Holloway
+  photo: "/Holloway_stacked_colorjpg.jpg"
 - photo: "/augusta-sportswear-1660-navy-white.webp"
 - photo: "/augusta-sportswear-1548-red-red-mod.webp"
 - photo: "/augusta-sportswear-1161-dark-green-dark-green-digi.webp"
