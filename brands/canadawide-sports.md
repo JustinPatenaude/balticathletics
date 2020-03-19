@@ -26,7 +26,7 @@ catalogues:
   pdf: "/canadawide-sports-NAMI.pdf"
 photos:
 - photo: "/HDB-BB-LBS-2T.jpg"
-- photo: "/ROA-HOC-PTGPLUS14-2T.jpg"
+- photo: "/FRK-BB-24834-2T_PITCHING MACHINE.jpg"
 - photo: "/ROA-HOC-CBS24-1.jpg"
 - photo: "/ROA-HOC-RCM-NS-2T.jpg"
 
