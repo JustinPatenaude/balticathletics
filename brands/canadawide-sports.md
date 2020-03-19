@@ -24,5 +24,7 @@ catalogues:
 - title: Canadawide Sports NAMI
   year: 0
   pdf: "/canadawide-sports-NAMI.pdf"
+photos:
+- photo: "/ROA-HOC-RCM-NS-2T.jpg"
 
 ---
