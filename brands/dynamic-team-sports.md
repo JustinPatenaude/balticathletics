@@ -78,6 +78,8 @@ catalogues:
   pdf: "/dynamic-fanwear-and-pro-gear-2019.pdf"
   year: 2019
 photos:
+- title: Long sleeve Volleyball real
+  photo: "/Ladies v-ball 700 series long sleeve.png"
 - title: Warm ups
   photo: "/Dynamic_Warm-ups.jpg"
 - title: Soccer
