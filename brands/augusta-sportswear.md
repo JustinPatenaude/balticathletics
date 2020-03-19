@@ -32,5 +32,7 @@ info: "Link to [Augusta Online Main Catalogue](https://www.augustasportswear.com
 date: '2019-03-29T22:18:11.000+00:00'
 catalogues:
 - pdf: "/ASB-Football-2020.pdf"
+photos:
+- photo: "/augusta-sportswear-333.webp"
 
 ---
