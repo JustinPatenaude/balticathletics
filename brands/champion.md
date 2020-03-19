@@ -19,7 +19,7 @@ catalogues:
 info: |-
   Champion was established in 1919 in Rochester, NY. It was originally named Knickerbocker Knitting Mills :)
 
-  A household name trusted by many!
+  A household name trusted by many! Catalyst is the Canadian distributor for Champion.
 photos:
 - title: S260 Champion Performance Full Zip Jacket
   photo: "/S260-stone-grey-black.jpg"
