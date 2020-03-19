@@ -17,7 +17,7 @@ catalogues:
 - year: 2020
   title: 2020 Catalyst Group Catalogue (including Champion, Next Level & Timberlea)
   pdf: "/2020 CG Stock Catalogue.pdf"
-info: Call or email for selection and availability.
+info: ''
 photos:
 - title: S260 Champion Performance Full Zip Jacket
   photo: "/S260-stone-grey-black.jpg"
