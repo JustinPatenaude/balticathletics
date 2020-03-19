@@ -96,7 +96,7 @@ photos:
   photo: "/2020.02.19 Dyn PO 5748 RR Wild front.jpg"
 - title: Basketball
   photo: "/PO 3765 Non-Reversible.png"
-- title: Volleyball
+- title: Volleyball - Pipers
   photo: "/Screenshot_3.png"
 - title: Track singlets - Glenella
   photo: "/glenella-mens.png"
