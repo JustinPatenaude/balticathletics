@@ -34,7 +34,30 @@ pdfs:
 - "/dynamic-football-2019.pdf"
 - "/dynamic-soccer-2019.pdf"
 - "/dynamic-hockey-2019.pdf"
-info: Baltic Athletics is Dynamic’s preferred dealer in Western Canada
+info: |-
+  Baltic Athletics is Dynamic’s preferred dealer in Western Canada. Rauno has sold Dynamic sublimated uniforms since 2003.
+
+  What is sublimation? See the process of sublimation from start to finish. [Really cool video!!](https://youtu.be/Ef0pA68FXz4)
+
+  Sublimation benefits:
+
+  \- Several fabric options
+
+  \- Lightweight, breathable
+
+  \- Full custom design – no template limitations
+
+  \- No limit of logos or designs
+
+  \- Does not peel, crack or fade
+
+  \- Will not be discontinued
+
+  \- All sports offered
+
+  \- Repeat order is ONE minimum, with underquantity charge
+
+  They have a great jersey builder on their website to assist you in designing your jerseys.
 date: '2019-03-29T22:25:07.000+00:00'
 catalogues:
 - title: Dynamic Hockey Catalogue
