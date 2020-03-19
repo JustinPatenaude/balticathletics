@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/biz-collection"
+permalink: "/brands/biz-collection/"
 categories:
 - products/aprons.md
 - products/hoodies.md
@@ -29,9 +29,8 @@ photos:
   photo: "/SW025M_Worn.jpg"
 - title: Hype Pants
   photo: "/TP712M_Worn.jpg.jpg"
-info: |-
-  2020 Online Catalogue: [https://issuu.com/fashionbiznz/docs/2020_biz_collection_-_ca?fr=sZTUzZDg2NjQ3](https://issuu.com/fashionbiznz/docs/2020_biz_collection_-_ca?fr=sZTUzZDg2NjQ3 "https://issuu.com/fashionbiznz/docs/2020_biz_collection_-_ca?fr=sZTUzZDg2NjQ3")
-
-  2020 Online New Styles Guide: [https://issuu.com/fashionbiznz/docs/2020_stylebook__ca_new_styles?fr=sZmNmYjg2NjQ3](https://issuu.com/fashionbiznz/docs/2020_stylebook__ca_new_styles?fr=sZmNmYjg2NjQ3 "https://issuu.com/fashionbiznz/docs/2020_stylebook__ca_new_styles?fr=sZmNmYjg2NjQ3")
+info: "Biz Collection is a family-run company from New Zealand who treat their partners
+  like gold. Fast service and great product.\n\nLink to [Biz Collection Online Catalogue](https://issuu.com/fashionbiznz/docs/2020_biz_collection_-_ca?fr=sZTUzZDg2NjQ3)
+  \n\nLink to [Biz Collection 2020 Online New Styles Guide](https://issuu.com/fashionbiznz/docs/2020_stylebook__ca_new_styles?fr=sZmNmYjg2NjQ3) "
 
 ---
