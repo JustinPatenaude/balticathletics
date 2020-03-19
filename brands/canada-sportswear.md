@@ -2,12 +2,12 @@
 layout: brand
 permalink: "/brands/canada-sportswear/"
 categories:
-- products/track-suits.md
 - products/hoodies.md
-- products/workwear.md
-- products/sweaters.md
-- products/shirts.md
 - products/jackets.md
+- products/shirts.md
+- products/sweaters.md
+- products/track-suits.md
+- products/workwear.md
 title: Canada Sportswear
 logo: "/canada-sportswear-logo.png"
 website: http://www.canadasportswear.com/
@@ -18,8 +18,9 @@ catalogues:
 - title: 2019-20 Canada Sportswear Catalogue
   year: 2019
   pdf: "/2019 CSW_MainCatL1.pdf"
-info: '2019-20 Online CSW Catalogue: [http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01](http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01
-  "http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01")'
+info: "Canada Sportswear is a Toronto family based firm which started in 1954. Many
+  of their garments are manufactured in Toronto and they have a very efficient system.
+  \n\nLink to [CSW Online Catalogue](http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01)"
 photos:
 - title: L00687 Palm Aire Pullover Hoodie
   photo: "/L00687-blue.jpg"
