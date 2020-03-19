@@ -23,6 +23,7 @@ catalogues:
 - title: 2019 Alphabroder Catalogue
   year: 2019
 photos:
+- photo: "/88657 Serac.jpg"
 - photo: "/2019 cover.PNG"
 
 ---
