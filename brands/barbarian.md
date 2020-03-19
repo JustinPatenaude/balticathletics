@@ -2,9 +2,9 @@
 layout: brand
 permalink: "/brands/barbarian/"
 categories:
-- products/sweaters.md
-- products/shorts.md
 - products/jerseys.md
+- products/shorts.md
+- products/sweaters.md
 - products/rugby.md
 title: Barbarian
 logo: "/barbarian-logo.png"
