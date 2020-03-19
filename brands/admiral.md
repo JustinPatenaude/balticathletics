@@ -17,6 +17,7 @@ catalogues:
 - title: 2020 Admiral Catalogue
   year: 2020
 photos:
+- photo: "/first in football.PNG"
 - title: Town Jersey
   photo: "/town jersey.PNG"
 
