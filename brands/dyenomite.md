@@ -20,6 +20,7 @@ info: |-
 date: '2019-03-29T22:24:46.000+00:00'
 catalogues: []
 photos:
+- title: 4-H tee
 - title: beach tee
   photo: "/tee.PNG"
 - title: Hoodie
