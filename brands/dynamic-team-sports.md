@@ -2,26 +2,26 @@
 layout: brand
 permalink: "/brands/dynamic-team-sports/"
 categories:
-- products/volleyball.md
-- products/ultimate.md
-- products/track-suits.md
-- products/track-field.md
-- products/sweaters.md
-- products/softball.md
-- products/soccer.md
-- products/shorts.md
-- products/shirts.md
-- products/ringette.md
-- products/pants.md
-- products/lacrosse.md
-- products/jerseys.md
-- products/hockey.md
-- products/gymnastics.md
-- products/futsal.md
-- products/football.md
-- products/curling.md
-- products/basketball.md
 - products/baseball.md
+- products/basketball.md
+- products/curling.md
+- products/football.md
+- products/futsal.md
+- products/gymnastics.md
+- products/hockey.md
+- products/jerseys.md
+- products/lacrosse.md
+- products/pants.md
+- products/ringette.md
+- products/shirts.md
+- products/shorts.md
+- products/soccer.md
+- products/softball.md
+- products/sweaters.md
+- products/track-field.md
+- products/track-suits.md
+- products/ultimate.md
+- products/volleyball.md
 title: Dynamic Team Sports
 logo: "/dynamic-team-sports-logo.jpg"
 website: http://dynamicteamsports.com/
@@ -41,21 +41,14 @@ info: |-
 
   Sublimation benefits:
 
-  \- Several fabric options
-
-  \- Lightweight, breathable
-
-  \- Full custom design – no template limitations
-
-  \- No limit of logos or designs
-
-  \- Does not peel, crack or fade
-
-  \- Will not be discontinued
-
-  \- All sports offered
-
-  \- Repeat order is ONE minimum, with underquantity charge
+  * Several fabric options
+  * Lightweight, breathable
+  * Full custom design – no template limitations
+  * No limit of logos or designs
+  * Does not peel, crack or fade
+  * Will not be discontinued
+  * All sports offered
+  * Repeat order is ONE minimum, with underquantity charge
 
   They have a great jersey builder on their website to assist you in designing your jerseys.
 date: '2019-03-29T22:25:07.000+00:00'
