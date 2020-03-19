@@ -98,7 +98,7 @@ photos:
   photo: "/PO 3765 Non-Reversible.png"
 - title: Volleyball
   photo: "/Screenshot_3.png"
-- title: Track singlets
+- title: Track singlets - Glenella
   photo: "/glenella-mens.png"
 - title: Track Singlets - Killarney
   photo: "/killarney-black.png"
