@@ -19,6 +19,8 @@ info: |-
   \***All prices in USD**
 date: '2019-03-29T22:21:27.000+00:00'
 photos:
+- title: VCPRO Ball Holder
+  photo: "/VCPRO.jpg"
 - photo: "/bp2040-front_t Baseball backpack.jpg"
   title: BP2040 Baseball Backpack
 
