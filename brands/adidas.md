@@ -2,18 +2,18 @@
 layout: brand
 permalink: "/brands/adidas/"
 categories:
-- products/track-field.md
-- products/hockey.md
+- products/bags-totes-duffels.md
 - products/basketball.md
+- products/hats.md
+- products/hockey.md
+- products/hoodies.md
+- products/jackets.md
+- products/jerseys.md
+- products/pants.md
 - products/shorts.md
 - products/shirts.md
-- products/pants.md
-- products/jerseys.md
-- products/jackets.md
-- products/hoodies.md
-- products/hats.md
-- products/bags-totes-duffels.md
 - products/soccer.md
+- products/track-field.md
 title: Adidas
 logo: "/adidas-logo.png"
 website: ''
