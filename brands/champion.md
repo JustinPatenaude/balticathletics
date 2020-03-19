@@ -18,6 +18,8 @@ catalogues:
   pdf: "/2020 CG Stock Catalogue.pdf"
 info: Call or email for selection and availability.
 photos:
+- title: 8187 Champion Shorts
+  photo: "/8187-black.jpg"
 - title: P1022 Champion Pants
   photo: "/P1022-oxford.jpg"
 - title: S700 Champion Hoodie
