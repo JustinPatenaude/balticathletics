@@ -9,11 +9,10 @@ categories:
 - products/sweaters.md
 title: Champion
 logo: "/champion-logo.png"
-website: http://catalystgroupbrands.com/wp-content/uploads/CAT/CH/01/html5/index.html?&locale=ENG
+website: catalystgroupbrands.com
 catalogues:
-- title: 2019 Champion Team Wear
-  year: 2019
-  pdf: "/Champion-Team-Wear.pdf"
+- title: 2020 Champion Teamwear
+  year: 2020
 - year: 2020
   title: 2020 Catalyst Group Catalogue (including Champion, Next Level & Timberlea)
   pdf: "/2020 CG Stock Catalogue.pdf"
