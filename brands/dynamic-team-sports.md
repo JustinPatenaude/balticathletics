@@ -102,7 +102,7 @@ photos:
   photo: "/glenella-mens.png"
 - title: Track Singlets
   photo: "/killarney-black.png"
-- title: Ladies Long-Sleeve Volleyball
+- title: Ladies Long-Sleeve Volleyball - Shock
   photo: "/shock-black.png"
 
 ---
