@@ -14,7 +14,7 @@ website: http://www.dyenomite.com/
 pdfs:
 - "/dyenomite-2017.pdf"
 info: |-
-  All hand-dyed in the USA. Can even produce custom tye-die designs (subject to minimums)
+  All hand-dyed in the USA. They even produce custom tye-die designs (subject to minimums)
 
   Link to [Dyenomite Online Catalogue](http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01)
 date: '2019-03-29T22:24:46.000+00:00'
