@@ -12,6 +12,8 @@ website: ''
 catalogues:
 - title: Barbarian Performance Apparel
   pdf: "/BARBARIAN-Performance-Apparel.pdf"
-info: Known for their Rugby Wear - Made in Canada
+info: Known for their Rugby Wear - Made in Canada since 1981
+photos:
+- photo: "/bar shorts.PNG"
 
 ---
