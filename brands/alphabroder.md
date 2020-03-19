@@ -2,17 +2,20 @@
 layout: brand
 permalink: "/brands/alphabroder/"
 categories:
-- products/sweaters.md
 - products/jackets.md
 - products/jerseys.md
 - products/pants.md
 - products/shirts.md
 - products/shorts.md
+- products/sweaters.md
 title: Alphabroder
 logo: "/alphabroder-logo.jpg"
 website: https://www.alphabroder.ca/
 pdfs: []
-info: Link to [Online Catalogue](https://viewer.zoomcatalog.com/alphabroder-2019-canada)
+info: |-
+  Alphabroder carries a great line of Corporate Wear including Puma, Devon & Jones, North End, Team 365, Next Level, Bella & Canvas, Jerzees, Gildan, Yupoong, Spyder and Columbia, just to name a few.
+
+  Link to [Online Catalogue](https://viewer.zoomcatalog.com/alphabroder-2019-canada)
 date: '2019-03-29T22:17:21.000+00:00'
 catalogues:
 - title: 2019 Fall Alphabroder Essential Apparel
