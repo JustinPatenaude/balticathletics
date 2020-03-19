@@ -92,7 +92,7 @@ photos:
   photo: "/Dynamic_Warm-ups.jpg"
 - title: Throwback Tee Crew Neck
   photo: "/Throwback tee crew neck.PNG"
-- title: Short Sleeve Volleyball
+- title: Short Sleeve Volleyball - Red River Wild
   photo: "/2020.02.19 Dyn PO 5748 RR Wild front.jpg"
 - title: Basketball - Treherne
   photo: "/PO 3765 Non-Reversible.png"
