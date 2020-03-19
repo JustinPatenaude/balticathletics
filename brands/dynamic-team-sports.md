@@ -62,6 +62,8 @@ catalogues:
   pdf: "/dynamic-fanwear-and-pro-gear-2019.pdf"
   year: 2019
 photos:
+- title: Ladies Long-Sleeve Volleyball
+  photo: "/shock-black.png"
 - title: Track singlets
   photo: "/glenella-mens.png"
 - title: Volleyball
