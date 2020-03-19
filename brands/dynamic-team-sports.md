@@ -62,6 +62,8 @@ catalogues:
   pdf: "/dynamic-fanwear-and-pro-gear-2019.pdf"
   year: 2019
 photos:
+- title: Volleyball
+  photo: "/Screenshot_3.png"
 - title: Track Singlets
   photo: "/killarney-black.png"
 - title: Treherne Basketball
