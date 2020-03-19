@@ -35,7 +35,7 @@ pdfs:
 - "/dynamic-soccer-2019.pdf"
 - "/dynamic-hockey-2019.pdf"
 info: |-
-  Baltic Athletics is Dynamic’s preferred dealer in Western Canada.
+  Baltic Athletics is Dynamic’s preferred dealer in Canada.
 
   Rauno has sold Dynamic sublimated uniforms since 2003.
 
