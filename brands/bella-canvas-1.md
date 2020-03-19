@@ -3,14 +3,14 @@ layout: brand
 permalink: "/brands/bella-canvas/"
 categories:
 - products/hoodies.md
-- products/shirts.md
 - products/jackets.md
 - products/pants.md
+- products/shirts.md
 title: Bella+Canvas
 logo: "/bella-and-canvas-logo.jpeg"
 website: https://www.bellacanvas.com/
 catalogues: []
-info: ''
+info: The catalogue page photos show the stock that is available in Winnipeg, MB
 photos:
 - photo: "/Bella pg01.PNG"
   title: Bella & Canvas Garments - Available in Winnipeg - Page 1
