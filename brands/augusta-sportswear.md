@@ -40,6 +40,8 @@ info: |-
 date: '2019-03-29T22:18:11.000+00:00'
 catalogues: []
 photos:
+- title: Pacific Headwear
+  photo: "/pacific headwear.png"
 - photo: "/russell logo.jpg"
   title: Russell
 - photo: "/high 5 logo.jpg"
