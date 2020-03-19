@@ -21,6 +21,6 @@ photos:
 info: |-
   "Cozy up in front of the fire with a book" kinda clothing!
 
-  Prices on website and catalogues are US dollars.
+  Prices on website are in US dollars.
 
 ---
