@@ -2,10 +2,10 @@
 layout: brand
 permalink: "/brands/champion/"
 categories:
-- products/shirts.md
 - products/hoodies.md
 - products/jackets.md
 - products/pants.md
+- products/shirts.md
 - products/sweaters.md
 title: Champion
 logo: "/champion-logo.png"
@@ -16,7 +16,10 @@ catalogues:
 - year: 2020
   title: 2020 Catalyst Group Catalogue (including Champion, Next Level & Timberlea)
   pdf: "/2020 CG Stock Catalogue.pdf"
-info: ''
+info: |-
+  Champion was established in 1919 in Rochester, NY. It was originally named Knickerbocker Knitting Mills :)
+
+  A household name trusted by many!
 photos:
 - title: S260 Champion Performance Full Zip Jacket
   photo: "/S260-stone-grey-black.jpg"
