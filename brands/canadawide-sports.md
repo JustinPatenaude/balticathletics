@@ -25,6 +25,7 @@ catalogues:
   year: 0
   pdf: "/canadawide-sports-NAMI.pdf"
 photos:
+- photo: "/ROA-HOC-CBS24-1.jpg"
 - photo: "/ROA-HOC-RCM-NS-2T.jpg"
 
 ---
