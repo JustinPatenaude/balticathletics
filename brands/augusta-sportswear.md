@@ -43,6 +43,7 @@ photos:
 - photo: "/high 5 logo.jpg"
   title: High 5
 - photo: "/russell logo.jpg"
+  title: Russell
 - photo: "/augusta-sportswear-1660-navy-white.webp"
 - photo: "/augusta-sportswear-1548-red-red-mod.webp"
 - photo: "/augusta-sportswear-1161-dark-green-dark-green-digi.webp"
