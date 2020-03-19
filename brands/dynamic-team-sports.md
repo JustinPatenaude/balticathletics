@@ -100,7 +100,7 @@ photos:
   photo: "/Screenshot_3.png"
 - title: Track singlets
   photo: "/glenella-mens.png"
-- title: Track Singlets
+- title: Track Singlets - Killarney
   photo: "/killarney-black.png"
 - title: Ladies Long-Sleeve Volleyball - Shock
   photo: "/shock-black.png"
