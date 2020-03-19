@@ -94,10 +94,10 @@ photos:
   photo: "/Throwback tee crew neck.PNG"
 - title: Short Sleeve Volleyball - Red River Wild
   photo: "/2020.02.19 Dyn PO 5748 RR Wild front.jpg"
-- title: Basketball - Treherne
-  photo: "/PO 3765 Non-Reversible.png"
 - title: Volleyball - Pipers
   photo: "/Screenshot_3.png"
+- title: Basketball - Treherne
+  photo: "/PO 3765 Non-Reversible.png"
 - title: Track singlets - Glenella
   photo: "/glenella-mens.png"
 - title: Track Singlets - Killarney
