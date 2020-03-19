@@ -17,5 +17,8 @@ catalogues:
   title: 2020 Catalyst Group Catalogue (including Champion, Next Level & Timberlea)
   pdf: "/2020 CG Stock Catalogue.pdf"
 info: Call or email for selection and availability.
+photos:
+- title: S700 Champion Hoodie
+  photo: "/S700-scarlet.jpg"
 
 ---
