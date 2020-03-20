@@ -7,6 +7,8 @@ logo: ''
 website: http://www.balticathletics.sublimateduniforms.online/
 catalogues: []
 photos:
+- title: Ladies Sprint Style Track Singlet
+  photo: "/Jaguars-Blue-Side.jpg"
 - title: Dinger 2 Short Sleeve 2 Button Baseball Jersey
   photo: "/Dinger 2 ShortSleeve-2Button.png"
 - title: Double Take Reversible Basketball Jersey - Double ply that feels like Single
