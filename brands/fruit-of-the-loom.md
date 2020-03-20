@@ -8,6 +8,7 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- photo: "/SF73-navy.jpg"
 - photo: "/LSF73_black.jpg"
 - photo: "/L3930-navy.jpg"
 - photo: "/4930-true-red.jpg"
