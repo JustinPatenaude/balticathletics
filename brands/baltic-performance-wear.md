@@ -7,6 +7,8 @@ logo: ''
 website: http://www.balticathletics.sublimateduniforms.online/
 catalogues: []
 photos:
+- title: Universal Men's Short Sleeved Modified Crew Neck (Interlock material)
+  photo: "/Universal Short Sleeve Modified Crew Neck in Interlock - Men's.png"
 - title: Sentinel Ladies Cap Sleeve Reversible V-ball Jersey
   photo: "/Sentinel Cap Reversible V-ball Jsy - Women's.png"
 - title: Attack Ladies Cap Sleeve V-ball Jersey
