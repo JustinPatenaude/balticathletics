@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: G99500 Gildan Black Performance Hoodie
+  photo: "/99500-black.jpg"
 - title: G64000 Gildan Charcoal Soft Style Tee
   photo: "/64000-charcoal.jpg"
 - title: G46500 Gildan Heather Sport Royal Lightweight Hooded/Tee
