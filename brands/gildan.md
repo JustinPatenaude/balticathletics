@@ -1,7 +1,13 @@
 ---
 layout: brand
 permalink: "/brands/gildan/"
-categories: []
+categories:
+- products/hoodies.md
+- products/jackets.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
+- products/sweaters.md
 title: Gildan
 logo: "/gildan-logo.png"
 website: ''
