@@ -8,6 +8,7 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- photo: "/L3930-cyber-pink.jpg"
 - photo: "/SF77-denim-stripe.jpg"
 - photo: "/SF76-black.jpg"
 - photo: "/SF73-navy.jpg"
