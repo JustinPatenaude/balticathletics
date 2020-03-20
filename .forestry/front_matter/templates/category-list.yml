@@ -25,5 +25,3 @@ fields:
     max: 
     labelField: 
   label: Category list
-pages:
-- _data/categories.yml
