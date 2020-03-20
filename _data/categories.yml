@@ -74,6 +74,34 @@ categories:
   - Umbrellas
   - Wind Flags
 category_list:
+- category_name: Promotional Items
+  category_products:
+  - products/aprons.md
+  - products/auto.md
+  - products/bags-totes-duffels.md
+  - products/banners.md
+  - products/blankets.md
+  - products/canopies.md
+  - products/drinkware.md
+  - products/event-planning.md
+  - products/eyewear.md
+  - products/gift-sets.md
+  - products/health-fitness.md
+  - products/home.md
+  - products/lanyards.md
+  - products/notebooks.md
+  - products/pens.md
+  - products/pets.md
+  - products/plush-novelties.md
+  - products/safety.md
+  - products/table-covers.md
+  - products/tech-items.md
+  - products/tissues.md
+  - products/tools-lights-keytags.md
+  - products/towels.md
+  - products/travel.md
+  - products/umbrellas.md
+  - products/wind-flags.md
 - category_name: Sports
   category_products:
   - products/archery.md
