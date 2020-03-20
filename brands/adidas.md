@@ -20,8 +20,10 @@ website: ''
 catalogues:
 - title: Adidas Spring Summer Team Catalogue
   year: 2020
+  pdf: "/adidas-spring-summer-2020-catalogue.pdf"
 - title: Adidas Fall Winter Team Catalogue
   year: 2019
+  pdf: "/adidas-fall-winter-2019-team-catalogue.pdf"
 info: Adidas was founded in 1949 and since then has become a household brand name.
 photos:
 - title: TIRO 19 Training Jacket
