@@ -7,6 +7,8 @@ logo: ''
 website: http://www.balticathletics.sublimateduniforms.online/
 catalogues: []
 photos:
+- title: Dinger 2 Short Sleeve 2 Button Baseball Jersey
+  photo: "/Dinger 2 ShortSleeve-2Button.png"
 - title: Double Take Reversible Basketball Jersey - Double ply that feels like Single
     Ply
   photo: "/Mens Interlock Double Take Reversible-500x500.jpg"
