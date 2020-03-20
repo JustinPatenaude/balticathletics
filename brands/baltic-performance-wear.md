@@ -1,7 +1,26 @@
 ---
 layout: brand
 permalink: "/brands/baltic-performance-wear/"
-categories: []
+categories:
+- products/baseball.md
+- products/basketball.md
+- products/blankets.md
+- products/bowling.md
+- products/football.md
+- products/hockey.md
+- products/hoodies.md
+- products/jackets.md
+- products/jerseys.md
+- products/lacrosse.md
+- products/pants.md
+- products/rugby.md
+- products/shirts.md
+- products/soccer.md
+- products/softball.md
+- products/towels.md
+- products/track-field.md
+- products/track-suits.md
+- products/volleyball.md
 title: Baltic Performance Wear
 logo: ''
 website: http://www.balticathletics.sublimateduniforms.online/
@@ -24,7 +43,8 @@ photos:
   photo: "/Attack Cap Sleeve V-ball Jsy - Ladies.png"
 - title: Competition Style Warm Up Suit
   photo: "/2019-09-05 11.49.39.jpg"
-info: ''
+info: Baltic Performance Wear (BPW) is our own sublimation label and another great
+  option that we offer in sublimated clothing.
 published: false
 
 ---
