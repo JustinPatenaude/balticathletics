@@ -25,10 +25,12 @@ info: |-
   Link to [2020 Best Sellers in Sublimated Products](http://fielsublimatedbestsellers.2020.easieflip.com/Default.htm)
 date: '2019-03-29T22:26:38.000+00:00'
 photos:
-- title: Sublimated Blanket
-  photo: "/blanket.jpg"
+- title: Retractable Banner
+  photo: "/banner.jpg"
 - title: Sublimated Tablecloths
   photo: "/sublimated tablecloth.jpg"
+- title: Sublimated Blanket
+  photo: "/blanket.jpg"
 - photo: "/towel.jpg"
   title: Swimming Towel
 
