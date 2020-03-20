@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: G18600 Gildan Red Full Zip Hoodie
+  photo: "/18600-red.jpg"
 - title: G18500 Gildan Dark Heather Pullover Hoodie
   photo: "/18500-dark-heather.jpg"
 - title: G18500 Gildan Heather Dark Green Pullover Hoodie
