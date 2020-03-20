@@ -8,6 +8,7 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- photo: "/L3930-navy.jpg"
 - photo: "/4930-true-red.jpg"
 - photo: "/3930-athletic-heather.jpg"
 
