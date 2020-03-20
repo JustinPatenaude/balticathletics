@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: G46500 Gildan Heather Sport Royal Lightweight Hooded/Tee
+  photo: "/46500-heather-sport-royal.jpg"
 - title: G18600 Gildan Red Full Zip Hoodie
   photo: "/18600-red.jpg"
 - title: G18500 Gildan Dark Heather Pullover Hoodie
