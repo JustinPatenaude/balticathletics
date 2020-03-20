@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: G18500 Gildan Heather Dark Green Pullover Hoodie
+  photo: "/18500B-heather-sport-dark-green.jpg"
 - title: 18200 Gildan Graphite Heather Sweatpants
   photo: "/18200B-graphite-heather.jpg"
 - title: G18000 Navy Gildan Sweatshirt
