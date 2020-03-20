@@ -1,4 +1,27 @@
 ---
 label: Category list
 hide_body: false
-fields: []
+fields:
+- name: category_list
+  type: field_group_list
+  fields:
+  - name: category_name
+    type: text
+    config:
+      required: false
+    label: Category name
+  - name: category_products
+    type: list
+    config:
+      use_select: true
+      min: 
+      max: 
+      source:
+        type: pages
+        section: categories
+    label: Category products
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Category list
