@@ -4,7 +4,7 @@ permalink: "/brands/adidas/"
 categories:
 - products/bags-totes-duffels.md
 - products/basketball.md
-- products/hats.md
+- products/headwear.md
 - products/hockey.md
 - products/hoodies.md
 - products/jackets.md
