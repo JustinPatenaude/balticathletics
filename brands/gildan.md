@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: 64V00L Sapphire Soft Style V-Neck Tee
+  photo: "/64V00L-sapphire.jpg"
 - title: 46S30 Gildan shorts
   photo: "/46S30-sport-dark-navy.jpg"
 
