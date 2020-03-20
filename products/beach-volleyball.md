@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/beach-volleyball/"
 title: Beach Volleyball
 products:

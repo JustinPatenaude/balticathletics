@@ -1,7 +1,7 @@
 ---
-layout: category
+layout: product
 permalink: "/products/marine-supplies/"
-title: Marine Suppliers
+title: Marine Supplies
 products:
 - Lifesaving Equipment
 - Horns

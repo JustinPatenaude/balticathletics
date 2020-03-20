@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/table-tennis/"
 title: Table Tennis
 products:

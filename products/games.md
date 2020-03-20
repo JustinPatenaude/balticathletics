@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/games/"
 title: Games
 products: []

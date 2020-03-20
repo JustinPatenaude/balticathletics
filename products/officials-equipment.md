@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/officials-equipment/"
 title: Officials Equipment
 products:

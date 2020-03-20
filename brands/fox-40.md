@@ -3,7 +3,7 @@ layout: brand
 permalink: "/brands/fox-40/"
 categories:
 - products/first-aid.md
-- products/marine-suppliers.md
+- products/marine-supplies.md
 - products/misc.md
 - products/officials-equipment.md
 - products/safety.md

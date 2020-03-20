@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/tech-items/"
 title: Tech Items
 products: []

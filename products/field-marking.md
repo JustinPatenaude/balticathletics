@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/field-marking/"
 title: Field Marking
 products:

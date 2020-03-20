@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/wind-flags/"
 title: Wind Flags
 products: []

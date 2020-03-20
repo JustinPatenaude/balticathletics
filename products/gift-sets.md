@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/gift-sets/"
 title: Gift Sets
 products: []

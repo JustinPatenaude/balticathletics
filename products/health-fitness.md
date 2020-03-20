@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/health-fitness/"
 title: Health & Fitness
 products:

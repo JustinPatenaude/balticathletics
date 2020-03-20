@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/badminton/"
 title: Badminton
 products:

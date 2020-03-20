@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/basketball/"
 title: Basketball
 products:

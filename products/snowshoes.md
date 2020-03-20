@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/snowshoes/"
 title: Snowshoes
 products:

@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/helmet-decals/"
 title: Helmet Decals
 products:

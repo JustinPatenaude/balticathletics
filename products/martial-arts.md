@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/martial-arts/"
 title: Martial Arts
 products:

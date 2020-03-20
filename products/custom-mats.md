@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/protective-padding/"
 title: Protective Padding
 products:

@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/storage-solutions/"
 title: Storage solutions
 products:

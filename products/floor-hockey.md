@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/floor-hockey/"
 title: Floor Hockey
 products:

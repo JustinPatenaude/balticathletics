@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 title: Archery
 permalink: "/products/archery/"
 suppliers:

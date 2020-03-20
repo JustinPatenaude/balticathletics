@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/table-covers/"
 title: Table Covers
 products: []

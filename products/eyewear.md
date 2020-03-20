@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/eyewear/"
 title: Eyewear
 products: []

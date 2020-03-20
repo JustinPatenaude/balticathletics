@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/water-polo/"
 title: Water Polo
 products:

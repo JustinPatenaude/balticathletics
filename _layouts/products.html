@@ -35,30 +35,33 @@ layout: default
   </div>
 </div>
 <div class="categories__all">
-  {% for catalogue in site.data.categories.categories %}
+  {% assign productPages = site.pages | where: 'layout', "product" %}
+  {% for product in site.data.product_list.product_list %}
     <div class="category">
       <div class="container">
         <div class="grid-center">
           <div class="col-10_md-12">
             <div class="page__title-wrapper cf">
-              {% assign catalogueHandle = catalogue.title | slugify %}
-              {% capture catalogueImageUrl %}/assets/images/title-{{ catalogueHandle }}.svg{% endcapture %}
+              {% assign productHandle = product.product_type | slugify %}
+              {% capture productImageUrl %}/assets/images/title-{{ productHandle }}.svg{% endcapture %}
               <div class="page__title-img-wrapper">
-                <img class="page__title-img" src="{{ catalogueImageUrl | relative_url }}" />
+                <img class="page__title-img" src="{{ productImageUrl | relative_url }}" />
               </div>
-              <h2 class="page__title">{{ catalogue.title }}</h2>
+              <h2 class="page__title">{{ product.product_type }}</h2>
             </div>
           </div>
         </div>
       </div>
-      {% if catalogue.sub-categories.size > 0 %}
+      {% if product.products.size > 0 %}
       <div class="container">
         <div class="grid-center">
           <div class="col-10_md-12">
             <div class="grid">
-              {% assign subCategories = catalogue.sub-categories | sort %}
-              {% for item in subCategories %}
-                {% assign itemHandle = item | slugify %}
+              {% assign subProducts = product.products | sort %}
+              {% for item in subProducts %}
+                {% assign itemHandle = item | remove: "products/" | remove: ".md" %}
+                {% assign itemPermalink = item | remove: ".md" | prepend: "/" | append: "/" %}
+                {% assign itemPage = productPages | where: 'permalink', itemPermalink %}
                 {% capture itemImageUrl %}/assets/images/category-{{ itemHandle }}.svg{% endcapture %}
                 <div class="col-2_md-3_sm-4_xs-6 catalogue__category-wrapper" data-category-title="{{ item | downcase }}">
                   {% capture itemLink %}/products/{{ itemHandle }}{% endcapture %}
@@ -67,7 +70,7 @@ layout: default
                       <img class="catalogue__category-img" src="{{ itemImageUrl | relative_url }}" />
                     </div>
                     <div class="catalogue__category-title-wrapper">
-                      <h5 class="catalogue__category-title">{{ item }}</h5>
+                      <h5 class="catalogue__category-title">{{ itemPage[0].title }}</h5>
                     </div>
                   </a>
                 </div>

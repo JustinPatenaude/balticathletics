@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/tools-lights-keytags/"
 title: Tools, Lights & Keytags
 products: []

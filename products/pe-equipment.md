@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/pe-equipment/"
 title: PE Equipment
 products:

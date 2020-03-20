@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/nets/"
 title: Nets
 products:

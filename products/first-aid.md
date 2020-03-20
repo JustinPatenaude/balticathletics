@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/first-aid/"
 title: First Aid
 products: []

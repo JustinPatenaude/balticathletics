@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/event-planning/"
 title: Event Planning
 products: []

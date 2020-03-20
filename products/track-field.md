@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/track-field/"
 title: Track & Field
 products:

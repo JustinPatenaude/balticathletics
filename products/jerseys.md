@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/jerseys/"
 title: Jerseys
 products: []

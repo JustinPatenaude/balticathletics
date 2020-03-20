@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/bags-totes-duffels/"
 title: Bags / Totes / Duffels
 products: []

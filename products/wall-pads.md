@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/wall-pads/"
 title: Wall Pads
 products:

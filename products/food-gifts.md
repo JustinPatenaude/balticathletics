@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/food-gifts/"
 title: Food Gifts
 products: []

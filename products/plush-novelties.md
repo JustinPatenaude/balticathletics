@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/plush-novelties/"
 title: Plush & Novelties
 products: []

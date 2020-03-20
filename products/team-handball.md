@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/team-handball/"
 title: Team Handball
 products:

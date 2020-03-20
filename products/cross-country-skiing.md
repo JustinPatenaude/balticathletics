@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/cross-country-skiing/"
 title: Cross-Country Skiing
 products:

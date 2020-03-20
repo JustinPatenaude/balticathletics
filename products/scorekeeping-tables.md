@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/scorekeeping-tables/"
 title: Scorekeeping Tables
 products:

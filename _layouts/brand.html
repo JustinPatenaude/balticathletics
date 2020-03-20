@@ -145,19 +145,19 @@ layout: default
           </div>
 
           <div class="grid">
-            {% assign categoryPages = site.pages | where: 'layout', "category" %}
-            {% for category in page.categories %}
-              {% assign categoryHandle = category | remove: "products/" | remove: ".md" %}
-              {% assign categoryPermalink = category | remove: ".md" | prepend: "/" | append: "/" %}
-              {% assign categoryPage = categoryPages | where: 'permalink', categoryPermalink %}
-              {% capture categoryImageUrl %}/assets/images/category-{{ categoryHandle }}.svg{% endcapture %}
+            {% assign productPages = site.pages | where: 'layout', "product" %}
+            {% for product in page.categories %}
+              {% assign productHandle = product | remove: "products/" | remove: ".md" %}
+              {% assign productPermalink = product | remove: ".md" | prepend: "/" | append: "/" %}
+              {% assign productPage = productPages | where: 'permalink', productPermalink %}
+              {% capture productImageUrl %}/assets/images/category-{{ productHandle }}.svg{% endcapture %}
               <div class="col-2_md-3_sm-4_xs-6 catalogue__category-wrapper">
-                <a href="{{ categoryPermalink | relative_url }}" class="catalogue__category">
+                <a href="{{ productPermalink | relative_url }}" class="catalogue__category">
                   <div class="catalogue__category-img-wrapper">
-                    <img class="catalogue__category-img" src="{{ categoryImageUrl | relative_url }}" />
+                    <img class="catalogue__category-img" src="{{ productImageUrl | relative_url }}" />
                   </div>
                   <div class="catalogue__category-title-wrapper">
-                    <h5 class="catalogue__category-title">{{ categoryPage[0].title }}</h5>
+                    <h5 class="catalogue__category-title">{{ productPage[0].title }}</h5>
                   </div>
                 </a>
               </div>

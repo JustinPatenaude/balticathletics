@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/aprons/"
 title: Aprons
 products: []

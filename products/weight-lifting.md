@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: product
 permalink: "/products/weight-lifting/"
 title: Weight Lifting
 products:
