@@ -1,12 +1,18 @@
 ---
 layout: brand
 permalink: "/brands/fruit-of-the-loom/"
-categories: []
+categories:
+- products/hoodies.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
+- products/sweaters.md
 title: Fruit of the Loom
 logo: "/fruit-of-the-loom.jpg"
 website: ''
 catalogues: []
-info: ''
+info: "Fruit of the Loom was founded in 1851 in Rhode Island, USA.\n\nA household
+  name for decades. "
 photos:
 - photo: "/L3930-cyber-pink.jpg"
 - photo: "/SF77-denim-stripe.jpg"
