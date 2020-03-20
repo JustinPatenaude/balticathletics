@@ -22,7 +22,7 @@ categories:
 - products/track-suits.md
 - products/volleyball.md
 title: Baltic Performance Wear
-logo: ''
+logo: "/BPW logo_main_color.png"
 website: http://www.balticathletics.sublimateduniforms.online/
 catalogues: []
 photos:
