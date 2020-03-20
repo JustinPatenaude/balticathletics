@@ -74,19 +74,6 @@ categories:
   - Umbrellas
   - Wind Flags
 category_list:
-- category_name: Attire & Accessories
-  category_products:
-  - products/bags-totes-duffels.md
-  - products/headwear.md
-  - products/hoodies.md
-  - products/jackets.md
-  - products/jerseys.md
-  - products/pants.md
-  - products/shirts.md
-  - products/shorts.md
-  - products/sweaters.md
-  - products/track-suits.md
-  - products/workwear.md
 - category_name: Sports
   category_products:
   - products/archery.md
@@ -130,3 +117,34 @@ category_list:
   - products/volleyball.md
   - products/water-polo.md
   - products/weight-lifting.md
+- category_name: Attire & Accessories
+  category_products:
+  - products/bags-totes-duffels.md
+  - products/headwear.md
+  - products/hoodies.md
+  - products/jackets.md
+  - products/jerseys.md
+  - products/pants.md
+  - products/shirts.md
+  - products/shorts.md
+  - products/sweaters.md
+  - products/track-suits.md
+  - products/workwear.md
+- category_name: Equipment
+  category_products:
+  - products/chairs.md
+  - products/dividers.md
+  - products/helmet-decals.md
+  - products/inflators.md
+  - products/misc.md
+  - products/nets.md
+  - products/pe-equipment.md
+  - products/pinnies.md
+  - products/volleyball.md
+  - products/custom-mats.md
+  - products/scoreboards.md
+  - products/scorekeeping-tables.md
+  - products/seating.md
+  - products/storage-solutions.md
+  - products/training-supplies.md
+  - products/wall-pads.md
