@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: G18000 Navy Gildan Sweatshirt
+  photo: "/18000-navy.jpg"
 - title: G5700 Gildan Raglan Tee
   photo: "/5700-sport-grey-black.jpg"
 - title: G2400 Long Sleeve Tee
