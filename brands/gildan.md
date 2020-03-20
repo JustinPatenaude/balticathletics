@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: 18200 Gildan Graphite Heather Sweatpants
+  photo: "/18200B-graphite-heather.jpg"
 - title: G18000 Navy Gildan Sweatshirt
   photo: "/18000-navy.jpg"
 - title: G5700 Gildan Raglan Tee
