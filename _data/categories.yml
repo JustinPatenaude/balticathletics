@@ -76,6 +76,42 @@ categories:
 category_list:
 - category_name: Sports
   category_products:
+  - products/archery.md
+  - products/badminton.md
+  - products/baseball.md
+  - products/basketball.md
+  - products/beach-volleyball.md
+  - products/bowling.md
+  - products/boxing.md
+  - products/coaching.md
+  - products/cross-country-skiing.md
+  - products/disc-golf.md
+  - products/field-marking.md
+  - products/floor-hockey.md
+  - products/football.md
+  - products/futsal.md
+  - products/golf.md
+  - products/gymnastics.md
+  - products/hockey.md
+  - products/juggling.md
+  - products/lacrosse.md
+  - products/marine-suppliers.md
+  - products/martial-arts.md
+  - products/officials-equipment.md
+  - products/orienteering.md
+  - products/pe-equipment.md
+  - products/parkour.md
+  - products/pickleball.md
+  - products/racquetball.md
+  - products/rhythmic-gymnastics.md
+  - products/ringette.md
+  - products/rugby.md
+  - products/snowshoes.md
+  - products/soccer.md
+  - products/softball.md
+  - products/table-tennis.md
+  - products/team-handball.md
+  - products/tennis.md
   - products/track-field.md
   - products/ultimate.md
   - products/volleyball.md
