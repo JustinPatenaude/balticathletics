@@ -42,6 +42,8 @@ photos:
 - title: Sublimated Blanket
   photo: "/blanket.jpg"
 catalogues:
+- title: Top Sellers and What's Trending
+  year: 2020
 - title: Tablecloths & Retractable Banners
   year: 2020
   pdf: "/2020 Tablecloths & Retractable Banners.pdf"
