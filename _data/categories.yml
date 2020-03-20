@@ -73,3 +73,11 @@ categories:
   - Travel
   - Umbrellas
   - Wind Flags
+category_list:
+- category_name: Sports
+  category_products:
+  - products/track-field.md
+  - products/ultimate.md
+  - products/volleyball.md
+  - products/water-polo.md
+  - products/weight-lifting.md
