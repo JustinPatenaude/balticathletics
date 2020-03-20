@@ -7,6 +7,8 @@ logo: ''
 website: http://www.balticathletics.sublimateduniforms.online/
 catalogues: []
 photos:
+- title: Sentinel Ladies Cap Sleeve Reversible V-ball Jersey
+  photo: "/Sentinel Cap Reversible V-ball Jsy - Women's.png"
 - title: Attack Ladies Cap Sleeve V-ball Jersey
   photo: "/Attack Cap Sleeve V-ball Jsy - Ladies.png"
 - title: Competition Style Warm Up Suit
