@@ -74,6 +74,19 @@ categories:
   - Umbrellas
   - Wind Flags
 category_list:
+- category_name: Attire & Accessories
+  category_products:
+  - products/bags-totes-duffels.md
+  - products/headwear.md
+  - products/hoodies.md
+  - products/jackets.md
+  - products/jerseys.md
+  - products/pants.md
+  - products/shirts.md
+  - products/shorts.md
+  - products/sweaters.md
+  - products/track-suits.md
+  - products/workwear.md
 - category_name: Sports
   category_products:
   - products/archery.md
