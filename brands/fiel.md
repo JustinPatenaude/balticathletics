@@ -42,6 +42,8 @@ photos:
 - title: Sublimated Blanket
   photo: "/blanket.jpg"
 catalogues:
+- title: Fiel Catalogue
+  year: 2020
 - title: 2020 Best Sellers in Sublimation
   year: 2020
   pdf: "/2020 Best Sellers in Sublimation.pdf"
