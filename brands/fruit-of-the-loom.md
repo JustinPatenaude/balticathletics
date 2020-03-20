@@ -6,6 +6,8 @@ title: Fruit of the Loom
 logo: "/fruit-of-the-loom.jpg"
 website: ''
 catalogues: []
-info: Call or email for selection and availability.
+info: ''
+photos:
+- photo: "/3930-athletic-heather.jpg"
 
 ---
