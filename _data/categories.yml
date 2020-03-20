@@ -1,53 +1,12 @@
 ---
 categories:
-- title: Cheer
-  sub-categories: ''
-- title: Fitness
-  sub-categories: []
 - title: Sports
-  sub-categories:
-  - Rhythmic Gymnastics
-  - Racquetball
-  - Parkour
-  - Gymnastics
-  - Bowling
-  - Martial Arts
-  - PE Equipment
-  - Juggling
-  - Archery
-  - Badminton
-  - Baseball
-  - Basketball
-  - Beach Volleyball
-  - Boxing
-  - Coaching
-  - Cross-Country Skiing
-  - Cycling
-  - Disc Golf
-  - Floor Hockey
-  - Football
-  - Golf
-  - Field Marking
-  - Futsal
-  - Hockey
-  - Lacrosse
-  - Marine Supplies
-  - Officials Equipment
-  - Orienteering
-  - Pickleball
-  - Ringette
-  - Rugby
-  - Snowshoes
-  - Soccer
-  - Softball
-  - Table Tennis
-  - Team Handball
-  - Tennis
-  - Track & Field
-  - Ultimate
-  - Volleyball
-  - Water Polo
-  - Weight Lifting
+  sub-categories: Rhythmic Gymnastics,Racquetball,Parkour,Gymnastics,Bowling,Martial
+    Arts,PE Equipment,Juggling,Archery,Badminton,Baseball,Basketball,Beach Volleyball,Boxing,Coaching,Cross-Country
+    Skiing,Cycling,Disc Golf,Floor Hockey,Football,Golf,Field Marking,Futsal,Hockey,Lacrosse,Marine
+    Supplies,Officials Equipment,Orienteering,Pickleball,Ringette,Rugby,Snowshoes,Soccer,Softball,Table
+    Tennis,Team Handball,Tennis,Track & Field,Ultimate,Volleyball,Water Polo,Weight
+    Lifting
 - title: Attire & Accessories
   sub-categories:
   - Track Suits
