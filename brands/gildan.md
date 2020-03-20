@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: G2400 Long Sleeve Tee
+  photo: "/2400-maroon.jpg"
 - title: Carolina Blue G2000 Cotton Tee
   photo: "/2000B-carolina-blue.jpg"
 - title: 64V00L Sapphire Soft Style V-Neck Tee
