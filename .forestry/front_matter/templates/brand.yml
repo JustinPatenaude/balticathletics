@@ -92,5 +92,6 @@ fields:
       file: _data/categories.yml
   default: []
 pages:
+- brands/baltic-performance-wear.md
 - brands/biz-collection.md
 - brands/boxercraft.md
