@@ -45,6 +45,5 @@ photos:
   photo: "/2019-09-05 11.49.39.jpg"
 info: Baltic Performance Wear (BPW) is our own sublimation label and another great
   option that we offer in sublimated clothing.
-published: false
 
 ---
