@@ -25,6 +25,8 @@ info: |-
   Link to [2020 Best Sellers in Sublimated Products](http://fielsublimatedbestsellers.2020.easieflip.com/Default.htm)
 date: '2019-03-29T22:26:38.000+00:00'
 photos:
+- title: Table Runner
+  photo: "/table runner.jpg"
 - title: Skate towel
   photo: "/skate towel.jpg"
 - title: Sublimated Tablecloths
