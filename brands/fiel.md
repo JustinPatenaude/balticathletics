@@ -27,19 +27,19 @@ date: '2019-03-29T22:26:38.000+00:00'
 photos:
 - title: Wekusko microfiber towel
   photo: "/Screenshot_1.png"
-- title: Table Runner
-  photo: "/table runner.jpg"
 - title: Skate towel
   photo: "/skate towel.jpg"
+- photo: "/towel.jpg"
+  title: Swimming Towel
 - title: Sublimated Tablecloths
   photo: "/sublimated tablecloth.jpg"
 - title: Stretch Tablecloths
   photo: "/stretch tablecloth.jpg"
+- title: Table Runner
+  photo: "/table runner.jpg"
 - title: Retractable Banner
   photo: "/banner.jpg"
 - title: Sublimated Blanket
   photo: "/blanket.jpg"
-- photo: "/towel.jpg"
-  title: Swimming Towel
 
 ---
