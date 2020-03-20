@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: G64000 Gildan Charcoal Soft Style Tee
+  photo: "/64000-charcoal.jpg"
 - title: G46500 Gildan Heather Sport Royal Lightweight Hooded/Tee
   photo: "/46500-heather-sport-royal.jpg"
 - title: G18600 Gildan Red Full Zip Hoodie
