@@ -6,6 +6,9 @@ title: Gildan
 logo: "/gildan-logo.png"
 website: ''
 catalogues: []
-info: Call or email for selection and availability.
+info: ''
+photos:
+- title: 46S30 Gildan shorts
+  photo: "/46S30-sport-dark-navy.jpg"
 
 ---
