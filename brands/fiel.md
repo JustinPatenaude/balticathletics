@@ -14,7 +14,7 @@ logo: "/fiel-logo.png"
 website: ''
 pdfs: []
 info: |-
-  Fiel has been in business for over 30 years. They have a quick production time and we have used them many times for tableclothes and towels.
+  Fiel has been in business for over 30 years. They have a quick production time and we have used them many times for tablecloths and towels.
 
   Link to [2020 Fiel Catalogue](http://fielwinternewproducts.2020.easieflip.com/Default.htm)
 
@@ -41,5 +41,9 @@ photos:
   photo: "/banner.jpg"
 - title: Sublimated Blanket
   photo: "/blanket.jpg"
+catalogues:
+- title: 2020 Best Sellers in Sublimation
+  year: 2020
+  pdf: "/2020 Best Sellers in Sublimation.pdf"
 
 ---
