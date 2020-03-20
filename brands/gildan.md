@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: G5700 Gildan Raglan Tee
+  photo: "/5700-sport-grey-black.jpg"
 - title: G2400 Long Sleeve Tee
   photo: "/2400-maroon.jpg"
 - title: Carolina Blue G2000 Cotton Tee
