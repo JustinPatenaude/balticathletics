@@ -8,6 +8,8 @@ logo: "/GET XPOSED TITLE.png"
 website: http://www.getxposed.ca/
 catalogues: []
 photos:
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 - title: C-mug personalized on 2 sides
   photo: "/mugs mock.png"
 - title: Nordic mug & Nordic cooler glass with satin etch design
