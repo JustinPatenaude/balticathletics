@@ -19,8 +19,6 @@ catalogues:
   pdf: "/Kamazu_SizeChart.jpg"
 info: ''
 photos:
-- title: Soccer Sublimated Jerseys
-  photo: "/Kamazu Soccer Sublimated.png"
 - title: Classic 10100 Jerseys
   photo: "/0000562_kamazu-flexxice-classic-10100-hockey-jersey_550.jpeg"
 - title: Reversible 12100 Jerseys
@@ -37,5 +35,7 @@ photos:
   photo: "/SK200 FlexxIce Hockey Socks.jpg"
 - title: BB2000 FlexxStrike Baseball Jerseys
   photo: "/0000512_kamazu-flexxstrike-hitter-adult-bb2000-baseball-jersey_220.png"
+- title: Soccer Sublimated Jerseys
+  photo: "/Kamazu Soccer Sublimated.png"
 
 ---
