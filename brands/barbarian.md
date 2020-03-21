@@ -10,6 +10,9 @@ title: Barbarian
 logo: "/barbarian-logo.png"
 website: ''
 catalogues:
+- title: Barbarian Women's Sizing
+  year: 0
+  pdf: "/Womens sizing.jpg"
 - title: Barbarian Men's Sizing
   year: 0
   pdf: "/Mens sizing.JPG"
