@@ -15,6 +15,8 @@ catalogues: []
 info: In Italian INARIA means "inside the 18 yard box". Inaria provides apparel with
   good fit, function and value in the world of soccer apparel.
 photos:
+- title: Anfield Shorts
+  photo: "/Inaria_Anfield Shorts.PNG"
 - title: Premiere Sock 0515
   photo: "/Inaria_Premiere Sock 0515.PNG"
 
