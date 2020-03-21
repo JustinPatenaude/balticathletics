@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/ajm-international-headwear/"
 categories:
-- products/hats.md
+- products/headwear.md
 title: AJM International Headwear
 logo: "/ajm-international-logo.jpg"
 website: http://ajmintl.com/
