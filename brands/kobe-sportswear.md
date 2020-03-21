@@ -32,6 +32,8 @@ catalogues:
   pdf: "/2020_KobeBaseballCatalogue.pdf"
   year: 2020
 photos:
+- title: SUBSHIFTTV V-neck Sublimated Baseball Jersey
+  photo: "/SUBSHIFTV v-neck baseball jersey.png"
 - title: Sublimated Hoodie
   photo: "/Sublinmated hoodie.jpg"
 - title: Viking Dangler Sublimated Hockey Lace Hoodie
