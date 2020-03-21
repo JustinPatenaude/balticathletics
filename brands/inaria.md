@@ -15,6 +15,8 @@ catalogues: []
 info: In Italian INARIA means "inside the 18 yard box". Inaria provides apparel with
   good fit, function and value in the world of soccer apparel.
 photos:
+- title: Favo Long-Sleeve Goalkeeper Jersey
+  photo: "/Inaria_Favo Long Sleeve Goalkeeper Jersey.PNG"
 - title: Anfield Shorts
   photo: "/Inaria_Anfield Shorts.PNG"
 - title: Premiere Sock 0515
