@@ -15,8 +15,12 @@ pdfs:
 info: " Made in Canada - Bamboo Garments - Lulu quality without the Lulu prices"
 date: '2019-03-29T22:20:31.000+00:00'
 catalogues:
+- title: Sheer Bamboo Size Charts
+  year: 0
+  pdf: "/Quattro Size Charts.pdf"
 - title: Quattro Size Charts
   year: 0
+  pdf: "/Quattro Size Charts.pdf"
 - title: Omega Fit Size Charts
   year: 0
   pdf: "/Omega Fit Size Charts.pdf"
