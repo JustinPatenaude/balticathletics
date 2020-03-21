@@ -26,6 +26,8 @@ info: |-
   All prices in catalogue and online in US Dollars.
 date: '2019-03-29T22:28:19.000+00:00'
 photos:
+- title: 'Powerbank #2624'
+  photo: "/2624_BLK_power bank.jpg"
 - title: 'Notebook #6971'
   photo: "/6971_FSTLIM_notebook.jpg"
 - title: 'Camp ceramic tumbler #6045'
