@@ -14,7 +14,7 @@ photos:
   photo: "/j-996M.PNG"
 - title: NuBlend Full Zip Hooded Sweatshirt 993M
   photo: "/j-993M.PNG"
-- title: Snow Heather Raglan Hoodie 90-M
+- title: Snow Heather Raglan Hoodie 90M
   photo: "/j90M snow heather raglan hoodie.PNG"
 - title: Snow Heather Ladies Raglan Full Zip Hood
   photo: "/j-92W snow heather ladies raglan full zip hood.PNG"
