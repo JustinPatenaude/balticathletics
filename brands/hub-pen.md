@@ -8,7 +8,7 @@ logo: "/Hubpen logo.jpg"
 website: ''
 catalogues: []
 info: |-
-  Great company to work with and they have a quick production time.
+  The founders of Hub Pen started in 1954 selling pens door to door in Boston, MA.  Hub is a good company to work with quick production times producing over 100 million pens a year.
 
   Looking at the photos you can tell that we like the Mardi Gras pens and have given away thousands of them.  I have also recently discovered the Max Glide Click Corporate pen which is also very nice to write with.
 
