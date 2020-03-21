@@ -19,7 +19,7 @@ catalogues:
 - title: Champion MEN'S Sizing Chart
   year: 0
   pdf: "/Size Chart - MEN'S.png"
-- title: Champion Ladies Size Chart
+- title: Champion LADIES Size Chart
   year: 0
   pdf: "/Size Chart - LADIES.png"
 - title: Champion YOUTH size chart
