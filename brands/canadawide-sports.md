@@ -25,6 +25,8 @@ catalogues:
   year: 0
   pdf: "/canadawide-sports-NAMI.pdf"
 photos:
+- title: proudly canadian
+  photo: "/proudly canadian.jpg"
 - photo: "/HDB-BB-LBS-2T.jpg"
 - photo: "/FRK-BB-24834-2T_PITCHING MACHINE.jpg"
 - photo: "/ROA-HOC-CBS24-1.jpg"
