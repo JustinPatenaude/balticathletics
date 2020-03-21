@@ -32,6 +32,8 @@ catalogues:
   pdf: "/2020_KobeBaseballCatalogue.pdf"
   year: 2020
 photos:
+- title: Sublimated Hoodie
+  photo: "/Sublinmated hoodie.jpg"
 - title: Viking Dangler Sublimated Hockey Lace Hoodie
   photo: "/VikingDangler3 Sublimated Hockey Lace Hoodie.png"
 - title: BSK009 Basketball jersey
