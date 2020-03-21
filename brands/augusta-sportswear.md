@@ -38,7 +38,10 @@ info: |-
 
   [Augusta Sportswear Brands Sizes and Fits](https://www.augustasportswear.com/sizes-and-fits)
 date: '2019-03-29T22:18:11.000+00:00'
-catalogues: []
+catalogues:
+- title: Augusta Size Guide
+  year: 0
+  pdf: "/ASB-Size-Chartpdf.PDF"
 photos:
 - photo: "/russell logo.jpg"
   title: Russell
