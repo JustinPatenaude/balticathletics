@@ -17,6 +17,7 @@ categories:
 - products/shirts.md
 - products/soccer.md
 - products/softball.md
+- products/sublimation.md
 - products/towels.md
 - products/track-field.md
 - products/track-suits.md
