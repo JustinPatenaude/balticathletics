@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: NuBlend Pocketed Jogger Sweatpants
+  photo: "/j-975MP.PNG"
 - title: NuBlend Full Zip Hooded Sweatshirt
   photo: "/j-993M.PNG"
 - title: NuBlend Adult Hoodie 996M
