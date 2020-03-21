@@ -15,6 +15,9 @@ pdfs:
 info: " Made in Canada - Bamboo Garments - Lulu quality without the Lulu prices"
 date: '2019-03-29T22:20:31.000+00:00'
 catalogues:
+- title: Brandwear Catalogue
+  year: 2019
+  pdf: "/Brandwear2019.pdf"
 - title: Sheer Bamboo Size Charts
   year: 0
   pdf: "/Sheer Bamboo Size Charts.pdf"
@@ -36,9 +39,6 @@ catalogues:
 - title: Bamboo Fleece Size Chart
   year: 0
   pdf: "/Bamboo Fleece Size Chart.pdf"
-- title: Brandwear 2019
-  year: 2019
-  pdf: "/Brandwear2019.pdf"
 photos:
 - title: 722 Darcie
   photo: "/722-Darcie-Jacket-564x846.jpg"
