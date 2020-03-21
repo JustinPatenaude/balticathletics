@@ -20,15 +20,15 @@ info: Link to [Online Custom Jersey Builder - Kustomizer](http://kobesportswear.
 date: '2019-03-29T22:29:05.000+00:00'
 catalogues:
 - title: Kobe Sportswear Catalogue
-  pdf: "/2019-kobe-catalogue.pdf"
-  year: 2019
+  pdf: ''
+  year: 2020
 - title: Kobe Sportswear Baseball Catalogue
   pdf: "/2019-kobe-baseball-catalogue.pdf"
   year: 2019
 photos:
-- title: Sublimated V-neck Baseball Jersey SUBSHIFTV
-  photo: "/SUBSHIFTV v-neck baseball jersey.png"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
+- title: Sublimated V-neck Baseball Jersey SUBSHIFTV
+  photo: "/SUBSHIFTV v-neck baseball jersey.png"
 
 ---
