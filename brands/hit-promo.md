@@ -4,7 +4,6 @@ permalink: "/brands/hit-promo/"
 categories:
 - products/auto.md
 - products/bags-totes-duffels.md
-- products/custom-mats.md
 - products/drinkware.md
 - products/eyewear.md
 - products/food-gifts.md
