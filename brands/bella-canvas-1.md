@@ -9,7 +9,10 @@ categories:
 title: Bella+Canvas
 logo: "/bella-and-canvas-logo.jpeg"
 website: https://www.bellacanvas.com/
-catalogues: []
+catalogues:
+- title: Bella & Canvas Size Charts
+  year: 0
+  pdf: "/BC_Size_Charts.pdf"
 info: The catalogue page photos show the stock that is available in Winnipeg, MB
 photos:
 - photo: "/Bella pg01.PNG"
