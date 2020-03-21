@@ -10,6 +10,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: Mardi Gras Chrome Pen
+  photo: "/419_mardi-gras-pen_TTC.jpg"
 - title: Mardi Gras Jubilee Pen
   photo: "/2020.03.09 PEN FINAL PRODUCT.jpg"
 
