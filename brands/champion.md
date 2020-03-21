@@ -11,6 +11,9 @@ title: Champion
 logo: "/champion-logo.png"
 website: catalystgroupbrands.com
 catalogues:
+- title: Champion Ladies Size Chart
+  year: 0
+  pdf: "/Size Chart - LADIES.png"
 - title: Champion Men's Sizing Chart
   year: 0
   pdf: "/Size Chart - MEN'S.png"
