@@ -8,7 +8,10 @@ categories:
 title: Jerzees
 logo: "/jerzees-logo.jpg"
 website: ''
-catalogues: []
+catalogues:
+- year: 0
+  pdf: "/crop_jerzees-fleece-size-chart.jpg"
+  title: Jerzees Fleece / Sweatshirts Sizing Charts
 info: Jerzees blank clothing is all designed for decoration and are specifically suited
   for screen printing or embroidery. Similar quality to Fruit of the Loom or Gildan.
 photos:
