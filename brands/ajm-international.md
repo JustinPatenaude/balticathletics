@@ -17,6 +17,8 @@ catalogues:
   pdf: ''
   year: 2020
 photos:
+- title: Wekusko 1B630M 6 panel rip stop cap
+  photo: "/1B630M AJM 6 panel cap.jpg"
 - title: canadian
   photo: "/proudly canadian.jpg"
 - title: Wekusko Pom Toque 9R215M
