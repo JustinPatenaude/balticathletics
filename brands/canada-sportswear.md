@@ -12,6 +12,9 @@ title: Canada Sportswear
 logo: "/canada-sportswear-logo.png"
 website: http://www.canadasportswear.com/
 catalogues:
+- title: CSW General Sizing Guide
+  year: 0
+  pdf: "/Canada Sportswear General Sizing Chart.jpg"
 - title: 2020 Spring Supplement
   year: 2020
   pdf: "/2020 Spring Supplement.pdf"
