@@ -25,5 +25,8 @@ catalogues:
 - title: Kobe Sportswear Baseball Catalogue
   pdf: "/2019-kobe-baseball-catalogue.pdf"
   year: 2019
+photos:
+- title: Made in Canada
+  photo: "/made_in_canada_400x400.jpg"
 
 ---
