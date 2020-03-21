@@ -12,7 +12,7 @@ info: ''
 photos:
 - title: Wekusko Falls Lodge - Mardi Gras Jubilee Pen
   photo: "/412 Hub Pen Mardi Gras Jubilee pen - 10th Ann.jpg"
-- title: Mardi Gras Chrome Pen
+- title: Town of Teulon Centennial - Mardi Gras Chrome Pen
   photo: "/419_mardi-gras-pen_TTC.jpg"
 - title: Mardi Gras Jubilee Pen
   photo: "/2020.03.09 PEN FINAL PRODUCT.jpg"
