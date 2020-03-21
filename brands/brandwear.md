@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/brandwear/"
 categories:
-- products/hats.md
+- products/headwear.md
 - products/jackets.md
 - products/pants.md
 - products/shirts.md
