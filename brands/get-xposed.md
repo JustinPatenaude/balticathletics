@@ -1,7 +1,8 @@
 ---
 layout: brand
 permalink: "/brands/get-xposed/"
-categories: []
+categories:
+- products/drinkware.md
 title: Get Xposed
 logo: ''
 website: http://www.getxposed.ca/
@@ -15,6 +16,7 @@ photos:
   photo: "/glass-cover.jpg"
 - title: 'Pub Glass w/basketball in the bottom #8572'
   photo: "/8572_BASKETBALL_PUB_GLASS.jpg"
-info: ''
+info: 'This website is a Winnipeg supplier and offer great pricing on ceramic wear
+  & glassware. '
 
 ---
