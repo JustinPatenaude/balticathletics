@@ -17,6 +17,8 @@ catalogues:
   pdf: ''
   year: 2020
 photos:
+- title: Wekusko 6Y837M AJM Real Tree Cap
+  photo: "/6Y837M AJM Real Tree cap.jpg"
 - title: Wekusko 1B630M 6 panel rip stop cap
   photo: "/1B630M AJM 6 panel cap.jpg"
 - title: canadian
