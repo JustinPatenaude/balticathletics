@@ -26,6 +26,8 @@ info: |-
   All prices in catalogue and online in US Dollars.
 date: '2019-03-29T22:28:19.000+00:00'
 photos:
+- title: Camo Realtree Xtra Tumbler
+  photo: "/M5706RT_RTXTRA_CAM_Silkscreen.jpg"
 - title: 'Tumbler #5900'
   photo: "/5900_PUR_Silkscreen.jpg"
 - title: 'Umbrella #4044'
