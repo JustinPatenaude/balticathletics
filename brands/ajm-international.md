@@ -17,15 +17,15 @@ catalogues:
   pdf: ''
   year: 2020
 photos:
+- title: canadian
+  photo: "/proudly canadian.jpg"
 - title: Wekusko 7C647M Chino Twill Cap w/washed patch
   photo: "/7C647M chino twill cap washed patches.jpg"
 - title: Wekusko 6Y837M AJM Real Tree Cap
   photo: "/6Y837M AJM Real Tree cap.jpg"
 - title: Wekusko 1B630M 6 panel rip stop cap
   photo: "/1B630M AJM 6 panel cap.jpg"
-- title: canadian
-  photo: "/proudly canadian.jpg"
-- title: Wekusko Pom Toque 9R215M
+- title: Wekusko 9R215M Canada Pom Toque
   photo: "/9R215M AJM CANADA POM TOQUE.jpg"
 - photo: "/6639M.jpg"
 - photo: "/9L594L.jpg"
