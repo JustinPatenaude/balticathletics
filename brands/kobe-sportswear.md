@@ -10,6 +10,7 @@ categories:
 - products/pants.md
 - products/shirts.md
 - products/shorts.md
+- products/sublimation.md
 title: Kobe Sportswear
 logo: "/kobe-logo.jpg"
 website: http://kobesportswear.com/
