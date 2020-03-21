@@ -20,11 +20,11 @@ info: Link to [Online Custom Jersey Builder - Kustomizer](http://kobesportswear.
 date: '2019-03-29T22:29:05.000+00:00'
 catalogues:
 - title: Kobe Sportswear Catalogue
-  pdf: ''
+  pdf: "/2020KobeCatalogue.pdf"
   year: 2020
-- title: Kobe Sportswear Baseball Catalogue
-  pdf: "/2019-kobe-baseball-catalogue.pdf"
-  year: 2019
+- title: Kobe Baseball Sublimated Catalogue
+  pdf: "/2020_KobeBaseballCatalogue.pdf"
+  year: 2020
 photos:
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
