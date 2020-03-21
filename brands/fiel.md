@@ -25,6 +25,8 @@ info: |-
   Link to [2020 Best Sellers in Sublimated Products](http://fielsublimatedbestsellers.2020.easieflip.com/Default.htm)
 date: '2019-03-29T22:26:38.000+00:00'
 photos:
+- title: Made in Canada
+  photo: "/made_in_canada_400x400.jpg"
 - title: Wekusko microfiber towel
   photo: "/Screenshot_1.png"
 - title: Skate towel
