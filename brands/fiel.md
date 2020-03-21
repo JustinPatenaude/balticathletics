@@ -6,6 +6,7 @@ categories:
 - products/auto.md
 - products/bags-totes-duffels.md
 - products/blankets.md
+- products/sublimation.md
 - products/table-covers.md
 - products/towels.md
 - products/travel.md
