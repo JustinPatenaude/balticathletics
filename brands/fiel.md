@@ -28,7 +28,7 @@ photos:
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
 - title: Wekusko microfiber towel
-  photo: "/Screenshot_1.png"
+  photo: "/PR178-2 towels.png"
 - title: Skate towel
   photo: "/skate towel.jpg"
 - photo: "/towel.jpg"
