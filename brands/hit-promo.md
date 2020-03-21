@@ -26,6 +26,8 @@ info: |-
   All prices in catalogue and online in US Dollars.
 date: '2019-03-29T22:28:19.000+00:00'
 photos:
+- title: Cards
+  photo: "/59_BLU_Padprint cards.jpg"
 - title: Camo sunglasses
   photo: "/M6223RT_sunglasses.jpg"
 
