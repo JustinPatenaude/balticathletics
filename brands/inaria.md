@@ -15,10 +15,12 @@ catalogues: []
 info: In Italian INARIA means "inside the 18 yard box". Inaria provides apparel with
   good fit, function and value in the world of soccer apparel.
 photos:
-- title: Genoa Long Sleeve Jersey
-  photo: "/Inaria_Genoa Long Sleeve Jersey.PNG"
+- title: Monza Jersey
+  photo: "/Inaria_Monza Jersey.PNG"
 - title: New York Cosmos Player Jersey
   photo: "/Inaria_Cosmos jersey.PNG"
+- title: Genoa Long Sleeve Jersey
+  photo: "/Inaria_Genoa Long Sleeve Jersey.PNG"
 - title: Favo Long-Sleeve Goalkeeper Jersey
   photo: "/Inaria_Favo Long Sleeve Goalkeeper Jersey.PNG"
 - title: Anfield Shorts
