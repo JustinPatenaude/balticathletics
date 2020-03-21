@@ -16,7 +16,7 @@ photos:
   photo: "/j-993M.PNG"
 - title: Snow Heather Raglan Hoodie 90M
   photo: "/j90M snow heather raglan hoodie.PNG"
-- title: Snow Heather Ladies Raglan Full Zip Hood
+- title: Snow Heather Ladies Raglan Full Zip Hood 92W
   photo: "/j-92W snow heather ladies raglan full zip hood.PNG"
 - photo: "/Jerzee PF93MR Royal.png"
   title: Jerzees Performance Full Zip PF93MR
