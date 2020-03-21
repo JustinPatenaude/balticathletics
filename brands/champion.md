@@ -11,6 +11,9 @@ title: Champion
 logo: "/champion-logo.png"
 website: catalystgroupbrands.com
 catalogues:
+- title: Champion Men's Sizing Chart
+  year: 0
+  pdf: "/Size Chart - MEN'S.png"
 - title: Champion Teamwear
   year: 2020
 - year: 2020
