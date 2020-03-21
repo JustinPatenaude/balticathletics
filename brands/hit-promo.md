@@ -26,6 +26,8 @@ info: |-
   All prices in catalogue and online in US Dollars.
 date: '2019-03-29T22:28:19.000+00:00'
 photos:
+- title: 'Tumbler #5900'
+  photo: "/5900_PUR_Silkscreen.jpg"
 - title: 'Umbrella #4044'
   photo: "/4044_NAVWHT_umbrella.jpg"
 - title: 'Alligator Clip #195'
