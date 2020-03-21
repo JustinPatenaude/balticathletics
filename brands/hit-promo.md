@@ -26,6 +26,8 @@ info: |-
   All prices in catalogue and online in US Dollars.
 date: '2019-03-29T22:28:19.000+00:00'
 photos:
+- title: 'Sports bottle #5951'
+  photo: "/5951_BLU_Silkscreen.jpg"
 - title: 'Tape-O-Matic #61'
   photo: "/61_WHT_tape o matic.jpg"
 - title: 'Realtree Xtra Camo Tumbler #M5706RT'
