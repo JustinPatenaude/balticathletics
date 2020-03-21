@@ -5,7 +5,7 @@ categories:
 - products/pens.md
 title: Hub Pen
 logo: "/Hubpen logo.jpg"
-website: ''
+website: https://hubpen.com/
 catalogues: []
 info: |-
   The founders of Hub Pen started in 1954 selling pens door to door in Boston, MA.  Hub is a good company to work with quick production times producing over 100 million pens a year.
