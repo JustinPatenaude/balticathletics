@@ -3,7 +3,6 @@ layout: brand
 permalink: "/brands/hub-pen/"
 categories:
 - products/pens.md
-- products/writing-materials.md
 title: Hub Pen
 logo: "/Hubpen logo.jpg"
 website: ''
@@ -11,7 +10,7 @@ catalogues: []
 info: |-
   Great company to work with and they have a quick production time.
 
-  Looking at the photos you can tell that we like the Mardi Gras pen and have given away thousands of them.  I recently discovered the Max Glide Click Corporate pen which is also nice to write with.
+  Looking at the photos you can tell that we like the Mardi Gras pens and have given away thousands of them.  I have also recently discovered the Max Glide Click Corporate pen which is also very nice to write with.
 
   [Pen video library](https://hubpen.com/video-grid-gallery/) including the Max Glide Click Corporate and Mardi Gras
 photos:
