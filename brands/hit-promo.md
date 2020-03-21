@@ -26,26 +26,26 @@ info: |-
   All prices in catalogue and online in US Dollars.
 date: '2019-03-29T22:28:19.000+00:00'
 photos:
-- title: 'USB #C3M'
-  photo: "/C3M_1_usb.jpg"
-- title: 'Powerbank #2624'
-  photo: "/2624_BLK_power bank.jpg"
-- title: 'Notebook #6971'
-  photo: "/6971_FSTLIM_notebook.jpg"
 - title: 'Camp ceramic tumbler #6045'
   photo: "/6045_BLKWHT_Silkscreen.jpg"
 - title: 'Sports bottle #5951'
   photo: "/5951_BLU_Silkscreen.jpg"
-- title: 'Tape-O-Matic #61'
-  photo: "/61_WHT_tape o matic.jpg"
 - title: 'Realtree Xtra Camo Tumbler #M5706RT'
   photo: "/M5706RT_RTXTRA_CAM_Silkscreen.jpg"
 - title: 'Tumbler #5900'
   photo: "/5900_PUR_Silkscreen.jpg"
-- title: 'Umbrella #4044'
-  photo: "/4044_NAVWHT_umbrella.jpg"
+- title: 'USB #C3M'
+  photo: "/C3M_1_usb.jpg"
+- title: 'Powerbank #2624'
+  photo: "/2624_BLK_power bank.jpg"
+- title: 'Tape-O-Matic #61'
+  photo: "/61_WHT_tape o matic.jpg"
+- title: 'Notebook #6971'
+  photo: "/6971_FSTLIM_notebook.jpg"
 - title: 'Alligator Clip #195'
   photo: "/195_GRNBLK_clip.jpg"
+- title: 'Umbrella #4044'
+  photo: "/4044_NAVWHT_umbrella.jpg"
 - title: 'Cards #59'
   photo: "/59_BLU_Padprint cards.jpg"
 - title: 'Realtree Xtra Camo sunglasses #M6223RT'
