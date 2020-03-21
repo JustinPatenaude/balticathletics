@@ -23,6 +23,9 @@ catalogues:
 - title: Diadora Soccer Spring Catalogue
   pdf: "/diadora-soccer-spring-2016.pdf"
   year: 2016
+- title: Diadora Size Chart
+  year: 0
+  pdf: "/sizeCharttop_large.jpg"
 photos:
 - title: Ball
   photo: "/158846 - PERFORMANCE - FIFA APPROVED.jpg"

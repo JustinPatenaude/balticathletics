@@ -10,7 +10,13 @@ categories:
 title: Fruit of the Loom
 logo: "/fruit-of-the-loom.jpg"
 website: ''
-catalogues: []
+catalogues:
+- title: Fruit of the Loom General Sizing Guide
+  year: 0
+  pdf: "/general fruit of the loom sizing chart.pdf"
+- title: Fruit of the Loom Measuring Guide
+  year: 0
+  pdf: "/FOTL Measuring Guide.png"
 info: "Fruit of the Loom was founded in 1851 in Rhode Island, USA.\n\nA household
   name for decades. "
 photos:

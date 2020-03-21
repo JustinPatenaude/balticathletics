@@ -11,11 +11,20 @@ title: Champion
 logo: "/champion-logo.png"
 website: catalystgroupbrands.com
 catalogues:
-- title: 2020 Champion Teamwear
-  year: 2020
 - year: 2020
-  title: 2020 Catalyst Group Catalogue (including Champion, Next Level & Timberlea)
+  title: Catalyst Group Catalogue (including Champion, Next Level & Timberlea)
   pdf: "/2020 CG Stock Catalogue.pdf"
+- title: Champion Teamwear
+  year: 2020
+- title: Champion MEN'S Size Chart
+  year: 0
+  pdf: "/Size Chart - MEN'S.png"
+- title: Champion LADIES Size Chart
+  year: 0
+  pdf: "/Size Chart - LADIES.png"
+- title: Champion YOUTH Size Chart
+  year: 0
+  pdf: "/Size Chart - YOUTH.png"
 info: |-
   Champion was established in 1919 in Rochester, NY. It was originally named Knickerbocker Knitting Mills :)
 

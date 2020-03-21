@@ -5,7 +5,7 @@ categories:
 - products/hockey.md
 title: Kamazu
 logo: "/kamazu-logo.jpg"
-website: ''
+website: http://ca.kamazu.net/
 catalogues: []
 info: ''
 

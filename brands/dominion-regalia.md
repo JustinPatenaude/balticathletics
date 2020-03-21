@@ -8,5 +8,8 @@ logo: "/dominion-regalia.png"
 website: ''
 catalogues: []
 info: ''
+photos:
+- title: Made in Canada
+  photo: "/made_in_canada_400x400.jpg"
 
 ---

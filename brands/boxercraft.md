@@ -10,7 +10,10 @@ categories:
 title: Boxercraft
 logo: "/boxercraft logo.jpg"
 website: https://www.boxercraft.com/
-catalogues: []
+catalogues:
+- title: Boxercraft Sizing Guide
+  year: 
+  pdf: "/boxercraft-sizing-charts.pdf"
 photos:
 - title: Flannel Shorts
   photo: "/flannel shorts.png"

@@ -23,7 +23,7 @@ info: |-
   * Tug-of-war ropes
   * Golf netting
   * Gym floor protective covers
-date: 2019-03-29 03:29:10 +0000
+date: '2019-03-29T03:29:10.000+00:00'
 categories:
 - products/archery.md
 - products/badminton.md
@@ -35,5 +35,8 @@ categories:
 - products/team-handball.md
 - products/tennis.md
 - products/volleyball.md
+photos:
+- title: made in canada
+  photo: "/made_in_canada_400x400.jpg"
 
 ---

@@ -4,16 +4,18 @@ permalink: "/brands/get-xposed/"
 categories:
 - products/drinkware.md
 title: Get Xposed
-logo: ''
+logo: "/GET XPOSED TITLE.png"
 website: http://www.getxposed.ca/
 catalogues: []
 photos:
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 - title: C-mug personalized on 2 sides
-  photo: ''
-- title: Vegas 2 tone mug
-  photo: "/2018-08-29 18.53.31.jpg"
+  photo: "/mugs mock.png"
 - title: Nordic mug & Nordic cooler glass with satin etch design
   photo: "/glass-cover.jpg"
+- title: Vegas 2 tone mug
+  photo: "/2018-08-29 18.53.31.jpg"
 - title: 'Pub Glass w/basketball in the bottom #8572'
   photo: "/8572_BASKETBALL_PUB_GLASS.jpg"
 info: 'This website is a Winnipeg supplier and offer great pricing on ceramic wear
