@@ -18,6 +18,9 @@ title: Adidas
 logo: "/adidas-logo.png"
 website: ''
 catalogues:
+- title: Adidas Men's Sizing Guide
+  year: 0
+  pdf: "/Adidas size_chart_mens_apparel-1_grande.png"
 - title: Adidas Spring Summer Team Catalogue
   year: 2020
   pdf: "/adidas-spring-summer-2020-catalogue.pdf"
