@@ -69,7 +69,7 @@ layout: default
                       <div class="supplier__pdf-icon supplier__pdf-icon--hover">
                         <i class="fas fa-file-download"></i>
                       </div>
-                      <h5 class="supplier__pdf-title">{% if catalogue.year > 0 %}<span class="supplier__pdf-year">{{ catalogue.year }}</span>{% endif %}{{ catalogue.title }}</h5>
+                      <h5 class="supplier__pdf-title">{% if catalogue.year %}<span class="supplier__pdf-year">{{ catalogue.year }}</span>{% endif %}{{ catalogue.title }}</h5>
                       <p class="supplier__pdf-link">{{ catalogue.pdf | remove_first: "/" }}</p>
                     </a>
                   </li>
