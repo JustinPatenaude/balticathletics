@@ -7,13 +7,14 @@ categories:
 - products/basketball.md
 - products/beach-volleyball.md
 - products/football.md
-- products/hats.md
+- products/headwear.md
 - products/jackets.md
 - products/jerseys.md
 - products/pants.md
 - products/shirts.md
 - products/shorts.md
 - products/soccer.md
+- products/sublimation.md
 - products/team-handball.md
 - products/tennis.md
 - products/track-field.md
