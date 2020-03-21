@@ -1,14 +1,16 @@
 ---
 layout: brand
 permalink: "/brands/jerzees/"
-categories: []
+categories:
+- products/hoodies.md
+- products/pants.md
+- products/sweaters.md
 title: Jerzees
 logo: "/jerzees-logo.jpg"
 website: ''
 catalogues: []
-info: Jerzees is part of the Berkshire Hathaway Company which as distributes Fruit
-  of the Loom, Vanity Fair, Spalding and Russell.  All their blank clothing is designed
-  for decoration and are specifically suited for screen printing or embroidery.
+info: Jerzees blank clothing is all designed for decoration and are specifically suited
+  for screen printing or embroidery. Similar quality to Fruit of the Loom or Gildan.
 photos:
 - title: NuBlend Adult Hoodie 996M
   photo: "/j-996M.PNG"
