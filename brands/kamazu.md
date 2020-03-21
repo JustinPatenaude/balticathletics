@@ -7,16 +7,17 @@ title: Kamazu
 logo: "/kamazu-logo.jpg"
 website: http://ca.kamazu.net/
 catalogues:
-- year: 0
+- year: 2019
+  title: Kamazu Catalogue
 info: ''
 photos:
-- title: Team 20100 Jerseys
-  photo: "/0000626_kamazu-flexxice-team-20100-hockey-jersey_550.jpeg"
-- title: Reversible 12100 Jerseys
-  photo: "/0000565_kamazu-flexxice-reversible-practice-12100-hockey-jersey_550.jpeg"
-- title: Lite 14100 Jersey
-  photo: "/0000563_kamazu-flexxice-lite-14100-hockey-jersey_550.jpeg"
 - title: Classic 10100 Jerseys
   photo: "/0000562_kamazu-flexxice-classic-10100-hockey-jersey_550.jpeg"
+- title: Lite 14100 Jersey
+  photo: "/0000563_kamazu-flexxice-lite-14100-hockey-jersey_550.jpeg"
+- title: Reversible 12100 Jerseys
+  photo: "/0000565_kamazu-flexxice-reversible-practice-12100-hockey-jersey_550.jpeg"
+- title: Team 20100 Jerseys
+  photo: "/0000626_kamazu-flexxice-team-20100-hockey-jersey_550.jpeg"
 
 ---
