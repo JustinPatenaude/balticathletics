@@ -14,7 +14,7 @@ catalogues:
 - title: Champion Teamwear
   year: 2020
 - year: 2020
-  title: 2020 Catalyst Group Catalogue (including Champion, Next Level & Timberlea)
+  title: Catalyst Group Catalogue (including Champion, Next Level & Timberlea)
   pdf: "/2020 CG Stock Catalogue.pdf"
 info: |-
   Champion was established in 1919 in Rochester, NY. It was originally named Knickerbocker Knitting Mills :)
