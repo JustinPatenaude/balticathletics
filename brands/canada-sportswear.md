@@ -16,7 +16,7 @@ catalogues:
   year: 2020
   pdf: "/2020 Spring Supplement.pdf"
 - title: 2019-20 Canada Sportswear Catalogue
-  year: 2019
+  year: ''
   pdf: "/2019 CSW_MainCatL1.pdf"
 - title: CSW General Sizing Guide
   year: 0
