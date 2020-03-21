@@ -32,6 +32,10 @@ catalogues:
   pdf: "/2020_KobeBaseballCatalogue.pdf"
   year: 2020
 photos:
+- title: K3GS03A Winnipeg Blue Hockey Sock
+  photo: "/K3GS03A Wpg Hockey Socks.png"
+- title: Made in Canada
+  photo: "/made_in_canada_400x400.jpg"
 - title: SUBSHIFTTV V-neck Sublimated Baseball Jersey
   photo: "/SUBSHIFTV v-neck baseball jersey.png"
 - title: Sublimated Hoodie
@@ -40,8 +44,6 @@ photos:
   photo: "/VikingDangler3 Sublimated Hockey Lace Hoodie.png"
 - title: BSK009 Basketball jersey
   photo: "/BSK009 Basketball jersey.png"
-- title: Made in Canada
-  photo: "/made_in_canada_400x400.jpg"
 - title: SUB SWINGER 2 button baseball jersey
   photo: "/SUB SWINGER 2 button baseball jersey.png"
 - title: Sublimated V-neck Baseball Jersey SUBSHIFTV
