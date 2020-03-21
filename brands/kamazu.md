@@ -9,8 +9,11 @@ website: http://ca.kamazu.net/
 catalogues:
 - year: 2019
   title: Kamazu Catalogue
+  pdf: "/2019 KAMAZU CATALOGUE.pdf"
 info: ''
 photos:
+- title: 14100 FlexxIce Lite Practice Jersey
+  photo: "/14100 FlexxIce Lite practice jsy.jpg"
 - title: Classic 10100 Jerseys
   photo: "/0000562_kamazu-flexxice-classic-10100-hockey-jersey_550.jpeg"
 - title: Lite 14100 Jersey
