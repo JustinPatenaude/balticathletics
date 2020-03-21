@@ -11,7 +11,10 @@ categories:
 title: Gildan
 logo: "/gildan-logo.png"
 website: ''
-catalogues: []
+catalogues:
+- year: 0
+  pdf: "/gildan-size chart.jpg"
+  title: Gildan Size Chart (Actual GARMENT measurements)
 info: ''
 photos:
 - title: G18500 Gildan Dark Heather Pullover Hoodie
