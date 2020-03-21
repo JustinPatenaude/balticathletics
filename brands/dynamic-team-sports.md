@@ -42,9 +42,10 @@ info: "Baltic Athletics is Dynamic’s preferred dealer in Canada.\n\nRauno has 
   crack or fade\n* Will not be discontinued\n* All sports offered\n* Repeat order
   is ONE minimum, with small under quantity charge\n\nThey have a great jersey builder
   on their website to assist you in designing your jerseys.\n\nThe Dynamic website
-  has a section of [RESOURCES](https://www.dynamicteamsports.com/resources/) which
-  offer write ups on everything from \"Choosing a Team Logo\" to \"Caring for Uniforms\"
-  to \"Ways to Raise Money for Sports Teams Uniforms\".  And everything in between. "
+  has a great section called [RESOURCES](https://www.dynamicteamsports.com/resources/)
+  which offer write ups on everything from \"Choosing a Team Logo\" to \"Caring for
+  Uniforms\" to \"Ways to Raise Money for Sports Teams Uniforms\".  And everything
+  in between. "
 date: '2019-03-29T22:25:07.000+00:00'
 catalogues:
 - title: Dynamic Hockey Catalogue
