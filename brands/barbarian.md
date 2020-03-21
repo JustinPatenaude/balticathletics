@@ -10,6 +10,9 @@ title: Barbarian
 logo: "/barbarian-logo.png"
 website: ''
 catalogues:
+- title: Barbarian Men's Sizing
+  year: 0
+  pdf: "/Mens sizing.JPG"
 - title: Barbarian Performance Apparel
   pdf: "/BARBARIAN-Performance-Apparel.pdf"
 info: Known for their Rugby Wear - Made in Canada since 1981
