@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: NuBlend Adult Hoodie 996M
+  photo: "/j-996M.PNG"
 - photo: "/Jerzee PF93MR Royal.png"
   title: PF93MR Jerzees Performance Full Zip
 
