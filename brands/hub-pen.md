@@ -12,7 +12,7 @@ info: ''
 photos:
 - title: Royal Canadian Legion - Mardi Gras Jubilee Pen 412
   photo: "/2020.03.09 PEN FINAL PRODUCT.jpg"
-- title: Wekusko Falls Lodge - Mardi Gras Jubilee Pen
+- title: Wekusko Falls Lodge - Mardi Gras Jubilee Pen 412
   photo: "/412 Hub Pen Mardi Gras Jubilee pen - 10th Ann.jpg"
 - title: Wedding give-away pen - Mardi Gras
   photo: "/20150828_152217pen.jpg"
