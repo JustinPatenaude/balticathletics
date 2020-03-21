@@ -9,6 +9,9 @@ title: Jerzees
 logo: "/jerzees-logo.jpg"
 website: ''
 catalogues:
+- title: Jerzees J-975MP Jogger Sweatpants Size Chart
+  year: 0
+  pdf: "/975mp-sizing-chart.png"
 - year: 0
   pdf: "/crop_jerzees-fleece-size-chart.jpg"
   title: Jerzees Fleece / Sweatshirts Sizing Charts
