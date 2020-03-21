@@ -18,7 +18,7 @@ photos:
   photo: "/20150828_152217pen.jpg"
 - title: Town of Teulon Centennial - Mardi Gras Chrome Pen 412
   photo: "/2019-05-30 12.06.35.jpg"
-- title: 587 Max Glide Click Corporate
+- title: Max Glide Click Corporate 587
   photo: "/587-MaxGlideClickCorporate-GROUP-Imprint.png"
 
 ---
