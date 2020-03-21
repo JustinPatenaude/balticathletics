@@ -17,7 +17,8 @@ catalogues:
 - title: Kamazu Size Chart
   year: 0
   pdf: "/Kamazu_SizeChart.jpg"
-info: ''
+info: Kamazu is a Canadian company and has been in business over 50 years. They have
+  a quick turnaround and low minimums (12 pieces per design).
 photos:
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
