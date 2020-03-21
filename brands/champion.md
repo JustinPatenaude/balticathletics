@@ -16,7 +16,7 @@ catalogues:
   pdf: "/2020 CG Stock Catalogue.pdf"
 - title: Champion Teamwear
   year: 2020
-- title: Champion MEN'S Sizing Chart
+- title: Champion MEN'S Size Chart
   year: 0
   pdf: "/Size Chart - MEN'S.png"
 - title: Champion LADIES Size Chart
