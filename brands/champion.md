@@ -22,7 +22,7 @@ catalogues:
 - title: Champion LADIES Size Chart
   year: 0
   pdf: "/Size Chart - LADIES.png"
-- title: Champion YOUTH size chart
+- title: Champion YOUTH Size Chart
   year: 0
   pdf: "/Size Chart - YOUTH.png"
 info: |-
