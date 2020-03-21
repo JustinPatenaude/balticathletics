@@ -19,6 +19,8 @@ catalogues:
 photos:
 - title: canadian
   photo: "/proudly canadian.jpg"
+- title: Wekusko Pom Toque 9R215M
+  photo: "/9R215M AJM CANADA POM TOQUE.jpg"
 - photo: "/6639M.jpg"
 - photo: "/9L594L.jpg"
 - photo: "/8G017M.jpg"
