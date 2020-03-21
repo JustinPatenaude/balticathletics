@@ -7,13 +7,14 @@ title: Kamazu
 logo: "/kamazu-logo.jpg"
 website: http://ca.kamazu.net/
 catalogues:
+- title: Kamazu Size Chart
+  year: 0
+  pdf: "/Kamazu_SizeChart.jpg"
 - year: 2019
   title: Kamazu Catalogue
   pdf: "/2019 KAMAZU CATALOGUE.pdf"
 info: ''
 photos:
-- title: SK200 FlexxIce Hockey Socks
-  photo: "/SK200 FlexxIce Hockey Socks.jpg"
 - title: Classic 10100 Jerseys
   photo: "/0000562_kamazu-flexxice-classic-10100-hockey-jersey_550.jpeg"
 - title: Reversible 12100 Jerseys
@@ -26,5 +27,7 @@ photos:
   photo: "/0000626_kamazu-flexxice-team-20100-hockey-jersey_550.jpeg"
 - title: 20100 FlexxIce Team Senior Jerseys
   photo: "/20100 FlexxIce Team Senior jsy.jpg"
+- title: SK200 FlexxIce Hockey Socks
+  photo: "/SK200 FlexxIce Hockey Socks.jpg"
 
 ---
