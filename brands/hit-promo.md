@@ -26,6 +26,8 @@ info: |-
   All prices in catalogue and online in US Dollars.
 date: '2019-03-29T22:28:19.000+00:00'
 photos:
+- title: 'Notebook #6971'
+  photo: "/6971_FSTLIM_notebook.jpg"
 - title: 'Camp ceramic tumbler #6045'
   photo: "/6045_BLKWHT_Silkscreen.jpg"
 - title: 'Sports bottle #5951'
