@@ -7,14 +7,16 @@ title: Kamazu
 logo: "/kamazu-logo.jpg"
 website: http://ca.kamazu.net/
 catalogues:
-- title: Kamazu Size Chart
-  year: 0
-  pdf: "/Kamazu_SizeChart.jpg"
 - year: 2019
   title: Kamazu Catalogue
   pdf: "/2019 KAMAZU CATALOGUE.pdf"
+- title: Kamazu Size Chart
+  year: 0
+  pdf: "/Kamazu_SizeChart.jpg"
 info: ''
 photos:
+- title: BB2000 FlexxStrike Baseball Jerseys
+  photo: "/0000512_kamazu-flexxstrike-hitter-adult-bb2000-baseball-jersey_220.png"
 - title: Classic 10100 Jerseys
   photo: "/0000562_kamazu-flexxice-classic-10100-hockey-jersey_550.jpeg"
 - title: Reversible 12100 Jerseys
