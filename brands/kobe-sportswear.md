@@ -17,7 +17,12 @@ website: http://kobesportswear.com/
 pdfs:
 - "/2019-kobe-baseball-catalogue.pdf"
 - "/2019-kobe-catalogue.pdf"
-info: Link to [Online Custom Jersey Builder - Kustomizer](http://kobesportswear.com/kustomizer/)
+info: |-
+  Kobe is proudly Canadian owned and operated, headquartered in Toronto ON with international offices in Buffalo and Shanghai.  Since 1992 Kobe has outfitted millions of athletes in all levels of hockey.
+
+  ***
+
+  Link to [Online Custom Jersey Builder - Kustomizer](http://kobesportswear.com/kustomizer/)
 date: '2019-03-29T22:29:05.000+00:00'
 catalogues:
 - title: Kobe Sportswear Catalogue
@@ -27,6 +32,8 @@ catalogues:
   pdf: "/2020_KobeBaseballCatalogue.pdf"
   year: 2020
 photos:
+- title: SUB SWINGER 2 button baseball jersey
+  photo: "/SUB SWINGER 2 button baseball jersey.png"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
 - title: Sublimated V-neck Baseball Jersey SUBSHIFTV
