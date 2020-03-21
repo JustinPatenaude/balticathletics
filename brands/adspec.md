@@ -15,7 +15,7 @@ website: http://adspecimages.com/
 pdfs:
 - "/adspec-2018.pdf"
 info: |-
-  Great supplier for outdoor tent canopies often used for track & field.
+  **Great supplier for outdoor tent canopies often used for track & field.**
 
   Peak Imprint: 50" x 17"
 
