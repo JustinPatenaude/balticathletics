@@ -2,7 +2,11 @@
 layout: brand
 permalink: "/brands/kamazu/"
 categories:
+- products/baseball.md
 - products/hockey.md
+- products/jerseys.md
+- products/soccer.md
+- products/sublimation.md
 title: Kamazu
 logo: "/kamazu-logo.jpg"
 website: http://ca.kamazu.net/
@@ -15,8 +19,6 @@ catalogues:
   pdf: "/Kamazu_SizeChart.jpg"
 info: ''
 photos:
-- title: BB2000 FlexxStrike Baseball Jerseys
-  photo: "/0000512_kamazu-flexxstrike-hitter-adult-bb2000-baseball-jersey_220.png"
 - title: Classic 10100 Jerseys
   photo: "/0000562_kamazu-flexxice-classic-10100-hockey-jersey_550.jpeg"
 - title: Reversible 12100 Jerseys
@@ -31,5 +33,7 @@ photos:
   photo: "/20100 FlexxIce Team Senior jsy.jpg"
 - title: SK200 FlexxIce Hockey Socks
   photo: "/SK200 FlexxIce Hockey Socks.jpg"
+- title: BB2000 FlexxStrike Baseball Jerseys
+  photo: "/0000512_kamazu-flexxstrike-hitter-adult-bb2000-baseball-jersey_220.png"
 
 ---
