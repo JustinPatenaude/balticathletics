@@ -25,6 +25,8 @@ info: "Canada Sportswear is a Toronto family based firm which started in 1954. M
   of their garments are manufactured in Toronto and they have a very efficient system.
   \n\nLink to [CSW Online Catalogue](http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01)"
 photos:
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 - title: L00687 Palm Aire Pullover Hoodie
   photo: "/L00687-blue.jpg"
 - title: L00811 Dynamic Fleece Jacket
