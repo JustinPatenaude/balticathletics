@@ -12,6 +12,8 @@ catalogues: []
 info: Jerzees blank clothing is all designed for decoration and are specifically suited
   for screen printing or embroidery. Similar quality to Fruit of the Loom or Gildan.
 photos:
+- title: NuBlend Pocketed Jogger Sweatpants 975MP
+  photo: "/j-975MP.PNG"
 - title: NuBlend Adult Hoodie 996M
   photo: "/j-996M.PNG"
 - title: Snow Heather Raglan Hoodie 90M
@@ -24,7 +26,5 @@ photos:
   title: Jerzees Performance Full Zip PF93MR
 - title: NuBlend Crew Sweatshirt 562M
   photo: "/j-562M nublend crew sweatshirt.PNG"
-- title: NuBlend Pocketed Jogger Sweatpants 975MP
-  photo: "/j-975MP.PNG"
 
 ---
