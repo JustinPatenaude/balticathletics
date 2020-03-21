@@ -4,6 +4,7 @@ permalink: "/brands/barbarian/"
 categories:
 - products/jerseys.md
 - products/shorts.md
+- products/sublimation.md
 - products/sweaters.md
 - products/rugby.md
 title: Barbarian
