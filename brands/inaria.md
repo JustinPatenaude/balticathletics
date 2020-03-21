@@ -11,7 +11,10 @@ categories:
 title: Inaria
 logo: "/inaria-logo.jpeg"
 website: https://www.inariasoccer.com/
-catalogues: []
+catalogues:
+- title: Inaria Soccer Sizing Chart for Uniform Apparel
+  year: 0
+  pdf: "/INARIA-Soccer-Sizing-Chart-Uniform-Socks.jpg"
 info: In Italian INARIA means "inside the 18 yard box". Inaria provides apparel with
   good fit, function and value in the world of soccer apparel.
 photos:
