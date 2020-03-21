@@ -15,8 +15,12 @@ pdfs:
 info: " Made in Canada - Bamboo Garments - Lulu quality without the Lulu prices"
 date: '2019-03-29T22:20:31.000+00:00'
 catalogues:
+- title: Omega Fit Size Charts
+  year: 0
+  pdf: "/Omega Fit Size Charts.pdf"
 - title: Helium Bamboo Jersey Size Charts
   year: 0
+  pdf: "/Helium Bamboo Jersey Size Charts.pdf"
 - title: French Terry Size Charts
   year: 0
   pdf: "/French Terry Size Charts.pdf"
