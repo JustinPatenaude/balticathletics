@@ -40,6 +40,8 @@ catalogues:
   year: 0
   pdf: "/Bamboo Fleece Size Chart.pdf"
 photos:
+- title: Made in Canada
+  photo: "/made_in_canada_400x400.jpg"
 - title: 722 Darcie
   photo: "/722-Darcie-Jacket-564x846.jpg"
 - title: 116 Diego
