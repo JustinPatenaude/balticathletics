@@ -7,6 +7,8 @@ logo: ''
 website: http://www.getxposed.ca/
 catalogues: []
 photos:
+- title: Nordic mug & glass with satin etch design
+  photo: "/glass-cover.jpg"
 - title: C-mug personalized on 2 sides
   photo: ''
 info: ''
