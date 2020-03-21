@@ -10,6 +10,10 @@ catalogues:
 - year: 0
 info: ''
 photos:
+- title: Team 20100 Jerseys
+  photo: "/0000626_kamazu-flexxice-team-20100-hockey-jersey_550.jpeg"
+- title: Reversible 12100 Jerseys
+  photo: "/0000565_kamazu-flexxice-reversible-practice-12100-hockey-jersey_550.jpeg"
 - title: Lite 14100 Jersey
   photo: "/0000563_kamazu-flexxice-lite-14100-hockey-jersey_550.jpeg"
 - title: Classic 10100 Jerseys
