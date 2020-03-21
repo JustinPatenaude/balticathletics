@@ -20,6 +20,8 @@ catalogues:
   pdf: "/Womens sizing.jpg"
 info: Known for their Rugby Wear - Made in Canada since 1981
 photos:
+- title: Made in Canada
+  photo: "/made_in_canada_400x400.jpg"
 - photo: "/bar men real.PNG"
 - photo: "/bar mat 03.PNG"
 - photo: "/barb wmn.PNG"
