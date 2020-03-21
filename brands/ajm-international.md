@@ -17,8 +17,8 @@ catalogues:
   pdf: ''
   year: 2020
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada_400x400.jpg"
+- title: canadian
+  photo: "/proudly canadian.jpg"
 - photo: "/6639M.jpg"
 - photo: "/9L594L.jpg"
 - photo: "/8G017M.jpg"
