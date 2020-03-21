@@ -19,6 +19,8 @@ catalogues:
   pdf: "/Kamazu_SizeChart.jpg"
 info: ''
 photos:
+- title: Made in Canada
+  photo: "/made_in_canada_400x400.jpg"
 - title: Classic 10100 Jerseys
   photo: "/0000562_kamazu-flexxice-classic-10100-hockey-jersey_550.jpeg"
 - title: Reversible 12100 Jerseys
