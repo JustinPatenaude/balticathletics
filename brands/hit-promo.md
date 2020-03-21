@@ -30,7 +30,7 @@ photos:
   photo: "/195_GRNBLK_clip.jpg"
 - title: 'Cards #59'
   photo: "/59_BLU_Padprint cards.jpg"
-- title: Camo sunglasses
+- title: 'Camo sunglasses #M6223RT'
   photo: "/M6223RT_sunglasses.jpg"
 
 ---
