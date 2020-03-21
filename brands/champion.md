@@ -11,7 +11,7 @@ title: Champion
 logo: "/champion-logo.png"
 website: catalystgroupbrands.com
 catalogues:
-- title: 2020 Champion Teamwear
+- title: Champion Teamwear
   year: 2020
 - year: 2020
   title: 2020 Catalyst Group Catalogue (including Champion, Next Level & Timberlea)
