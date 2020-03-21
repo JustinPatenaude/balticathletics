@@ -22,6 +22,8 @@ pdfs: []
 info: |-
   A US company that specializes in novelty items. Their printed catalogue is 976 pages!! So we use the online site and catalogues instead. The 12 photos shown are only a minuscule portion of what is available.
 
+  ***
+
   Link to [Hit Promo Products Catalogue](https://www.zoomcats.com/catalog/2020-hit-promotional-products-catalogue)
 
   All prices in catalogue and online in US Dollars.
