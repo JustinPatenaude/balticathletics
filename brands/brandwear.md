@@ -15,8 +15,11 @@ pdfs:
 info: " Made in Canada - Bamboo Garments - Lulu quality without the Lulu prices"
 date: '2019-03-29T22:20:31.000+00:00'
 catalogues:
+- title: Bamboo Size Charts
+  year: 0
 - title: Bamboo Fleece Size Chart
   year: 0
+  pdf: "/Bamboo Fleece Size Chart.pdf"
 - title: Brandwear 2019
   year: 2019
   pdf: "/Brandwear2019.pdf"
