@@ -25,18 +25,21 @@ info: |-
   Link to [Online Custom Jersey Builder - Kustomizer](http://kobesportswear.com/kustomizer/)
 date: '2019-03-29T22:29:05.000+00:00'
 catalogues:
-- title: Kobe Goalie Sizing
+- title: Kobe Sublimation Colours
   year: 0
-  pdf: "/Kobe-Goalie-Sizing.png"
-- title: Kobe Hockey Player Sizing
-  year: 0
-  pdf: "/Kobe-Player-Sizing.png"
+  pdf: "/Kobe sublimation colours.pdf"
 - title: Kobe Sportswear Catalogue
   pdf: "/2020KobeCatalogue.pdf"
   year: 2020
 - title: Kobe Baseball Sublimated Catalogue
   pdf: "/2020_KobeBaseballCatalogue.pdf"
   year: 2020
+- title: Kobe Goalie Sizing
+  year: 0
+  pdf: "/Kobe-Goalie-Sizing.png"
+- title: Kobe Hockey Player Sizing
+  year: 0
+  pdf: "/Kobe-Player-Sizing.png"
 photos:
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
