@@ -15,12 +15,9 @@ categories:
 - products/soccer.md
 - products/volleyball.md
 title: SanMar ATC
-logo: "/ATC logo.jpg"
-website: ''
+logo: "/Sanmar ATC logo.jpg"
+website: https://www.sanmarcanada.com/shop-catalogue/shop-by-brand.html
 catalogues:
-- title: Sanmar New Arrivals
-  year: 2020
-  pdf: "/2020SanmarNewArrivals.pdf"
 - title: ATC Sizing Guide
   year: 
   pdf: "/General-Sizing-Guide.pdf"
@@ -49,13 +46,18 @@ photos:
   photo: "/J7603-graphite.jpg"
 - title: J7604 Colour Block Soft Shell
   photo: "/J7604-black-gold.jpg"
-info: |-
-  ATC & Sanmar offer a great product and value price with their products. We have sold hundreds of the Pro Team shirts and Game Day Hoodies.
-
-  ***
-
-  ATC offers a great NO BLEED fabric in most of their garments. This is especially important with printing white ink on red or maroon garments. We did a test with two red garments. See the difference. The garment on the right is ATC no-bleed.
-
-  ![](/2018-01-21 16.12.04.jpg)
+info: "Sanmar carries many brands including DryFrame, Coal Harbour, Authentic T-Shirt
+  Company (ATC), Koi, The North Face, Flexfit, Yupoong, OGIO, Callaway, Eddie Bauer,
+  New Era, Gildan & Realtree.  \n\n***\n\nSanmar offer a great product and value price
+  with their products. We have sold hundreds of the Pro Team shirts and Game Day Hoodies.\n\n***\n\nLink
+  to [2020 SanMar Team & Fanware Catalogue](//www.zoomcats.com/catalog/baltic-sanmar-2020-team-fanwear-catalogue)\n\nLink
+  to [2020 SanMar New Arrivals](//www.zoomcats.com/catalog/baltic-sanmar-2020-new-arrivals)\n\nLink
+  to [2020 SanMar Apparel, Bags & Caps Catalog](//www.zoomcats.com/catalog/baltic-sanmar-2020-team-fanwear-catalogue)\n\nLink
+  to [2020 SanMar Colour Guide](//www.zoomcats.com/catalog/baltic-sanmar-2020-colour-guide)
+  \ - A great place to find your team/school colour and see what is offered in that
+  colour. Very helpful!\n\n***\n\nATC offers a great **NO BLEED fabric** in most of
+  their garments. This is especially important with printing white ink on red or maroon
+  garments. We did a test with two red garments. See the difference. The garment on
+  the right is ATC no-bleed.\n\n![](/2018-01-21 16.12.04.jpg)"
 
 ---
