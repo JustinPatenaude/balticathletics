@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/authentic-t-shirt-company-(ATC)"
+permalink: "/brands/authentic-t-shirt-company"
 categories:
 - products/badminton.md
 - products/bags-totes-duffels.md
@@ -14,7 +14,7 @@ categories:
 - products/shorts.md
 - products/soccer.md
 - products/volleyball.md
-title: Authentic T-Shirt Company (ATC)
+title: Authentic T-Shirt Company
 logo: "/ATC logo.jpg"
 website: ''
 catalogues:
@@ -46,10 +46,13 @@ photos:
   photo: "/J7603-graphite.jpg"
 - title: J7604 Colour Block Soft Shell
   photo: "/J7604-black-gold.jpg"
-info: "ATC & Sanmar offer a great product and value price with their products. We
-  have sold hundreds of the Pro Team shirts and Game Day Hoodies.\n\nATC offers a
-  great NO BLEED fabric in most of their garments. This is especially important with
-  printing white ink on red or maroon garments. We did a test with two red garments
-  (one no-bleed ATC and one regular). See the difference. "
+info: |-
+  ATC & Sanmar offer a great product and value price with their products. We have sold hundreds of the Pro Team shirts and Game Day Hoodies.
+
+  ***
+
+  ATC offers a great NO BLEED fabric in most of their garments. This is especially important with printing white ink on red or maroon garments. We did a test with two red garments. See the difference. The garment on the right is ATC no-bleed.
+
+  ![](/2018-01-21 16.12.04.jpg)
 
 ---
