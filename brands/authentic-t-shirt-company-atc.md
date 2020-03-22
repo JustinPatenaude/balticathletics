@@ -15,7 +15,7 @@ categories:
 - products/soccer.md
 - products/volleyball.md
 title: Authentic T-Shirt Company (ATC)
-logo: ''
+logo: "/ATC logo.jpg"
 website: ''
 catalogues:
 - title: ATC Sizing Guide
@@ -46,7 +46,10 @@ photos:
   photo: "/J7603-graphite.jpg"
 - title: J7604 Colour Block Soft Shell
   photo: "/J7604-black-gold.jpg"
-info: ATC & Sanmar offer a great product and value price with their products. We have
-  sold hundreds of the Pro Team shirts and Game Day Hoodies.
+info: "ATC & Sanmar offer a great product and value price with their products. We
+  have sold hundreds of the Pro Team shirts and Game Day Hoodies.\n\nATC offers a
+  great NO BLEED fabric in most of their garments. This is especially important with
+  printing white ink on red or maroon garments. We did a test with two red garments
+  (one no-bleed ATC and one regular). See the difference. "
 
 ---
