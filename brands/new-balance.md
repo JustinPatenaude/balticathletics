@@ -9,12 +9,12 @@ title: New Balance
 logo: "/new-balance-logo.png"
 website: ''
 catalogues:
-- title: New Balance LADIES Measuring Guide
-  year: 0
-  pdf: "/Women's Measuring Guidelines.PNG"
 - title: New Balance MEN'S Measuring Guide
   year: 0
   pdf: "/Men's Measuring Guidelines.PNG"
+- title: New Balance LADIES Measuring Guide
+  year: 0
+  pdf: "/Women's Measuring Guidelines.PNG"
 info: ''
 photos:
 - title: MT81036P NB Performance Tee
