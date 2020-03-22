@@ -22,6 +22,8 @@ catalogues:
   year: 0
   pdf: "/Russell Sizing Guide.png"
 photos:
+- title: R-64HTTM0 Essential Lightweight Hoodie
+  photo: "/64HTTM_8RX_lightweight hoodie.jpg"
 - title: 5R5DLM Single Ply Reversible Basketball Jersey
   photo: "/5R6DLM_DWI_bball uniform.jpg"
 - title: 698HBM1 Cotton Crew Sweatshirt
