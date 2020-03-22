@@ -31,6 +31,8 @@ catalogues:
 - title: Pukka Baseball Catalogue
   year: 2020
 photos:
+- title: Cuffed Toques
+  photo: "/group_cuffed.png"
 - title: Custom caps
   photo: "/group_5panel.png"
 - title: Golf Caps
