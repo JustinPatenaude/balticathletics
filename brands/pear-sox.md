@@ -23,14 +23,14 @@ catalogues:
   year: 0
   pdf: "/Pear Sox All Sport Size chart.jpg"
 photos:
-- title: Ross L Gray Custom Socks
-  photo: "/RLG Pear Sox.PNG"
 - title: Arborg A's Custom Socks
   photo: "/Arborg.PNG"
-- title: Pointe-des-Chênes Custom Socks
-  photo: "/PDC pear side sock.JPG"
 - title: Treherne Tigers Custom Socks
   photo: "/Screenshot (247).png"
+- title: Pointe-des-Chênes Custom Socks
+  photo: "/PDC pear side sock.JPG"
+- title: Ross L Gray Custom Socks
+  photo: "/RLG Pear Sox.PNG"
 - title: Allsport Forest Sock
   photo: "/pear-sox-forest_v2.jpg"
 - title: Pear Custom 1
