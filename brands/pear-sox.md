@@ -23,6 +23,8 @@ catalogues:
   year: 0
   pdf: "/Pear Sox All Sport Size chart.jpg"
 photos:
+- title: Pointe-des-Chênes Custom Socks
+  photo: "/PDC pear side sock.JPG"
 - title: Treherne Tigers Custom Socks
   photo: "/Screenshot (247).png"
 - title: Allsport Forest Sock
