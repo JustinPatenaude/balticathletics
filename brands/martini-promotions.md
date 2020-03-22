@@ -5,15 +5,20 @@ categories:
 - products/aprons.md
 - products/auto.md
 - products/bags-totes-duffels.md
+- products/baseball.md
+- products/basketball.md
 - products/blankets.md
+- products/cycling.md
 - products/eyewear.md
 - products/headwear.md
+- products/hockey.md
 - products/home.md
 - products/lanyards.md
 - products/made-in-canada.md
 - products/plush-novelties.md
 - products/pets.md
 - products/shirts.md
+- products/soccer.md
 - products/sublimation.md
 - products/tech-items.md
 - products/tissues.md
@@ -42,8 +47,6 @@ catalogues:
   year: 0
   pdf: "/Lanyards options.jpg"
 photos:
-- title: 4008 Sublimated Soccer Jersey
-  photo: "/4008-sublimated Soccer Jersey.jpg"
 - title: École Julie-Riel Classic Lanyard - 1 sided decoration w/lobster clip
   photo: "/Julie-Riel lanyard.PNG"
 - title: Niverville Middle School - Full colour sublimation Lanyard with breakaway
@@ -54,6 +57,8 @@ photos:
   photo: "/Churchill Lanyards.PNG"
 - title: Baltic Fully Sublimated Lanyard
   photo: "/Baltic lanyard.PNG"
+- title: 4008 Sublimated Soccer Jersey
+  photo: "/4008-sublimated Soccer Jersey.jpg"
 - title: 8012RUN Sublimated Tees
   photo: "/8012RUN.JPG"
 
