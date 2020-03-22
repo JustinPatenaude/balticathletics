@@ -10,6 +10,8 @@ logo: "/OGIO_LOGO_WEB.jpg"
 website: ''
 catalogues: []
 photos:
+- title: 411063 Colton Backpack
+  photo: "/411063_blk-rd-silver_2013.jpg"
 - title: 411069 Excelsior Backpack
   photo: "/411069_blacksilver_ogio14.jpg"
 - title: 711140 Carbon Backpack
