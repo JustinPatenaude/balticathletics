@@ -1,12 +1,18 @@
 ---
 layout: brand
 permalink: "/brands/puma/"
-categories: []
+categories:
+- products/hoodies.md
+- products/jackets.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
+- products/sweaters.md
 title: Puma
 logo: "/puma-logo.png"
 website: ''
 catalogues: []
-info: Call or email for selection and availability.
+info: ''
 photos:
 - photo: "/597021_54_z.jpg"
 - photo: "/596990_45_z.jpg"
