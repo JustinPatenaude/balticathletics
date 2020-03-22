@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/atc/"
+permalink: "/brands/atc"
 categories:
 - products/badminton.md
 - products/bags-totes-duffels.md
