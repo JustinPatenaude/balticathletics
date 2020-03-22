@@ -20,8 +20,8 @@ info: |-
 
   Link to [Tough Duck Hi-Vis at a Glance](https://toughduck.com/articles/hi-vis-at-a-glance/)
 photos:
-- title: Insulated Safety Pull-On Pant S614
-  photo: "/S614-BLACK-F-Work-King-Safety-by-Tough-Duck-Mens-Insulated-Pull-On-Hi-Vis-Safety-Pant-Black-Front.png"
+- title: Unlined Coverall i063
+  photo: "/i063-NAVY-F-Work-King-Mens-Unlined-Coverall-Navy-Front.png"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
 - title: Tough Duck
@@ -32,5 +32,7 @@ photos:
   photo: "/WJ18-BROWN-F-Tough-Duck-Mens-Abraham-Duck-Hydro-Parka-Brown-Front.png"
 - title: 5 in 1 Safety Jacket
   photo: "/S426-FLGR-F-Work-King-Safety-by-Tough-Duck-Mens-5-in-1-Safety-Jacket-Fluorescent-Green-Front.png"
+- title: Insulated Safety Pull-On Pant S614
+  photo: "/S614-BLACK-F-Work-King-Safety-by-Tough-Duck-Mens-Insulated-Pull-On-Hi-Vis-Safety-Pant-Black-Front.png"
 
 ---
