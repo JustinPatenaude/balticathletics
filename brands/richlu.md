@@ -20,6 +20,8 @@ info: |-
 
   Link to [Tough Duck Hi-Vis at a Glance](https://toughduck.com/articles/hi-vis-at-a-glance/)
 photos:
+- title: Made in Canada
+  photo: "/made_in_canada_400x400.jpg"
 - title: Quilted Freezer Jacket WJ16
   photo: "/WJ16-BLACK-F-Tough-Duck-Mens-Quilted-Jacket-Black-Front.png"
 - title: Abraham Hydro Parka WJ18
