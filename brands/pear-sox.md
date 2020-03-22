@@ -6,6 +6,8 @@ categories:
 - products/basketball.md
 - products/football.md
 - products/hockey.md
+- products/lacrosse.md
+- products/rugby.md
 - products/soccer.md
 - products/socks.md
 title: Pear Sox
@@ -21,7 +23,7 @@ date: '2019-03-29T22:31:35.000+00:00'
 catalogues:
 - title: Pearsox Catalogue
   year: 2019
-  pdf: ''
+  pdf: "/Pear Sox 2020 Catalogue.pdf"
 - title: Pear Sox Sizing
   year: 0
   pdf: "/Pear Sox Sizing.PNG"
