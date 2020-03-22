@@ -20,10 +20,12 @@ info: |-
 
   Link to [Tough Duck Hi-Vis at a Glance](https://toughduck.com/articles/hi-vis-at-a-glance/)
 photos:
-- title: Tough Duck
-  photo: "/TD-Logo-RGB-1200x1200.jpg"
+- title: Insulated Safety Pull-On Pant S614
+  photo: "/S614-BLACK-F-Work-King-Safety-by-Tough-Duck-Mens-Insulated-Pull-On-Hi-Vis-Safety-Pant-Black-Front.png"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
+- title: Tough Duck
+  photo: "/TD-Logo-RGB-1200x1200.jpg"
 - title: Quilted Freezer Jacket WJ16
   photo: "/WJ16-BLACK-F-Tough-Duck-Mens-Quilted-Jacket-Black-Front.png"
 - title: Abraham Hydro Parka WJ18
