@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/sanmar-atc"
+permalink: "/brands/atc"
 categories:
 - products/badminton.md
 - products/bags-totes-duffels.md
@@ -14,8 +14,8 @@ categories:
 - products/shorts.md
 - products/soccer.md
 - products/volleyball.md
-title: SanMar ATC
-logo: "/Sanmar ATC logo.jpg"
+title: ATC
+logo: "/ATC logo.jpg"
 website: https://www.sanmarcanada.com/shop-catalogue/shop-by-brand.html
 catalogues:
 - title: ATC Sizing Guide
@@ -46,19 +46,17 @@ photos:
   photo: "/ATCF2500 hoodie.jpg"
 - title: ATCF2700 Everyday Quarter Zip Pullover
   photo: "/ATCF2700-dark-heather-grey.jpg"
-info: "Sanmar Canada carries many brands including DryFrame, Coal Harbour, Authentic
-  T-Shirt Company (ATC), Koi, The North Face, Flexfit, Yupoong, [OGIO](https://balticathletics.com/brands/ogio),
-  Callaway, Eddie Bauer, New Era, [Gildan ](https://balticathletics.com/brands/gildan/)&
-  Realtree.  \n\n***\n\nSanmar offer a great product selection and the ATC brand offers
-  value priced items. We have sold hundreds of the Pro Team shirts and Game Day Hoodies.\n\n***\n\nLink
-  to [2020 SanMar Team & Fanware Catalogue](//www.zoomcats.com/catalog/baltic-sanmar-2020-team-fanwear-catalogue)\n\nLink
-  to [2020 SanMar New Arrivals](//www.zoomcats.com/catalog/baltic-sanmar-2020-new-arrivals)\n\nLink
-  to [2020 SanMar Apparel, Bags & Caps Catalog](//www.zoomcats.com/catalog/baltic-sanmar-2020-team-fanwear-catalogue)\n\nLink
-  to [2020 SanMar Colour Guide](//www.zoomcats.com/catalog/baltic-sanmar-2020-colour-guide)
-  \ - A great place to find your team/school colour and see what is offered in that
-  colour. Very helpful!\n\n***\n\nATC offers a great **NO BLEED fabric** in most of
-  their garments. This is especially important with printing white ink on red or maroon
-  garments. We did a test with two red garments. See the difference. The garment on
-  the right is ATC Pro Team no-bleed.\n\n![](/2018-01-21 16.12.04.jpg)"
+info: |-
+  Sanmar Canada carries many brands including DryFrame, Coal Harbour, **Authentic T-Shirt Company (ATC)**, Koi, The North Face, Flexfit, Yupoong, [OGIO](https://balticathletics.com/brands/ogio), Callaway, Eddie Bauer, New Era, [Gildan ](https://balticathletics.com/brands/gildan/)& Realtree.
+
+  ***
+
+  ATC brand offers value priced items. We have sold hundreds of the Pro Team shirts and Game Day Hoodies.
+
+  ***
+
+  ATC offers a great **NO BLEED fabric** in most of their garments. This is especially important with printing white ink on red or maroon garments. We did a test with two red garments. See the difference. The garment on the right is ATC Pro Team no-bleed.
+
+  ![](/2018-01-21 16.12.04.jpg)
 
 ---
