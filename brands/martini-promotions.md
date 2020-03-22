@@ -38,6 +38,8 @@ catalogues:
   title: Martini Vispak New Products
   pdf: "/New-Products-2020_catalogue.pdf"
 photos:
+- title: Tradeshow Classic Lanyard, 2 sided print
+  photo: "/LTCP2S Tradeshow Classic Lanyard, 2 side print.jpg"
 - title: Churchill Bulldogs Fully Sublimated Lanyards
   photo: "/Churchill Lanyards.PNG"
 
