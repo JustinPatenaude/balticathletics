@@ -20,6 +20,8 @@ info: |-
 
   Link to [Tough Duck Hi-Vis at a Glance](https://toughduck.com/articles/hi-vis-at-a-glance/)
 photos:
+- title: Tough Duck
+  photo: "/TD-Logo-RGB-1200x1200.jpg"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
 - title: Quilted Freezer Jacket WJ16
