@@ -13,6 +13,8 @@ pdfs:
 info: |-
   100% customizable headwear with low minimums.
 
+  Many decoration options including embroidery, woven labels, clip labels, sublimated poly patches, felt patches, screen print leather patch, canvas clip label and custom pom colours.
+
   Pukka has been creating custom headwear in the USA since 1992.
 
   ***
@@ -33,18 +35,18 @@ catalogues:
 photos:
 - title: Team Sports Caps
   photo: "/teamsports_group.png"
-- title: Cuffed Cable Knit Toque
-  photo: "/hero-cuffedcableknit.png"
+- title: Custom caps
+  photo: "/group_5panel.png"
+- title: Golf Caps
+  photo: "/golf_group.png"
 - title: Bucket Caps
   photo: "/header-largebrim.jpg"
 - title: Visors
   photo: "/group_visors.png"
 - title: Cuffed Toques
   photo: "/group_cuffed.png"
-- title: Custom caps
-  photo: "/group_5panel.png"
-- title: Golf Caps
-  photo: "/golf_group.png"
+- title: Cuffed Cable Knit Toque
+  photo: "/hero-cuffedcableknit.png"
 - title: CW-06 Pom Toque
   photo: "/cw-06-full.jpg"
 
