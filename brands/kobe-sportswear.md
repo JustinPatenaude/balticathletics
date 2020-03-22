@@ -32,10 +32,10 @@ catalogues:
   pdf: "/2020_KobeBaseballCatalogue.pdf"
   year: 2020
 photos:
-- title: HKY0311 Sublimated Hockey Jersey mock
-  photo: "/HKY0311 Sublimated Hockey Jersey.png"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
+- title: HKY0311 Sublimated Hockey Jersey mock
+  photo: "/HKY0311 Sublimated Hockey Jersey.png"
 - title: 6103A Winnipeg Jets Stock Hockey Jersey
   photo: "/6103A Kobe Winnipeg hockey jersey.png"
 - title: K3GS03A Winnipeg Blue Hockey Sock
