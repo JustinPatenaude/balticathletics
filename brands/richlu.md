@@ -20,6 +20,8 @@ info: |-
 
   Link to [Tough Duck Hi-Vis at a Glance](https://toughduck.com/articles/hi-vis-at-a-glance/)
 photos:
+- title: Abraham Hydro Parka WJ18
+  photo: "/WJ18-BROWN-F-Tough-Duck-Mens-Abraham-Duck-Hydro-Parka-Brown-Front.png"
 - title: 5 in 1 Safety Jacket
   photo: "/S426-FLGR-F-Work-King-Safety-by-Tough-Duck-Mens-5-in-1-Safety-Jacket-Fluorescent-Green-Front.png"
 
