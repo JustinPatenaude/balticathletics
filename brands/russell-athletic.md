@@ -2,11 +2,13 @@
 layout: brand
 permalink: "/brands/russell-athletic/"
 categories:
+- products/basketball.md
 - products/football.md
 - products/hoodies.md
 - products/jerseys.md
-- products/shirts.md
 - products/pants.md
+- products/shirts.md
+- products/shorts.md
 title: Russell Athletic
 logo: "/russell-logo.png"
 website: ''
@@ -22,16 +24,14 @@ catalogues:
   year: 0
   pdf: "/Russell Sizing Guide.png"
 photos:
-- title: R-64HTTM0 Essential Lightweight Hoodie
-  photo: "/64HTTM_8RX_lightweight hoodie.jpg"
-- title: 5R5DLM Single Ply Reversible Basketball Jersey
-  photo: "/5R6DLM_DWI_bball uniform.jpg"
 - title: 698HBM1 Cotton Crew Sweatshirt
   photo: "/698HBM1 crew sweatshirt (6).jpg"
 - title: 695HBM1 Cotton Hoodie
   photo: "/695HBM1_black.png"
 - title: 63HBM0 Raglan Cotton Hoodie
   photo: "/693HBM0 OXF_BLK.jpg"
+- title: R-64HTTM0 Essential Lightweight Hoodie
+  photo: "/64HTTM_8RX_lightweight hoodie.jpg"
 - title: R-1Z4HBM0 Men's Dri-Power Fleece 1/4 Zip
   photo: "/R-1Z4HBM0 Quarter Zip Cadet Pullover.jpg"
 - title: 64STTM0 Essential Cotton Performance Tee
@@ -44,6 +44,8 @@ photos:
   photo: "/S81XCM_Football Jersey.jpg"
 - title: RAIGR4 5 pocket integrated Girdle
   photo: "/RAIGR4_GSV_5 pocket girdle.jpg"
+- title: 5R5DLM Single Ply Reversible Basketball Jersey
+  photo: "/5R6DLM_DWI_bball uniform.jpg"
 - title: 136 Russell Reversible Tank
   photo: "/Russell reversible 136 purple gold.jpg"
 
