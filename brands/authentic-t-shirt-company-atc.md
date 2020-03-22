@@ -20,7 +20,7 @@ website: ''
 catalogues:
 - title: Sanmar New Arrivals
   year: 2020
-  pdf: ''
+  pdf: "/2020SanmarNewArrivals.pdf"
 - title: ATC Sizing Guide
   year: 
   pdf: "/General-Sizing-Guide.pdf"
