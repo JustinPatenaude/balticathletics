@@ -18,6 +18,9 @@ title: Authentic T-Shirt Company
 logo: "/ATC logo.jpg"
 website: ''
 catalogues:
+- title: Sanmar New Arrivals
+  year: 2020
+  pdf: ''
 - title: ATC Sizing Guide
   year: 
   pdf: "/General-Sizing-Guide.pdf"
