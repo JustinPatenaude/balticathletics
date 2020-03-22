@@ -18,6 +18,8 @@ info: |-
   Link to [Hats 101](https://www.pukkainc.com/hats-101/)
 date: '2019-03-29T22:32:17.000+00:00'
 catalogues:
+- title: Pukka Baseball Catalogue
+  year: 2020
 - title: Pukka Team New Releases
   year: 2020
   pdf: "/team_new_releases catalogue.pdf"
@@ -27,8 +29,5 @@ catalogues:
 - title: Pukka Custom Catalogue
   year: 2019
   pdf: "/2019-pukka-custom-catalogue.pdf"
-- title: Pukka Golf Catalogue
-  pdf: "/2019-pukka-golf-catalogue.pdf"
-  year: 2019
 
 ---
