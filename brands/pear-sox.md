@@ -19,12 +19,12 @@ info: |-
   Pear Sox is a USA manufacturer that has been in business since 1992.
 date: '2019-03-29T22:31:35.000+00:00'
 catalogues:
+- title: Pearsox Catalogue
+  year: 2019
+  pdf: ''
 - title: Pear Sox Sizing
   year: 0
   pdf: "/Pear Sox Sizing.PNG"
-- title: Pearsox Catalogue
-  year: 2019
-  pdf: "/2019-pearsox-catalogue.pdf"
 photos:
 - title: Arborg A's Custom Socks
   photo: "/Arborg.PNG"
