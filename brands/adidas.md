@@ -13,6 +13,7 @@ categories:
 - products/shorts.md
 - products/shirts.md
 - products/soccer.md
+- products/socks.md
 - products/track-field.md
 title: Adidas
 logo: "/adidas-logo.png"
