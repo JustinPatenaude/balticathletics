@@ -41,6 +41,8 @@ catalogues:
   year: 0
   pdf: "/Lanyards options.jpg"
 photos:
+- title: École Julie-Riel Classic Lanyard - 1 sided decoration w/lobster clip
+  photo: "/Julie-Riel lanyard.PNG"
 - title: Niverville Middle School - Full colour sublimation Lanyard with breakaway
   photo: "/1012_5(10-12-09-55-40).jpg"
 - title: Tradeshow Classic Lanyard, 2 sided print
