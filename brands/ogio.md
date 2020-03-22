@@ -10,6 +10,8 @@ logo: "/OGIO_LOGO_WEB.jpg"
 website: ''
 catalogues: []
 photos:
+- title: OE350 Performance Tee
+  photo: "/OE350 perf tee.jpg"
 - title: OG143 Polo Shirt
   photo: "/OG143 polo.jpg"
 - title: LOE703 Ladies Modern Full zip
