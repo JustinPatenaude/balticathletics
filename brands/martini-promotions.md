@@ -42,8 +42,8 @@ catalogues:
   year: 0
   pdf: "/Lanyards options.jpg"
 photos:
-- title: Baltic Fully Sublimated Lanyard
-  photo: "/Baltic lanyard.PNG"
+- title: 8012RUN Sublimated Tees
+  photo: "/8012RUN.JPG"
 - title: École Julie-Riel Classic Lanyard - 1 sided decoration w/lobster clip
   photo: "/Julie-Riel lanyard.PNG"
 - title: Niverville Middle School - Full colour sublimation Lanyard with breakaway
@@ -52,5 +52,7 @@ photos:
   photo: "/LTCP2S Tradeshow Classic Lanyard, 2 side print.jpg"
 - title: Churchill Bulldogs Fully Sublimated Lanyards
   photo: "/Churchill Lanyards.PNG"
+- title: Baltic Fully Sublimated Lanyard
+  photo: "/Baltic lanyard.PNG"
 
 ---
