@@ -31,6 +31,7 @@ catalogues:
 - title: Pukka Baseball Catalogue
   year: 2020
 photos:
+- title: Golf Caps
 - title: CW-06 Pom Toque
   photo: "/cw-06-full.jpg"
 
