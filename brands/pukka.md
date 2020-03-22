@@ -32,7 +32,7 @@ catalogues:
   year: 2020
 photos:
 - title: Custom caps
-  photo: "/golf_group.png"
+  photo: "/group_5panel.png"
 - title: Golf Caps
   photo: "/golf_group.png"
 - title: CW-06 Pom Toque
