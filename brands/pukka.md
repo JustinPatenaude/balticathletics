@@ -30,5 +30,8 @@ catalogues:
   year: 2020
 - title: Pukka Baseball Catalogue
   year: 2020
+photos:
+- title: CW-06 Pom Toque
+  photo: "/cw-06-full.jpg"
 
 ---
