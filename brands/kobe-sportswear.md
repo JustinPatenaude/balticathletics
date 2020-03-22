@@ -25,6 +25,9 @@ info: |-
   Link to [Online Custom Jersey Builder - Kustomizer](http://kobesportswear.com/kustomizer/)
 date: '2019-03-29T22:29:05.000+00:00'
 catalogues:
+- title: Kobe Hockey Player Sizing
+  year: 0
+  pdf: "/Kobe-Player-Sizing.png"
 - title: Kobe Sportswear Catalogue
   pdf: "/2020KobeCatalogue.pdf"
   year: 2020
@@ -32,10 +35,10 @@ catalogues:
   pdf: "/2020_KobeBaseballCatalogue.pdf"
   year: 2020
 photos:
-- title: Kobe hockey
-  photo: "/kobe hockey player.PNG"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
+- title: Kobe hockey
+  photo: "/kobe hockey player.PNG"
 - title: HKY0311 Sublimated Hockey Jersey mock
   photo: "/HKY0311 Sublimated Hockey Jersey.png"
 - title: 6103A Winnipeg Jets Stock Hockey Jersey
