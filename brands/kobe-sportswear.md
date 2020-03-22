@@ -41,6 +41,8 @@ catalogues:
   year: 0
   pdf: "/Kobe sublimation colours.pdf"
 photos:
+- title: S-JKT Sublimated Warm-Up Jacket
+  photo: "/S-JKT Sublimated Warm-Up Jacket.png"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
 - title: Kobe hockey
