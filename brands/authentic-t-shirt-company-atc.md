@@ -1,20 +1,35 @@
 ---
 layout: brand
 permalink: "/brands/authentic-t-shirt-company-(ATC)"
-categories: []
+categories:
+- products/badminton.md
+- products/bags-totes-duffels.md
+- products/golf.md
+- products/headwear.md
+- products/hoodies.md
+- products/jackets.md
+- products/jerseys.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
+- products/soccer.md
+- products/volleyball.md
 title: Authentic T-Shirt Company (ATC)
 logo: ''
 website: ''
-catalogues: []
+catalogues:
+- title: ATC Sizing Guide
+  year: 
+  pdf: "/General-Sizing-Guide.pdf"
 photos:
-- title: S350LS Pro Team Long Sleeve Tee
-  photo: "/S350LS-true-red.jpg"
 - title: S350 Performance Tee
   photo: "/S350-coal-grey.jpg"
 - title: S3519 Pro Team Home & Away Jersey
   photo: "/S3519-black-true-red.jpg"
 - title: S355 Pro Team Shorts
   photo: "/S355-true-navy.jpg"
+- title: S350LS Pro Team Long Sleeve Tee
+  photo: "/S350LS-true-red.jpg"
 - title: S445 Performance Polo Shirt
   photo: "/S445-black.jpg"
 - title: F2005 Game Day Performance Pullover Hoodie
@@ -31,6 +46,7 @@ photos:
   photo: "/J7603-graphite.jpg"
 - title: J7604 Colour Block Soft Shell
   photo: "/J7604-black-gold.jpg"
-info: ''
+info: ATC & Sanmar offer a great product and value price with their products. We have
+  sold hundreds of the Pro Team shirts and Game Day Hoodies.
 
 ---
