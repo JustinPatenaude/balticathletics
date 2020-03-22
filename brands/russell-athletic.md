@@ -22,6 +22,8 @@ catalogues:
   year: 0
   pdf: "/Russell Sizing Guide.png"
 photos:
+- title: S81XCM Football Jersey
+  photo: "/S81XCM_Football Jersey.jpg"
 - title: R-1Z4HBM0 Men's Dri-Power Fleece 1/4 Zip
   photo: "/R-1Z4HBM0 Quarter Zip Cadet Pullover.jpg"
 - title: 64STTM0 Essential Cotton Performance Tee
