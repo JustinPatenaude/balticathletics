@@ -42,6 +42,8 @@ catalogues:
   year: 0
   pdf: "/Lanyards options.jpg"
 photos:
+- title: 4008 Sublimated Soccer Jersey
+  photo: "/4008-sublimated Soccer Jersey.jpg"
 - title: École Julie-Riel Classic Lanyard - 1 sided decoration w/lobster clip
   photo: "/Julie-Riel lanyard.PNG"
 - title: Niverville Middle School - Full colour sublimation Lanyard with breakaway
