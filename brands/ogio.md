@@ -10,6 +10,8 @@ logo: "/OGIO_LOGO_WEB.jpg"
 website: ''
 catalogues: []
 photos:
+- title: 108089 Rage Duffel
+  photo: "/108089_red_2013_1.jpg"
 - title: 411095 Break Away Duffel
   photo: "/411095_geargreyblack.jpg"
 - title: 411043 Juggernaut Backpack
