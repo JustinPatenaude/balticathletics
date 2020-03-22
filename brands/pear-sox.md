@@ -23,6 +23,10 @@ catalogues:
   year: 0
   pdf: "/Pear Sox All Sport Size chart.jpg"
 photos:
+- title: Pear Custom 4
+  photo: "/Pear custom 04.png"
+- title: Pear Custom 3
+  photo: "/Pear custom 03.png"
 - title: Pear Custom 2
   photo: "/Pear custom 02.png"
 - title: Pear Custom 1
