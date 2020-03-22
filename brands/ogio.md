@@ -10,6 +10,8 @@ logo: "/OGIO_LOGO_WEB.jpg"
 website: ''
 catalogues: []
 photos:
+- title: 108085 Crunch Duffel
+  photo: "/108085_wasabe_2011_1.jpg"
 - title: 108087 Big Dome Duffel
   photo: "/108087_bigdome_petrol_2013.jpg"
 - title: 108089 Rage Duffel
