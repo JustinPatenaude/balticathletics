@@ -7,12 +7,14 @@ logo: ''
 website: ''
 catalogues: []
 photos:
+- title: S355 Pro Team Shorts
+  photo: "/S355-true-navy.jpg"
+- title: S350 Performance Tee
+  photo: "/S350-coal-grey.jpg"
 - title: S3519 Pro Team Home & Away Jersey
   photo: "/S3519-black-true-red.jpg"
 - title: S445 Performance Polo Shirt
   photo: "/S445-black.jpg"
-- title: S350 Performance Tee
-  photo: "/S350-coal-grey.jpg"
 - title: F2005 Game Day Performance Pullover Hoodie
   photo: "/F2005-true-royal.jpg"
 - title: F2011 Game Day Colour Block Performance Hoodie
