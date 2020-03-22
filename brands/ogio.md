@@ -10,6 +10,9 @@ title: OGIO
 logo: "/OGIO_LOGO_WEB.jpg"
 website: ''
 catalogues:
+- title: Ogio Catalogue
+  year: 2020
+  pdf: ''
 - title: OGIO Size Chart
   year: 
   pdf: "/OGIO_sizechart.jpg"
