@@ -32,10 +32,12 @@ catalogues:
   pdf: "/2020_KobeBaseballCatalogue.pdf"
   year: 2020
 photos:
-- title: K3GS03A Winnipeg Blue Hockey Sock
-  photo: "/K3GS03A Wpg Hockey Socks.png"
+- title: 6103A Winnipeg Jets Stock Hockey Jersey
+  photo: "/6103A Kobe Winnipeg hockey jersey.png"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
+- title: K3GS03A Winnipeg Blue Hockey Sock
+  photo: "/K3GS03A Wpg Hockey Socks.png"
 - title: SUBSHIFTTV V-neck Sublimated Baseball Jersey
   photo: "/SUBSHIFTV v-neck baseball jersey.png"
 - title: Sublimated Hoodie
