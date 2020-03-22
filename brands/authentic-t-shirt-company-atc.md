@@ -46,10 +46,11 @@ photos:
   photo: "/J7603-graphite.jpg"
 - title: J7604 Colour Block Soft Shell
   photo: "/J7604-black-gold.jpg"
-info: "Sanmar carries many brands including DryFrame, Coal Harbour, Authentic T-Shirt
-  Company (ATC), Koi, The North Face, Flexfit, Yupoong, OGIO, Callaway, Eddie Bauer,
-  New Era, Gildan & Realtree.  \n\n***\n\nSanmar offer a great product and value price
-  with their products. We have sold hundreds of the Pro Team shirts and Game Day Hoodies.\n\n***\n\nLink
+info: "Sanmar Canada carries many brands including DryFrame, Coal Harbour, Authentic
+  T-Shirt Company (ATC), Koi, The North Face, Flexfit, Yupoong, [OGIO](https://balticathletics.com/brands/ogio),
+  Callaway, Eddie Bauer, New Era, [Gildan ](https://balticathletics.com/brands/gildan/)&
+  Realtree.  \n\n***\n\nSanmar offer a great product and value price with their products.
+  We have sold hundreds of the Pro Team shirts and Game Day Hoodies.\n\n***\n\nLink
   to [2020 SanMar Team & Fanware Catalogue](//www.zoomcats.com/catalog/baltic-sanmar-2020-team-fanwear-catalogue)\n\nLink
   to [2020 SanMar New Arrivals](//www.zoomcats.com/catalog/baltic-sanmar-2020-new-arrivals)\n\nLink
   to [2020 SanMar Apparel, Bags & Caps Catalog](//www.zoomcats.com/catalog/baltic-sanmar-2020-team-fanwear-catalogue)\n\nLink
