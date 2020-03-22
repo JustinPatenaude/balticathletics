@@ -22,6 +22,8 @@ catalogues:
   year: 
   pdf: "/General-Sizing-Guide.pdf"
 photos:
+- title: F2045 Vintage Hoodies
+  photo: "/F2045-black-heather.jpg"
 - title: S350 Performance Tee
   photo: "/S350-coal-grey.jpg"
 - title: S3519 Pro Team Home & Away Jersey
