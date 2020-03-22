@@ -10,7 +10,10 @@ categories:
 title: Nike
 logo: "/nike-logo.png"
 website: ''
-catalogues: []
+catalogues:
+- title: Nike Size Chart
+  year: 0
+  pdf: "/Nike size chart.jpg"
 info: Nike was founded in 1964 in Oregon as Blue Ribbon Sports by Bill Bowerman and
   Phil Knight. The company takes its name from Nike, the Greek goddess of victory.
 photos:
