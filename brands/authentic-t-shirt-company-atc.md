@@ -7,6 +7,8 @@ logo: ''
 website: ''
 catalogues: []
 photos:
+- title: S3519 Pro Team Home & Away Jersey
+  photo: "/S3519-black-true-red.jpg"
 - title: S445 Performance Polo Shirt
   photo: "/S445-black.jpg"
 - title: S350 Performance Tee
