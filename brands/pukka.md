@@ -10,9 +10,16 @@ pdfs:
 - "/2019-pukka-team-catalogue.pdf"
 - "/2019-pukka-custom-catalogue.pdf"
 - "/2019-pukka-golf-catalogue.pdf"
-info: ''
+info: |-
+  Customizable headwear with low minimums.
+
+  ***
+
+  Link to [Hats 101](https://www.pukkainc.com/hats-101/)
 date: '2019-03-29T22:32:17.000+00:00'
 catalogues:
+- title: Pukka Team New Releases
+  year: 2020
 - title: Pukka Team Catalogue
   year: 2019
   pdf: "/2019-pukka-team-catalogue.pdf"
