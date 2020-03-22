@@ -22,6 +22,8 @@ catalogues:
   year: 
   pdf: "/General-Sizing-Guide.pdf"
 photos:
+- title: L2042 Vintage 1/2 Zip Ladies Sweatshirt
+  photo: "/L2042-cardinal-heather.jpg"
 - title: F2045 Vintage Hoodies
   photo: "/F2045-black-heather.jpg"
 - title: S350 Performance Tee
