@@ -23,6 +23,8 @@ catalogues:
   year: 0
   pdf: "/Pear Sox All Sport Size chart.jpg"
 photos:
+- title: Pear Custom 2
+  photo: "/Pear custom 02.png"
 - title: Pear Custom 1
   photo: "/Pear custom 01.png"
 - title: Allsport Solid Stock Colours
