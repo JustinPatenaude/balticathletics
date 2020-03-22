@@ -10,6 +10,8 @@ logo: "/OGIO_LOGO_WEB.jpg"
 website: ''
 catalogues: []
 photos:
+- title: 108087 Big Dome Duffel
+  photo: "/108087_bigdome_petrol_2013.jpg"
 - title: 108089 Rage Duffel
   photo: "/108089_red_2013_1.jpg"
 - title: 411095 Break Away Duffel
