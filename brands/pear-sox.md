@@ -23,6 +23,8 @@ catalogues:
   year: 0
   pdf: "/Pear Sox All Sport Size chart.jpg"
 photos:
+- title: Treherne Tigers Custom Socks
+  photo: "/TigersPawscratchAllsportAdult2.pdf"
 - title: Allsport Forest Sock
   photo: "/pear-sox-forest_v2.jpg"
 - title: Pear Custom 5
