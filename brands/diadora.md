@@ -7,6 +7,7 @@ categories:
 - products/jerseys.md
 - products/pants.md
 - products/soccer.md
+- products/socks.md
 title: Diadora
 logo: "/diadora-logo.jpg"
 website: http://www.diadora.com/en/
