@@ -23,6 +23,8 @@ catalogues:
   year: 0
   pdf: "/Pear Sox All Sport Size chart.jpg"
 photos:
+- title: Arborg A's Custom Socks
+  photo: "/ACI_allsport-socks.png"
 - title: Pointe-des-Chênes Custom Socks
   photo: "/PDC pear side sock.JPG"
 - title: Treherne Tigers Custom Socks
