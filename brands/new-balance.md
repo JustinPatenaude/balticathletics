@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: Call or email for selection and availability.
 photos:
+- title: WT01017P Women's Tank Top
+  photo: "/WT01017P Women's Tank Top.jpg"
 - title: WJ53816 Ladies Performance Jacket
   photo: "/WJ53816 ladies perf jacket.jpg"
 - title: MT81037P Men's Long Sleeve Performance Tee
