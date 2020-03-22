@@ -3,15 +3,17 @@ layout: brand
 permalink: "/brands/ogio"
 categories:
 - products/bags-totes-duffels.md
+- products/jackets.md
 - products/shirts.md
 - products/sweaters.md
 title: OGIO
 logo: "/OGIO_LOGO_WEB.jpg"
 website: ''
-catalogues: []
+catalogues:
+- title: OGIO Size Chart
+  year: 
+  pdf: "/OGIO_sizechart.jpg"
 photos:
-- title: OE700 Endurance Fulcrum Full Zip
-  photo: "/OE700 Endurance Fulcrum Full Zip.jpg"
 - title: 108085 Crunch Duffel
   photo: "/108085_wasabe_2011_1.jpg"
 - title: 108087 Big Dome Duffel
@@ -34,6 +36,8 @@ photos:
   photo: "/OG143 polo.jpg"
 - title: LOE703 Ladies Modern Full zip
   photo: "/LOE703 Ladies Modern Full zip.jpg"
-info: I use OGIO bags often but they also have clothing.
+- title: OE700 Endurance Fulcrum Full Zip
+  photo: "/OE700 Endurance Fulcrum Full Zip.jpg"
+info: I use OGIO bags often, but they also have clothing.
 
 ---
