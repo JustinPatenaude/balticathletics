@@ -7,6 +7,8 @@ logo: ''
 website: ''
 catalogues: []
 photos:
+- title: L2005 Game Day Ladies Pullover Hoodie
+  photo: "/L2005-true-navy.jpg"
 - title: J7604 Colour Block Soft Shell
   photo: "/J7604-black-gold.jpg"
 info: ''
