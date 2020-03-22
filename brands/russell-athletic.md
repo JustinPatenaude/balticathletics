@@ -24,6 +24,8 @@ catalogues:
   year: 0
   pdf: "/Russell Sizing Guide.png"
 photos:
+- title: R-64LTTX0 Ladies Essential Long Sleeve Tee
+  photo: "/64LTTX_NAV_essential long sleeve tee ladies.jpg"
 - title: 698HBM1 Cotton Crew Sweatshirt
   photo: "/698HBM1 crew sweatshirt (6).jpg"
 - title: 695HBM1 Cotton Hoodie
@@ -36,8 +38,6 @@ photos:
   photo: "/R-1Z4HBM0 Quarter Zip Cadet Pullover.jpg"
 - title: 64STTM0 Essential Cotton Performance Tee
   photo: "/64STTM0 ESSENTIAL SS TEE.jpg"
-- photo: "/64STTM0 ESSENTIAL SS TEE.jpg"
-  title: Men's Cotton Performance Tee
 - title: R-596HBM0 Sweatpants
   photo: "/596HBM0_blk.jpg"
 - title: S81XCM Football Jersey
