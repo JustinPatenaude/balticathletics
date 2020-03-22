@@ -2,11 +2,12 @@
 layout: brand
 permalink: "/brands/martini-vispak"
 categories:
-- products/apparel.md
+- products/aprons.md
 - products/auto.md
-- products/bags.md
+- products/bags-totes-duffels.md
 - products/blankets.md
 - products/eyewear.md
+- products/headwear.md
 - products/home.md
 - products/lanyards.md
 - products/plush-novelties.md
@@ -24,7 +25,9 @@ info: ''
 date: '2019-03-29T22:30:06.000+00:00'
 catalogues:
 - title: Martini Vispak Catalogue
-  pdf: ''
+  pdf: "/MartiniVispak_2019 catalogue.pdf"
   year: 2019
+- year: 2020
+  title: Martini Vispak New Products
 
 ---
