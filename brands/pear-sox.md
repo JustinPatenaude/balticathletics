@@ -23,6 +23,8 @@ catalogues:
   year: 0
   pdf: "/Pear Sox All Sport Size chart.jpg"
 photos:
+- title: Ross L Gray Custom Socks
+  photo: "/RLG Pear Sox.PNG"
 - title: Arborg A's Custom Socks
   photo: "/Arborg.PNG"
 - title: Pointe-des-Chênes Custom Socks
