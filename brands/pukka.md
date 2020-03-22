@@ -31,6 +31,8 @@ catalogues:
 - title: Pukka Baseball Catalogue
   year: 2020
 photos:
+- title: Team Sports Caps
+  photo: "/teamsports_group.png"
 - title: Cuffed Cable Knit Toque
   photo: "/hero-cuffedcableknit.png"
 - title: Bucket Caps
