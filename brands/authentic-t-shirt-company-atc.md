@@ -22,8 +22,6 @@ catalogues:
   year: 
   pdf: "/General-Sizing-Guide.pdf"
 photos:
-- title: ATCF2500 Everyday Fleece Hoodie
-  photo: "/ATCF2500 hoodie.jpg"
 - title: S350 Performance Tee
   photo: "/S350-coal-grey.jpg"
 - title: S3519 Pro Team Home & Away Jersey
@@ -44,6 +42,8 @@ photos:
   photo: "/F2045-black-heather.jpg"
 - title: L2042 Vintage 1/2 Zip Ladies Sweatshirt
   photo: "/L2042-cardinal-heather.jpg"
+- title: ATCF2500 Everyday Fleece Hoodie
+  photo: "/ATCF2500 hoodie.jpg"
 - title: ATCF2700 Everyday Quarter Zip Pullover
   photo: "/ATCF2700-dark-heather-grey.jpg"
 info: "Sanmar Canada carries many brands including DryFrame, Coal Harbour, Authentic
