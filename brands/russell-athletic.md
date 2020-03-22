@@ -19,6 +19,8 @@ info: Russell Athletic was founded in 1902 by 26-year-old Benjamin Russell in Al
 date: '2019-03-29T22:32:33.000+00:00'
 catalogues: []
 photos:
+- title: R-596HBM0 Sweatpants
+  photo: "/596HBM0_blk.jpg"
 - title: R-1Z4HBM0 Men's Dri-Power Fleece 1/4 Zip
   photo: "/R-1Z4HBM0 Quarter Zip Cadet Pullover.jpg"
 - title: 136 Russell Reversible Tank
