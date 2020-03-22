@@ -11,6 +11,7 @@ categories:
 - products/notebooks.md
 - products/pens.md
 - products/plush-novelties.md
+- products/socks.md
 - products/table-covers.md
 - products/tech-items.md
 - products/tools-lights-keytags.md
