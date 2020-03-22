@@ -8,6 +8,8 @@ website: ''
 catalogues: []
 info: Call or email for selection and availability.
 photos:
+- title: TMMS555 Tech Shorts
+  photo: "/TMMS555 Tech Shorts.jpg"
 - title: WT01017P Women's Tank Top
   photo: "/WT01017P Women's Tank Top.jpg"
 - title: WJ53816 Ladies Performance Jacket
