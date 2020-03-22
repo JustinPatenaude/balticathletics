@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/martini-promotions/"
+permalink: "/brands/martini-vispak"
 categories:
 - products/apparel.md
 - products/auto.md
@@ -15,7 +15,7 @@ categories:
 - products/tissues.md
 - products/towels.md
 - products/travel.md
-title: Martini Promotions
+title: Martini Vispak
 logo: "/martini-logo.png"
 website: https://www.martinivispak.com/en_ca
 pdfs:
@@ -23,8 +23,8 @@ pdfs:
 info: ''
 date: '2019-03-29T22:30:06.000+00:00'
 catalogues:
-- title: Martini Promotions New Products Catalogue
-  pdf: "/2019-martini-new-products.pdf"
+- title: Martini Vispak Catalogue
+  pdf: ''
   year: 2019
 
 ---
