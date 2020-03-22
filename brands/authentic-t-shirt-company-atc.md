@@ -7,8 +7,8 @@ logo: ''
 website: ''
 catalogues: []
 photos:
-- title: J7603 Everyday Soft Shell Jacket
-  photo: "/J7603-graphite.jpg"
+- title: S350 Performance Tee
+  photo: "/S350-coal-grey.jpg"
 - title: F2005 Game Day Performance Pullover Hoodie
   photo: "/F2005-true-royal.jpg"
 - title: F2011 Game Day Colour Block Performance Hoodie
@@ -19,6 +19,8 @@ photos:
   photo: "/L2005-true-navy.jpg"
 - title: ATCF2700 Everyday Quarter Zip Pullover
   photo: "/ATCF2700-dark-heather-grey.jpg"
+- title: J7603 Everyday Soft Shell Jacket
+  photo: "/J7603-graphite.jpg"
 - title: J7604 Colour Block Soft Shell
   photo: "/J7604-black-gold.jpg"
 info: ''
