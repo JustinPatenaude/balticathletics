@@ -25,6 +25,9 @@ info: |-
   Link to [Online Custom Jersey Builder - Kustomizer](http://kobesportswear.com/kustomizer/)
 date: '2019-03-29T22:29:05.000+00:00'
 catalogues:
+- title: Kobe Goalie Sizing
+  year: 0
+  pdf: "/Kobe-Goalie-Sizing.png"
 - title: Kobe Hockey Player Sizing
   year: 0
   pdf: "/Kobe-Player-Sizing.png"
