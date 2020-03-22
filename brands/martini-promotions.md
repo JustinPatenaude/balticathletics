@@ -13,6 +13,7 @@ categories:
 - products/made-in-canada.md
 - products/plush-novelties.md
 - products/pets.md
+- products/shirts.md
 - products/sublimation.md
 - products/tech-items.md
 - products/tissues.md
@@ -24,7 +25,7 @@ website: https://www.martinivispak.com/en_ca
 pdfs:
 - "/2019-martini-new-products.pdf"
 info: |-
-  We use Martini Vispak for all our lanyards. They offer great price options and high quality product.
+  We use Martini Vispak for all our lanyards. They offer great price options and high quality product. They do a lot more than just lanyards, great supplier.
 
   ***
 
@@ -41,6 +42,8 @@ catalogues:
   year: 0
   pdf: "/Lanyards options.jpg"
 photos:
+- title: Baltic Fully Sublimated Lanyard
+  photo: "/Baltic lanyard.PNG"
 - title: École Julie-Riel Classic Lanyard - 1 sided decoration w/lobster clip
   photo: "/Julie-Riel lanyard.PNG"
 - title: Niverville Middle School - Full colour sublimation Lanyard with breakaway
