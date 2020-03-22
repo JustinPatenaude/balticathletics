@@ -18,6 +18,8 @@ info: Russell Athletic was founded in 1902 by 26-year-old Benjamin Russell in Al
 date: '2019-03-29T22:32:33.000+00:00'
 catalogues: []
 photos:
+- title: 63HBM0 Raglan Cotton Hoodie
+  photo: "/693HBM0 OXF_BLK.jpg"
 - photo: "/64STTM0 ESSENTIAL SS TEE.jpg"
   title: Men's Cotton Performance Tee
 
