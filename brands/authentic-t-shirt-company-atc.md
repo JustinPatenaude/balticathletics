@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/authentic-t-shirt-company"
+permalink: "/brands/authentic-tshirt-company"
 categories:
 - products/badminton.md
 - products/bags-totes-duffels.md
