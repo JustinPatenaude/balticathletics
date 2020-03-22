@@ -6,6 +6,7 @@ categories:
 - products/hockey.md
 - products/jerseys.md
 - products/soccer.md
+- products/socks.md
 - products/sublimation.md
 title: Kamazu
 logo: "/kamazu-logo.jpg"
