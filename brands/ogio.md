@@ -10,6 +10,8 @@ logo: "/OGIO_LOGO_WEB.jpg"
 website: ''
 catalogues: []
 photos:
+- title: OE700 Endurance Fulcrum Full Zip
+  photo: "/OE700 Endurance Fulcrum Full Zip.jpg"
 - title: 108085 Crunch Duffel
   photo: "/108085_wasabe_2011_1.jpg"
 - title: 108087 Big Dome Duffel
