@@ -42,10 +42,6 @@ photos:
   photo: "/L2005-true-navy.jpg"
 - title: ATCF2700 Everyday Quarter Zip Pullover
   photo: "/ATCF2700-dark-heather-grey.jpg"
-- title: J7603 Everyday Soft Shell Jacket
-  photo: "/J7603-graphite.jpg"
-- title: J7604 Colour Block Soft Shell
-  photo: "/J7604-black-gold.jpg"
 info: "Sanmar Canada carries many brands including DryFrame, Coal Harbour, Authentic
   T-Shirt Company (ATC), Koi, The North Face, Flexfit, Yupoong, [OGIO](https://balticathletics.com/brands/ogio),
   Callaway, Eddie Bauer, New Era, [Gildan ](https://balticathletics.com/brands/gildan/)&
@@ -57,8 +53,8 @@ info: "Sanmar Canada carries many brands including DryFrame, Coal Harbour, Authe
   to [2020 SanMar Colour Guide](//www.zoomcats.com/catalog/baltic-sanmar-2020-colour-guide)
   \ - A great place to find your team/school colour and see what is offered in that
   colour. Very helpful!\n\n***\n\nATC offers a great **NO BLEED fabric** in most of
-  their garments. This is especially +important with printing white ink on red or
-  maroon garments. We did a test with two red garments. See the difference. The garment
-  on the right is ATC no-bleed.\n\n![](/2018-01-21 16.12.04.jpg)"
+  their garments. This is especially important with printing white ink on red or maroon
+  garments. We did a test with two red garments. See the difference. The garment on
+  the right is ATC Pro Team no-bleed.\n\n![](/2018-01-21 16.12.04.jpg)"
 
 ---
