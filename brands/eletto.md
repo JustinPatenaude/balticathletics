@@ -5,6 +5,7 @@ categories:
 - products/jerseys.md
 - products/shorts.md
 - products/soccer.md
+- products/socks.md
 title: Eletto
 logo: "/eletto-logo.jpg"
 website: ''
