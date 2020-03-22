@@ -18,7 +18,7 @@ pdfs:
 - "/2019-kobe-baseball-catalogue.pdf"
 - "/2019-kobe-catalogue.pdf"
 info: |-
-  Kobe is proudly Canadian owned and operated, headquartered in Toronto ON with international offices in Buffalo and Shanghai.  Since 1992 Kobe has outfitted millions of athletes in all levels of hockey.
+  Kobe is proudly Canadian owned and operated, headquartered in Toronto ON with international offices in Buffalo and Shanghai.  Since 1992 Kobe has outfitted millions of athletes at all levels of hockey.
 
   ***
 
@@ -32,6 +32,8 @@ catalogues:
   pdf: "/2020_KobeBaseballCatalogue.pdf"
   year: 2020
 photos:
+- title: Kobe hockey
+  photo: "/kobe hockey player.PNG"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
 - title: HKY0311 Sublimated Hockey Jersey mock
