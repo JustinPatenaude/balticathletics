@@ -47,8 +47,6 @@ catalogues:
   year: 0
   pdf: "/Lanyards options.jpg"
 photos:
-- title: CD4601FIT Compression Clothing
-  photo: "/cd4601fit-compression shirts.jpeg"
 - title: École Julie-Riel Classic Lanyard - 1 sided decoration w/lobster clip
   photo: "/Julie-Riel lanyard.PNG"
 - title: Niverville Middle School - Full colour sublimation Lanyard with breakaway
@@ -63,5 +61,7 @@ photos:
   photo: "/4008-sublimated Soccer Jersey.jpg"
 - title: 8012RUN Sublimated Tees
   photo: "/8012RUN.JPG"
+- title: CD4601FIT Compression Clothing
+  photo: "/cd4601fit-compression shirts.jpeg"
 
 ---
