@@ -10,6 +10,8 @@ logo: "/OGIO_LOGO_WEB.jpg"
 website: ''
 catalogues: []
 photos:
+- title: 711140 Carbon Backpack
+  photo: "/711140_royal_2018.jpg"
 - title: OE350 Performance Tee
   photo: "/OE350 perf tee.jpg"
 - title: OG143 Polo Shirt
