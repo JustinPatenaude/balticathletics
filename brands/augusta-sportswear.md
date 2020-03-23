@@ -54,14 +54,6 @@ catalogues:
   year: 0
   pdf: "/ASB-Size-Chartpdf.PDF"
 photos:
-- photo: "/russell logo.jpg"
-  title: Russell
-- photo: "/high 5 logo.jpg"
-  title: High 5
-- title: Holloway
-  photo: "/Holloway_stacked_colorjpg.jpg"
-- title: Pacific Headwear
-  photo: "/pacific headwear.png"
 - photo: "/augusta-sportswear-1660-navy-white.webp"
 - photo: "/augusta-sportswear-1548-red-red-mod.webp"
 - photo: "/augusta-sportswear-1161-dark-green-dark-green-digi.webp"
