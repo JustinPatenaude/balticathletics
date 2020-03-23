@@ -44,7 +44,9 @@ photos:
   photo: "/Attack Cap Sleeve V-ball Jsy - Ladies.png"
 - title: Competition Style Warm Up Suit
   photo: "/2019-09-05 11.49.39.jpg"
-info: Baltic Performance Wear (BPW) is our own sublimation label and another great
-  option that we offer in sublimated clothing.
+info: |-
+  Baltic Performance Wear (BPW) is our own sublimation label and another great option that we offer in sublimated clothing.
+
+  Samples & sizers are available on select garments.
 
 ---
