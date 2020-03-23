@@ -22,7 +22,7 @@ categories:
 - products/volleyball.md
 title: Augusta Sportswear
 logo: "/augusta-sportswear-logo.png"
-website: http://www.augustasportswear.com/
+website: https://www.augustasportswear.com/adult-shop-by-brand-augusta
 pdfs:
 - "/augusta-football-2017.pdf"
 - "/augusta-basketball-2017.pdf"
