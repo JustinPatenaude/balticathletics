@@ -14,7 +14,7 @@ categories:
 - products/shorts.md
 - products/soccer.md
 - products/volleyball.md
-title: ATC Sanmar
+title: ATC SanMar
 logo: "/Sanmar ATC logo.jpg"
 website: https://www.sanmarcanada.com/shop-catalogue/shop-by-brand/atc-153.html
 catalogues:
