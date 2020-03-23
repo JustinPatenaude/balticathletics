@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/atc-&-sanmar"
+permalink: "/brands/atc-sanmar"
 categories:
 - products/badminton.md
 - products/bags-totes-duffels.md
@@ -14,7 +14,7 @@ categories:
 - products/shorts.md
 - products/soccer.md
 - products/volleyball.md
-title: ATC & Sanmar
+title: ATC Sanmar
 logo: "/Sanmar ATC logo.jpg"
 website: https://www.sanmarcanada.com/shop-catalogue/shop-by-brand/atc-153.html
 catalogues:
