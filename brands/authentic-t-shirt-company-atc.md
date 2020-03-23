@@ -15,7 +15,7 @@ categories:
 - products/soccer.md
 - products/volleyball.md
 title: ATC & Sanmar
-logo: "/ATC logo.jpg"
+logo: "/Sanmar ATC logo.jpg"
 website: https://www.sanmarcanada.com/shop-catalogue/shop-by-brand.html
 catalogues:
 - title: ATC Sizing Guide
