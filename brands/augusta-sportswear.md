@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/augusta-sportswear/"
+permalink: "/brands/augusta-sportswear"
 categories:
 - products/bags-totes-duffels.md
 - products/baseball.md
