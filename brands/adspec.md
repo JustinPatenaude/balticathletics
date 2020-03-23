@@ -27,6 +27,9 @@ catalogues:
 - title: Adspec Catalogue
   pdf: "/adspec-2018.pdf"
   year: 2018
+- title: Adspec 10x10 Colour Samples
+  year: 0
+  pdf: "/TS10_Tent_COLOUR-sample.pdf"
 photos:
 - title: Adspec 10x10 TS10-DS - Sublimation
   photo: "/sublimation.jpg"
