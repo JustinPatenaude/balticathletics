@@ -29,7 +29,6 @@ photos:
   photo: "/9R215M AJM CANADA POM TOQUE.jpg"
 - photo: "/6639M.jpg"
 - photo: "/9L594L.jpg"
-- photo: "/8G017M.jpg"
 - photo: "/0A630M.jpg"
 
 ---
