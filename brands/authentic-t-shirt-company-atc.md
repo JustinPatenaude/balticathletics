@@ -16,7 +16,7 @@ categories:
 - products/volleyball.md
 title: ATC & Sanmar
 logo: "/Sanmar ATC logo.jpg"
-website: https://www.sanmarcanada.com/shop-catalogue/shop-by-brand.html
+website: https://www.sanmarcanada.com/shop-catalogue/shop-by-brand/atc-153.html
 catalogues:
 - title: ATC Sizing Guide
   year: 
