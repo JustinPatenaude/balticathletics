@@ -19,18 +19,18 @@ title: Adidas
 logo: "/adidas-logo.png"
 website: ''
 catalogues:
+- title: Adidas Fall Winter Team Catalogue
+  year: 2019
+  pdf: "/adidas-fall-winter-2019-team-catalogue.pdf"
+- title: Adidas Spring Summer Team Catalogue
+  year: 2020
+  pdf: "/adidas-spring-summer-2020-catalogue.pdf"
 - title: Adidas Men's Sizing Guide
   year: 0
   pdf: "/Adidas size_chart_mens_apparel-1_grande.png"
 - title: Adidas Ladies Sizing Guide
   year: 0
   pdf: "/Adidas size_chart_ladies_apparel-1_grande.png"
-- title: Adidas Spring Summer Team Catalogue
-  year: 2020
-  pdf: "/adidas-spring-summer-2020-catalogue.pdf"
-- title: Adidas Fall Winter Team Catalogue
-  year: 2019
-  pdf: "/adidas-fall-winter-2019-team-catalogue.pdf"
 info: Adidas was founded in 1949 and since then has become a household brand name.
 photos:
 - title: TIRO 19 Training Jacket
