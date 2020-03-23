@@ -22,7 +22,7 @@ categories:
 - products/volleyball.md
 title: Augusta Sportswear
 logo: "/augusta-sportswear-logo.png"
-website: https://www.augustasportswear.com/adult-shop-by-brand-augusta
+website: ''
 pdfs:
 - "/augusta-football-2017.pdf"
 - "/augusta-basketball-2017.pdf"
@@ -39,7 +39,15 @@ info: |-
 
   ***
 
-  [Augusta Sportswear Brands Sizes and Fits](https://www.augustasportswear.com/sizes-and-fits)
+  Search by [Augusta Adult Styles](https://www.augustasportswear.com/ladies-shop-by-brand-augusta)
+
+  Search by [Augusta Ladies Styles](https://www.augustasportswear.com/ladies-shop-by-brand-augusta)
+
+  Search by [Augusta Youth Styles](https://www.augustasportswear.com/youth-shop-by-brand-augusta)
+
+  ***
+
+  Link to [Augusta Sportswear Brands Sizes and Fits](https://www.augustasportswear.com/sizes-and-fits)
 date: '2019-03-29T22:18:11.000+00:00'
 catalogues:
 - title: Augusta Size Guide
