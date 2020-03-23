@@ -67,6 +67,6 @@ info: |-
 
   ATC offers a great **NO BLEED fabric** in most of their garments. This is especially important with printing white ink on red or maroon garments. We did a test with two red garments. See the difference. The garment on the right is ATC Pro Team no-bleed.
 
-  ![](/2018-01-21 16.12.04.jpg)
+  ![No Bleed Test](/2018-01-21 16.12.04.jpg "No Bleed Test")
 
 ---
