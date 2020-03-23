@@ -13,6 +13,8 @@ pdfs:
 info: |-
   Admiral was founded in England in 1914 and grew to be a national soccer (football ;) and cricket brand.
 
+  ***
+
   Link to [Admiral Sizing Guide](http://admiral-sports.com/fitting_room/)
 date: '2019-03-29T22:15:15.000+00:00'
 catalogues:
