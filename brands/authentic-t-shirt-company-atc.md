@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/atc"
+permalink: "/brands/atc-&-sanmar"
 categories:
 - products/badminton.md
 - products/bags-totes-duffels.md
@@ -14,7 +14,7 @@ categories:
 - products/shorts.md
 - products/soccer.md
 - products/volleyball.md
-title: ATC
+title: ATC & Sanmar
 logo: "/ATC logo.jpg"
 website: https://www.sanmarcanada.com/shop-catalogue/shop-by-brand.html
 catalogues:
@@ -52,6 +52,16 @@ info: |-
   ***
 
   ATC brand offers value priced items. We have sold hundreds of the Pro Team shirts and Game Day Hoodies.
+
+  ***
+
+  Link to [SanMar 2020 Catalogue](https://viewer.zoomcatalog.com/sanmar-canada-2020) (includes all the SanMar brands listed above)
+
+  Link to [SanMar 2020 New Styles Catalogue](http://virtualcatalogues.com/2020/nps/en/#minebook/page1)
+
+  Link to [SanMar 2020 Colour Guide](http://virtualcatalogues.com/2020/shopbycolour/#minebook/page1) - This is a great resource to look up your team/school colour and find all the items available in that colour. Very handy!!
+
+  Link to [SanMar 2020 Everyday Collection Catalogue](http://virtualcatalogues.com/2020/everyday/en/#minebook/page1)
 
   ***
 
