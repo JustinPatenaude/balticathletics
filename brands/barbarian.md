@@ -28,7 +28,7 @@ photos:
 - photo: "/bar men real.PNG"
   title: playing rugby
 - photo: "/bar mat 03.PNG"
-  title: Bar Mat 03 jersey
+  title: Mat 03 jersey
 - photo: "/barb wmn.PNG"
   title: Women's Jersey
 - photo: "/bar shorts.PNG"
