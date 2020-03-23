@@ -54,6 +54,8 @@ catalogues:
   year: 0
   pdf: "/ASB-Size-Chartpdf.PDF"
 photos:
+- photo: "/1310 Hit Ladies.jpeg"
+- photo: "/augusta long sleeve.jpg"
 - photo: "/augusta track.jpg"
 - photo: "/augusta example.jpg"
 - photo: "/augusta-sportswear-1660-navy-white.webp"
