@@ -26,6 +26,7 @@ photos:
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
 - photo: "/bar men real.PNG"
+  title: playing rugby
 - photo: "/bar mat 03.PNG"
 - photo: "/barb wmn.PNG"
 - photo: "/bar shorts.PNG"
