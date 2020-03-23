@@ -27,7 +27,7 @@ pdfs:
 - "/augusta-football-2017.pdf"
 - "/augusta-basketball-2017.pdf"
 info: |-
-  Augusta is located in Augusta, Georgia and offers not only Augusta brands but Holloway, High 5, Pacific Headwear and Russell Athletic.
+  Augusta is located in Augusta, Georgia and offers an entry level uniform from a pricing point. We have been pleased with the Augusta garments we have seen.
 
   ***
 
