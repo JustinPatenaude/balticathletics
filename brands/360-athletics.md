@@ -43,6 +43,8 @@ catalogues:
   year: 2020
   pdf: "/2020 360 Athletics Catalogue.pdf"
 photos:
+- title: BC44 Ball cart
+  photo: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
 - title: Ultraskin Balls are fabulous! Value & Quality!
   photo: "/ultraskin dodgeballs.jpg"
 - title: All types of cones
