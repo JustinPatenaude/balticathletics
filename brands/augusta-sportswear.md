@@ -37,8 +37,6 @@ info: |-
 
   Link to [Augusta Football Catalogue](https://viewer.zoomcatalog.com/augusta-sportswear-football-2020)
 
-  Link to [High 5 Soccer Catalogue](https://viewer.zoomcatalog.com/augusta-sportswear-soccer-2020)
-
   ***
 
   [Augusta Sportswear Brands Sizes and Fits](https://www.augustasportswear.com/sizes-and-fits)
