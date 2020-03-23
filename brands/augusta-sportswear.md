@@ -54,6 +54,7 @@ catalogues:
   year: 0
   pdf: "/ASB-Size-Chartpdf.PDF"
 photos:
+- photo: "/augusta example.jpg"
 - photo: "/augusta-sportswear-1660-navy-white.webp"
 - photo: "/augusta-sportswear-1548-red-red-mod.webp"
 - photo: "/augusta-sportswear-1161-dark-green-dark-green-digi.webp"
