@@ -30,6 +30,7 @@ photos:
 - photo: "/bar mat 03.PNG"
   title: Bar Mat 03 jersey
 - photo: "/barb wmn.PNG"
+  title: Women's Jersey
 - photo: "/bar shorts.PNG"
   title: Barbarian Shorts
 
