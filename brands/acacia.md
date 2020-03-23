@@ -1,7 +1,8 @@
 ---
 layout: brand
 permalink: "/brands/acacia"
-categories: []
+categories:
+- products/broomball.md
 title: Acacia
 logo: "/canada_logo.png"
 website: ''
