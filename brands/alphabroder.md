@@ -13,7 +13,7 @@ logo: "/alphabroder-logo.jpg"
 website: https://www.alphabroder.ca/
 pdfs: []
 info: |-
-  Alphabroder carries a great line of Corporate Wear including Puma, Devon & Jones, North End, Team 365, Next Level, Bella & Canvas, Jerzees, Gildan, Yupoong, Spyder and Columbia, just to name a few.
+  Alphabroder carries a great line of Corporate Wear including [Puma](https://balticathletics.com/brands/puma/), Devon & Jones, North End, Team 365, Next Level, [Bella & Canvas](https://balticathletics.com/brands/bella-canvas/), [Jerzees](https://balticathletics.com/brands/jerzees/), [Gildan](https://balticathletics.com/brands/gildan/), Yupoong, Spyder and Columbia, just to name a few.
 
   Link to [Online Catalogue](https://viewer.zoomcatalog.com/alphabroder-2019-canada)
 date: '2019-03-29T22:17:21.000+00:00'
