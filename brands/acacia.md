@@ -15,6 +15,6 @@ photos:
   photo: "/21-500 official_broom_ball_orange.jpg"
 - title: 49-204 Grip-inator Broomball Shoes
   photo: "/49-204 GRIP-INATOR-Gray.jpg"
-info: ''
+info: Canadian supplier providing us with broomball equipment.
 
 ---
