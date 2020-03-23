@@ -21,8 +21,8 @@ catalogues:
   pdf: "/Womens sizing.jpg"
 info: Known for their Rugby Wear - Made in Canada since 1981
 photos:
-- title: Rugby idea
-  photo: "/SMA Rugby Jersey Idea.png"
+- title: Collegiate
+  photo: "/Collegiate-090.jpg"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
 - photo: "/bar men real.PNG"
@@ -31,6 +31,8 @@ photos:
   title: Mat 03 jersey
 - photo: "/barb wmn.PNG"
   title: Women's Jersey
+- title: Rugby idea
+  photo: "/SMA Rugby Jersey Idea.png"
 - photo: "/bar shorts.PNG"
   title: Barbarian Shorts
 
