@@ -17,7 +17,7 @@ info: The catalogue page photos show the stock that is available in Winnipeg, MB
 photos:
 - title: Bella & Canvas Winnipeg stock pg 11
   photo: "/Bella pg11.PNG"
-- title: Bella & Canvas Winnipeg inventory pg 12
+- title: Bella & Canvas Winnipeg stock pg 12
   photo: "/Bella pg12.PNG"
 
 ---
