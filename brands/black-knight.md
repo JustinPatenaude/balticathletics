@@ -14,6 +14,9 @@ info: Black Knight is a Canadian racquet company founded in 1976. They supply sc
   clubs and professional athletes worldwide with quality, high-value products.
 date: '2019-03-29T22:18:35.000+00:00'
 catalogues:
+- title: Black Knight Racquet Manual
+  year: 0
+  pdf: "/Racquet manual 2018-19 v1.3.pdf"
 - title: Black Knight Catalogue
   pdf: "/black-knight-2019.pdf"
   year: 2019
