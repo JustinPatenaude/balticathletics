@@ -10,7 +10,7 @@ title: Bella+Canvas
 logo: "/bella-and-canvas-logo.jpeg"
 website: ''
 catalogues:
-- title: Bella & Canvas Size Charts
+- title: Bella + Canvas Size Charts
   year: 0
   pdf: "/BC_Size_Charts.pdf"
 info: |-
