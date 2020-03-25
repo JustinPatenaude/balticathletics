@@ -20,7 +20,7 @@ catalogues:
 photos:
 - title: BA-151JR Junior Mini
   photo: "/BA-151JR Junior Mini.jpg"
-- title: AC-114K TURBO BLACK
+- title: AC-114K Turbo Black Eyewear
   photo: "/AC-114K TURBO BLACK.jpg"
 - title: BA-180 The Beast Racquet
   photo: "/BA-180-THE BEAST-ANGLE - 023_0241-500x500.jpg"
