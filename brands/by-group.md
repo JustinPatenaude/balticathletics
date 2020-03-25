@@ -22,17 +22,19 @@ catalogues:
   year: 2019
   pdf: "/2019-BY-Group-Catalogue.pdf"
 photos:
-- title: OPROshield SILVER mouthguard
-  photo: "/OP010-8_A_Silver.Red_Comb.jpg"
-- title: 92487-2 Deluxe Foam Roller - High Density EVA
-  photo: "/92487-2_A_FoamRollerEVA_36.jpg"
-- title: 92142-0 Classic Fitness Ball - Anti-burst
-  photo: "/92139-0_A_Fitness_Ball_45_combo.jpg"
-- title: 65622 Bocce Set
-  photo: "/65622_A_Bocce.Adv.jpg"
-- title: 12140 Blizzard Paddle
-  photo: "/12140_blizzard.jpg"
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 - title: 12624-5 Smash Table Tennis Table
   photo: "/12624-5_Smash_Table.jpg"
+- title: 12140 Blizzard Paddle
+  photo: "/12140_blizzard.jpg"
+- title: 65622 Bocce Set
+  photo: "/65622_A_Bocce.Adv.jpg"
+- title: 92142-0 Classic Fitness Ball - Anti-burst
+  photo: "/92139-0_A_Fitness_Ball_45_combo.jpg"
+- title: 92487-2 Deluxe Foam Roller - High Density EVA
+  photo: "/92487-2_A_FoamRollerEVA_36.jpg"
+- title: OPROshield SILVER mouthguard
+  photo: "/OP010-8_A_Silver.Red_Comb.jpg"
 
 ---
