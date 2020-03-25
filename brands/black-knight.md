@@ -6,7 +6,7 @@ categories:
 - products/racquetball.md
 - products/badminton.md
 title: Black Knight
-logo: "/black-knight-logo.jpg"
+logo: "/black knight white.jpg"
 website: http://blackknight.ca/
 pdfs:
 - "/black-knight-2019.pdf"
@@ -14,12 +14,12 @@ info: Black Knight is a Canadian racquet company founded in 1976. They supply sc
   clubs and professional athletes worldwide with quality, high-value products.
 date: '2019-03-29T22:18:35.000+00:00'
 catalogues:
-- title: Racquet Manual
-  year: 2019
-  pdf: "/Racquet manual 2018-19 v1.3.pdf"
 - title: Black Knight Catalogue
   pdf: "/black-knight-2019.pdf"
   year: 2019
+- title: Racquet Manual
+  year: 2019
+  pdf: "/Racquet manual 2018-19 v1.3.pdf"
 photos:
 - title: BA-180 The Beast Racquet
   photo: "/BA-180-THE BEAST-ANGLE - 023_0241-500x500.jpg"
