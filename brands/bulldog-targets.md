@@ -13,6 +13,6 @@ info: |-
   About Bulldog Lifetime Warranty Archery Targets [https://youtu.be/ot4HL9TbuIU](https://youtu.be/ot4HL9TbuIU "https://youtu.be/ot4HL9TbuIU")
 photos:
 - photo: "/bulldog-targets-archery-target-doghouse-xp-archery-target-4530685378595_1400x.jpg"
-  title: Doghouse XP Archery Target
+  title: Doghouse XP Archery Target - Lifetime Guarantee Series
 
 ---
