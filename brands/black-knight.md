@@ -6,7 +6,7 @@ categories:
 - products/racquetball.md
 - products/badminton.md
 title: Black Knight
-logo: "/black knight white.jpg"
+logo: "/BKWelcomeLogo.png"
 website: http://blackknight.ca/
 pdfs:
 - "/black-knight-2019.pdf"
