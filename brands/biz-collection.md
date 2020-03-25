@@ -14,15 +14,15 @@ title: Biz Collection
 logo: "/Biz-Collection logo.jpg"
 website: https://www.bizcollection.ca/
 catalogues:
-- title: Biz Collection Sizing Guide
-  year: 
-  pdf: "/2020 Biz Collection - Size Guide_Garment Fits - CA.pdf"
 - title: Biz Collection 2020
   year: 2020
   pdf: "/2020 Biz Collection - CA.pdf"
 - title: 2020 New Styles Catalogue
   year: 2020
   pdf: "/2020 Stylebook _CA New Styles.pdf"
+- title: Biz Collection Sizing Guide
+  year: 
+  pdf: "/2020 Biz Collection - Size Guide_Garment Fits - CA.pdf"
 photos:
 - title: Hype Hoodie
   photo: "/SW239ML_Worn.jpg"
