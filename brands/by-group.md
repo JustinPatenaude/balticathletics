@@ -22,6 +22,8 @@ catalogues:
   year: 2019
   pdf: "/2019-BY-Group-Catalogue.pdf"
 photos:
+- title: 92142-0 Classic Fitness Ball - Anti-burst
+  photo: "/92139-0_A_Fitness_Ball_45_combo.jpg"
 - title: 65622 Bocce Set
   photo: "/65622_A_Bocce.Adv.jpg"
 - title: 12140 Blizzard Paddle
