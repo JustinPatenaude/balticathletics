@@ -18,6 +18,8 @@ catalogues:
   pdf: "/black-knight-2019.pdf"
   year: 2019
 photos:
+- title: SH-200-6 Firebird Shuttles
+  photo: "/SH-200-6 Firebird Shuttles.png"
 - title: BA-230JR-Tornado Junior Racquet
   photo: "/BA-230JR-TORNADO JUNIOR.jpg"
 - title: BA-151JR Junior Mini
