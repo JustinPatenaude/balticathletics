@@ -8,12 +8,17 @@ categories:
 - products/shirts.md
 title: Bella+Canvas
 logo: "/bella-and-canvas-logo.jpeg"
-website: https://www.bellacanvas.com/
+website: ''
 catalogues:
 - title: Bella & Canvas Size Charts
   year: 0
   pdf: "/BC_Size_Charts.pdf"
-info: The catalogue page photos show the stock that is available in Winnipeg, MB
+info: |-
+  We can obtain Bella & Canvas from a few Canadian distributors.
+
+  The Toba Sportswear catalogue pages (shown under photos) is the stock available in **Winnipeg, MB**.
+
+  Alphabroder offers this good [selection of Bella & Canvas](https://www.alphabroder.com/cgi-bin/online/webshr/search-result.w?ref=Mill_Name:Bella%20%2B%20Canvas) that we can also access.
 photos:
 - title: Bella & Canvas Winnipeg stock pg 1
   photo: "/Bella pg01.PNG"
