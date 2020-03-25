@@ -12,7 +12,7 @@ logo: "/brandwear-logo.png"
 website: http://www.brandwear.ca/
 pdfs:
 - "/brandwear-2018.pdf"
-info: " Made in Canada - Bamboo Garments - Lulu quality without the Lulu prices"
+info: Made in Canada - Bamboo Garments - Lulu quality without the Lulu prices.
 date: '2019-03-29T22:20:31.000+00:00'
 catalogues:
 - title: Brandwear Catalogue
