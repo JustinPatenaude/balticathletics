@@ -31,9 +31,9 @@ photos:
   photo: "/BA-151JR Junior Mini.jpg"
 - title: SH-200-6 Firebird Shuttles
   photo: "/SH-200-6 Firebird Shuttles.png"
-- title: Proudly Canadian
-  photo: "/proudly canadian.jpg"
 - title: AC-114K Turbo Black Eyewear
   photo: "/AC-114K TURBO BLACK.jpg"
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 
 ---
