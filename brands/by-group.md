@@ -21,5 +21,8 @@ catalogues:
 - title: BY Group Catalogue
   year: 2019
   pdf: "/2019-BY-Group-Catalogue.pdf"
+photos:
+- title: 12624-5 Smash Table Tennis Table
+  photo: "/12624-5_Smash_Table.jpg"
 
 ---
