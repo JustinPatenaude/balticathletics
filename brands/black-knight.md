@@ -18,6 +18,8 @@ catalogues:
   pdf: "/black-knight-2019.pdf"
   year: 2019
 photos:
+- title: BA-230JR-Tornado Junior Racquet
+  photo: "/BA-230JR-TORNADO JUNIOR.jpg"
 - title: BA-151JR Junior Mini
   photo: "/BA-151JR Junior Mini.jpg"
 - title: AC-114K Turbo Black Eyewear
