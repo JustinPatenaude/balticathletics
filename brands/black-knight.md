@@ -18,17 +18,17 @@ catalogues:
   pdf: "/black-knight-2019.pdf"
   year: 2019
 photos:
-- title: SH-200-6 Firebird Shuttles
-  photo: "/SH-200-6 Firebird Shuttles.png"
-- title: BA-230JR-Tornado Junior Racquet
-  photo: "/BA-230JR-TORNADO JUNIOR.jpg"
-- title: BA-151JR Junior Mini
-  photo: "/BA-151JR Junior Mini.jpg"
-- title: AC-114K Turbo Black Eyewear
-  photo: "/AC-114K TURBO BLACK.jpg"
 - title: BA-180 The Beast Racquet
   photo: "/BA-180-THE BEAST-ANGLE - 023_0241-500x500.jpg"
 - title: BA-150 Sceptre Racquet
   photo: "/BA-150-SCEPTRE-ANGLE - 024_0221-500x500.jpg"
+- title: BA-230JR-Tornado Junior Racquet
+  photo: "/BA-230JR-TORNADO JUNIOR.jpg"
+- title: BA-151JR Junior Mini Racquet
+  photo: "/BA-151JR Junior Mini.jpg"
+- title: SH-200-6 Firebird Shuttles
+  photo: "/SH-200-6 Firebird Shuttles.png"
+- title: AC-114K Turbo Black Eyewear
+  photo: "/AC-114K TURBO BLACK.jpg"
 
 ---
