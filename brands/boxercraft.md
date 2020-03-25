@@ -15,7 +15,7 @@ catalogues:
   year: 
   pdf: "/boxercraft-sizing-charts.pdf"
 photos:
-- title: F20 Flannel Pants Red/Black
+- title: F20 Flannel Pants - Red/Black
   photo: "/F20RBP Flannel Pants - Red Black.PNG"
 - title: F20 Flannel Pants - Royal/Gold
   photo: "/F20RYG Royal Gold Flannel.PNG"
