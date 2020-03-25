@@ -15,12 +15,12 @@ catalogues:
   year: 
   pdf: "/boxercraft-sizing-charts.pdf"
 photos:
+- title: F20 Flannel Pants Red/Black
+  photo: "/F20RBP Flannel Pants - Red Black.PNG"
 - title: F20 Flannel Pants - Royal/Gold
   photo: "/F20RYG Royal Gold Flannel.PNG"
 - title: Flannel Shorts
   photo: "/flannel shorts.png"
-- title: Flannel Pants
-  photo: "/classic flannel.png"
 - title: Sherpa 1/4 zip Pullover
   photo: "/sherpa pullover.png"
 info: |-
