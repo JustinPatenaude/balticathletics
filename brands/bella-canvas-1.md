@@ -15,6 +15,10 @@ catalogues:
   pdf: "/BC_Size_Charts.pdf"
 info: The catalogue page photos show the stock that is available in Winnipeg, MB
 photos:
+- title: Bella & Canvas Winnipeg stock pg 1
+  photo: "/Bella pg01.PNG"
+- title: Bella & Canvas Winnipeg stock pg 2
+  photo: "/Bella pg02.PNG"
 - title: Bella & Canvas Winnipeg stock pg 3
   photo: "/Bella pg03.PNG"
 - title: Bella & Canvas Winnipeg stock pg 4
