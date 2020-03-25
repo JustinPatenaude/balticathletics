@@ -22,6 +22,8 @@ catalogues:
   year: 2019
   pdf: "/2019-BY-Group-Catalogue.pdf"
 photos:
+- title: OPROshield SILVER mouthguard
+  photo: "/OP010-8_A_Silver.Red_Comb.jpg"
 - title: 92487-2 Deluxe Foam Roller - High Density EVA
   photo: "/92487-2_A_FoamRollerEVA_36.jpg"
 - title: 92142-0 Classic Fitness Ball - Anti-burst
