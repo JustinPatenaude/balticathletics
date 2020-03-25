@@ -21,6 +21,8 @@ catalogues:
   year: 2019
   pdf: "/Racquet manual 2018-19 v1.3.pdf"
 photos:
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 - title: BA-180 The Beast Racquet
   photo: "/BA-180-THE BEAST-ANGLE - 023_0241-500x500.jpg"
 - title: BA-150 Sceptre Racquet
