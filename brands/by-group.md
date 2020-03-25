@@ -22,6 +22,8 @@ catalogues:
   year: 2019
   pdf: "/2019-BY-Group-Catalogue.pdf"
 photos:
+- title: 92487-2 Deluxe Foam Roller - High Density EVA
+  photo: "/92487-2_A_FoamRollerEVA_36.jpg"
 - title: 92142-0 Classic Fitness Ball - Anti-burst
   photo: "/92139-0_A_Fitness_Ball_45_combo.jpg"
 - title: 65622 Bocce Set
