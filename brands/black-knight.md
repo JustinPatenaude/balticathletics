@@ -22,7 +22,7 @@ photos:
   photo: "/BA-151JR Junior Mini.jpg"
 - title: AC-114K TURBO BLACK
   photo: "/AC-114K TURBO BLACK.jpg"
-- title: The Beast - BA180
+- title: BA-180 The Beast Racquet
   photo: "/BA-180-THE BEAST-ANGLE - 023_0241-500x500.jpg"
 - title: BA-150 Sceptre Racquet
   photo: "/BA-150-SCEPTRE-ANGLE - 024_0221-500x500.jpg"
