@@ -11,9 +11,7 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:26:16.000+00:00'
 photos:
-- title: G650 Goal
-  photo: "/G650 Farpost goal 6 ft x 18 ft.jpg"
-- title: G700 goal
-  photo: "/G700 FARPOST.jpg"
+- title: G1000 Portable professional soccer practice goal
+  photo: "/G1000 Farpost goal.png"
 
 ---
