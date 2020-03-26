@@ -11,6 +11,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:26:16.000+00:00'
 photos:
+- title: G675 Soccer Goal
+  photo: "/G675 Farpost goal.png"
 - title: G700 Soccer Goal
   photo: "/G700 FARPOST goal.png"
 - title: SS500 Sharpshooter goal
