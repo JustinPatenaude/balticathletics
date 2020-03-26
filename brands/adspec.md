@@ -31,6 +31,8 @@ catalogues:
   year: 0
   pdf: "/TS10_Tent_COLOUR-sample.pdf"
 photos:
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 - title: Adspec 10x10 TS10-DS - Sublimation
   photo: "/sublimation.jpg"
 - title: Adspec 10x10 Royal TS10-I1 - 1 imprint location
