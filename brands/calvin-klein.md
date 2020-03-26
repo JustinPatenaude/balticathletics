@@ -5,7 +5,7 @@ categories:
 - products/shirts.md
 title: Calvin Klein
 logo: "/calvin_klein_logo_original_2.png"
-website: ''
+website: https://en-ca.ssactivewear.com/ps/calvin_klein
 catalogues: []
 photos:
 - title: Calvin Klein - Women's Non-Iron Pincord Shirt - 18CC105
