@@ -6,9 +6,9 @@ categories:
 - products/soccer.md
 title: Farpost Goals
 logo: "/farpost-logo.png"
-website: http://farpostgoals.com/
+website: ''
 pdfs: []
-info: ''
+info: Farpost is a Canadian company specializing in collapsible aluminum goals.
 date: '2019-03-29T22:26:16.000+00:00'
 photos:
 - title: G275 Soccer Goal
@@ -25,9 +25,9 @@ photos:
   photo: "/G675 Farpost goal.png"
 - title: G700 Soccer Goal
   photo: "/G700 FARPOST goal.png"
-- title: SS500 Sharpshooter goal
-  photo: "/SS500 Farpost goal.png"
 - title: G1000 Portable professional soccer practice goal
   photo: "/G1000 Farpost goal.png"
+- title: SS500 Sharpshooter goal
+  photo: "/SS500 Farpost goal.png"
 
 ---
