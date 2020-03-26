@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/farpost-goals/"
 categories:
+- products/futsal.md
 - products/nets.md
 - products/soccer.md
 title: Farpost Goals
