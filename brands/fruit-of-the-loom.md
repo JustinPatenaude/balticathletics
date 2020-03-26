@@ -17,8 +17,14 @@ catalogues:
 - title: Fruit of the Loom Measuring Guide
   year: 0
   pdf: "/FOTL Measuring Guide.png"
-info: "Fruit of the Loom was founded in 1851 in Rhode Island, USA.\n\nA household
-  name for decades. "
+info: |-
+  Fruit of the Loom was founded in 1851 in Rhode Island, USA.
+
+  A household name for decades.
+
+  Several of my suppliers offer Fruit of the Loom:
+
+  [Alphabroder](https://www.alphabroder.ca/cgi-bin/online/webshr/search-result.w?ref=Mill_Name:Fruit%20of%20the%20Loom)
 photos:
 - photo: "/L3930-cyber-pink.jpg"
 - photo: "/SF77-denim-stripe.jpg"
