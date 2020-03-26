@@ -8,8 +8,6 @@ logo: "/canada_logo.png"
 website: ''
 catalogues: []
 photos:
-- title: Proudly Canadian
-  photo: "/proudly canadian.jpg"
 - title: 18-100 Deluxe Broomball Stick - Aluminum Shaft
   photo: "/18-100 deluxe_broom_stick_black_white alum.jpg"
 - title: 18-500 Classic Broomball Stick - Wooden Shaft
@@ -18,6 +16,8 @@ photos:
   photo: "/21-500 official_broom_ball_orange.jpg"
 - title: 49-204 Grip-inator Broomball Shoes
   photo: "/49-204 GRIP-INATOR-Gray.jpg"
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 info: Canadian supplier providing us with broomball equipment.
 
 ---
