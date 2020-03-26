@@ -11,6 +11,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:26:16.000+00:00'
 photos:
+- title: G475 Soccer Goal
+  photo: "/G475 Farpost goal.png"
 - title: G500 Soccer goal
   photo: "/G500 Farpost goal.png"
 - title: G600 Futsal Goal
