@@ -23,8 +23,6 @@ info: Known for their Rugby Wear - Made in Canada since 1981
 photos:
 - title: Collegiate
   photo: "/Collegiate-090.jpg"
-- title: Made in Canada
-  photo: "/made_in_canada_400x400.jpg"
 - photo: "/bar men real.PNG"
   title: playing rugby
 - photo: "/bar mat 03.PNG"
@@ -35,5 +33,7 @@ photos:
   photo: "/SMA Rugby Jersey Idea.png"
 - photo: "/bar shorts.PNG"
   title: Barbarian Shorts
+- title: Made in Canada
+  photo: "/made_in_canada_400x400.jpg"
 
 ---
