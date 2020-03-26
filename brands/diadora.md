@@ -10,7 +10,7 @@ categories:
 - products/socks.md
 title: Diadora
 logo: "/diadora-logo.jpg"
-website: http://www.diadora.com/en/
+website: ''
 pdfs:
 - "/diadora-soccer-spring-2016.pdf"
 info: |-
