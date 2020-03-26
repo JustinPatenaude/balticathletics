@@ -25,6 +25,8 @@ info: |-
   Several of my suppliers offer Fruit of the Loom:
 
   [Alphabroder](https://www.alphabroder.ca/cgi-bin/online/webshr/search-result.w?ref=Mill_Name:Fruit%20of%20the%20Loom)
+
+  Toba Sportswear
 photos:
 - photo: "/L3930-cyber-pink.jpg"
 - photo: "/SF77-denim-stripe.jpg"
