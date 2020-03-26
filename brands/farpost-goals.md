@@ -14,8 +14,6 @@ info: |-
   All goals are powder-coated white for durability.
 date: '2019-03-29T22:26:16.000+00:00'
 photos:
-- title: Proudly Canadian
-  photo: "/proudly canadian.jpg"
 - title: G275 Soccer Goal
   photo: "/G275 Farpost goal.png"
 - title: G475 Soccer Goal
@@ -34,5 +32,7 @@ photos:
   photo: "/G1000 Farpost goal.png"
 - title: SS500 Sharpshooter goal
   photo: "/SS500 Farpost goal.png"
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 
 ---
