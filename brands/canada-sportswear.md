@@ -12,8 +12,8 @@ title: Canada Sportswear
 logo: "/canada-sportswear-logo.png"
 website: http://www.canadasportswear.com/
 catalogues:
-- title: 2019-20 Canada Sportswear Catalogue
-  year: ''
+- title: Canada Sportswear Fall Main Catalogue
+  year: 2019
   pdf: "/2019 CSW_MainCatL1.pdf"
 - title: Spring Supplement
   year: 2020
