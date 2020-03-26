@@ -12,12 +12,12 @@ title: Canada Sportswear
 logo: "/canada-sportswear-logo.png"
 website: http://www.canadasportswear.com/
 catalogues:
-- title: Spring Supplement
-  year: 2020
-  pdf: "/2020 Spring Supplement.pdf"
 - title: 2019-20 Canada Sportswear Catalogue
   year: ''
   pdf: "/2019 CSW_MainCatL1.pdf"
+- title: Spring Supplement
+  year: 2020
+  pdf: "/2020 Spring Supplement.pdf"
 - title: CSW General Sizing Guide
   year: 0
   pdf: "/Canada Sportswear General Sizing Chart.jpg"
@@ -25,8 +25,6 @@ info: "Canada Sportswear is a Toronto family based firm which started in 1954. M
   of their garments are manufactured in Toronto and they have a very efficient system.
   \n\nLink to [CSW Online Catalogue](http://www.canadasportswear.com/eCatalogues1.aspx?Cat=01)"
 photos:
-- title: Proudly Canadian
-  photo: "/proudly canadian.jpg"
 - title: L00687 Palm Aire Pullover Hoodie
   photo: "/L00687-blue.jpg"
 - title: L00811 Dynamic Fleece Jacket
@@ -35,5 +33,7 @@ photos:
   photo: "/S05805 real life pic.jpg"
 - title: L04070 Victory Performance Athletic Twill Track Jacket
   photo: "/L04070-black-red.jpg"
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 
 ---
