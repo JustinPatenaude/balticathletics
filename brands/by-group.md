@@ -22,8 +22,6 @@ catalogues:
   year: 2019
   pdf: "/2019-BY-Group-Catalogue.pdf"
 photos:
-- title: Proudly Canadian
-  photo: "/proudly canadian.jpg"
 - title: 12624-5 Smash Table Tennis Table
   photo: "/12624-5_Smash_Table.jpg"
 - title: 12140 Blizzard Paddle
@@ -36,5 +34,7 @@ photos:
   photo: "/92487-2_A_FoamRollerEVA_36.jpg"
 - title: OPROshield SILVER mouthguard
   photo: "/OP010-8_A_Silver.Red_Comb.jpg"
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 
 ---
