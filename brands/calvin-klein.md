@@ -3,10 +3,12 @@ layout: brand
 permalink: "/brands/calvin-klein"
 categories: []
 title: Calvin Klein
-logo: ''
+logo: "/calvin_klein_logo_original_2.png"
 website: ''
 catalogues: []
 photos:
+- title: Calvin Klein - Non-Iron Dobby Dress Shirt - 18CK029
+  photo: "/Calvin Klein - Non-Iron Dobby Dress Shirt - 18CK029.jpg"
 - title: Calvin Klein - Cotton Stretch Slim Fit Shirt - 18CC109
   photo: "/Calvin Klein - Cotton Stretch Slim Fit Shirt - 18CC109.jpg"
 info: ''
