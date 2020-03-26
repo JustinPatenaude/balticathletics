@@ -11,6 +11,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:26:16.000+00:00'
 photos:
+- title: G700 Soccer Goal
+  photo: "/G700 FARPOST goal.png"
 - title: SS500 Sharpshooter goal
   photo: "/SS500 Farpost goal.png"
 - title: G1000 Portable professional soccer practice goal
