@@ -17,8 +17,6 @@ catalogues:
   pdf: ''
   year: 2020
 photos:
-- title: canadian
-  photo: "/proudly canadian.jpg"
 - title: Wekusko 7C647M Chino Twill Cap w/washed patch
   photo: "/7C647M chino twill cap washed patches.jpg"
 - title: Wekusko 6Y837M AJM Real Tree Cap
@@ -30,5 +28,7 @@ photos:
 - photo: "/6639M.jpg"
 - photo: "/9L594L.jpg"
 - photo: "/0A630M.jpg"
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 
 ---
