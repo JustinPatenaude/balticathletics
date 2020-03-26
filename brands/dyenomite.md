@@ -3,7 +3,7 @@ layout: brand
 permalink: "/brands/dyenomite/"
 categories:
 - products/bags-totes-duffels.md
-- products/hats.md
+- products/headwear.md
 - products/hoodies.md
 - products/shirts.md
 - products/sweaters.md
