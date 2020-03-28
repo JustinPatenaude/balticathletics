@@ -1,7 +1,8 @@
 ---
 layout: brand
 permalink: "/brands/high-5"
-categories: []
+categories:
+- products/soccer.md
 title: High 5
 logo: "/high 5 logo.jpg"
 website: ''
