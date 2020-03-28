@@ -31,7 +31,7 @@ photos:
   photo: "/LAXSR Soft Lacrosse Set.jpg"
 - title: VCPRO Volleyball Cart
   photo: "/VCPRO.jpg"
-- title: VCPRO Ball Holder
+- title: PR8 Segmented Skipping Ropes
   photo: "/VCPRO.jpg"
 - photo: "/bp2040-front_t Baseball backpack.jpg"
   title: BP2040 Baseball Backpack
