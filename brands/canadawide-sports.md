@@ -17,7 +17,7 @@ pdfs:
 - "/canadawide-sports-baseball-02-2018.pdf.pdf"
 - "/canadawide-sports-baseball-01-2018.pdf"
 info: |-
-  Canadawide Sports has been in business in Canada since the 1980's.
+  Canadawide Sports has been in business in Canada since the 1980's supplying floor hockey goals, goal equipment, HDB Baseball/Softball field equipment.
 
   ***
 
