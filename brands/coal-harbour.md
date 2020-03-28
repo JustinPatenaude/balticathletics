@@ -7,6 +7,8 @@ logo: "/COAL-HARBOUR-LOGO.png"
 website: http://www.imprintableclothes.com/balticathletics/b.jsp
 catalogues: []
 photos:
+- title: L7605 CH Essential Hooded Soft Shell Jacket - Iron Grey
+  photo: "/L7605 Essential Hooded Soft Shell Jacket Iron Grey.jpg"
 - title: L6005 CH Tattershell Check Woven Shirt - Grey/White
   photo: "/L6005 CH Tattersall Check Woven Shirt Grey-White.jpg"
 - title: L760 CH Everyday Colour Block Soft Shell Jacket - Black/Gold
