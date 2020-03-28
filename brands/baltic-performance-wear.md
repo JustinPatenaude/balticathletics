@@ -27,8 +27,6 @@ logo: "/BPW logo_main_color.png"
 website: http://www.balticathletics.sublimateduniforms.online/
 catalogues: []
 photos:
-- title: Competition Style Warm Up Jacket
-  photo: "/Competition Style Warm Up Jacket.png"
 - title: Ladies Sprint Style Track Singlet
   photo: "/Jaguars-Blue-Side.jpg"
 - title: Dinger 2 Short Sleeve 2 Button Baseball Jersey
@@ -44,6 +42,8 @@ photos:
   photo: "/Sentinel Cap Reversible V-ball Jsy - Women's.png"
 - title: Attack Ladies Cap Sleeve V-ball Jersey
   photo: "/Attack Cap Sleeve V-ball Jsy - Ladies.png"
+- title: Competition Style Warm Up Jacket
+  photo: "/Competition Style Warm Up Jacket.png"
 info: |-
   Baltic Performance Wear (BPW) is our own sublimation label and another great option that we offer in sublimated clothing.
 
