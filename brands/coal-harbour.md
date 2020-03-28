@@ -26,14 +26,13 @@ photos:
   photo: "/S445 CH Snag Resistant Sport Shirt - Green Oasis.jpg"
 - title: L6005 CH Tattershell Check Woven Shirt - Grey/White
   photo: "/L6005 CH Tattersall Check Woven Shirt Grey-White.jpg"
-info: "Coal Harbour is a registered trademark of SanMar Canada and as such the brand
-  includes T-shirts, Polo shirts, jackets and a wide range of other corporate uniform
-  and team clothing requirements. The Brand is known for its comfort, durability,
-  and fashion appeal while providing excellent products at prices well within budget
-  needs. Coal Harbour manufactures clothing for a diverse range of needs. Whether
-  it be office wear, sportswear, uniforms or easy wear, Coal Harbour clothing has
-  something for Men, Women and Youth.\n\nClick this [website link](http://www.imprintableclothes.com/balticathletics/start.jsp)
-  and search for \"Coal Harbour\"\n\nSizing charts are available for each product
-  on the website "
+info: |-
+  Coal Harbour is a registered trademark of SanMar Canada and as such the brand includes T-shirts, Polo shirts, jackets and a wide range of other corporate uniform and team clothing requirements. The Brand is known for its comfort, durability, and fashion appeal while providing excellent products at prices well within budget needs. Coal Harbour manufactures clothing for a diverse range of needs. Whether it be office wear, sportswear, uniforms or easy wear, Coal Harbour clothing has something for Men, Women and Youth.
+
+  ***
+
+  Click this [website link](http://www.imprintableclothes.com/balticathletics/start.jsp) and search for "Coal Harbour"
+
+  Sizing charts are available for each product on the website. "Download Specs"
 
 ---
