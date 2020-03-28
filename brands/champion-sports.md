@@ -27,6 +27,8 @@ info: |-
   Link to [Champion Sports Product Instructions](https://www.championsports.com/product-instructions/)
 date: '2019-03-29T22:21:27.000+00:00'
 photos:
+- title: FBBSET Foam Bowling Pin Set
+  photo: "/FBBSET Foam Bowling Pin Set.jpg"
 - title: PBNET Pickleball Net
   photo: "/PBNET Pickleball Net.jpg"
 - title: LAXSR Lacrosse Set
