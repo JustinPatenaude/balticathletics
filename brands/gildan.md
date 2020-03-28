@@ -12,13 +12,18 @@ title: Gildan
 logo: "/gildan-logo.png"
 website: ''
 catalogues:
-- title: Toba Sportswear - Gildan pgs 16-21, 24-37, 42-47
-  year: 2020
-  pdf: "/Toba 2020 Catalogue.pdf"
 - year: 0
   pdf: "/gildan-size chart.jpg"
   title: Gildan Size Chart (Actual GARMENT measurements)
-info: We can access Gildan from several suppliers.
+- title: Toba Sportswear - Gildan pgs 16-21, 24-37, 42-47
+  year: 2020
+  pdf: "/Toba 2020 Catalogue.pdf"
+info: |-
+  We can access Gildan from several suppliers.
+
+  Toba Sportswear catalogue above in catalogue list.
+
+  Link to [Alphabroder Gildan](https://www.alphabroder.ca/cgi-bin/online/webshr/search-result.w?ref=Mill_Name:Gildan)
 photos:
 - title: G18500 Gildan Dark Heather Pullover Hoodie
   photo: "/18500-dark-heather.jpg"
