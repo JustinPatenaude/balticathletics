@@ -43,7 +43,7 @@ photos:
 - title: 'Powerbank #2624'
   photo: "/2624_BLK_power bank.jpg"
 - title: 'Tape-O-Matic #61'
-  photo: "/tape03.jpeg"
+  photo: "/tape01.jpeg"
 - title: 'Notebook #6971'
   photo: "/6971_FSTLIM_notebook.jpg"
 - title: 'Alligator Clip #195'
