@@ -8,8 +8,6 @@ logo: "/Get XPOSED logo.png"
 website: http://www.getxposed.ca/
 catalogues: []
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada.jpg"
 - title: C-mug personalized on 2 sides
   photo: "/mugs mock.png"
 - title: Nordic mug & Nordic cooler glass with satin etch design
@@ -18,6 +16,8 @@ photos:
   photo: "/2018-08-29 18.53.31.jpg"
 - title: 'Pub Glass w/basketball in the bottom #8572'
   photo: "/8572_BASKETBALL_PUB_GLASS.jpg"
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 info: 'This website is a Winnipeg supplier and offer great pricing on ceramic wear
   & glassware. '
 
