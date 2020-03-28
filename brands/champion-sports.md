@@ -27,6 +27,8 @@ info: |-
   Link to [Champion Sports Product Instructions](https://www.championsports.com/product-instructions/)
 date: '2019-03-29T22:21:27.000+00:00'
 photos:
+- title: PBNET Pickleball Net
+  photo: "/PBNET Pickleball Net.jpg"
 - title: LAXSR Lacrosse Set
   photo: "/LAXSR Soft Lacrosse Set.jpg"
 - title: VCPRO Volleyball Cart
