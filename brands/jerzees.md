@@ -9,6 +9,8 @@ title: Jerzees
 logo: "/jerzees-logo.jpg"
 website: ''
 catalogues:
+- title: Toba Catalogue - Pages 48-51
+  year: 2020
 - year: 0
   pdf: "/crop_jerzees-fleece-size-chart.jpg"
   title: Jerzees Fleece / Sweatshirts Sizing Charts
