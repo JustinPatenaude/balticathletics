@@ -7,6 +7,7 @@ categories:
 - products/hockey.md
 - products/jackets.md
 - products/jerseys.md
+- products/made-in-canada.md
 - products/pants.md
 - products/shirts.md
 - products/shorts.md
@@ -42,8 +43,6 @@ catalogues:
   year: 0
   pdf: "/Kobe sublimation colours.pdf"
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada_400x400.jpg"
 - title: Kobe hockey
   photo: "/kobe hockey player.PNG"
 - title: HKY0311 Sublimated Hockey Jersey mock
@@ -66,5 +65,7 @@ photos:
   photo: "/SUBSHIFTV v-neck baseball jersey.png"
 - title: S-JKT Sublimated Warm-Up Jacket
   photo: "/S-JKT Sublimated Warm-Up Jacket.png"
+- title: Made in Canada
+  photo: "/made_in_canada_400x400.jpg"
 
 ---
