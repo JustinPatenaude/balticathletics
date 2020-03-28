@@ -15,10 +15,10 @@ catalogues:
 photos:
 - title: Cobra Outdoor Volleyball System pieces
   photo: "/Cobra outdoor v-ball system.JPG"
-- title: Cobra on sand
-  photo: "/cobra on sand.JPG"
 - title: Cobra on grass
   photo: "/cobra on grass.JPG"
+- title: Cobra on sand
+  photo: "/cobra on sand.JPG"
 info: |-
   Link to setting up the Cobra Volleyball System:
 
