@@ -8,6 +8,7 @@ categories:
 - products/shirts.md
 - products/safety.md
 - products/workwear.md
+- products/made-in-canada.md
 title: Richlu
 logo: "/richlu-logo.png"
 website: https://toughduck.com/
@@ -21,8 +22,6 @@ info: |-
 
   Link to [Tough Duck Hi-Vis at a Glance](https://toughduck.com/articles/hi-vis-at-a-glance/)
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada_400x400.jpg"
 - title: Tough Duck
   photo: "/TD-Logo-RGB-1200x1200.jpg"
 - title: Quilted Freezer Jacket WJ16
@@ -37,5 +36,7 @@ photos:
   photo: "/i955-REDP-F-Tough-Duck-Mens-Unlined-Flannel-Shirt-Red-Plaid-Front.png"
 - title: Insulated Safety Pull-On Pant S614
   photo: "/S614-BLACK-F-Work-King-Safety-by-Tough-Duck-Mens-Insulated-Pull-On-Hi-Vis-Safety-Pant-Black-Front.png"
+- title: Made in Canada
+  photo: "/made_in_canada_400x400.jpg"
 
 ---
