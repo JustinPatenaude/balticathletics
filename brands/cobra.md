@@ -1,7 +1,10 @@
 ---
 layout: brand
 permalink: "/brands/cobra"
-categories: []
+categories:
+- products/beach-volleyball.md
+- products/nets.md
+- products/volleyball.md
 title: Cobra
 logo: "/cobra logo.png"
 website: ''
@@ -17,7 +20,7 @@ photos:
 - title: Cobra on grass
   photo: "/cobra on grass.JPG"
 info: |-
-  Setting up the Cobra Volleyball System
+  Link to setting up the Cobra Volleyball System:
 
   ![Setting up the Cobra System](/Setting up the Cobra V-ball System.png)
 
