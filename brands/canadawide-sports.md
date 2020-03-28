@@ -38,7 +38,8 @@ catalogues:
   year: 0
   pdf: "/canadawide-sports-NAMI.pdf"
 photos:
-- photo: "/HDB-BB-LBS-2T.jpg"
+- photo: "/HBD-BB-SBS Safebase set.PNG"
+  title: HBD-BB-SBS Safebase Set
 - photo: "/FRK-BB-24834-2T_PITCHING MACHINE.jpg"
 - photo: "/ROA-HOC-CBS24-1.jpg"
 - photo: "/ROA-HOC-RCM-NS-2T.jpg"
