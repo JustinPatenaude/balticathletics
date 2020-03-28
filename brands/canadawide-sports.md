@@ -46,7 +46,7 @@ photos:
   title: ROA-HOC-RWSG72 Road Warrior Steel 72" Hockey Goal
 - photo: "/ROA-HOC-RCM-NS-2T.jpg"
   title: ROA-HOC-RCM-NS Road Warrior Canada Series Goal Mask
-- title: proudly canadian
+- title: Proudly Canadian
   photo: "/proudly canadian.jpg"
 
 ---
