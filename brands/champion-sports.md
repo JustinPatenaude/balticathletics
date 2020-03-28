@@ -29,8 +29,8 @@ date: '2019-03-29T22:21:27.000+00:00'
 photos:
 - title: LAXSR Lacrosse Set
   photo: "/LAXSR Soft Lacrosse Set.jpg"
-- title: M950 Double First Base
-  photo: "/m950_a_main_l.jpg"
+- title: VCPRO Volleyball Cart
+  photo: "/VCPRO.jpg"
 - title: VCPRO Ball Holder
   photo: "/VCPRO.jpg"
 - photo: "/bp2040-front_t Baseball backpack.jpg"
