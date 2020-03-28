@@ -32,7 +32,7 @@ photos:
 - title: VCPRO Volleyball Cart
   photo: "/VCPRO.jpg"
 - title: PR8 Segmented Skipping Ropes
-  photo: "/VCPRO.jpg"
+  photo: "/PR8 segmented skipping rope.jpg"
 - photo: "/C12OR High Visibility Flexible Vinyl Cone - 12-inch Orange.jpg"
   title: C12OR High Visibility Flexible Vinyl Cone - 12-inch Orange
 - title: PBNET Pickleball Net
