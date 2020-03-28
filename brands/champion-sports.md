@@ -27,10 +27,6 @@ info: |-
   Link to [Champion Sports Product Instructions](https://www.championsports.com/product-instructions/)
 date: '2019-03-29T22:21:27.000+00:00'
 photos:
-- title: FBBSET Foam Bowling Pin Set
-  photo: "/FBBSET Foam Bowling Pin Set.jpg"
-- title: PBNET Pickleball Net
-  photo: "/PBNET Pickleball Net.jpg"
 - title: LAXSR Lacrosse Set
   photo: "/LAXSR Soft Lacrosse Set.jpg"
 - title: VCPRO Volleyball Cart
@@ -39,6 +35,10 @@ photos:
   photo: "/VCPRO.jpg"
 - photo: "/C12OR High Visibility Flexible Vinyl Cone - 12-inch Orange.jpg"
   title: C12OR High Visibility Flexible Vinyl Cone - 12-inch Orange
+- title: PBNET Pickleball Net
+  photo: "/PBNET Pickleball Net.jpg"
+- title: FBBSET Foam Bowling Pin Set
+  photo: "/FBBSET Foam Bowling Pin Set.jpg"
 catalogues:
 - title: 2019-2020 Champion Sports Catalogue
   year: 2020
