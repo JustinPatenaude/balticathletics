@@ -40,7 +40,8 @@ catalogues:
 photos:
 - photo: "/HBD-BB-SBS Safebase set.PNG"
   title: HBD-BB-SBS Safebase Set
-- photo: "/FRK-BB-24834-2T_PITCHING MACHINE.jpg"
+- photo: "/ROA-HOC-PTGPLUS28 Road Warrior Goal pads.PNG"
+  title: ROA-HOC-PTGPLUS28 Road Warrior Goal Pads
 - photo: "/ROA-HOC-CBS24-1.jpg"
 - photo: "/ROA-HOC-RCM-NS-2T.jpg"
 - title: proudly canadian
