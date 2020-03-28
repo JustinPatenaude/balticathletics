@@ -18,8 +18,6 @@ catalogues:
 info: In Italian INARIA means "inside the 18 yard box". Inaria provides apparel with
   good fit, function and value in the world of soccer apparel.
 photos:
-- title: Proudly Canadian
-  photo: "/proudly canadian.jpg"
 - title: Veloce Jersey
   photo: "/Inaria_Veloce Jersey.PNG"
 - title: Monza Jersey
@@ -36,5 +34,7 @@ photos:
   photo: "/Inaria_Premiere Sock 0515.PNG"
 - title: Catenaccio 1/4 Zip Training Jacket
   photo: "/Inaria_Catenaccio Quarter Zip Training Jacket.PNG"
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 
 ---
