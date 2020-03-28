@@ -10,6 +10,8 @@ catalogues:
   year: 
   pdf: "/COBRA OUTDOOR VOLLEYBALL NET SYSTEM.pdf"
 photos:
+- title: Cobra Outdoor Volleyball System pieces
+  photo: "/Cobra outdoor v-ball system.JPG"
 - title: Cobra on sand
   photo: "/cobra on sand.JPG"
 - title: Cobra on grass
