@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/martini-vispak"
 categories:
+- products/made-in-canada.md
 - products/aprons.md
 - products/auto.md
 - products/bags-totes-duffels.md
@@ -14,7 +15,6 @@ categories:
 - products/hockey.md
 - products/home.md
 - products/lanyards.md
-- products/made-in-canada.md
 - products/plush-novelties.md
 - products/pets.md
 - products/shirts.md
@@ -24,6 +24,7 @@ categories:
 - products/tissues.md
 - products/towels.md
 - products/travel.md
+- products/made-in-canada.md
 title: Martini Vispak
 logo: "/martini-logo.png"
 website: https://www.martinivispak.com/en_ca
@@ -47,8 +48,6 @@ catalogues:
   year: 0
   pdf: "/Lanyards options.jpg"
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada_400x400.jpg"
 - title: École Julie-Riel Classic Lanyard - 1 sided decoration w/lobster clip
   photo: "/Julie-Riel lanyard.PNG"
 - title: Niverville Middle School - Full colour sublimation Lanyard with breakaway
@@ -63,5 +62,7 @@ photos:
   photo: "/8012RUN.JPG"
 - title: CD4601FIT Compression Clothing
   photo: "/cd4601fit-compression shirts.jpeg"
+- title: Made in Canada
+  photo: "/made_in_canada_400x400.jpg"
 
 ---
