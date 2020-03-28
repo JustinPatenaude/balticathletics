@@ -15,7 +15,7 @@ catalogues:
 - title: New Balance LADIES Measuring Guide
   year: 0
   pdf: "/Women's Measuring Guidelines.PNG"
-info: ''
+info: Link to [Technosport New Balance selection](https://en-ca.ssactivewear.com/ps/new_balance)
 photos:
 - title: MT81036P NB Performance Tee
   photo: "/MT81036P NB perf tee red.jpg"
