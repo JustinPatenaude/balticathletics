@@ -7,6 +7,8 @@ logo: "/COAL-HARBOUR-LOGO.png"
 website: http://www.imprintableclothes.com/balticathletics/b.jsp
 catalogues: []
 photos:
+- title: J7695 CH Everyday Insulated Soft Shell Jacket - Black
+  photo: "/J7695 CH Everyday Insulated Soft Shell Jkt BLACK.jpg"
 - title: J7603 CH Everyday Soft Shell Jkt - Black Heather
   photo: "/J7603 CH Everyday Soft Shell Jkt - Blk Heather.jpg"
 - photo: "/J7637 All Season Jkt True Royal.jpg"
