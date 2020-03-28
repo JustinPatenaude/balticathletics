@@ -33,8 +33,8 @@ photos:
   photo: "/VCPRO.jpg"
 - title: PR8 Segmented Skipping Ropes
   photo: "/VCPRO.jpg"
-- photo: "/bp2040-front_t Baseball backpack.jpg"
-  title: BP2040 Baseball Backpack
+- photo: "/C12OR High Visibility Flexible Vinyl Cone - 12-inch Orange.jpg"
+  title: C12OR High Visibility Flexible Vinyl Cone - 12-inch Orange
 catalogues:
 - title: 2019-2020 Champion Sports Catalogue
   year: 2020
