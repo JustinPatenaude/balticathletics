@@ -2,12 +2,12 @@
 layout: brand
 permalink: "/brands/kobe-sportswear/"
 categories:
+- products/made-in-canada.md
 - products/basketball.md
 - products/baseball.md
 - products/hockey.md
 - products/jackets.md
 - products/jerseys.md
-- products/made-in-canada.md
 - products/pants.md
 - products/shirts.md
 - products/shorts.md
