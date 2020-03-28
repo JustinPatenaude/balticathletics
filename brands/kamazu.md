@@ -21,8 +21,6 @@ catalogues:
 info: Kamazu is a Canadian company and has been in business over 50 years. They have
   a quick turnaround and low minimums (12 pieces per design).
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada_400x400.jpg"
 - title: Classic 10100 Jerseys
   photo: "/0000562_kamazu-flexxice-classic-10100-hockey-jersey_550.jpeg"
 - title: Reversible 12100 Jerseys
@@ -41,5 +39,7 @@ photos:
   photo: "/0000512_kamazu-flexxstrike-hitter-adult-bb2000-baseball-jersey_220.png"
 - title: Soccer Sublimated Jerseys
   photo: "/Kamazu Soccer Sublimated.png"
+- title: Made in Canada
+  photo: "/made_in_canada_400x400.jpg"
 
 ---
