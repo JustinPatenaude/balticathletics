@@ -42,7 +42,8 @@ photos:
   title: HBD-BB-SBS Safebase Set
 - photo: "/ROA-HOC-PTGPLUS28 Road Warrior Goal pads.PNG"
   title: ROA-HOC-PTGPLUS28 Road Warrior Goal Pads
-- photo: "/ROA-HOC-CBS24-1.jpg"
+- photo: "/ROA-HOC-RWSG72.PNG"
+  title: ROA-HOC-RWSG72 Road Warrior Steel 72" Hockey Goal
 - photo: "/ROA-HOC-RCM-NS-2T.jpg"
 - title: proudly canadian
   photo: "/proudly canadian.jpg"
