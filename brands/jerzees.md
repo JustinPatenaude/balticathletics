@@ -11,6 +11,7 @@ website: ''
 catalogues:
 - title: Toba Catalogue - Pages 48-51
   year: 2020
+  pdf: "/Toba 2020 Catalogue.pdf"
 - year: 0
   pdf: "/crop_jerzees-fleece-size-chart.jpg"
   title: Jerzees Fleece / Sweatshirts Sizing Charts
