@@ -12,7 +12,10 @@ title: Puma
 logo: "/puma-logo.png"
 website: ''
 catalogues: []
-info: ''
+info: |-
+  Link to [Alphabroder Puma Sport selection](https://www.alphabroder.ca/cgi-bin/online/webshr/search-result.w?ref=Mill_Name:Puma%20Sport)
+
+  Link to [Alphabroder Puma Golf selection](https://www.alphabroder.ca/cgi-bin/online/webshr/search-result.w?ref=Mill_Name:Puma%20Golf)
 photos:
 - photo: "/597021_54_z.jpg"
 - photo: "/596990_45_z.jpg"
