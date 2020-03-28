@@ -1,7 +1,10 @@
 ---
 layout: brand
 permalink: "/brands/coal-harbour"
-categories: []
+categories:
+- products/golf.md
+- products/jackets.md
+- products/shirts.md
 title: Coal Harbour
 logo: "/COAL-HARBOUR-LOGO.png"
 website: http://www.imprintableclothes.com/balticathletics
@@ -26,6 +29,6 @@ photos:
 info: |-
   Coal Harbour has a great line up of jackets and polo (sport) shirts.
 
-  Click the website link above and search for "Coal Harbour"
+  Click this [website link](http://www.imprintableclothes.com/balticathletics/start.jsp) and search for "Coal Harbour"
 
 ---
