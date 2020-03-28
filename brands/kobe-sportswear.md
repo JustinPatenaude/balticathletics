@@ -2,7 +2,6 @@
 layout: brand
 permalink: "/brands/kobe-sportswear/"
 categories:
-- products/made-in-canada.md
 - products/basketball.md
 - products/baseball.md
 - products/hockey.md
@@ -13,6 +12,7 @@ categories:
 - products/shorts.md
 - products/socks.md
 - products/sublimation.md
+- products/made-in-canada.md
 title: Kobe Sportswear
 logo: "/kobe-logo.jpg"
 website: http://kobesportswear.com/
