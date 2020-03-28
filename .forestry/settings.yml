@@ -42,8 +42,8 @@ sections:
 - type: heading
   label: Lists
 - type: document
-  path: _data/categories.yml
-  label: Category list
+  path: _data/product_list.yml
+  label: Product list
 - type: heading
   label: Documentation
 - type: document
