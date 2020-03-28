@@ -10,6 +10,8 @@ catalogues:
   year: 
   pdf: "/COBRA OUTDOOR VOLLEYBALL NET SYSTEM.pdf"
 photos:
+- title: Cobra on sand
+  photo: "/cobra on sand.JPG"
 - title: Cobra on grass
   photo: "/cobra on grass.JPG"
 info: ''
