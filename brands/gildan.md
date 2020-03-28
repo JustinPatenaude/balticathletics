@@ -21,9 +21,11 @@ catalogues:
 info: |-
   We can access Gildan from several suppliers.
 
-  Toba Sportswear catalogue above in catalogue list.
+  Toba Sportswear above in catalogue list in a local Winnipeg supplier. Pages 16-21, 24-37, 42-47
 
   Link to [Alphabroder Gildan](https://www.alphabroder.ca/cgi-bin/online/webshr/search-result.w?ref=Mill_Name:Gildan)
+
+  Link to [Technosport Gildan](https://en-ca.ssactivewear.com/ps/gildan)
 photos:
 - title: G18500 Gildan Dark Heather Pullover Hoodie
   photo: "/18500-dark-heather.jpg"
