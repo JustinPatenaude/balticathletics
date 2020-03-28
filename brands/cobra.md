@@ -9,7 +9,9 @@ catalogues:
 - title: Cobra Outdoor Volleyball Net System
   year: 
   pdf: "/COBRA OUTDOOR VOLLEYBALL NET SYSTEM.pdf"
-photos: []
+photos:
+- title: Cobra on grass
+  photo: "/cobra on grass.JPG"
 info: ''
 
 ---
