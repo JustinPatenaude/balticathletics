@@ -4,7 +4,7 @@ permalink: "/brands/get-xposed/"
 categories:
 - products/drinkware.md
 title: Get Xposed
-logo: "/GET XPOSED TITLE.png"
+logo: "/Get XPOSED logo.png"
 website: http://www.getxposed.ca/
 catalogues: []
 photos:
