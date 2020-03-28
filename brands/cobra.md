@@ -16,6 +16,9 @@ photos:
   photo: "/cobra on sand.JPG"
 - title: Cobra on grass
   photo: "/cobra on grass.JPG"
-info: ''
+info: |-
+  Setting up the Cobra Volleyball System
+
+  ![Setting up the Cobra System](/Setting up the Cobra V-ball System.png)
 
 ---
