@@ -7,6 +7,8 @@ logo: "/COAL-HARBOUR-LOGO.png"
 website: http://www.imprintableclothes.com/balticathletics/b.jsp
 catalogues: []
 photos:
+- title: S4001 CH Colour Block Sport Shirt - Black/Red
+  photo: "/S4001 CH Colour Block Sport Shirt - Black.Red.jpg"
 - title: S445 CH Snag Resistant Sport Shirt - Green Oasis
   photo: "/S445 CH Snag Resistant Sport Shirt - Green Oasis.jpg"
 - title: L7605 CH Essential Hooded Soft Shell Jacket - Iron Grey
