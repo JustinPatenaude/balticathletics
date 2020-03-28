@@ -3,7 +3,7 @@ layout: brand
 permalink: "/brands/high-5"
 categories: []
 title: High 5
-logo: ''
+logo: "/high 5 logo.jpg"
 website: ''
 catalogues: []
 photos: []
