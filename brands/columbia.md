@@ -1,10 +1,12 @@
 ---
 layout: brand
 permalink: "/brands/columbia"
-categories: []
+categories:
+- products/jackets.md
+- products/shirts.md
 title: Columbia
 logo: "/Columbia logo.jpg"
-website: ''
+website: https://www.alphabroder.ca/cgi-bin/online/webshr/search-result.w?ref=Mill_Name:Columbia
 catalogues: []
 photos:
 - title: 3220 Columbia Men's Steens Mountain Full-Zip Fleece
@@ -15,6 +17,8 @@ photos:
   photo: "/1864631_06_g.jpg"
 - title: C1023 Columbia Ladies Benton Springs Vest
   photo: "/c1023_47_g.jpg"
-info: ''
+info: 'Columbia Sportswear is a global outdoor brand that started in 1937 when the
+  Boyle family fled Nazi Germany and settled in Portland where they purchased a small
+  hat manufacturer, naming it the Columbia Hat Company.  '
 
 ---
