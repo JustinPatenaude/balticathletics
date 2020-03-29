@@ -18,6 +18,8 @@ catalogues:
   pdf: "/D-Gel-catalogue2019-WEB PDF.pdf"
   year: 2019
 photos:
+- title: Tractor Shoes
+  photo: "/tractor shoe-Z.jpg"
 - title: Heritage Wood Shaft Stick
   photo: "/7061_Heritage-Z.jpg"
 
