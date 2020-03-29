@@ -10,6 +10,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: BRAWEVF301 Victory Ribbon 1st
+  photo: "/BRAWEVF301 Victory 1st.jpg"
 - title: BRAWETR323 Track & Field Ribbon 3rd
   photo: "/BRAWETR323 Track 3rd.jpg"
 - title: BRAWETR322 Track & Field Ribbon 2nd
