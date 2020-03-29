@@ -7,6 +7,9 @@ title: Hussey Seating
 logo: "/hussey-seating-logo.jpg"
 website: https://www.clarinseating.com/
 catalogues:
+- title: Clarin Hussey Frame Colours
+  year: 2020
+  pdf: "/Clarin_Frame_Colors.pdf"
 - title: Clarin Hussey Portable Seating Entire Collection
   year: 2020
 info: |-
