@@ -53,6 +53,8 @@ info: |-
 
   In 2011 Clarin became part of the Hussey Seating Company’s family of products.
 photos:
+- title: 3400 sideline chairs
+  photo: "/UD_3.jpg"
 - title: 3400 Series for locker rooms
   photo: "/IC_2.jpg"
 - title: 3400 chair with two logos
