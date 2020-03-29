@@ -10,6 +10,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: BRAWEVP300 Victory Participant
+  photo: "/BRAWEVP300 Victory Participant.jpg"
 - title: BRAWEVF303 Victory Ribbon 3rd
   photo: "/BRAWEVF303 Victory 3rd.jpg"
 - title: BRAWEVF302 Victory Ribbon 2nd
