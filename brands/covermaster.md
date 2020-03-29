@@ -24,14 +24,14 @@ catalogues:
   year: 2019
   pdf: ''
 photos:
-- title: Ultima Custom Cover Colours
-  photo: "/Ultima Custom Colors - 250.jpg"
-- title: Medium Weight Gym Cover
-  photo: "/ms3_250.jpg"
 - title: Medium weight gym cover
   photo: "/gfcg2_500.jpg"
+- title: Medium Weight Gym Cover
+  photo: "/ms3_250.jpg"
 - title: Medium Weight 2200 Cover
   photo: "/ms2200_500.jpg"
+- title: Ultima Custom Cover Colours
+  photo: "/Ultima Custom Colors - 250.jpg"
 - title: Handling systems
   photo: "/cvmt1_500.jpg"
 - title: Gym runners
