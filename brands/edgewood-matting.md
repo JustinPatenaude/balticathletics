@@ -26,11 +26,13 @@ catalogues:
   year: 2020
   pdf: "/ea-instafloor_brochure-revised-f.pdf"
 photos:
-- title: Voyager Residential Tile
-  photo: "/Voyager Residential tile.PNG"
-- title: Voyager Athletic Tile Colour Swatches
-  photo: "/Voyager athletic tile colour swatches.PNG"
+- title: Cartsmart Edging
+  photo: "/Cartsmart Edging.PNG"
 - title: Voyager Athletic Tile
   photo: "/Voyager athletic tile.PNG"
+- title: Voyager Athletic Tile Colour Swatches
+  photo: "/Voyager athletic tile colour swatches.PNG"
+- title: Voyager Residential Tile
+  photo: "/Voyager Residential tile.PNG"
 
 ---
