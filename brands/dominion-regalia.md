@@ -8,14 +8,12 @@ title: Dominion Regalia
 logo: "/dominion-regalia.png"
 website: ''
 catalogues: []
-info: ''
+info: Recognizing winning performances since 1881. Dominion Regalia provides an entire
+  collection of Awards, Apparel & Custom Manufactured swag. Dominion Regalia is one
+  of the oldest Premier Manufacturers in Canada!
 photos:
-- title: BRAWFTF313 Victory en francais 3eme
-  photo: "/BRAWFTF313 Victory en francais 3eme.jpg"
-- title: BRAWFTF312 Victory en francais 2eme
-  photo: "/BRAWFTF312 Victory en francais 2eme.jpg"
-- title: BRAWFTF311 Victory en francais 1er
-  photo: "/BRAWFTF311 Victory en francais 1er.jpg"
+- title: Canada Flags of all sizes
+  photo: "/canadas_1024x1024.png"
 - title: Ribbons in Baltic Athletics stock
   photo: "/2020.03 ribbons in stock.jpg"
 - title: BRAWETR321 Track & Field Ribbon 1st
@@ -32,6 +30,12 @@ photos:
   photo: "/BRAWEVF303 Victory 3rd.jpg"
 - title: BRAWEVP300 Victory Participant
   photo: "/BRAWEVP300 Victory Participant.jpg"
+- title: BRAWFTF311 Victory en francais 1er
+  photo: "/BRAWFTF311 Victory en francais 1er.jpg"
+- title: BRAWFTF312 Victory en francais 2eme
+  photo: "/BRAWFTF312 Victory en francais 2eme.jpg"
+- title: BRAWFTF313 Victory en francais 3eme
+  photo: "/BRAWFTF313 Victory en francais 3eme.jpg"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
 
