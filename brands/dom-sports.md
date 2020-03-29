@@ -6,6 +6,7 @@ categories:
 - products/floor-hockey.md
 - products/games.md
 - products/golf.md
+- products/made-in-canada.md
 - products/nets.md
 - products/ringette.md
 - products/softball.md
@@ -25,8 +26,6 @@ catalogues:
   pdf: "/DOMSports-GiantGamesCatalogue2020.pdf"
   year: 2020
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada.jpg"
 - title: C60 Cup Sticks
   photo: "/C60 Cup Set.jpg"
 - title: Floor Hockey Goals
@@ -35,5 +34,7 @@ photos:
   photo: "/hockey_FP05fp.jpg"
 - title: Replacement blades SB76
   photo: "/hockey_sb76_redblue.jpg"
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 
 ---
