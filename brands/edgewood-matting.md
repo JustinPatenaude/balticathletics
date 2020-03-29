@@ -28,8 +28,6 @@ catalogues:
   year: 2020
   pdf: "/ea-instafloor_brochure-revised-f.pdf"
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada.jpg"
 - title: Voyager Athletic Tile
   photo: "/Voyager athletic tile.PNG"
 - title: Voyager Athletic Tile Colour Swatches
@@ -38,5 +36,7 @@ photos:
   photo: "/Voyager Residential tile.PNG"
 - title: Cartsmart Edging
   photo: "/Cartsmart Edging.PNG"
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 
 ---
