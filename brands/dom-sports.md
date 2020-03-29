@@ -2,16 +2,24 @@
 layout: brand
 permalink: "/brands/dom-sports/"
 categories:
+- products/broomball.md
 - products/floor-hockey.md
+- products/games.md
+- products/golf.md
 - products/nets.md
+- products/ringette.md
+- products/softball.md
 title: Dom Sports
 logo: "/domlogoarrow.gif"
 website: http://www.domsports.com/
 pdfs:
 - "/dom-sports-2017.pdf"
-info: ''
+info: Established in 1968 by Dom Petruccelli in Toronto, Ontario, DOM provides quality
+  sports and PE equipment for institutional markets that demand strength and durability.
 date: '2019-03-29T22:24:32.000+00:00'
 catalogues:
+- title: DOM Products Catalogue
+  year: 2017
 - title: DOM Sports - Giant Games Catalogue
   pdf: "/DOMSports-GiantGamesCatalogue2020.pdf"
   year: 2020
