@@ -12,6 +12,8 @@ info: Recognizing winning performances since 1881. Dominion Regalia provides an 
   collection of Awards, Apparel & Custom Manufactured swag. Dominion Regalia is one
   of the oldest Premier Manufacturers in Canada!
 photos:
+- title: Indoor poles & bases
+  photo: "/poles and bases.png"
 - title: International Flags
   photo: "/international flags.png"
 - title: Provincial Flags
