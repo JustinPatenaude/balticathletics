@@ -21,14 +21,14 @@ catalogues:
   year: 2019
   pdf: "/Gymnasium Catalog.pdf"
 photos:
-- title: Gym runners
-  photo: "/gym runner 250.jpg"
 - title: Medium weight gym cover
   photo: "/gfcg2_500.jpg"
 - title: Medium Weight 2200 Cover
   photo: "/ms2200_500.jpg"
 - title: Handling systems
   photo: "/cvmt1_500.jpg"
+- title: Gym runners
+  photo: "/gym runner 250.jpg"
 - title: Handling Systems 2
   photo: "/gym floor handling systems.jpg"
 info: "**SPORTS SURFACE COVERS**  \n  \n_Covermaster, Inc_. is the industry's leading
