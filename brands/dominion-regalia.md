@@ -10,6 +10,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: BRAWFTF312 Victory en francais 2eme
+  photo: "/BRAWFTF312 Victory en francais 2eme.jpg"
 - title: BRAWFTF311 Victory en francais 1er
   photo: "/BRAWFTF311 Victory en francais 1er.jpg"
 - title: Ribbons in Baltic Athletics stock
