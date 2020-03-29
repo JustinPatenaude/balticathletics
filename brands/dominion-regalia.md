@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/dominion-regalia/"
 categories:
+- products/ribbons.md
 - products/track-field.md
 title: Dominion Regalia
 logo: "/dominion-regalia.png"
