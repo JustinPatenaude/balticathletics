@@ -1,9 +1,9 @@
 ---
 layout: brand
-permalink: "/brands/hussey-seating/"
+permalink: "/brands/clarin-hussey-seating/"
 categories:
 - products/seating.md
-title: Hussey Seating
+title: Clarin Hussey Seating
 logo: "/hussey-seating-logo.jpg"
 website: https://www.clarinseating.com/
 catalogues:
