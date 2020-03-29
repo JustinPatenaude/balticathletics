@@ -46,6 +46,8 @@ categories:
 - products/volleyball.md
 - products/wall-pads.md
 photos:
+- title: Aluminum Soccer Goal
+  photo: "/soccer_goal_frame_sideview_360x.jpg"
 - title: NHL Professional Hockey Goal (net sold separately)
   photo: "/Court-1_Hockey_Goal_Frame_360x.jpg"
 - title: Tip & Roll Bleachers
