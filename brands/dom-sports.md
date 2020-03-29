@@ -25,6 +25,8 @@ catalogues:
   pdf: "/DOMSports-GiantGamesCatalogue2020.pdf"
   year: 2020
 photos:
+- title: C60 Cup Sticks
+  photo: "/C60 Cup Set.jpg"
 - title: Floor Hockey Goals
   photo: "/hockeyframes_kd99.jpg"
 - title: DOM Felt Puck FP05
