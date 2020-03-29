@@ -17,13 +17,13 @@ info: |-
   Link to [Colour Synthesizer](https://edgewoodgroup.ca/colour-synthesizer) for fitness tile
 date: '2019-03-29T22:25:25.000+00:00'
 catalogues:
+- title: Sport Flooring & Accessories
+  year: 2020
+- title: Herculean - Multi-purpose Sport Floor Systems
+  year: 2020
+  pdf: "/EA-Brochure_Sports_Flooring-2020.pdf"
 - title: Instafloor - High Performance Sport Floor Systems
   year: 2020
   pdf: "/ea-instafloor_brochure-revised-f.pdf"
-- title: Herculean Multi-purpose Sport Floor Systems
-  year: 2020
-  pdf: "/EA-Brochure_Sports_Flooring-2020.pdf"
-- title: Sport Flooring & Accessories
-  year: 2020
 
 ---
