@@ -25,5 +25,8 @@ catalogues:
 - title: Instafloor - High Performance Sport Floor Systems
   year: 2020
   pdf: "/ea-instafloor_brochure-revised-f.pdf"
+photos:
+- title: Voyager athletic tile
+  photo: "/Voyager athletic tile.PNG"
 
 ---
