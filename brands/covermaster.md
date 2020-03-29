@@ -17,6 +17,9 @@ title: Covermaster
 logo: "/cm_header_GFC logo.jpg"
 website: ''
 catalogues:
+- title: Courtclean - Gym Floor Damp Mop System
+  year: 2019
+  pdf: ''
 - title: Covermaster Gymnasium Catalogue
   year: 2019
   pdf: "/Gymnasium Catalog.pdf"
