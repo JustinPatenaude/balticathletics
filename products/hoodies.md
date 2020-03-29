@@ -1,8 +1,9 @@
 ---
-layout: product
+layout: category
 permalink: "/products/hoodies/"
 title: Hoodies
-products: []
+products:
+- ''
 photos: []
 
 ---
