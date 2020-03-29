@@ -55,7 +55,7 @@ info: |-
 photos:
 - title: 185 stool
   photo: "/Stool_185.jpg"
-- title: 130 bar stool
+- title: 130 bar stool (different heights available)
   photo: "/stool_130.jpg"
 - title: 3400 Series for locker rooms
   photo: "/IC_2.jpg"
