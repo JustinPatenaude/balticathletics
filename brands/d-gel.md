@@ -15,7 +15,7 @@ info: A Canadian company, D-Gel has been providing equipment for **Ball Hockey**
 date: '2019-03-29T22:22:35.000+00:00'
 catalogues:
 - title: D-Gel Catalogue
-  pdf: ''
+  pdf: "/D-Gel-catalogue2019-WEB PDF.pdf"
   year: 2019
 
 ---
