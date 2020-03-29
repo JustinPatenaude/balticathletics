@@ -53,8 +53,6 @@ info: |-
 
   In 2011 Clarin became part of the Hussey Seating Company’s family of products.
 photos:
-- title: Hanging cart
-  photo: "/hanging cart.jpg"
 - title: 3400 Series for locker rooms
   photo: "/IC_2.jpg"
 - title: 3400 sideline chairs
@@ -69,5 +67,7 @@ photos:
   photo: "/Stool_185.jpg"
 - title: Flat storage for under stage storage
   photo: "/flat storage for understage.jpg"
+- title: Hanging cart
+  photo: "/hanging cart.jpg"
 
 ---
