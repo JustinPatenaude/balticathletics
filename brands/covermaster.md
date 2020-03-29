@@ -21,6 +21,8 @@ catalogues:
   year: 2019
   pdf: "/Gymnasium Catalog.pdf"
 photos:
+- title: Clean Court Floor Mop
+  photo: "/CrtCln1 - 250.jpg"
 - title: Medium weight gym cover
   photo: "/gfcg2_500.jpg"
 - title: Medium Weight 2200 Cover
