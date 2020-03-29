@@ -7,7 +7,7 @@ categories:
 - products/custom-mats.md
 title: Edgewood
 logo: "/edgewood-logo.png"
-website: http://edgewoodgroup.ca/
+website: ''
 pdfs: []
 info: |-
   **Edgewood Group** is the largest full service wholesaler of matting and flooring products in Canada. We specialize in the supply and installation of high quality products coupled with excellent customer service.
@@ -26,13 +26,13 @@ catalogues:
   year: 2020
   pdf: "/ea-instafloor_brochure-revised-f.pdf"
 photos:
-- title: Cartsmart Edging
-  photo: "/Cartsmart Edging.PNG"
 - title: Voyager Athletic Tile
   photo: "/Voyager athletic tile.PNG"
 - title: Voyager Athletic Tile Colour Swatches
   photo: "/Voyager athletic tile colour swatches.PNG"
 - title: Voyager Residential Tile
   photo: "/Voyager Residential tile.PNG"
+- title: Cartsmart Edging
+  photo: "/Cartsmart Edging.PNG"
 
 ---
