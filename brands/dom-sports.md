@@ -25,6 +25,8 @@ catalogues:
   pdf: "/DOMSports-GiantGamesCatalogue2020.pdf"
   year: 2020
 photos:
+- title: Replacement blades SB76
+  photo: "/hockey_sb76_redblue.jpg"
 - title: C60 Cup Sticks
   photo: "/C60 Cup Set.jpg"
 - title: Floor Hockey Goals
