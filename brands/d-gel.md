@@ -17,5 +17,8 @@ catalogues:
 - title: D-Gel Catalogue
   pdf: "/D-Gel-catalogue2019-WEB PDF.pdf"
   year: 2019
+photos:
+- title: Heritage Wood Shaft Stick
+  photo: "/7061_Heritage-Z.jpg"
 
 ---
