@@ -10,6 +10,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: BRAWFTF313 Victory en francais 3eme
+  photo: "/BRAWFTF313 Victory en francais 3eme.jpg"
 - title: BRAWFTF312 Victory en francais 2eme
   photo: "/BRAWFTF312 Victory en francais 2eme.jpg"
 - title: BRAWFTF311 Victory en francais 1er
