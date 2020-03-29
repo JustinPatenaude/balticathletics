@@ -17,13 +17,15 @@ title: Covermaster
 logo: "/cm_header_GFC logo.jpg"
 website: ''
 catalogues:
+- title: Covermaster Gymnasium Catalogue
+  year: 2019
+  pdf: "/CourtClean Literature.pdf"
 - title: Courtclean - Gym Floor Damp Mop System
   year: 2019
   pdf: ''
-- title: Covermaster Gymnasium Catalogue
-  year: 2019
-  pdf: "/Gymnasium Catalog.pdf"
 photos:
+- title: Medium Weight Gym Cover
+  photo: "/ms3_250.jpg"
 - title: Medium weight gym cover
   photo: "/gfcg2_500.jpg"
 - title: Medium Weight 2200 Cover
@@ -37,14 +39,14 @@ photos:
 - title: Courtclean Floor Mop
   photo: "/CrtCln1 - 250.jpg"
 info: "**SPORTS SURFACE COVERS**\n\n_Covermaster, Inc_. is the industry's leading
-  provider of indoor sports surface covers.\n\n**GYMNASIUMS:** If you are outfitting
-  a gymnasium, Covermaster has the gymnasium padding and gym carpet that can turn
-  any gym into a true multi-purpose facility.  _Covermaster, Inc._ has been producing
-  top of the line gym floor covers for more than three decades, and is now the industry
-  leading provider of natural turf protection.\n\nWe are also able to provide our
-  customers with gym carpet tiles that can protect the gym floor during non-athletic
-  events and dampen noise within the room.\n\nOur selection of sport surface covers
-  also includes a full line of outdoor playing surface covers.\n\n**BASEBALL/SOFTBALL:**
+  provider of indoor sports surface covers since 1969.\n\n**GYMNASIUMS:** If you are
+  outfitting a gymnasium, Covermaster has the gymnasium padding and gym carpet that
+  can turn any gym into a true multi-purpose facility.  _Covermaster, Inc._ has been
+  producing top of the line gym floor covers for more than three decades, and is now
+  the industry leading provider of natural turf protection.\n\nWe are also able to
+  provide our customers with gym carpet tiles that can protect the gym floor during
+  non-athletic events and dampen noise within the room.\n\nOur selection of sport
+  surface covers also includes a full line of outdoor playing surface covers.\n\n**BASEBALL/SOFTBALL:**
   For baseball field groundskeepers, we are able to provide wind weighted tarps for
   professional and recreational play. Each baseball field tarp that we sell is made
   of strong, durable materials and can be ordered in a number of colors.\n\n**FOOTBALL:**
