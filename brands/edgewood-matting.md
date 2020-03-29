@@ -28,7 +28,7 @@ catalogues:
 photos:
 - title: Voyager Athletic Tile Colour Swatches
   photo: "/Voyager athletic tile colour swatches.PNG"
-- title: Voyager athletic tile
+- title: Voyager Athletic Tile
   photo: "/Voyager athletic tile.PNG"
 
 ---
