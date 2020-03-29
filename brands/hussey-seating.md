@@ -53,6 +53,8 @@ info: |-
 
   In 2011 Clarin became part of the Hussey Seating Company’s family of products.
 photos:
+- title: 3400-3 chair with one logo
+  photo: "/3400_3.jpg"
 - title: 3400 chair with two logos
   photo: "/3400.jpg"
 
