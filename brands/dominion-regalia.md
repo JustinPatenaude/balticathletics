@@ -12,6 +12,8 @@ info: Recognizing winning performances since 1881. Dominion Regalia provides an 
   collection of Awards, Apparel & Custom Manufactured swag. Dominion Regalia is one
   of the oldest Premier Manufacturers in Canada!
 photos:
+- title: Provincial Flags
+  photo: "/prov_1024x1024.png"
 - title: Canada Flags of all sizes
   photo: "/canadas_1024x1024.png"
 - title: Ribbons in Baltic Athletics stock
