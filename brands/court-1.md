@@ -46,6 +46,8 @@ categories:
 - products/volleyball.md
 - products/wall-pads.md
 photos:
+- title: Safety Wall Padding
+  photo: "/Wall_Padding_53-1_360x.jpg"
 - title: Collegiate Mat
   photo: "/court 1 matting.jpg"
 - title: Made in Canada
