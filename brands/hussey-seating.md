@@ -7,6 +7,8 @@ title: Hussey Seating
 logo: "/hussey-seating-logo.jpg"
 website: https://www.clarinseating.com/
 catalogues:
+- title: Clarin Vinyl Grade
+  year: 2020
 - title: Clarin Portable Logo Seating Collection
   year: 2020
   pdf: "/Clarin_Portable_Logo Seating collection.pdf"
