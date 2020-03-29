@@ -20,8 +20,12 @@ date: '2019-03-29T22:24:32.000+00:00'
 catalogues:
 - title: DOM Products Catalogue
   year: 2017
+  pdf: "/DomSportsCatalogue2017.pdf"
 - title: DOM Sports - Giant Games Catalogue
   pdf: "/DOMSports-GiantGamesCatalogue2020.pdf"
   year: 2020
+photos:
+- title: DOM Felt Puck FP05
+  photo: "/hockey_FP05fp.jpg"
 
 ---
