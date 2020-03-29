@@ -7,10 +7,14 @@ title: Hussey Seating
 logo: "/hussey-seating-logo.jpg"
 website: https://www.clarinseating.com/
 catalogues:
-- title: Clarin Portable Chair Collection - Product Selector
+- title: Clarin 3000 Series
   year: 2020
+  pdf: "/3000_Series.pdf"
 - title: Clarin Hussey Portable Seating Entire Collection
   year: 2020
+- title: Clarin Portable Chair Collection - Product Selector
+  year: 2020
+  pdf: "/Portable Chair Collection - Product Selector.pdf"
 - title: Clarin Portable Logo Seating Collection
   year: 2020
   pdf: "/Clarin_Portable_Logo Seating collection.pdf"
