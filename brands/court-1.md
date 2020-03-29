@@ -25,18 +25,23 @@ info: |-
   * Gym floor protective covers
 date: '2019-03-29T03:29:10.000+00:00'
 categories:
-- products/archery.md
 - products/badminton.md
+- products/baseball.md
 - products/basketball.md
-- products/floor-hockey.md
+- products/golf.md
+- products/gymnastics.md
 - products/hockey.md
 - products/lacrosse.md
-- products/misc.md
-- products/team-handball.md
+- products/made-in-canada.md
+- products/posts.md
+- products/safety.md
+- products/seating.md
+- products/soccer.md
+- products/storage-solutions.md
 - products/tennis.md
 - products/volleyball.md
 photos:
-- title: made in canada
+- title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
 
 ---
