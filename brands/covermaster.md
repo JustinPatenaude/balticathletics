@@ -21,6 +21,8 @@ catalogues:
   year: 2019
   pdf: "/Gymnasium Catalog.pdf"
 photos:
+- title: Storage systems
+  photo: "/Screenshot_2.png"
 - title: Medium weight gym cover
   photo: "/gfcg2_500.jpg"
 - title: Medium Weight 2200 Cover
