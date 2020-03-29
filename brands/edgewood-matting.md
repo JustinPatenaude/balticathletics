@@ -17,6 +17,8 @@ info: |-
   Link to [Colour Synthesizer](https://edgewoodgroup.ca/colour-synthesizer) for fitness tile
 date: '2019-03-29T22:25:25.000+00:00'
 catalogues:
+- title: Herculean Multi-purpose Sport Floor Systems
+  year: 2020
 - title: Sport Flooring & Accessories
   year: 2020
 
