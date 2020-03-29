@@ -25,13 +25,15 @@ catalogues:
   pdf: "/DOMSports-GiantGamesCatalogue2020.pdf"
   year: 2020
 photos:
-- title: Replacement blades SB76
-  photo: "/hockey_sb76_redblue.jpg"
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 - title: C60 Cup Sticks
   photo: "/C60 Cup Set.jpg"
 - title: Floor Hockey Goals
   photo: "/hockeyframes_kd99.jpg"
 - title: DOM Felt Puck FP05
   photo: "/hockey_FP05fp.jpg"
+- title: Replacement blades SB76
+  photo: "/hockey_sb76_redblue.jpg"
 
 ---
