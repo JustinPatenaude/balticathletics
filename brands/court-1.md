@@ -6,6 +6,10 @@ logo: "/court-1-logo.jpg"
 website: ''
 pdfs: []
 info: |-
+  A Canadian company specializing in a wide assortment of quality school and institutional products.
+
+  ***
+
   Available from Court-1:
 
   * Tennis nets
@@ -40,7 +44,10 @@ categories:
 - products/storage-solutions.md
 - products/tennis.md
 - products/volleyball.md
+- products/wall-pads.md
 photos:
+- title: Collegiate Mat
+  photo: "/court 1 matting.jpg"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
 
