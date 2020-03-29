@@ -2,17 +2,10 @@
 layout: brand
 permalink: "/brands/covermaster"
 categories:
-- products/baseball.md
-- products/field-marking.md
-- products/football.md
-- products/golf.md
-- products/hockey.md
-- products/misc.md
+- products/cleaning-supplies.md
+- products/floor-covering.md
 - products/custom-mats.md
 - products/safety.md
-- products/soccer.md
-- products/softball.md
-- products/tennis.md
 title: Covermaster
 logo: "/cm_header_GFC logo.jpg"
 website: ''
