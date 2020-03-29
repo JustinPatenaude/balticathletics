@@ -46,6 +46,8 @@ categories:
 - products/volleyball.md
 - products/wall-pads.md
 photos:
+- title: NHL Professional Hockey Goal (net sold separately)
+  photo: "/Court-1_Hockey_Goal_Frame_360x.jpg"
 - title: Tip & Roll Bleachers
   photo: "/BLEACHER_1_360x.jpg"
 - title: Safety Wall Padding
