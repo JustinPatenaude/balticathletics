@@ -53,6 +53,8 @@ info: |-
 
   In 2011 Clarin became part of the Hussey Seating Company’s family of products.
 photos:
+- title: 185 stool
+  photo: "/Stool_185.jpg"
 - title: 130 bar stool
   photo: "/stool_130.jpg"
 - title: 3400 Series for locker rooms
