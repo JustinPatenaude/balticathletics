@@ -10,6 +10,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: BRAWETR322 Track & Field Ribbon 2nd
+  photo: "/BRAWETR322 Track 2nd.jpg"
 - title: BRAWETR321 Track & Field Ribbon 1st
   photo: "/BRAWETR321 Track 1st.jpg"
 - title: Ribbons in Baltic Athletics stock
