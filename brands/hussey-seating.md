@@ -7,14 +7,14 @@ title: Hussey Seating
 logo: "/hussey-seating-logo.jpg"
 website: https://www.clarinseating.com/
 catalogues:
-- title: Clarin 3000 Series
-  year: 2020
-  pdf: "/3000_Series.pdf"
 - title: Clarin Hussey Portable Seating Entire Collection
   year: 2020
 - title: Clarin Portable Chair Collection - Product Selector
   year: 2020
   pdf: "/Portable Chair Collection - Product Selector.pdf"
+- title: Clarin 3000 Series
+  year: 2020
+  pdf: "/3000_Series.pdf"
 - title: Clarin Portable Logo Seating Collection
   year: 2020
   pdf: "/Clarin_Portable_Logo Seating collection.pdf"
@@ -27,7 +27,7 @@ catalogues:
 info: |-
   These are great quality custom portable seating.
 
-  Folding seating for gym court sidelines.
+  Folding seating for gym court sidelines. We recommend the 3000 series for this use.
 
   [Storage options](https://www.clarinseating.com/carts) are also available.
 
@@ -52,5 +52,8 @@ info: |-
   Known for providing years of dependable service, it is not uncommon for schools and venues to still be using Clarin chairs dating all the way back to the 1960’s and 70’s.
 
   In 2011 Clarin became part of the Hussey Seating Company’s family of products.
+photos:
+- title: 3400 chair with two logos
+  photo: "/3400.jpg"
 
 ---
