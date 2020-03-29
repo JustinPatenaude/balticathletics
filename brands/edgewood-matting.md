@@ -26,6 +26,8 @@ catalogues:
   year: 2020
   pdf: "/ea-instafloor_brochure-revised-f.pdf"
 photos:
+- title: Voyager Athletic Tile Colour Swatches
+  photo: "/Voyager athletic tile colour swatches.PNG"
 - title: Voyager athletic tile
   photo: "/Voyager athletic tile.PNG"
 
