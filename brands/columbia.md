@@ -10,6 +10,5 @@ photos:
 - title: C1023 Columbia Ladies Benton Springs Vest
   photo: "/c1023_47_g.jpg"
 info: ''
-published: false
 
 ---
