@@ -21,6 +21,8 @@ catalogues:
   year: 2019
   pdf: "/Gymnasium Catalog.pdf"
 photos:
+- title: Handling Systems 2
+  photo: "/gym floor handling systems.jpg"
 - title: Handling systems
   photo: "/cvmt1_500.jpg"
 - title: Medium weight gym cover
