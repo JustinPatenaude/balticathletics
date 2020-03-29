@@ -18,10 +18,12 @@ catalogues:
   pdf: "/D-Gel-catalogue2019-WEB PDF.pdf"
   year: 2019
 photos:
-- title: Outdoor Blue Ball
-  photo: "/outdoor blue ball.jpg"
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 - title: Heritage Wood Shaft Stick
   photo: "/7061_Heritage-Z.jpg"
+- title: Outdoor Blue Ball
+  photo: "/outdoor blue ball.jpg"
 - title: Tractor Shoes
   photo: "/tractor shoe-Z.jpg"
 
