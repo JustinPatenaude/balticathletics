@@ -12,14 +12,6 @@ info: Recognizing winning performances since 1881. Dominion Regalia provides an 
   collection of Awards, Apparel & Custom Manufactured swag. Dominion Regalia is one
   of the oldest Premier Manufacturers in Canada!
 photos:
-- title: Indoor poles & bases
-  photo: "/poles and bases.png"
-- title: International Flags
-  photo: "/international flags.png"
-- title: Provincial Flags
-  photo: "/prov_1024x1024.png"
-- title: Canada Flags of all sizes
-  photo: "/canadas_1024x1024.png"
 - title: Ribbons in Baltic Athletics stock
   photo: "/2020.03 ribbons in stock.jpg"
 - title: BRAWETR321 Track & Field Ribbon 1st
@@ -42,6 +34,14 @@ photos:
   photo: "/BRAWFTF312 Victory en francais 2eme.jpg"
 - title: BRAWFTF313 Victory en francais 3eme
   photo: "/BRAWFTF313 Victory en francais 3eme.jpg"
+- title: Canada Flags of all sizes
+  photo: "/canadas_1024x1024.png"
+- title: Provincial Flags
+  photo: "/prov_1024x1024.png"
+- title: International Flags
+  photo: "/international flags.png"
+- title: Indoor poles & bases
+  photo: "/poles and bases.png"
 - title: Made in Canada
   photo: "/made_in_canada_400x400.jpg"
 
