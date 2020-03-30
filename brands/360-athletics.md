@@ -30,6 +30,7 @@ categories:
 - products/track-field.md
 - products/ultimate.md
 - products/volleyball.md
+- products/whistles.md
 title: 360 Athletics
 logo: "/360-athletics-logo.jpg"
 website: https://www.360athletics.com/
