@@ -21,10 +21,12 @@ catalogues:
   title: Eletto Catalogue
   pdf: "/2020 Eletto Sport Catalogue.pdf"
 photos:
-- title: ST-1060 Oslo Shorts
-  photo: "/ST-1060 Oslo Shorts.PNG"
+- title: SC-2600 Main Socks
+  photo: "/SC-2600 Main Socks.PNG"
 - title: JS-1710 Valencia Jerseys
   photo: "/JS-1710 Valencia Jerseys.PNG"
+- title: ST-1060 Oslo Shorts
+  photo: "/ST-1060 Oslo Shorts.PNG"
 - title: Eletto Soccer Ball Size Guide
   photo: "/Soccer Ball Size Guide.PNG"
 - title: Eletto Soccer Ball Size Chart
