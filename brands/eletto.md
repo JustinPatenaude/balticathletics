@@ -20,6 +20,8 @@ catalogues:
   year: 2020
   pdf: "/2020 Eletto Sport Catalogue Spring Final.PDF"
 photos:
+- title: Soccer Shinguard Sizing Guide B
+  photo: "/Soccer Shinguard Sizing Guide B.PNG"
 - title: Soccer Shinguard Sizing Guide A
   photo: "/Soccer Shinguard Sizing Guide.PNG"
 - title: Eletto Soccer Ball Size Chart
