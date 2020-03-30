@@ -29,12 +29,8 @@ catalogues:
   year: 0
   pdf: "/sizeCharttop_large.jpg"
 photos:
-- title: Ball
-  photo: "/158846 - PERFORMANCE - FIFA APPROVED.jpg"
-- photo: "/158848---EUROPA-SOFT-TOUCH-BALL-C4686.jpg"
-  title: Diadora ball
-- title: Jerseys
-  photo: "/883300-DOMINATE-JERSEY-040200-royal-white.jpg"
+- title: 883611 Moda Goal Keeper Jersey
+  photo: "/Moda GK Jersey 883611.jpg"
 - photo: "/885020-GAMMA-SOCK-030200-Red-White.jpg"
   title: Socks
 - title: Keeper Jerseys
