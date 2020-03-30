@@ -31,12 +31,12 @@ catalogues:
 photos:
 - title: 883611 Moda Goal Keeper Jersey
   photo: "/Moda GK Jersey 883611.jpg"
-- photo: "/885020-GAMMA-SOCK-030200-Red-White.jpg"
-  title: Socks
-- title: Goal gloves
-  photo: "/158860-GK-EURO-C4686-fluo-yellow--pair-PHOTO.jpg"
 - title: 886360 Conquer Elite Jacket
   photo: "/886360_black-white.jpg"
+- photo: "/885040 Finale Socks.PNG"
+  title: 885040 Finale Socks
+- title: Goal gloves
+  photo: "/158860-GK-EURO-C4686-fluo-yellow--pair-PHOTO.jpg"
 - title: Bags
   photo: "/888330---MEDIUM-TEAM-BAG---green.jpg"
 
