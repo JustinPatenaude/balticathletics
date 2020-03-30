@@ -29,6 +29,8 @@ catalogues:
   year: 0
   pdf: "/sizeCharttop_large.jpg"
 photos:
+- title: 883002 Venezie Jerseys
+  photo: "/883002 Venezie Jersey.PNG"
 - title: 883611 Moda Goal Keeper Jersey
   photo: "/Moda GK Jersey 883611.jpg"
 - title: 886360 Conquer Elite Jacket
@@ -37,7 +39,5 @@ photos:
   title: 885040 Finale Socks
 - title: 158860 Goal Keeper Euro Gloves
   photo: "/158860-GK-EURO-C4686-fluo-yellow--pair-PHOTO.jpg"
-- title: Bags
-  photo: "/888330---MEDIUM-TEAM-BAG---green.jpg"
 
 ---
