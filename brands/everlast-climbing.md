@@ -8,6 +8,9 @@ title: Everlast Climbing
 logo: "/Everlast_Climbing_LOGO.jpg"
 website: https://everlastclimbing.com/
 catalogues:
+- title: Leadership Development through Rock Climbing
+  year: 
+  pdf: ''
 - title: Benefits of Climbing for Children with Special Needs
   year: 
   pdf: "/Benefits-of-Climbing-for-Children-with-Special-Needs2.pdf"
