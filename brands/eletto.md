@@ -10,7 +10,7 @@ categories:
 - products/socks.md
 title: Eletto
 logo: "/eletto-logo.jpg"
-website: ''
+website: https://www.elettosport.com/
 pdfs:
 - "/eletto-2019.pdf"
 info: "**_Eletto_** is a Canadian family owned and operated Soccer manufacturer of
