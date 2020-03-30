@@ -21,15 +21,13 @@ info: "**FOX 40** is a Canadian company started in 1987, based in Hamilton. They
   Football League (NFL), the Arena Football League (AFL) and the Canadian Football
   League (CFL).\n\nLink to [Pea vs Pealess Article](https://www.fox40world.com/pea-vs-pealess)\n\n***\n\n**BUYER
   BEWARE:** [Avoid counterfeit Fox 40 whistles](https://www.fox40world.com/counterfeits)
-  and only buy from an authorized dealer. "
+  and only buy from authorized dealers, which we are ;) "
 date: '2019-03-29T22:27:04.000+00:00'
 catalogues:
 - title: Fox 40 Catalogue
   year: 2020
   pdf: "/Fox40 2020 catalogue.pdf"
 photos:
-- title: Marine Essentials & Safety Gear
-  photo: "/fox40marine.jpg"
 - title: Classic Whistle
   photo: "/Classic whistle.jpg"
 - title: Pearl Whistle
@@ -45,5 +43,7 @@ photos:
   photo: "/SmartCoach_SB_IceHockey_6924-0400_Fox40.jpg"
 - title: First Aid Kits
   photo: "/fox40firstaid.jpg"
+- title: Marine Essentials & Safety Gear
+  photo: "/fox40marine.jpg"
 
 ---
