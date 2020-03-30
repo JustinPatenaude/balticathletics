@@ -8,6 +8,9 @@ title: Everlast Climbing
 logo: "/Everlast_Climbing_LOGO.jpg"
 website: https://everlastclimbing.com/
 catalogues:
+- title: Physical-Emotional-Benefits-of-Climbing
+  year: 
+  pdf: ''
 - title: Leadership Development through Rock Climbing
   year: 
   pdf: ''
