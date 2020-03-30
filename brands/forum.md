@@ -27,10 +27,12 @@ info: |-
   The current line of established equipment we offer cater to a wide range of sports and gymnasium activities. This includes state of the art **basketball backstops**, fixed and telescopic **seating systems**, **divider curtains**, **scoreboards**, **wall padding**, **goals**, **net posts** as well as a variety of miscellaneous gymnasium products. Additionally, we welcome the opportunity to design and manufacture specialty items or customize our existing products to suit your needs.
 date: '2019-03-29T22:26:50.000+00:00'
 photos:
-- title: F3000 Walk Draw Divider Curtain
-  photo: "/F3000 Walk Draw Divider Curtain.jpg"
+- title: F40444 Gooseneck Basketball Post (Front Mount)
+  photo: "/F40444 Gooseneck Basketball Post (Front Mount).jpg"
 - title: F40208 Basketball Glass Backboard
   photo: "/F40208_GLASS_REC_BOARD_72X48_WR.jpg"
+- title: F3000 Walk Draw Divider Curtain
+  photo: "/F3000 Walk Draw Divider Curtain.jpg"
 - title: Made in Canada
   photo: "/made_in_canada.jpg"
 
