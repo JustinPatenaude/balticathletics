@@ -28,6 +28,8 @@ catalogues:
   year: 2020
   pdf: "/Fox40 2020 catalogue.pdf"
 photos:
+- title: First Aid Kits
+  photo: "/fox40firstaid.jpg"
 - title: Coach's Junior Clipboard (available in Football (Canadian & American), Baseball,
     Basketball, Hockey, Soccer and Volleyball.
   photo: "/CB_JuniorClipboard_MainImage_Fox40.jpg"
