@@ -11,10 +11,13 @@ logo: "/eletto-logo.jpg"
 website: ''
 pdfs:
 - "/eletto-2019.pdf"
-info: ''
+info: "**_Eletto_** is a Canadian family owned and operated Soccer manufacturer of
+  Team uniforms, equipment, apparel and footwear. A brand that began in 2000 from
+  passionate soccer enthusiasts. \n\n“Eletto\"  is an Italian word that derives from
+  the latin “electus”, means Elect or chosen. The brand of Choice.\n\n​"
 catalogues:
 - title: Eletto Catalogue
-  year: 2019
-  pdf: "/eletto-2019.pdf"
+  year: 2020
+  pdf: ''
 
 ---
