@@ -14,5 +14,8 @@ catalogues:
 - title: Faber Catalogue
   pdf: "/faber-2017.pdf"
   year: 2017
+photos:
+- title: Faber Traditional Snowshoes
+  photo: "/faber traditional.jpg"
 
 ---
