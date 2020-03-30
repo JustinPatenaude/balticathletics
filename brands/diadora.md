@@ -33,12 +33,10 @@ photos:
   photo: "/Moda GK Jersey 883611.jpg"
 - photo: "/885020-GAMMA-SOCK-030200-Red-White.jpg"
   title: Socks
-- title: Keeper Jerseys
-  photo: "/883355 - BLOCK GK JERSEY.jpg"
 - title: Goal gloves
   photo: "/158860-GK-EURO-C4686-fluo-yellow--pair-PHOTO.jpg"
-- title: Warm ups suits
-  photo: "/886350-Conquer-Elite-Jacket-343402-Dark-Navy.png"
+- title: 886360 Conquer Elite Jacket
+  photo: "/886360_black-white.jpg"
 - title: Bags
   photo: "/888330---MEDIUM-TEAM-BAG---green.jpg"
 
