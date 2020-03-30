@@ -10,7 +10,7 @@ website: https://everlastclimbing.com/
 catalogues:
 - title: Everlast Fall Catalogue
   year: 2019
-  pdf: ''
+  pdf: "/2019FallCatalog.pdf"
 - title: Ten Great Reasons for Building a Climbing Wall at Your Facility
   year: 
   pdf: "/Ten-Great-Reasons-for-Building-a-Climbing-Wall.pdf"
