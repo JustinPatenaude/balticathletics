@@ -28,6 +28,8 @@ catalogues:
   year: 2020
   pdf: "/Fox40 2020 catalogue.pdf"
 photos:
+- title: Superforce CMG - Coach's glovegrip
+  photo: "/SuperForceCMG_GG_Fox40.jpg"
 - title: Classic Whistle
   photo: "/Classic whistle.jpg"
 - title: Pearl Whistle
