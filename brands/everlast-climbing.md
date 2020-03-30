@@ -8,6 +8,10 @@ title: Everlast Climbing
 logo: "/Everlast_Climbing_LOGO.jpg"
 website: https://everlastclimbing.com/
 catalogues:
+- title: How Rock Climbing Contributes to Physical, Cognitive and Social-Emotional
+    Development
+  year: 
+  pdf: "/HOW-CLIMBING-CONTRIBUTES-TO-DEVELOPMENT.pdf"
 - title: Ten Great Reasons for Building a Climbing Wall at Your Facility
   year: 
   pdf: "/Ten-Great-Reasons-for-Building-a-Climbing-Wall.pdf"
