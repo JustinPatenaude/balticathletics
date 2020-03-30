@@ -28,13 +28,8 @@ catalogues:
   year: 2020
   pdf: "/Fox40 2020 catalogue.pdf"
 photos:
-- title: First Aid Kits
-  photo: "/fox40firstaid.jpg"
-- title: Coach's Junior Clipboard (available in Football (Canadian & American), Baseball,
-    Basketball, Hockey, Soccer and Volleyball.
-  photo: "/CB_JuniorClipboard_MainImage_Fox40.jpg"
-- title: Smart Coach Board (available in Football, Hockey, Soccer and American Football)
-  photo: "/SmartCoach_SB_IceHockey_6924-0400_Fox40.jpg"
+- title: Marine Essentials & Safety Gear
+  photo: "/fox40marine.jpg"
 - title: Classic Whistle
   photo: "/Classic whistle.jpg"
 - title: Pearl Whistle
@@ -43,5 +38,12 @@ photos:
   photo: "/Caul_Black_NHL_Fox40.jpg"
 - title: Superforce CMG - Coach's glovegrip
   photo: "/SuperForceCMG_GG_Fox40.jpg"
+- title: Coach's Junior Clipboard (available in Football (Canadian & American), Baseball,
+    Basketball, Hockey, Soccer and Volleyball.
+  photo: "/CB_JuniorClipboard_MainImage_Fox40.jpg"
+- title: Smart Coach Board (available in Football, Hockey, Soccer and American Football)
+  photo: "/SmartCoach_SB_IceHockey_6924-0400_Fox40.jpg"
+- title: First Aid Kits
+  photo: "/fox40firstaid.jpg"
 
 ---
