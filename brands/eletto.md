@@ -21,8 +21,6 @@ catalogues:
   title: Eletto Catalogue
   pdf: "/2020 Eletto Sport Catalogue.pdf"
 photos:
-- title: EG-1515 Goal Flat Embossed Gloves
-  photo: "/EG-1515 Goal Flat Embossed Gloves.PNG"
 - title: BA-1930 Liga Competition 30.1 Grip Ball
   photo: "/BA-1930 Liga Competition 30.1 Grip Ball.PNG"
 - title: BA-1729 LNA 290 Ultralite Ball
@@ -49,6 +47,8 @@ photos:
   photo: "/GK-2008 GK Armor Jersey.PNG"
 - title: GK-0300 Keeper Pants
   photo: "/GK-0300 Keeper Pants.PNG"
+- title: EG-1515 Goal Flat Embossed Gloves
+  photo: "/EG-1515 Goal Flat Embossed Gloves.PNG"
 - title: Goalie Glove Sizing Guide
   photo: "/Goalie Glove Sizing Chart.PNG"
 - title: Soccer Shinguard Sizing Guide A
