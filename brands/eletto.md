@@ -16,7 +16,9 @@ info: "**_Eletto_** is a Canadian family owned and operated Soccer manufacturer 
   Team uniforms, equipment, apparel and footwear. A brand that began in 2000 from
   passionate soccer enthusiasts. \n\n“Eletto\"  is an Italian word that derives from
   the latin “electus”, means Elect or chosen. The brand of Choice.\n\n​"
-catalogues: []
+catalogues:
+- year: 2020
+  title: Eletto Catalogue
 photos:
 - title: Eletto Soccer Ball Size Guide
   photo: "/Soccer Ball Size Guide.PNG"
