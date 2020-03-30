@@ -15,6 +15,8 @@ catalogues:
   pdf: "/faber-2017.pdf"
   year: 2017
 photos:
+- title: Faber Aluminum Snow Shoes
+  photo: "/faber aluminum.jpg"
 - title: Faber Traditional Snowshoes
   photo: "/faber traditional.jpg"
 
