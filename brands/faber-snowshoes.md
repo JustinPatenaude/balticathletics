@@ -21,6 +21,8 @@ catalogues:
   pdf: "/faber-2017.pdf"
   year: 2017
 photos:
+- title: NL929 North Lander - Aluminum
+  photo: "/NL929 north-lander-main.jpg"
 - title: NH825 North Hiker - Aluminum
   photo: "/NH825 north-hiker-main.jpg"
 - title: Faber Traditional Snowshoes
