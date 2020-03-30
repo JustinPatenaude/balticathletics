@@ -29,12 +29,12 @@ catalogues:
   year: 0
   pdf: "/sizeCharttop_large.jpg"
 photos:
-- title: 881900 Samba Trainer 1.1
-  photo: "/881900 samba trainer.PNG"
 - title: 881998 Bari IV Trainer ball
   photo: "/881998 Bari IV trainer.PNG"
 - title: 881620 Magnifico II ball
   photo: "/881620 magnifico II.PNG"
+- title: 881900 Samba Trainer 1.1
+  photo: "/881900 samba trainer.PNG"
 - title: 883810 Moda Elita Jersey
   photo: "/883810 Moda Elite Jersey.PNG"
 - title: 883002 Venezie Jerseys
