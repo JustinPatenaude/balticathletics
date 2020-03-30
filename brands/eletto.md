@@ -20,10 +20,8 @@ catalogues:
   year: 2020
   pdf: "/2020 Eletto Sport Catalogue Spring Final.PDF"
 photos:
-- title: Soccer Shinguard Sizing Guide B
-  photo: "/Soccer Shinguard Sizing Guide B.PNG"
-- title: Soccer Shinguard Sizing Guide A
-  photo: "/Soccer Shinguard Sizing Guide.PNG"
+- title: Standard vs Ultra-Lite Soccer Balls
+  photo: "/Standard vs Ultra-Lite Balls.PNG"
 - title: Eletto Soccer Ball Size Chart
   photo: "/Soccer Ball Size Chart.PNG"
 - title: Eletto Soccer Ball Size Guide
@@ -34,6 +32,10 @@ photos:
   photo: "/Goalie Glove Sizing Chart.PNG"
 - title: Eletto Sock Sizing Chart
   photo: "/Sock Size Chart.PNG"
+- title: Soccer Shinguard Sizing Guide A
+  photo: "/Soccer Shinguard Sizing Guide.PNG"
+- title: Soccer Shinguard Sizing Guide B
+  photo: "/Soccer Shinguard Sizing Guide B.PNG"
 - title: Men's Clothing Sizing Guide
   photo: "/Men's Sizing Guide.PNG"
 - title: Youth Clothing Sizing Guide
