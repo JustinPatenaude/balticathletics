@@ -29,6 +29,8 @@ catalogues:
   year: 0
   pdf: "/sizeCharttop_large.jpg"
 photos:
+- title: 883600 Seleccion Jersey
+  photo: "/883600 Seleccion Jersey.PNG"
 - title: 881998 Bari IV Trainer ball
   photo: "/881998 Bari IV trainer.PNG"
 - title: 881620 Magnifico II ball
@@ -41,10 +43,10 @@ photos:
   photo: "/883002 Venezie Jersey.PNG"
 - title: 884300 Dominate Shorts
   photo: "/884300 Dominate Shorts.PNG"
-- title: 883611 Moda Goal Keeper Jersey
-  photo: "/Moda GK Jersey 883611.jpg"
 - photo: "/885040 Finale Socks.PNG"
   title: 885040 Finale Socks
+- title: 883611 Moda Goal Keeper Jersey
+  photo: "/Moda GK Jersey 883611.jpg"
 - title: 158860 Goal Keeper Euro Gloves
   photo: "/158860-GK-EURO-C4686-fluo-yellow--pair-PHOTO.jpg"
 - title: 886360 Conquer Elite Jacket
