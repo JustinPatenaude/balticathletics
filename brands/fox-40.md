@@ -10,7 +10,7 @@ categories:
 - products/training-supplies.md
 - products/whistles.md
 title: Fox 40
-logo: "/fox40-logo.png"
+logo: "/fox40 logo.jpg"
 website: http://www.fox40world.com/
 pdfs:
 - "/fox-40-2019.pdf"
