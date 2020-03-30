@@ -21,10 +21,12 @@ catalogues:
   title: Eletto Catalogue
   pdf: "/2020 Eletto Sport Catalogue.pdf"
 photos:
-- title: BA-1729 LNA 290 Ultralite Ball
-  photo: "/BA-1729 LNA 290 Ultralite Ball.PNG"
+- title: BA-1912 Liga Trainer 12.1 Soft Touch Ball
+  photo: "/BA-1912 Liga Trainer 12.1 Soft Touch Ball.PNG"
 - title: BA-1930 Liga Competition 30.1 Grip Ball
   photo: "/BA-1930 Liga Competition 30.1 Grip Ball.PNG"
+- title: BA-1729 LNA 290 Ultralite Ball
+  photo: "/BA-1729 LNA 290 Ultralite Ball.PNG"
 - title: JS-1710 Valencia Jerseys
   photo: "/JS-1710 Valencia Jerseys.PNG"
 - title: ST-1060 Oslo Shorts
