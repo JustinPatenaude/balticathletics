@@ -2,6 +2,8 @@
 layout: brand
 permalink: "/brands/eletto/"
 categories:
+- products/soccer.md
+- products/futsal.md
 - products/jerseys.md
 - products/shorts.md
 - products/soccer.md
@@ -20,12 +22,12 @@ catalogues:
   year: 2020
   pdf: "/2020 Eletto Sport Catalogue Spring Final.PDF"
 photos:
-- title: Standard vs Ultra-Lite Soccer Balls
-  photo: "/Standard vs Ultra-Lite Balls.PNG"
 - title: Eletto Soccer Ball Size Chart
   photo: "/Soccer Ball Size Chart.PNG"
 - title: Eletto Soccer Ball Size Guide
   photo: "/Soccer Ball Size Guide.PNG"
+- title: Standard vs Ultra-Lite Soccer Balls
+  photo: "/Standard vs Ultra-Lite Balls.PNG"
 - title: Futsal Ball Size Guide
   photo: "/Futsal Ball Size Guide.PNG"
 - title: Goalie Glove Sizing Guide
