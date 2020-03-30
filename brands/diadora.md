@@ -35,7 +35,7 @@ photos:
   photo: "/886360_black-white.jpg"
 - photo: "/885040 Finale Socks.PNG"
   title: 885040 Finale Socks
-- title: Goal gloves
+- title: 158860 Goal Keeper Euro Gloves
   photo: "/158860-GK-EURO-C4686-fluo-yellow--pair-PHOTO.jpg"
 - title: Bags
   photo: "/888330---MEDIUM-TEAM-BAG---green.jpg"
