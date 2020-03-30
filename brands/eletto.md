@@ -20,8 +20,8 @@ catalogues:
   year: 2020
   pdf: "/2020 Eletto Sport Catalogue Spring Final.PDF"
 photos:
-- title: Eletto Sport Clothing Suggested Size Guide
-  photo: "/Eletto Sport Suggested Size Guide.PNG"
+- title: Soccer Shinguard Sizing Guide A
+  photo: "/Soccer Shinguard Sizing Guide.PNG"
 - title: Eletto Soccer Ball Size Chart
   photo: "/Soccer Ball Size Chart.PNG"
 - title: Eletto Soccer Ball Size Guide
@@ -36,5 +36,7 @@ photos:
   photo: "/Men's Sizing Guide.PNG"
 - title: Youth Clothing Sizing Guide
   photo: "/Youth Sizing Guide.PNG"
+- title: Eletto Sport Clothing Suggested Size Guide
+  photo: "/Eletto Sport Suggested Size Guide.PNG"
 
 ---
