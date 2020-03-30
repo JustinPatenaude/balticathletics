@@ -28,6 +28,8 @@ catalogues:
   year: 2020
   pdf: "/Fox40 2020 catalogue.pdf"
 photos:
+- title: Pearl Whistle
+  photo: "/Pearl_MaPearl_Black_Purple_Fox40.jpg"
 - title: Classic Whistle
   photo: "/Classic whistle.jpg"
 
