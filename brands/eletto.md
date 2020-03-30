@@ -20,11 +20,13 @@ catalogues:
   year: 2020
   pdf: "/2020 Eletto Sport Catalogue Spring Final.PDF"
 photos:
-- title: Futsal Ball Size Guide
-  photo: "/Futsal Ball Size Guide.PNG"
-- title: Eletto Soccer Ball Size Guide
-  photo: "/Soccer Ball Size Guide.PNG"
+- title: Goalie Glove Sizing Guide
+  photo: "/Goalie Glove Sizing Chart.PNG"
 - title: Eletto Soccer Ball Size Chart
   photo: "/Soccer Ball Size Chart.PNG"
+- title: Eletto Soccer Ball Size Guide
+  photo: "/Soccer Ball Size Guide.PNG"
+- title: Futsal Ball Size Guide
+  photo: "/Futsal Ball Size Guide.PNG"
 
 ---
