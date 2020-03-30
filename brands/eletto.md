@@ -20,8 +20,8 @@ catalogues:
   year: 2020
   pdf: "/2020 Eletto Sport Catalogue Spring Final.PDF"
 photos:
-- title: Eletto Sock Sizing Chart
-  photo: "/Sock Size Chart.PNG"
+- title: Eletto Sport Clothing Suggested Size Guide
+  photo: "/Eletto Sport Suggested Size Guide.PNG"
 - title: Eletto Soccer Ball Size Chart
   photo: "/Soccer Ball Size Chart.PNG"
 - title: Eletto Soccer Ball Size Guide
@@ -30,6 +30,8 @@ photos:
   photo: "/Futsal Ball Size Guide.PNG"
 - title: Goalie Glove Sizing Guide
   photo: "/Goalie Glove Sizing Chart.PNG"
+- title: Eletto Sock Sizing Chart
+  photo: "/Sock Size Chart.PNG"
 - title: Men's Clothing Sizing Guide
   photo: "/Men's Sizing Guide.PNG"
 - title: Youth Clothing Sizing Guide
