@@ -29,6 +29,8 @@ catalogues:
   year: 0
   pdf: "/sizeCharttop_large.jpg"
 photos:
+- title: 881900 Samba Trainer 1.1
+  photo: "/881900 samba trainer.PNG"
 - title: 881998 Bari IV Trainer ball
   photo: "/881998 Bari IV trainer.PNG"
 - title: 881620 Magnifico II ball
