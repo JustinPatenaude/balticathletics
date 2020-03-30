@@ -16,8 +16,11 @@ info: "**_Eletto_** is a Canadian family owned and operated Soccer manufacturer 
   passionate soccer enthusiasts. \n\n“Eletto\"  is an Italian word that derives from
   the latin “electus”, means Elect or chosen. The brand of Choice.\n\n​"
 catalogues:
+- title: Soccer Ball Size Chart
+  year: 0
+  pdf: "/Soccer Ball Size Chart.PNG"
 - title: Eletto Catalogue
   year: 2020
-  pdf: ''
+  pdf: "/2020 Eletto Sport Catalogue Spring Final.PDF"
 
 ---
