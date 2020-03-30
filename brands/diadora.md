@@ -29,8 +29,6 @@ catalogues:
   year: 0
   pdf: "/sizeCharttop_large.jpg"
 photos:
-- title: 1299017 Nurnberg Ball Bag
-  photo: "/1299017 Nurnberg Ball Bag.PNG"
 - title: 881998 Bari IV Trainer ball
   photo: "/881998 Bari IV trainer.PNG"
 - title: 881620 Magnifico II ball
@@ -53,5 +51,7 @@ photos:
   photo: "/158860-GK-EURO-C4686-fluo-yellow--pair-PHOTO.jpg"
 - title: 886360 Conquer Elite Jacket
   photo: "/886360_black-white.jpg"
+- title: 1299017 Nurnberg Ball Bag
+  photo: "/1299017 Nurnberg Ball Bag.PNG"
 
 ---
