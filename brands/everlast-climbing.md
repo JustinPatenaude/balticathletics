@@ -5,7 +5,7 @@ categories:
 - products/custom-mats.md
 - products/rock-wall-climbing.md
 title: Everlast Climbing
-logo: "/Everlast_Climbing_LOGO.jpg"
+logo: "/Everlast logo.PNG"
 website: https://everlastclimbing.com/
 catalogues:
 - title: Everlast Fall Catalogue
