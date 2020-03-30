@@ -23,7 +23,7 @@ info: |-
 
   ***
 
-  **BUYER BEWARE:** [Avoid counterfeit Fox 40 whistles](https://www.fox40world.com/counterfeits) and only buy from authorized dealers, which Baltic Athletics is ;)
+  **BUYER BEWARE:** [Avoid counterfeit Fox 40 whistles](https://www.fox40world.com/counterfeits) - only buy from authorized dealers!
 date: '2019-03-29T22:27:04.000+00:00'
 catalogues:
 - title: Fox 40 Catalogue
