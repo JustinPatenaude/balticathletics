@@ -3,6 +3,7 @@ layout: brand
 permalink: "/brands/diadora/"
 categories:
 - products/bags-totes-duffels.md
+- products/futsal.md
 - products/jackets.md
 - products/jerseys.md
 - products/pants.md
@@ -22,7 +23,7 @@ info: |-
 date: '2019-03-29T22:24:20.000+00:00'
 catalogues:
 - title: Diadora Soccer Catalogue
-  pdf: ''
+  pdf: "/2020 Diadora Soccer collection catalogue.pdf"
   year: 2020
 - title: Diadora Size Chart
   year: 0
