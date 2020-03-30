@@ -19,7 +19,10 @@ info: "**_Eletto_** is a Canadian family owned and operated Soccer manufacturer 
 catalogues:
 - year: 2020
   title: Eletto Catalogue
+  pdf: "/2020 Eletto Sport Catalogue.pdf"
 photos:
+- title: JS-1710 Valencia Jerseys
+  photo: "/JS-1710 Valencia Jerseys.PNG"
 - title: Eletto Soccer Ball Size Guide
   photo: "/Soccer Ball Size Guide.PNG"
 - title: Eletto Soccer Ball Size Chart
