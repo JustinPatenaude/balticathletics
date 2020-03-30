@@ -20,6 +20,8 @@ catalogues:
   year: 2020
   pdf: "/2020 Eletto Sport Catalogue Spring Final.PDF"
 photos:
+- title: Eletto Soccer Ball Size Guide
+  photo: "/Soccer Ball Size Guide.PNG"
 - title: Eletto Soccer Ball Size Chart
   photo: "/Soccer Ball Size Chart.PNG"
 
