@@ -1,14 +1,16 @@
 ---
 layout: brand
-permalink: "/brands/exel-sports/"
+permalink: "/brands/exel-floorball"
 categories:
 - products/floor-hockey.md
-- products/hockey.md
-title: Exel Sports
+title: Exel Floorball
 logo: "/exel-sports-logo.jpg"
 website: http://www.exelsports.com/
 pdfs: []
 info: ''
 date: '2019-03-29T22:25:40.000+00:00'
+photos:
+- photo: "/UNIV-BK-RD-65-L_1-Z.jpg"
+  title: Floorball Stick University, Black
 
 ---
