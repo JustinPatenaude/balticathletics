@@ -21,8 +21,6 @@ catalogues:
   year: 2020
   pdf: "/2020 Eletto Sport Catalogue Spring Final.PDF"
 photos:
-- title: Proudly Canadian
-  photo: "/proudly canadian.jpg"
 - title: Eletto Soccer Ball Size Guide
   photo: "/Soccer Ball Size Guide.PNG"
 - title: Eletto Soccer Ball Size Chart
@@ -45,5 +43,7 @@ photos:
   photo: "/Youth Sizing Guide.PNG"
 - title: Eletto Sport Clothing Suggested Size Guide
   photo: "/Eletto Sport Suggested Size Guide.PNG"
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 
 ---
