@@ -26,6 +26,9 @@ date: '2019-03-29T22:27:04.000+00:00'
 catalogues:
 - title: Fox 40 Catalogue
   year: 2020
-  pdf: ''
+  pdf: "/Fox40 2020 catalogue.pdf"
+photos:
+- title: Classic Whistle
+  photo: "/Classic whistle.jpg"
 
 ---
