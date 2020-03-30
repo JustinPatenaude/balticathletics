@@ -20,17 +20,19 @@ catalogues:
   year: 2020
   pdf: "/2020 Eletto Sport Catalogue Spring Final.PDF"
 photos:
-- title: Youth Clothing Sizing Guide
-  photo: "/Youth Sizing Guide.PNG"
-- title: Men's Clothing Sizing Guide
-  photo: "/Men's Sizing Guide.PNG"
-- title: Goalie Glove Sizing Guide
-  photo: "/Goalie Glove Sizing Chart.PNG"
+- title: Eletto Sock Sizing Chart
+  photo: "/Sock Size Chart.PNG"
 - title: Eletto Soccer Ball Size Chart
   photo: "/Soccer Ball Size Chart.PNG"
 - title: Eletto Soccer Ball Size Guide
   photo: "/Soccer Ball Size Guide.PNG"
 - title: Futsal Ball Size Guide
   photo: "/Futsal Ball Size Guide.PNG"
+- title: Goalie Glove Sizing Guide
+  photo: "/Goalie Glove Sizing Chart.PNG"
+- title: Men's Clothing Sizing Guide
+  photo: "/Men's Sizing Guide.PNG"
+- title: Youth Clothing Sizing Guide
+  photo: "/Youth Sizing Guide.PNG"
 
 ---
