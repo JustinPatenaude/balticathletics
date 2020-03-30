@@ -21,16 +21,22 @@ catalogues:
   title: Eletto Catalogue
   pdf: "/2020 Eletto Sport Catalogue.pdf"
 photos:
-- title: GK-0300 Keeper Pants
-  photo: "/GK-0300 Keeper Pants.PNG"
+- title: BA-1930 Liga Competition 30.1 Grip Ball
+  photo: "/BA-1930 Liga Competition 30.1 Grip Ball.PNG"
 - title: JS-1710 Valencia Jerseys
   photo: "/JS-1710 Valencia Jerseys.PNG"
 - title: ST-1060 Oslo Shorts
   photo: "/ST-1060 Oslo Shorts.PNG"
 - title: SC-2600 Main Socks
   photo: "/SC-2600 Main Socks.PNG"
+- title: Eletto Sock Sizing Chart
+  photo: "/Sock Size Chart.PNG"
 - title: GK-2008 Armor Goal Keeper Jersey
   photo: "/GK-2008 GK Armor Jersey.PNG"
+- title: GK-0300 Keeper Pants
+  photo: "/GK-0300 Keeper Pants.PNG"
+- title: Goalie Glove Sizing Guide
+  photo: "/Goalie Glove Sizing Chart.PNG"
 - title: Eletto Soccer Ball Size Guide
   photo: "/Soccer Ball Size Guide.PNG"
 - title: Eletto Soccer Ball Size Chart
@@ -39,10 +45,6 @@ photos:
   photo: "/Standard vs Ultra-Lite Balls.PNG"
 - title: Futsal Ball Size Guide
   photo: "/Futsal Ball Size Guide.PNG"
-- title: Goalie Glove Sizing Guide
-  photo: "/Goalie Glove Sizing Chart.PNG"
-- title: Eletto Sock Sizing Chart
-  photo: "/Sock Size Chart.PNG"
 - title: Soccer Shinguard Sizing Guide A
   photo: "/Soccer Shinguard Sizing Guide.PNG"
 - title: Soccer Shinguard Sizing Guide B
