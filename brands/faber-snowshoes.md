@@ -21,10 +21,10 @@ catalogues:
   pdf: "/faber-2017.pdf"
   year: 2017
 photos:
+- title: NH825 North Hiker - Aluminum
+  photo: "/NH825 north-hiker-main.jpg"
 - title: Faber Traditional Snowshoes
   photo: "/faber traditional.jpg"
-- title: Faber Aluminum Snow Shoes
-  photo: "/faber aluminum.jpg"
 - title: Made in Canada
   photo: "/made_in_canada.jpg"
 
