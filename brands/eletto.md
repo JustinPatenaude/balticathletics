@@ -21,12 +21,22 @@ catalogues:
   title: Eletto Catalogue
   pdf: "/2020 Eletto Sport Catalogue.pdf"
 photos:
-- title: BA-1912 Liga Trainer 12.1 Soft Touch Ball
-  photo: "/BA-1912 Liga Trainer 12.1 Soft Touch Ball.PNG"
+- title: EG-1515 Goal Flat Embossed Gloves
+  photo: "/EG-1515 Goal Flat Embossed Gloves.PNG"
 - title: BA-1930 Liga Competition 30.1 Grip Ball
   photo: "/BA-1930 Liga Competition 30.1 Grip Ball.PNG"
 - title: BA-1729 LNA 290 Ultralite Ball
   photo: "/BA-1729 LNA 290 Ultralite Ball.PNG"
+- title: BA-1912 Liga Trainer 12.1 Soft Touch Ball
+  photo: "/BA-1912 Liga Trainer 12.1 Soft Touch Ball.PNG"
+- title: Eletto Soccer Ball Size Guide
+  photo: "/Soccer Ball Size Guide.PNG"
+- title: Eletto Soccer Ball Size Chart
+  photo: "/Soccer Ball Size Chart.PNG"
+- title: Standard vs Ultra-Lite Soccer Balls
+  photo: "/Standard vs Ultra-Lite Balls.PNG"
+- title: Futsal Ball Size Guide
+  photo: "/Futsal Ball Size Guide.PNG"
 - title: JS-1710 Valencia Jerseys
   photo: "/JS-1710 Valencia Jerseys.PNG"
 - title: ST-1060 Oslo Shorts
@@ -41,14 +51,6 @@ photos:
   photo: "/GK-0300 Keeper Pants.PNG"
 - title: Goalie Glove Sizing Guide
   photo: "/Goalie Glove Sizing Chart.PNG"
-- title: Eletto Soccer Ball Size Guide
-  photo: "/Soccer Ball Size Guide.PNG"
-- title: Eletto Soccer Ball Size Chart
-  photo: "/Soccer Ball Size Chart.PNG"
-- title: Standard vs Ultra-Lite Soccer Balls
-  photo: "/Standard vs Ultra-Lite Balls.PNG"
-- title: Futsal Ball Size Guide
-  photo: "/Futsal Ball Size Guide.PNG"
 - title: Soccer Shinguard Sizing Guide A
   photo: "/Soccer Shinguard Sizing Guide.PNG"
 - title: Soccer Shinguard Sizing Guide B
