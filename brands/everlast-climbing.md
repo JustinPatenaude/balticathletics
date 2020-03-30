@@ -8,22 +8,25 @@ title: Everlast Climbing
 logo: "/Everlast_Climbing_LOGO.jpg"
 website: https://everlastclimbing.com/
 catalogues:
-- title: Physical-Emotional-Benefits-of-Climbing
-  year: 
+- title: Everlast Fall Catalogue
+  year: 2019
   pdf: ''
-- title: Leadership Development through Rock Climbing
+- title: Ten Great Reasons for Building a Climbing Wall at Your Facility
   year: 
-  pdf: ''
-- title: Benefits of Climbing for Children with Special Needs
-  year: 
-  pdf: "/Benefits-of-Climbing-for-Children-with-Special-Needs2.pdf"
+  pdf: "/Ten-Great-Reasons-for-Building-a-Climbing-Wall.pdf"
 - title: How Rock Climbing Contributes to Physical, Cognitive and Social-Emotional
     Development
   year: 
   pdf: "/HOW-CLIMBING-CONTRIBUTES-TO-DEVELOPMENT.pdf"
-- title: Ten Great Reasons for Building a Climbing Wall at Your Facility
+- title: Benefits of Climbing for Children with Special Needs
   year: 
-  pdf: "/Ten-Great-Reasons-for-Building-a-Climbing-Wall.pdf"
+  pdf: "/Benefits-of-Climbing-for-Children-with-Special-Needs2.pdf"
+- title: Leadership Development through Rock Climbing
+  year: 
+  pdf: ''
+- title: Physical-Emotional-Benefits-of-Climbing
+  year: 
+  pdf: "/Physical-Emotional-Benefits-of-Climbing.pdf"
 photos:
 - title: Standard Wall
   photo: "/Standard-Wall.jpg"
