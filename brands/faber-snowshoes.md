@@ -27,8 +27,8 @@ photos:
   photo: "/NL929 north-lander-main.jpg"
 - title: NT821 North Trek - Aluminum
   photo: "/NT821 north-trek-main.jpg"
-- title: Faber Traditional Snowshoes
-  photo: "/faber traditional.jpg"
+- title: 10 Sport Traditional
+  photo: "/10 Sport Traditional.jpg"
 - title: Made in Canada
   photo: "/made_in_canada.jpg"
 
