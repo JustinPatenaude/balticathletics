@@ -29,6 +29,8 @@ catalogues:
   year: 0
   pdf: "/sizeCharttop_large.jpg"
 photos:
+- title: 884300 Dominate Shorts
+  photo: "/884300 Dominate Shorts.PNG"
 - title: 883810 Moda Elita Jersey
   photo: "/883810 Moda Elite Jersey.PNG"
 - title: 883002 Venezie Jerseys
