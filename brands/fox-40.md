@@ -2,12 +2,13 @@
 layout: brand
 permalink: "/brands/fox-40/"
 categories:
+- products/coaching.md
 - products/first-aid.md
 - products/marine-supplies.md
-- products/misc.md
 - products/officials-equipment.md
 - products/safety.md
-- products/trainer-supplies.md
+- products/training-supplies.md
+- products/whistles.md
 title: Fox 40
 logo: "/fox40-logo.png"
 website: http://www.fox40world.com/
@@ -21,7 +22,7 @@ info: "**FOX 40** is a Canadian company started in 1987, based in Hamilton. They
   Football League (NFL), the Arena Football League (AFL) and the Canadian Football
   League (CFL).\n\nLink to [Pea vs Pealess Article](https://www.fox40world.com/pea-vs-pealess)\n\n***\n\n**BUYER
   BEWARE:** [Avoid counterfeit Fox 40 whistles](https://www.fox40world.com/counterfeits)
-  and only buy from authorized dealers, which we are ;) "
+  and only buy from authorized dealers, which Baltic Athletics is ;) "
 date: '2019-03-29T22:27:04.000+00:00'
 catalogues:
 - title: Fox 40 Catalogue
