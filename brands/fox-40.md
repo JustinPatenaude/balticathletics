@@ -28,13 +28,15 @@ catalogues:
   year: 2020
   pdf: "/Fox40 2020 catalogue.pdf"
 photos:
-- title: Superforce CMG - Coach's glovegrip
-  photo: "/SuperForceCMG_GG_Fox40.jpg"
+- title: Smart Coach Board (available in Football, Hockey, Soccer and American Football)
+  photo: "/SmartCoach_SB_IceHockey_6924-0400_Fox40.jpg"
 - title: Classic Whistle
   photo: "/Classic whistle.jpg"
 - title: Pearl Whistle
   photo: "/Pearl_MaPearl_Black_Purple_Fox40.jpg"
 - title: Caul NHL Whistle
   photo: "/Caul_Black_NHL_Fox40.jpg"
+- title: Superforce CMG - Coach's glovegrip
+  photo: "/SuperForceCMG_GG_Fox40.jpg"
 
 ---
