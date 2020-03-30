@@ -21,9 +21,9 @@ info: |-
   Brand name clothing without busting the bank!
 date: '2019-03-29T22:24:20.000+00:00'
 catalogues:
-- title: Diadora Soccer Spring Catalogue
-  pdf: "/diadora-soccer-spring-2016.pdf"
-  year: 2016
+- title: Diadora Soccer Catalogue
+  pdf: ''
+  year: 2020
 - title: Diadora Size Chart
   year: 0
   pdf: "/sizeCharttop_large.jpg"
