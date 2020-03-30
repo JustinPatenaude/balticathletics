@@ -4,6 +4,7 @@ permalink: "/brands/fox-40/"
 categories:
 - products/coaching.md
 - products/first-aid.md
+- products/made-in-canada.md
 - products/marine-supplies.md
 - products/officials-equipment.md
 - products/safety.md
@@ -30,8 +31,6 @@ catalogues:
   year: 2020
   pdf: "/Fox40 2020 catalogue.pdf"
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada.jpg"
 - title: Classic Whistle
   photo: "/Classic whistle.jpg"
 - title: Pearl Whistle
@@ -49,5 +48,7 @@ photos:
   photo: "/fox40firstaid.jpg"
 - title: Marine Essentials & Safety Gear
   photo: "/fox40marine.jpg"
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 
 ---
