@@ -11,7 +11,7 @@ categories:
 - products/sweaters.md
 title: Alphabroder
 logo: "/alphabroder-big.jpg"
-website: https://www.alphabroder.ca/
+website: www.yourapparel.ca/balticathletics
 catalogues:
 - title: Alphabroder Canada Catalogue
   year: 2019
