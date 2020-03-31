@@ -20,5 +20,8 @@ catalogues:
   year: 2019
   pdf: "/LolimpinCatalog.pdf"
 info: ''
+photos:
+- title: LO-B7 Glass Basketball Backboard w/sideswing frame
+  photo: "/lo-b7 height adjustable frame adapter.jpg"
 
 ---
