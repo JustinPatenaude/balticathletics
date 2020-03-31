@@ -21,6 +21,8 @@ catalogues:
   pdf: "/LolimpinCatalog.pdf"
 info: ''
 photos:
+- title: LO-B732 Badminton End Post
+  photo: "/LO-B732 badminton end post.jpg"
 - title: LO-B76A Fan Shaped Aluminum Backboard
   photo: "/LO-B76A fan shaped aluminum backboard.jpg"
 - title: LO-B7 Glass Basketball Backboard w/sideswing frame
