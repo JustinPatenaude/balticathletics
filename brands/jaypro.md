@@ -41,7 +41,7 @@ catalogues:
   year: 2020
 - title: Jaypro Physical Education
   year: 2020
-  pdf: "/2020-Soccer.pdf"
+  pdf: ''
 - title: Jaypro Soccer
   year: 2020
 - year: 2020
