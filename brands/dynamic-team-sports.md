@@ -94,6 +94,8 @@ catalogues:
   pdf: "/dynamic-fanwear-and-pro-gear-2019.pdf"
   year: 2019
 photos:
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 - title: Long sleeve Volleyball real
   photo: "/Ladies v-ball 700 series long sleeve.png"
 - title: Soccer
