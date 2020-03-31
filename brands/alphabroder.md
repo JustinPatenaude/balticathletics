@@ -6,10 +6,10 @@ title: Alphabroder
 logo: "/Alphabroder logo.png"
 website: ''
 catalogues:
-- title: Alphabroder Fall Essential Apparel Catalogue
+- title: Alphabroder Canada Catalogue
   year: 2019
   pdf: ''
-- title: Alphabroder Canada Catalogue
+- title: Alphabroder Fall Essential Apparel Catalogue
   year: 2019
   pdf: ''
 photos: []
