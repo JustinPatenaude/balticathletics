@@ -13,9 +13,12 @@ categories:
 - products/water-polo.md
 title: Mikasa
 logo: "/mikasa-logo.png"
-website: https://mikasasports.com/
+website: ''
 pdfs: []
-info: All prices are listed in **US Dollars.**
+info: |-
+  Mikasa was founded in Japan supplying volleyball, basketball, soccer, rugby and water polo balls.
+
+  Link to [Mikasa Canada Sports Catalogue](https://issuu.com/091789/docs/2020_mikasacatalog)
 date: '2019-03-29T22:30:20.000+00:00'
 
 ---
