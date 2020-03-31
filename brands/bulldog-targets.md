@@ -3,6 +3,7 @@ layout: brand
 permalink: "/brands/bulldog-targets/"
 categories:
 - products/archery.md
+- products/made-in-canada.md
 title: Bulldog Targets
 logo: "/bulldog-targets-logo.png"
 website: https://bulldogtargets.com/
