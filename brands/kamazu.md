@@ -3,6 +3,7 @@ layout: brand
 permalink: "/brands/kamazu/"
 categories:
 - products/baseball.md
+- products/made-in-canada.md
 - products/hockey.md
 - products/jerseys.md
 - products/soccer.md
