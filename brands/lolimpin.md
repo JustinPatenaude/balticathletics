@@ -21,6 +21,8 @@ catalogues:
   pdf: "/LolimpinCatalog.pdf"
 info: ''
 photos:
+- title: LO-S793 Permanent Steel Soccer Goal
+  photo: "/LO-S793 permanent steel soccer goal.jpg"
 - title: LO-F650 Gooseneck Football Goals
   photo: "/LO-F650 gooseneck football goals.jpg"
 - title: LO-BC5 Rol-O-Bin Ball Cart
