@@ -2,9 +2,9 @@
 layout: brand
 permalink: "/brands/edgewood/"
 categories:
+- products/made-in-canada.md
 - products/floor-covering.md
 - products/health-fitness.md
-- products/made-in-canada.md
 - products/custom-mats.md
 - products/weight-lifting.md
 title: Edgewood
