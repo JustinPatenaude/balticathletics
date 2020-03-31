@@ -3,6 +3,7 @@ layout: brand
 permalink: "/brands/by-group/"
 categories:
 - products/boxing.md
+- products/made-in-canada.md
 - products/darts.md
 - products/games.md
 - products/health-fitness.md
