@@ -2,7 +2,11 @@
 layout: brand
 permalink: "/brands/high-5"
 categories:
+- products/jerseys.md
+- products/pants.md
+- products/shorts.md
 - products/soccer.md
+- products/volleyball.md
 title: High 5
 logo: "/high 5 logo.jpg"
 website: https://www.augustasportswear.com/SearchDisplayView?categoryId=&beginIndex=0&pageSize=20&searchTerm=high+5#facet=brand:High%20Five
