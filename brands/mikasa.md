@@ -27,12 +27,10 @@ photos:
   photo: "/VQ2000-CAN_1-Z.jpg"
 - title: MIP300 Indoor Volleyball, Micro-fiber Cover
   photo: "/MIP300 Indoor Volleyball, micro-fiber cover.jpg"
-- title: NVL-PRO Official NVL Game Volleyball
-  photo: "/NVL-PRO Official NVL Game Volleyball.jpg"
 - title: MVA350 Official Replica of the 2016 Olympic Games Ball
   photo: "/MVA350 Official Replica of the 2016 Olympic Games Ball.jpg"
-- title: F6000 Composite Leather Football
-  photo: "/F6000 Composite Leather Football.jpg"
+- title: NVL-PRO Official NVL Game Volleyball
+  photo: "/NVL-PRO Official NVL Game Volleyball.jpg"
 - title: LE50 La Estrella Plus Soccer Ball
   photo: "/LE50 La Estrella Plus Soccer ball.jpg"
 - title: SCE501 Synthetic Leather Soccer Ball
@@ -45,6 +43,8 @@ photos:
   photo: "/FSC450 American Futsal Ball.jpg"
 - title: SAR50 4 Seasons Neon Honeycomb Soccer Ball
   photo: "/SAR50 4 Seasons Neon Honeycomb Soccer Ball.jpg"
+- title: F6000 Composite Leather Football
+  photo: "/F6000 Composite Leather Football.jpg"
 - title: BWL110 Leather Basketball
   photo: "/BWL110 leather basketball.jpg"
 - title: RNB7 Rugby Ball
