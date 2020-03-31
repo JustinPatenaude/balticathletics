@@ -3,6 +3,7 @@ layout: brand
 permalink: "/brands/canadawide-sports/"
 categories:
 - products/baseball.md
+- products/made-in-canada.md
 - products/games.md
 - products/health-fitness.md
 - products/hockey.md
