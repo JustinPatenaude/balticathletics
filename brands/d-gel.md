@@ -3,6 +3,7 @@ layout: brand
 permalink: "/brands/d-gel/"
 categories:
 - products/broomball.md
+- products/made-in-canada.md
 - products/floor-hockey.md
 - products/ringette.md
 title: D-GEL
