@@ -10,8 +10,8 @@ categories:
 - products/shorts.md
 - products/sweaters.md
 title: Alphabroder
-logo: "/Alphabroder logo.png"
-website: ''
+logo: "/alphabroder-big.jpg"
+website: https://www.alphabroder.ca/
 catalogues:
 - title: Alphabroder Canada Catalogue
   year: 2019
