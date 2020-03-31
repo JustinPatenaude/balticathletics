@@ -1,11 +1,11 @@
 ---
 layout: brand
-permalink: "/brands/lowry/"
+permalink: "/brands/lowry-sports"
 categories:
 - products/floor-hockey.md
 - products/hockey.md
 - products/lacrosse.md
-title: Lowry
+title: Lowry Sports
 logo: "/lowry-logo.png"
 website: http://lowrysports.com/
 pdfs:
@@ -14,7 +14,7 @@ info: ''
 date: '2019-03-29T22:29:52.000+00:00'
 catalogues:
 - title: Lowry Catalogue
-  pdf: "/2018-lowry's-catalogue.pdf"
-  year: 2018
+  pdf: ''
+  year: 2019
 
 ---
