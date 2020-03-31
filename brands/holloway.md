@@ -7,6 +7,8 @@ logo: ''
 website: https://www.augustasportswear.com/SearchDisplayView?categoryId=&beginIndex=0&pageSize=20&searchTerm=holloway#facet=brand:Holloway
 catalogues: []
 photos:
+- title: 221025 Game 7 Full-Button Baseball Jersey
+  photo: "/221025 Game 7 Full-Button Baseball Jersey.jpg"
 - title: 221035 PR Max Track Jersey
   photo: "/221035 PR Max Track Jersey.jpg"
 - title: 221040 Vertical Singlet
