@@ -21,8 +21,8 @@ info: |-
   Link to [Mikasa Canada Sports Catalogue](https://issuu.com/091789/docs/2020_mikasacatalog)
 date: '2019-03-29T22:30:20.000+00:00'
 photos:
-- title: MVA350 Official Replica of the 2016 Olympic Games Ball
-  photo: "/MVA350 Official Replica of the 2016 Olympic Games Ball.jpg"
+- title: M80 Mikasa Inflator Pump
+  photo: "/M80 Mikasa Electric Pump.jpg"
 - title: V200W Official FIVB Competition Indoor Volleyball
   photo: "/V200W_1-Z.jpg"
 - title: VQ2000 Indoor Competition Volleyball (many colours available)
@@ -31,6 +31,8 @@ photos:
   photo: "/MIP300 Indoor Volleyball, micro-fiber cover.jpg"
 - title: NVL-PRO Official NVL Game Volleyball
   photo: "/NVL-PRO Official NVL Game Volleyball.jpg"
+- title: MVA350 Official Replica of the 2016 Olympic Games Ball
+  photo: "/MVA350 Official Replica of the 2016 Olympic Games Ball.jpg"
 - title: F6000 Composite Leather Football
   photo: "/F6000 Composite Leather Football.jpg"
 - title: LE50 La Estrella Plus Soccer Ball
