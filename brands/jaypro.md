@@ -17,6 +17,8 @@ title: Jaypro
 logo: "/jaypro-sports-logo.png"
 website: https://jayprosports.com/
 catalogues:
+- title: Jaypro Soccer
+  year: 2020
 - year: 2020
   title: Jaypro Volleyball
 info: "**Jaypro Sports** has been designing and manufacturing team sports equipment
