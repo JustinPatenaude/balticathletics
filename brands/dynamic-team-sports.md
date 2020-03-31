@@ -11,7 +11,6 @@ categories:
 - products/hockey.md
 - products/jerseys.md
 - products/lacrosse.md
-- products/made-in-canada.md
 - products/pants.md
 - products/ringette.md
 - products/shirts.md
@@ -94,8 +93,6 @@ catalogues:
   pdf: "/dynamic-fanwear-and-pro-gear-2019.pdf"
   year: 2019
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada.jpg"
 - title: Long sleeve Volleyball real
   photo: "/Ladies v-ball 700 series long sleeve.png"
 - title: Soccer
@@ -120,5 +117,7 @@ photos:
   photo: "/killarney-black.png"
 - title: Ladies Long-Sleeve Volleyball - Shock
   photo: "/shock-black.png"
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 
 ---
