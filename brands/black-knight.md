@@ -2,9 +2,10 @@
 layout: brand
 permalink: "/brands/black-knight/"
 categories:
-- products/squash.md
-- products/racquetball.md
 - products/badminton.md
+- products/made-in-canada.md
+- products/racquetball.md
+- products/squash.md
 title: Black Knight
 logo: "/BKWelcomeLogo.png"
 website: http://blackknight.ca/
