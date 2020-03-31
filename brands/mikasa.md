@@ -21,6 +21,8 @@ info: |-
   Link to [Mikasa Canada Sports Catalogue](https://issuu.com/091789/docs/2020_mikasacatalog)
 date: '2019-03-29T22:30:20.000+00:00'
 photos:
+- title: MCS50 Orbit Design Soccer Ball
+  photo: "/MCS50 MCS Orbit Design Soccer Ball.jpg"
 - title: MIP300 Indoor Volleyball, Micro-fiber Cover
   photo: "/MIP300 Indoor Volleyball, micro-fiber cover.jpg"
 - title: NVL-PRO Official NVL Game Volleyball
