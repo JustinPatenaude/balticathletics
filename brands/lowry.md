@@ -16,5 +16,8 @@ catalogues:
 - title: Lowry Catalogue
   pdf: ''
   year: 2019
+photos:
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 
 ---
