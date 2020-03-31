@@ -21,6 +21,8 @@ info: |-
   Link to [Mikasa Canada Sports Catalogue](https://issuu.com/091789/docs/2020_mikasacatalog)
 date: '2019-03-29T22:30:20.000+00:00'
 photos:
+- title: SCE501 Synthetic Leather Soccer Ball
+  photo: "/SCE501 syn leather soccer ball.jpg"
 - title: SS50 Cushioned Cover Soccer Ball
   photo: "/SS50 Cushioned Cover Soccer Ball.jpg"
 - title: V200W Official FIVB Competition Indoor Volleyball
