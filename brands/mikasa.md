@@ -21,6 +21,8 @@ info: |-
   Link to [Mikasa Canada Sports Catalogue](https://issuu.com/091789/docs/2020_mikasacatalog)
 date: '2019-03-29T22:30:20.000+00:00'
 photos:
+- title: BWL110 Leather Basketball
+  photo: "/BWL110 leather basketball.jpg"
 - title: F6000 Composite Leather Football
   photo: "/F6000 Composite Leather Football.jpg"
 - title: FSC450 American Futsal Ball
