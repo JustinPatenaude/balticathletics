@@ -42,7 +42,7 @@ photos:
 - title: SAR50 4 Seasons Neon Honeycomb Soccer Ball
   photo: "/SAR50 4 Seasons Neon Honeycomb Soccer Ball.jpg"
 - title: FSC450 American Futsal Ball
-  photo: "/FSC450 American Futsal Ball.jpg"
+  photo: "/FSC450 American Futsal Ball 1.jpg"
 - title: BWL110 Leather Basketball
   photo: "/BWL110 leather basketball.jpg"
 - title: F6000 Composite Leather Football
