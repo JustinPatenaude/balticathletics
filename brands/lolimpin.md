@@ -13,9 +13,11 @@ categories:
 - products/basketball.md
 - products/badminton.md
 title: Lolimpin
-logo: "/lolimpin-logo.png"
+logo: "/logo.jpg"
 website: ''
-catalogues: []
+catalogues:
+- title: Lolimpin Catalogue
+  year: 2019
 info: ''
 
 ---
