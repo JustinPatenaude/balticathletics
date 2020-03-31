@@ -5,10 +5,10 @@ categories:
 - products/badminton.md
 - products/basketball.md
 - products/boxing.md
+- products/made-in-canada.md
 - products/dividers.md
 - products/football.md
 - products/futsal.md
-- products/made-in-canada.md
 - products/officials-equipment.md
 - products/custom-mats.md
 - products/seating.md
