@@ -1,7 +1,14 @@
 ---
 layout: brand
 permalink: "/brands/alphabroder"
-categories: []
+categories:
+- products/headwear.md
+- products/hoodies.md
+- products/jackets.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
+- products/sweaters.md
 title: Alphabroder
 logo: "/Alphabroder logo.png"
 website: ''
