@@ -36,7 +36,7 @@ catalogues:
   pdf: "/2020-Football.pdf"
 - title: Jaypro Gymnasium
   year: 2020
-  pdf: "/2020-Lax-Field-Hockey.pdf"
+  pdf: ''
 - title: Jaypro Lacrosse/Field Hockey
   year: 2020
 - title: Jaypro Physical Education
