@@ -37,6 +37,7 @@ date: '2019-03-29T22:29:25.000+00:00'
 catalogues:
 - title: Kwik Goal Catalogue
   year: 2016
+  pdf: "/2016 Retail Cat Pages.pdf"
 - title: Kwik Goal Safety Booklet
   year: 2018
   pdf: "/KG Safety Booklet_2018.pdf"
