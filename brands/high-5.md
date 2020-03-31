@@ -3,9 +3,9 @@ layout: brand
 permalink: "/brands/high-5"
 categories:
 - products/jerseys.md
-- products/pants.md
 - products/shorts.md
 - products/soccer.md
+- products/socks.md
 - products/volleyball.md
 title: High 5
 logo: "/high 5 logo.jpg"
