@@ -21,6 +21,8 @@ catalogues:
   pdf: "/LolimpinCatalog.pdf"
 info: ''
 photos:
+- title: LO-764SP Safety Pads for Referee Stand
+  photo: "/LO-764SP safety pads for referee stand.jpg"
 - title: LO-764 Referee Stand
   photo: "/LO-764 referee stand.jpg"
 - title: LO-763R4 Volleyball Post Storage Rack
