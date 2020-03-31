@@ -7,6 +7,8 @@ logo: ''
 website: https://www.augustasportswear.com/SearchDisplayView?categoryId=&beginIndex=0&pageSize=20&searchTerm=holloway#facet=brand:Holloway
 catalogues: []
 photos:
+- title: 222564 Converge Polo Shirt
+  photo: "/222564 Converge Polo Shirt.jpg"
 - title: 224077 Retro Basketball Shorts
   photo: "/224077 Retro Basketball Shorts.jpg"
 - title: 224078 Dual-Side Single Ply Basketball Jersey
