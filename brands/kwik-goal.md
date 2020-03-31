@@ -36,6 +36,8 @@ info: |-
 date: '2019-03-29T22:29:25.000+00:00'
 catalogues: []
 photos:
+- title: 10B3401 Kwik Goal Net Clips (sold in packages of 100)
+  photo: "/10B3401 net clips.jpg"
 - title: 2B1703 Kwik Flex Lite Goal
   photo: "/2B1703 Kwik Goal soccer goal 6.5' x 12'.jpg"
 - title: 6A62 Line Paint
