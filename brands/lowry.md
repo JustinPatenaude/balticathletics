@@ -19,6 +19,8 @@ catalogues:
   pdf: "/2019 Lowry Sports Catalogue.pdf"
   year: 2019
 photos:
+- title: LDB38 Sports Bag
+  photo: "/LDB38 sports bag.PNG"
 - title: 3741 First Aid Kit
   photo: "/3741 First Aid Kit.PNG"
 - title: Proudly Canadian
