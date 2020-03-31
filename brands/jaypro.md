@@ -17,8 +17,11 @@ title: Jaypro
 logo: "/jaypro-sports-logo.png"
 website: https://jayprosports.com/
 catalogues:
+- title: Jaypro Benches & Bleachers
+  year: 2020
 - title: Jaypro Field Marketing & Maintenance
   year: 2020
+  pdf: "/2020-Field-Marking-Maintenance.pdf"
 - title: Jaypro Football
   year: 2020
   pdf: "/2020-Football.pdf"
