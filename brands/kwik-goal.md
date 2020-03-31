@@ -34,7 +34,10 @@ info: |-
 
   Link to [Kwik Goal Coach's Clinics videos](https://www.kwikgoal.com/video)
 date: '2019-03-29T22:29:25.000+00:00'
-catalogues: []
+catalogues:
+- title: Soccer Equipment Checklist
+  year: 0
+  pdf: "/Soccer Checklist.pdf"
 photos:
 - title: "**NEW - 3B19 Hex Tent Net"
   photo: "/3B19 Hex Tent Net.jpg"
