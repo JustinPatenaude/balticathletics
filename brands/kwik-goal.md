@@ -36,6 +36,8 @@ info: |-
 date: '2019-03-29T22:29:25.000+00:00'
 catalogues: []
 photos:
+- title: 19A Scrimmage Vests
+  photo: "/19A1 Scrimmage Vests.jpg"
 - title: 1B32 Basic Training Ball
   photo: "/1B32 Basic Training Ball.jpg"
 - title: 2B3003 Soccer Goal
