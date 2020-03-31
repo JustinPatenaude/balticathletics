@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/get-xposed/"
 categories:
+- products/made-in-canada.md
 - products/drinkware.md
 title: Get Xposed
 logo: "/Get XPOSED logo.png"
