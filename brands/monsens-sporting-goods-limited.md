@@ -10,7 +10,7 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:30:45.000+00:00'
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada.jpg"
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 
 ---
