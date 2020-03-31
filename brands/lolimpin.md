@@ -2,16 +2,19 @@
 layout: brand
 permalink: "/brands/lolimpin/"
 categories:
-- products/custom-mats.md
+- products/badminton.md
+- products/basketball.md
+- products/boxing.md
 - products/dividers.md
+- products/football.md
+- products/futsal.md
+- products/made-in-canada.md
+- products/officials-equipment.md
+- products/custom-mats.md
 - products/seating.md
 - products/soccer.md
+- products/storage-solutions.md
 - products/volleyball.md
-- products/futsal.md
-- products/football.md
-- products/boxing.md
-- products/basketball.md
-- products/badminton.md
 title: Lolimpin
 logo: "/logo.jpg"
 website: ''
@@ -19,8 +22,11 @@ catalogues:
 - title: Lolimpin Catalogue
   year: 2019
   pdf: "/LolimpinCatalog.pdf"
-info: ''
+info: Lolimpin is a Canadian company in business since 1986 supplying schools, universities,
+  and sports facilities with quality value-priced gym equipment.
 photos:
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 - title: LO-B7 Glass Basketball Backboard w/sideswing frame
   photo: "/lo-b7 height adjustable frame adapter.jpg"
 - title: LO-B2 Gooseneck Basketball System
