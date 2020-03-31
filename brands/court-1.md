@@ -32,6 +32,7 @@ categories:
 - products/badminton.md
 - products/baseball.md
 - products/basketball.md
+- products/made-in-canada.md
 - products/golf.md
 - products/gymnastics.md
 - products/hockey.md
