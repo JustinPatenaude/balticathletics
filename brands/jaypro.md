@@ -17,6 +17,9 @@ title: Jaypro
 logo: "/jaypro-sports-logo.png"
 website: https://jayprosports.com/
 catalogues:
+- title: Jaypro Multi-Sport Catalogue
+  year: 2020
+  pdf: ''
 - title: Jaypro Physical Education
   year: 2020
   pdf: "/2020-Soccer.pdf"
