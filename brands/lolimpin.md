@@ -21,6 +21,8 @@ catalogues:
   pdf: "/LolimpinCatalog.pdf"
 info: ''
 photos:
+- title: LO-764 Referee Stand
+  photo: "/LO-764 referee stand.jpg"
 - title: LO-763R4 Volleyball Post Storage Rack
   photo: "/LO-763R4 VB post storage rack.PNG"
 - title: LO-B7 Glass Basketball Backboard w/sideswing frame
