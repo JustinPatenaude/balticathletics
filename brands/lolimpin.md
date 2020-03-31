@@ -21,6 +21,8 @@ catalogues:
   pdf: "/LolimpinCatalog.pdf"
 info: ''
 photos:
+- title: LO-BC5 Rol-O-Bin Ball Cart
+  photo: "/LO-BC5 rol-o-bin ball cart.png"
 - title: LO-B732 Badminton End Post
   photo: "/LO-B732 badminton end post.jpg"
 - title: LO-B76A Fan Shaped Aluminum Backboard
