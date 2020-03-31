@@ -21,6 +21,8 @@ info: |-
   Link to [Mikasa Canada Sports Catalogue](https://issuu.com/091789/docs/2020_mikasacatalog)
 date: '2019-03-29T22:30:20.000+00:00'
 photos:
+- title: FSC450 American Futsal Ball
+  photo: "/FSC450 American Futsal Ball.jpg"
 - title: LE50 La Estrella Plus Soccer Ball
   photo: "/LE50 La Estrella Plus Soccer ball.jpg"
 - title: MCS50 Orbit Design Soccer Ball
