@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/farpost-goals/"
 categories:
+- products/made-in-canada.md
 - products/futsal.md
 - products/nets.md
 - products/soccer.md
@@ -10,11 +11,13 @@ logo: "/farpost-logo.png"
 website: ''
 pdfs: []
 info: |-
+  **See each photo above for pricing. Pricing is for ONE goal.**
+
+  ***
+
   Farpost is a Canadian company specializing in collapsible aluminum goals.
 
   All goals are powder-coated white for durability.
-
-  See each photo above for pricing. Pricing is for ONE goal.
 date: '2019-03-29T22:26:16.000+00:00'
 photos:
 - title: G275 Soccer Goal
