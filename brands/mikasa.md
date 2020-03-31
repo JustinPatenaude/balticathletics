@@ -21,6 +21,8 @@ info: |-
   Link to [Mikasa Canada Sports Catalogue](https://issuu.com/091789/docs/2020_mikasacatalog)
 date: '2019-03-29T22:30:20.000+00:00'
 photos:
+- title: VQ2000 Volleyball (available in many colours)
+  photo: "/VQ2000-CAN_1-Z.jpg"
 - title: W5000 Water Polo Ball
   photo: "/W5000 Water Polo Ball.jpg"
 
