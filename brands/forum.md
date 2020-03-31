@@ -4,9 +4,9 @@ permalink: "/brands/forum/"
 categories:
 - products/badminton.md
 - products/basketball.md
+- products/made-in-canada.md
 - products/dividers.md
 - products/football.md
-- products/made-in-canada.md
 - products/nets.md
 - products/posts.md
 - products/scoreboards.md
