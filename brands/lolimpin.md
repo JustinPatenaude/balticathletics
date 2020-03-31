@@ -21,6 +21,8 @@ catalogues:
   pdf: "/LolimpinCatalog.pdf"
 info: ''
 photos:
+- title: LO-V761T Volleyball Posts
+  photo: "/LO-V761T volleyball posts.jpg"
 - title: LO-SF700 Soccer-Football Combination Goals
   photo: "/LO-SF700 soccer-football combination goals.jpg"
 - title: LO-S793PA Portable Soccer Goals
