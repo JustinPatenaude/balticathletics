@@ -25,8 +25,6 @@ catalogues:
 info: Lolimpin is a Canadian company in business since 1986 supplying schools, universities,
   and sports facilities with quality value-priced gym equipment.
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada.jpg"
 - title: LO-B7 Glass Basketball Backboard w/sideswing frame
   photo: "/lo-b7 height adjustable frame adapter.jpg"
 - title: LO-B2 Gooseneck Basketball System
@@ -55,5 +53,7 @@ photos:
   photo: "/LO-S793PA portable soccer goals.jpg"
 - title: LO-BC5 Rol-O-Bin Ball Cart
   photo: "/LO-BC5 rol-o-bin ball cart.png"
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 
 ---
