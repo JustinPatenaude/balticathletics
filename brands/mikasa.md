@@ -39,14 +39,14 @@ photos:
   photo: "/MCS50 MCS Orbit Design Soccer Ball.jpg"
 - title: SS50 Cushioned Cover Soccer Ball
   photo: "/SS50 Cushioned Cover Soccer Ball.jpg"
-- title: FSC450 American Futsal Ball
-  photo: "/FSC450 American Futsal Ball.jpg"
 - title: SAR50 4 Seasons Neon Honeycomb Soccer Ball
   photo: "/SAR50 4 Seasons Neon Honeycomb Soccer Ball.jpg"
-- title: F6000 Composite Leather Football
-  photo: "/F6000 Composite Leather Football.jpg"
+- title: FSC450 American Futsal Ball
+  photo: "/FSC450 American Futsal Ball.jpg"
 - title: BWL110 Leather Basketball
   photo: "/BWL110 leather basketball.jpg"
+- title: F6000 Composite Leather Football
+  photo: "/F6000 Composite Leather Football.jpg"
 - title: RNB7 Rugby Ball
   photo: "/RNB7 Rugby Ball.jpg"
 - title: W5000 Water Polo Ball
