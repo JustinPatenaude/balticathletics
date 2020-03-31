@@ -1,9 +1,20 @@
 ---
 layout: brand
 permalink: "/brands/holloway"
-categories: []
+categories:
+- products/baseball.md
+- products/basketball.md
+- products/golf.md
+- products/jackets.md
+- products/jerseys.md
+- products/shirts.md
+- products/shorts.md
+- products/soccer.md
+- products/softball.md
+- products/track-field.md
+- products/volleyball.md
 title: Holloway
-logo: ''
+logo: "/holloway-logo-ps.gif"
 website: https://www.augustasportswear.com/SearchDisplayView?categoryId=&beginIndex=0&pageSize=20&searchTerm=holloway#facet=brand:Holloway
 catalogues: []
 photos:
@@ -17,12 +28,15 @@ photos:
   photo: "/222563 Converge Wicking Tee.jpg"
 - title: 222564 Converge Polo Shirt
   photo: "/222564 Converge Polo Shirt.jpg"
-- title: 224077 Retro Basketball Shorts
-  photo: "/224077 Retro Basketball Shorts.jpg"
 - title: 224078 Dual-Side Single Ply Basketball Jersey
   photo: "/224078 Dual-Side Single Ply Basketball Jersey.jpg"
+- title: 224077 Retro Basketball Shorts
+  photo: "/224077 Retro Basketball Shorts.jpg"
 - title: 229538 Sof-Stretch Pullover
   photo: "/229538 Sof-Stretch Pullover.jpg"
-info: ''
+info: |-
+  Holloway is a premium level brand and the fabrics and quality reflect that.
+
+  Video link to [Holloway: Storm Dfend Technology](https://youtu.be/CKRRO8cYWL4)
 
 ---
