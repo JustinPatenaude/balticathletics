@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/eletto/"
 categories:
+- products/made-in-canada.md
 - products/futsal.md
 - products/jerseys.md
 - products/shorts.md
