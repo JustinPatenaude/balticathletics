@@ -21,6 +21,8 @@ info: |-
   Link to [Mikasa Canada Sports Catalogue](https://issuu.com/091789/docs/2020_mikasacatalog)
 date: '2019-03-29T22:30:20.000+00:00'
 photos:
+- title: NVL-PRO Official NVL Game Volleyball
+  photo: "/NVL-PRO Official NVL Game Volleyball.jpg"
 - title: RNB7 Rugby Ball
   photo: "/RNB7 Rugby Ball.jpg"
 - title: SAR50 4 Seasons Neon Honeycomb Soccer Ball
