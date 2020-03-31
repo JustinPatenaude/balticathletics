@@ -17,7 +17,7 @@ categories:
 - products/volleyball.md
 title: Lolimpin
 logo: "/logo.jpg"
-website: ''
+website: http://www.lolimpin.com/
 catalogues:
 - title: Lolimpin Catalogue
   year: 2019
