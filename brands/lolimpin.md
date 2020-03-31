@@ -21,6 +21,8 @@ catalogues:
   pdf: "/LolimpinCatalog.pdf"
 info: ''
 photos:
+- title: LO-S793PA Portable Soccer Goals
+  photo: "/LO-S793PA portable soccer goals.jpg"
 - title: LO-S793 Permanent Steel Soccer Goal
   photo: "/LO-S793 permanent steel soccer goal.jpg"
 - title: LO-F650 Gooseneck Football Goals
