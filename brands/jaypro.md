@@ -17,8 +17,12 @@ title: Jaypro
 logo: "/jaypro-sports-logo.png"
 website: https://jayprosports.com/
 catalogues:
+- title: Jaypro Multi-Sport Catalogue
+  year: 2020
+  pdf: ''
 - title: Jaypro Baseball / Softball
   year: 2020
+  pdf: "/2020-BaseballSoftball.pdf"
 - title: Jaypro Basketball
   year: 2020
 - title: Jaypro Benches & Bleachers
@@ -35,9 +39,6 @@ catalogues:
   pdf: "/2020-Lax-Field-Hockey.pdf"
 - title: Jaypro Lacrosse/Field Hockey
   year: 2020
-- title: Jaypro Multi-Sport Catalogue
-  year: 2020
-  pdf: ''
 - title: Jaypro Physical Education
   year: 2020
   pdf: "/2020-Soccer.pdf"
@@ -45,10 +46,10 @@ catalogues:
   year: 2020
 - year: 2020
   title: Jaypro Volleyball
-info: "**Jaypro Sports** has been designing and manufacturing team sports equipment
-  in Connecticut for the institutional market since 1953. The company was originally
-  known as Jayfro until it was purchased in 1986 by Bob Ferrara. The name was then
-  changed to “Jaypro”."
+info: |-
+  **Jaypro Sports** has been designing and manufacturing team sports equipment in Connecticut for the institutional market since 1953. The company was originally known as Jayfro until it was purchased in 1986 by Bob Ferrara. The name was then changed to “Jaypro”.
+
+  Jaypro supplies high quality sporting goods for many sports.
 photos:
 - title: PVB-5500 Featherlite Volleyball Systems (2" Canadian)
   photo: "/PVB-5500 Featherlite Volleyball System.jpg"
