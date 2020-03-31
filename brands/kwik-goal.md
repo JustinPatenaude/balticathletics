@@ -36,6 +36,8 @@ info: |-
 date: '2019-03-29T22:29:25.000+00:00'
 catalogues: []
 photos:
+- title: 2B71M Infinity Pop-Up Goal (medium size)
+  photo: "/2B71M Infinity Pop-Up Goal.jpg"
 - title: "**NEW - 3B19 Hex Tent Net"
   photo: "/3B19 Hex Tent Net.jpg"
 - title: 2B3003 Soccer Goal
