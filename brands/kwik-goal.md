@@ -39,6 +39,7 @@ catalogues:
   year: 2016
 - title: Kwik Goal Safety Booklet
   year: 2018
+  pdf: "/KG Safety Booklet_2018.pdf"
 - title: Soccer Equipment Checklist
   year: 0
   pdf: "/Soccer Checklist.pdf"
