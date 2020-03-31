@@ -2,29 +2,33 @@
 layout: brand
 permalink: "/brands/jaypro/"
 categories:
-- products/tennis.md
-- products/nets.md
-- products/track-field.md
-- products/seating.md
+- products/baseball.md
+- products/basketball.md
+- products/football.md
 - products/pe-equipment.md
 - products/lacrosse.md
-- products/football.md
+- products/nets.md
+- products/seating.md
+- products/soccer.md
+- products/tennis.md
 - products/track-field.md
 - products/volleyball.md
-- products/basketball.md
-- products/baseball.md
-- products/soccer.md
 title: Jaypro
 logo: "/jaypro-sports-logo.png"
 website: https://jayprosports.com/
-catalogues: []
-info: ''
+catalogues:
+- year: 2020
+  title: Jaypro Volleyball
+info: "**Jaypro Sports** has been designing and manufacturing team sports equipment
+  in Connecticut for the institutional market since 1953. The company was originally
+  known as Jayfro until it was purchased in 1986 by Bob Ferrara. The name was then
+  changed to “Jaypro”."
 photos:
-- title: CC12S Classic Club Goal 6.5' x 12'
-  photo: "/CC12S Outdoor Volleyball System.jpg"
-- title: OCV-900 Outdoor Competition Volleyball System
-  photo: "/OCV-900 Outdoor Volleyball System.jpg"
 - title: PVB-5500 Featherlite Volleyball Systems (2" Canadian)
   photo: "/PVB-5500 Featherlite Volleyball System.jpg"
+- title: OCV-900 Outdoor Competition Volleyball System
+  photo: "/OCV-900 Outdoor Volleyball System.jpg"
+- title: CC12S Classic Club Goal 6.5' x 12'
+  photo: "/CC12S Outdoor Volleyball System.jpg"
 
 ---
