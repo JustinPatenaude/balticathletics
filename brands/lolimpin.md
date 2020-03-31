@@ -21,6 +21,10 @@ catalogues:
   pdf: "/LolimpinCatalog.pdf"
 info: ''
 photos:
+- title: LO-B76A Fan Shaped Aluminum Backboard
+  photo: "/LO-B76A fan shaped aluminum backboard.jpg"
+- title: LO-B7 Glass Basketball Backboard w/sideswing frame
+  photo: "/lo-b7 height adjustable frame adapter.jpg"
 - title: LO-B2 Gooseneck Basketball System
   photo: "/lo-b2 gooseneck basketball.jpg"
 - title: LO-764SP Safety Pads for Referee Stand
@@ -29,7 +33,5 @@ photos:
   photo: "/LO-764 referee stand.jpg"
 - title: LO-763R4 Volleyball Post Storage Rack
   photo: "/LO-763R4 VB post storage rack.PNG"
-- title: LO-B7 Glass Basketball Backboard w/sideswing frame
-  photo: "/lo-b7 height adjustable frame adapter.jpg"
 
 ---
