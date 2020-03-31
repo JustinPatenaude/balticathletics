@@ -22,8 +22,8 @@ catalogues:
 - title: Lolimpin Catalogue
   year: 2019
   pdf: "/LolimpinCatalog.pdf"
-info: Lolimpin is a Canadian company in business since 1986 supplying schools, universities,
-  and sports facilities with quality value-priced gym equipment.
+info: "**Lolimpin** is a Canadian company in business since 1986 supplying schools,
+  universities, and sports facilities with quality value-priced gym equipment."
 photos:
 - title: LO-B7 Glass Basketball Backboard w/sideswing frame
   photo: "/lo-b7 height adjustable frame adapter.jpg"
