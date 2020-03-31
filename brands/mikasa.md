@@ -21,6 +21,8 @@ info: |-
   Link to [Mikasa Canada Sports Catalogue](https://issuu.com/091789/docs/2020_mikasacatalog)
 date: '2019-03-29T22:30:20.000+00:00'
 photos:
+- title: RNB7 Rugby Ball
+  photo: "/RNB7 Rugby Ball.jpg"
 - title: SAR50 4 Seasons Neon Honeycomb Soccer Ball
   photo: "/SAR50 4 Seasons Neon Honeycomb Soccer Ball.jpg"
 - title: SCE501 Synthetic Leather Soccer Ball
