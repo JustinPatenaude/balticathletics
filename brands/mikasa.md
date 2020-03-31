@@ -46,7 +46,7 @@ photos:
 - title: BWL110 Leather Basketball
   photo: "/BWL110 leather basketball.jpg"
 - title: F6000 Composite Leather Football
-  photo: "/F6000 Composite Leather Football.jpg"
+  photo: "/F6000 Composite Leather Football 1.jpg"
 - title: RNB7 Rugby Ball
   photo: "/RNB7 Rugby Ball.jpg"
 - title: W5000 Water Polo Ball
