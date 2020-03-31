@@ -3,14 +3,14 @@ layout: brand
 permalink: "/brands/dom-sports/"
 categories:
 - products/broomball.md
+- products/made-in-canada.md
 - products/floor-hockey.md
 - products/games.md
 - products/golf.md
-- products/made-in-canada.md
 - products/nets.md
 - products/ringette.md
 - products/softball.md
-title: Dom Sports
+title: DOM Sports
 logo: "/domlogoarrow.gif"
 website: http://www.domsports.com/
 pdfs:
