@@ -46,8 +46,10 @@ catalogues:
   pdf: "/2020-Physical-Education.pdf"
 - title: Jaypro Soccer
   year: 2020
+  pdf: "/2020-Soccer.pdf"
 - year: 2020
   title: Jaypro Volleyball
+  pdf: "/2020-Volleyball.pdf"
 info: |-
   **Jaypro Sports** has been designing and manufacturing team sports equipment in Connecticut for the institutional market since 1953. The company was originally known as Jayfro until it was purchased in 1986 by Bob Ferrara. The name was then changed to “Jaypro”.
 
