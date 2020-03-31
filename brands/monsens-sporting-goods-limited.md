@@ -3,11 +3,13 @@ layout: brand
 permalink: "/brands/monsens-sporting-goods"
 categories:
 - products/archery.md
+- products/made-in-canada.md
 title: Monsens Sporting Goods
 logo: "/monsens logo.PNG"
 website: http://www.monsens.ca/
 pdfs: []
-info: ''
+info: "**Monsens** is a Canadian company supplying a large assortment of archery equipment
+  for schools and ranges."
 date: '2019-03-29T22:30:45.000+00:00'
 photos:
 - title: Proudly Canadian
