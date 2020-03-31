@@ -21,6 +21,8 @@ catalogues:
   pdf: "/LolimpinCatalog.pdf"
 info: ''
 photos:
+- title: LO-SF700 Soccer-Football Combination Goals
+  photo: "/LO-SF700 soccer-football combination goals.jpg"
 - title: LO-S793PA Portable Soccer Goals
   photo: "/LO-S793PA portable soccer goals.jpg"
 - title: LO-S793 Permanent Steel Soccer Goal
