@@ -36,8 +36,6 @@ info: |-
 date: '2019-03-29T22:29:25.000+00:00'
 catalogues: []
 photos:
-- title: 2B71M Infinity Pop-Up Goal (medium size)
-  photo: "/2B71M Infinity Pop-Up Goal.jpg"
 - title: "**NEW - 3B19 Hex Tent Net"
   photo: "/3B19 Hex Tent Net.jpg"
 - title: 2B3003 Soccer Goal
@@ -50,6 +48,8 @@ photos:
   photo: "/line paint.jpeg"
 - title: 2B1703 Kwik Flex Lite Goal
   photo: "/2B1703 Kwik Goal soccer goal 6.5' x 12'.jpg"
+- title: 2B71M Infinity Pop-Up Goal (medium size)
+  photo: "/2B71M Infinity Pop-Up Goal.jpg"
 - title: 10B3401 Kwik Goal Tamper-Resistant Net Clips (sold in packages of 100)
   photo: "/10B3401 net clips.jpg"
 
