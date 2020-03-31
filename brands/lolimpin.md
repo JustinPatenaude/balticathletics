@@ -21,6 +21,8 @@ catalogues:
   pdf: "/LolimpinCatalog.pdf"
 info: ''
 photos:
+- title: LO-V762 Safety Pads for Volleyball Post
+  photo: "/LO-V762 w.padding pic.jpg"
 - title: LO-V761T Volleyball Posts
   photo: "/LO-V761T volleyball posts.jpg"
 - title: LO-SF700 Soccer-Football Combination Goals
