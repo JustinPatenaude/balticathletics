@@ -21,10 +21,10 @@ info: |-
   Link to [Mikasa Canada Sports Catalogue](https://issuu.com/091789/docs/2020_mikasacatalog)
 date: '2019-03-29T22:30:20.000+00:00'
 photos:
-- title: V200W Official FIVB Competition Indoor Volleyball
-  photo: "/V200W_1-Z.jpg"
 - title: VQ2000 Indoor Competition Volleyball (many colours available)
   photo: "/VQ2000-CAN_1-Z.jpg"
+- title: V200W Official FIVB Competition Indoor Volleyball
+  photo: "/V200W_1-Z.jpg"
 - title: MIP300 Indoor Volleyball, Micro-fiber Cover
   photo: "/MIP300 Indoor Volleyball, micro-fiber cover.jpg"
 - title: MVA350 Official Replica of the 2016 Olympic Games Ball
