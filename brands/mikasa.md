@@ -28,7 +28,7 @@ photos:
 - title: MVA350 Official Replica of the 2016 Olympic Games Ball
   photo: "/MVA350 Official Replica of the 2016 Olympic Games Ball.jpg"
 - title: MIP300 Indoor Volleyball, Micro-fiber Cover
-  photo: "/MIP300 Indoor Volleyball, micro-fiber cover.jpg"
+  photo: "/MIP300 Indoor Volleyball, micro-fiber cover1.jpg"
 - title: NVL-PRO Official NVL Game Volleyball
   photo: "/NVL-PRO Official NVL Game Volleyball.jpg"
 - title: LE50 La Estrella Plus Soccer Ball
