@@ -25,6 +25,7 @@ catalogues:
   pdf: "/2020-BaseballSoftball.pdf"
 - title: Jaypro Basketball
   year: 2020
+  pdf: "/2020-Basketball.pdf"
 - title: Jaypro Benches & Bleachers
   year: 2020
   pdf: "/2020-Benches-Bleachers.pdf"
@@ -36,12 +37,13 @@ catalogues:
   pdf: "/2020-Football.pdf"
 - title: Jaypro Gymnasium
   year: 2020
-  pdf: ''
+  pdf: "/2020-Gymnasium.pdf"
 - title: Jaypro Lacrosse/Field Hockey
   year: 2020
+  pdf: "/2020-Lax-Field-Hockey.pdf"
 - title: Jaypro Physical Education
   year: 2020
-  pdf: ''
+  pdf: "/2020-Physical-Education.pdf"
 - title: Jaypro Soccer
   year: 2020
 - year: 2020
