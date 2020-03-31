@@ -18,6 +18,7 @@ website: ''
 catalogues:
 - title: Lolimpin Catalogue
   year: 2019
+  pdf: "/LolimpinCatalog.pdf"
 info: ''
 
 ---
