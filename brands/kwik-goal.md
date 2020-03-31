@@ -35,6 +35,8 @@ info: |-
   Link to [Kwik Goal Coach's Clinics videos](https://www.kwikgoal.com/video)
 date: '2019-03-29T22:29:25.000+00:00'
 catalogues:
+- title: Kwik Goal Catalogue
+  year: 2016
 - title: Kwik Goal Safety Booklet
   year: 2018
 - title: Soccer Equipment Checklist
