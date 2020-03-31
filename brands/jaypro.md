@@ -19,7 +19,7 @@ website: https://jayprosports.com/
 catalogues:
 - title: Jaypro Multi-Sport Catalogue
   year: 2020
-  pdf: ''
+  pdf: "/2020-Multi-Sport-Catalog-1-8.pdf"
 - title: Jaypro Baseball / Softball
   year: 2020
   pdf: "/2020-BaseballSoftball.pdf"
