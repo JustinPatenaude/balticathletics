@@ -16,8 +16,11 @@ categories:
 - products/soccer.md
 title: Jaypro
 logo: "/jaypro-sports-logo.png"
-website: ''
+website: https://jayprosports.com/
 catalogues: []
 info: ''
+photos:
+- title: PVB-5500 Featherlite Volleyball Systems (2" Canadian)
+  photo: "/PVB-5500 Featherlite Volleyball System.jpg"
 
 ---
