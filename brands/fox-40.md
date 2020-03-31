@@ -2,9 +2,9 @@
 layout: brand
 permalink: "/brands/fox-40/"
 categories:
+- products/made-in-canada.md
 - products/coaching.md
 - products/first-aid.md
-- products/made-in-canada.md
 - products/marine-supplies.md
 - products/officials-equipment.md
 - products/safety.md
