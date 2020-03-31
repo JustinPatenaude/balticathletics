@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/brandwear/"
 categories:
+- products/made-in-canada.md
 - products/headwear.md
 - products/jackets.md
 - products/pants.md
