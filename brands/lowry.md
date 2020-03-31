@@ -2,10 +2,15 @@
 layout: brand
 permalink: "/brands/lowry-sports"
 categories:
+- products/bags-totes-duffels.md
 - products/made-in-canada.md
+- products/coaching.md
+- products/first-aid.md
 - products/floor-hockey.md
 - products/hockey.md
 - products/lacrosse.md
+- products/training-supplies.md
+- products/whistles.md
 title: Lowry Sports
 logo: "/lowry-logo.png"
 website: http://lowrysports.com/
