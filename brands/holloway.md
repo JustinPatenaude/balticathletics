@@ -7,6 +7,8 @@ logo: ''
 website: https://www.augustasportswear.com/SearchDisplayView?categoryId=&beginIndex=0&pageSize=20&searchTerm=holloway#facet=brand:Holloway
 catalogues: []
 photos:
+- title: 221040 Vertical Singlet
+  photo: "/221040 Vertical Singlet.jpg"
 - title: 222563 Converge Wicking Tee
   photo: "/222563 Converge Wicking Tee.jpg"
 - title: 222564 Converge Polo Shirt
