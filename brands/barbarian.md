@@ -2,11 +2,12 @@
 layout: brand
 permalink: "/brands/barbarian/"
 categories:
+- products/made-in-canada.md
 - products/jerseys.md
+- products/rugby.md
 - products/shorts.md
 - products/sublimation.md
 - products/sweaters.md
-- products/rugby.md
 title: Barbarian
 logo: "/barbarian-logo.png"
 website: ''
