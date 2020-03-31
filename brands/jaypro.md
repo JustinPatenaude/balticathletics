@@ -17,6 +17,9 @@ title: Jaypro
 logo: "/jaypro-sports-logo.png"
 website: https://jayprosports.com/
 catalogues:
+- title: Jaypro Gymnasium
+  year: 2020
+  pdf: "/2020-Lax-Field-Hockey.pdf"
 - title: Jaypro Lacrosse/Field Hockey
   year: 2020
 - title: Jaypro Multi-Sport Catalogue
