@@ -17,6 +17,8 @@ title: Jaypro
 logo: "/jaypro-sports-logo.png"
 website: https://jayprosports.com/
 catalogues:
+- title: Jaypro Baseball / Softball
+  year: 2020
 - title: Jaypro Basketball
   year: 2020
 - title: Jaypro Benches & Bleachers
