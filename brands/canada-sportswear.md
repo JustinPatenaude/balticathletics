@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/canada-sportswear/"
 categories:
+- products/made-in-canada.md
 - products/hoodies.md
 - products/jackets.md
 - products/shirts.md
