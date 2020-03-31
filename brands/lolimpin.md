@@ -21,6 +21,8 @@ catalogues:
   pdf: "/LolimpinCatalog.pdf"
 info: ''
 photos:
+- title: LO-B2 Gooseneck Basketball System
+  photo: "/lo-b2 gooseneck basketball.jpg"
 - title: LO-764SP Safety Pads for Referee Stand
   photo: "/LO-764SP safety pads for referee stand.jpg"
 - title: LO-764 Referee Stand
