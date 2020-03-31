@@ -21,6 +21,8 @@ catalogues:
   pdf: "/LolimpinCatalog.pdf"
 info: ''
 photos:
+- title: LO-F650 Gooseneck Football Goals
+  photo: "/LO-F650 gooseneck football goals.jpg"
 - title: LO-BC5 Rol-O-Bin Ball Cart
   photo: "/LO-BC5 rol-o-bin ball cart.png"
 - title: LO-B732 Badminton End Post
