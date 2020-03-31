@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/inaria/"
 categories:
+- products/made-in-canada.md
 - products/futsal.md
 - products/jackets.md
 - products/jerseys.md
