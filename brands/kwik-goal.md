@@ -60,6 +60,5 @@ photos:
   photo: "/2B71M Infinity Pop-Up Goal.jpg"
 - title: 10B3401 Kwik Goal Tamper-Resistant Net Clips (sold in packages of 100)
   photo: "/10B3401 net clips.jpg"
-published: false
 
 ---
