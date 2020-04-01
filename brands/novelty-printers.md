@@ -29,8 +29,8 @@ photos:
   photo: "/novelty-baseball package.jpg"
 - title: Golf balls
   photo: "/novelty-golf 1.jpg"
-- title: Skate mats
-  photo: "/novelty-mat.jpg"
+- title: Custom Home mats & Skate Mats
+  photo: "/2016-09-19 11.46.51.jpg"
 - title: Mini Banner
   photo: "/novelty-mini banner.jpg"
 - title: Nuckees Phone Grip
