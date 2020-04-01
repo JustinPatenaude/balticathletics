@@ -26,7 +26,7 @@ info: "**Novelty Printers** is a Winnipeg company supplying printed promotional 
 date: '2019-03-29T22:31:01.000+00:00'
 photos:
 - title: Golf balls
-  photo: "/novelty-golf.jpg"
+  photo: "/novelty-golf 1.jpg"
 - title: Skate mats
   photo: "/novelty-mat.jpg"
 - title: Mini Banner
