@@ -6,8 +6,11 @@ categories:
 - products/scoreboards.md
 title: OES Scoreboards
 logo: "/OES-Logo1.png"
-website: ''
-catalogues: []
+website: https://www.oes-scoreboards.com/
+catalogues:
+- title: Football Scoreboard Catalogue
+  year: 2019
+  pdf: "/OES_Football_Scoreboard_Cat.pdf"
 photos:
 - title: 10 Shotclock
   photo: "/SHOTS-10_lg-369x264.jpg"
