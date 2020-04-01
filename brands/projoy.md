@@ -19,7 +19,7 @@ photos:
   photo: "/HomeAndAway1.jpg"
 - title: Sublimated Bowling Shirts
   photo: "/Let's Roll.JPG"
-- title: Dart Hoodie
+- title: Sublimated Hoodies
   photo: "/Team Canada Dart Hoodie.jpg"
 - photo: "/eastman-heat-mock-final.png"
   title: Sublimated Ringette Jerseys
