@@ -25,7 +25,10 @@ categories:
 title: Primeline
 logo: "/primeline_logo.gif"
 website: https://primeline.com/categories
-catalogues: []
+catalogues:
+- title: Primeline New & Favorites Catalogue
+  year: 2020
+  pdf: ''
 photos:
 - title: TTC Tote
   photo: "/BG401_black-handle_TTC.jpg"
