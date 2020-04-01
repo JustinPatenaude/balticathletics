@@ -29,6 +29,8 @@ info: |-
   Link to [Omnikin Games Videos](https://www.omnikin.com/en/games)
 date: '2019-03-29T22:31:17.000+00:00'
 photos:
+- title: Compressor 4.5 HP
+  photo: "/omnikin compressor 4.5 hp.jpg"
 - title: KIN-BALL Official Rulebook
   photo: "/omnikin-manuel-officalrules_1.jpg"
 - title: Flip Scoreboard
