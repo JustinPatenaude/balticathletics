@@ -8,9 +8,12 @@ title: OES Scoreboards
 logo: "/OES-Logo1.png"
 website: https://www.oes-scoreboards.com/
 catalogues:
-- title: About OES Scoreboards
+- title: LED Video Expertise Matters
   year: 2019
   pdf: ''
+- title: About OES Scoreboards
+  year: 2019
+  pdf: "/OES_about oes scoreboards.pdf"
 - title: Baseball Scoreboard Catalogue
   year: 2019
   pdf: "/OES_Baseball_Scoreboard_Cat.pdf"
