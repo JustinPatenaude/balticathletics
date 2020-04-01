@@ -7,6 +7,8 @@ logo: "/NLlogo_header.jpg"
 website: https://www.alphabroder.ca/cgi-bin/online/webshr/search-result.w?ref=Mill_Name:Next%20Level
 catalogues: []
 photos:
+- title: "9600"
+  photo: "/9600_54_z.jpg"
 - title: N6021
   photo: "/n6021_a6_z.jpg"
 info: ''
