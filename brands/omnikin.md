@@ -1,8 +1,7 @@
 ---
 layout: brand
 permalink: "/brands/omnikin/"
-categories:
-- products/misc.md
+categories: []
 title: Omnikin
 logo: "/omnikin-logo.png"
 website: ''
