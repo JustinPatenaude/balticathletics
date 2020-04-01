@@ -14,5 +14,8 @@ logo: "/projoy-logo.png"
 website: ''
 catalogues: []
 info: ''
+photos:
+- photo: "/eastman-heat-mock-final.png"
+  title: Custom Sublimation Ringette Jerseys
 
 ---
