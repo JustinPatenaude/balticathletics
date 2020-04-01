@@ -4,6 +4,7 @@ permalink: "/brands/novelty-printers/"
 categories:
 - products/auto.md
 - products/banners.md
+- products/made-in-canada.md
 - products/custom-mats.md
 - products/drinkware.md
 - products/games.md
