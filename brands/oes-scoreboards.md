@@ -8,9 +8,12 @@ title: OES Scoreboards
 logo: "/OES-Logo1.png"
 website: https://www.oes-scoreboards.com/
 catalogues:
-- title: Baseball Scoreboard Catalogue
+- title: About OES Scoreboards
   year: 2019
   pdf: ''
+- title: Baseball Scoreboard Catalogue
+  year: 2019
+  pdf: "/OES_Baseball_Scoreboard_Cat.pdf"
 - title: Basketball Scoreboard Catalogue
   year: 2019
   pdf: "/OES_Basketball_Scoreboard_Cat.pdf"
