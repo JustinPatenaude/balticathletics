@@ -32,7 +32,7 @@ photos:
 - title: Custom Home mats & Skate Mats
   photo: "/2016-09-19 11.46.51.jpg"
 - title: Mini Banner
-  photo: "/novelty-mini banner.jpg"
+  photo: "/novelty-mini banner 1.jpg"
 - title: Mini Sticks
   photo: "/novelty-stick.jpg"
 - title: Baseball package
