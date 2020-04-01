@@ -7,6 +7,8 @@ logo: "/primeline_logo.gif"
 website: https://primeline.com/categories
 catalogues: []
 photos:
+- title: TTC Tote
+  photo: "/TTC-bag.jpg"
 - title: NB100 Notebook & Pen
   photo: "/TTC-notebook.jpg"
 - title: MG971 Waterbottle
