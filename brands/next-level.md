@@ -1,7 +1,11 @@
 ---
 layout: brand
 permalink: "/brands/next-level-apparel"
-categories: []
+categories:
+- products/hoodies.md
+- products/jackets.md
+- products/shirts.md
+- products/sweaters.md
 title: Next Level Apparel
 logo: "/NLlogo_header.jpg"
 website: https://www.alphabroder.ca/cgi-bin/online/webshr/search-result.w?ref=Mill_Name:Next%20Level
