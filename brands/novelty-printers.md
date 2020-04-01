@@ -25,6 +25,8 @@ info: "**Novelty Printers** is a Winnipeg company supplying printed promotional 
   specializing in golf balls, hockey pucks, skate mats and more!"
 date: '2019-03-29T22:31:01.000+00:00'
 photos:
+- title: Baseball package
+  photo: "/novelty-baseball package.jpg"
 - title: Golf balls
   photo: "/novelty-golf 1.jpg"
 - title: Skate mats
