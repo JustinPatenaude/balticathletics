@@ -10,7 +10,7 @@ website: https://www.oes-scoreboards.com/
 catalogues:
 - title: OES Product Catalogue
   year: 2019
-  pdf: ''
+  pdf: "/SB_CAT2013_final_lores.pdf"
 - title: About OES Scoreboards
   year: 2019
   pdf: "/OES_about oes scoreboards.pdf"
