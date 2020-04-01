@@ -15,6 +15,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: Bowling Shirts
+  photo: "/Let's Roll.JPG"
 - title: Dart Hoodie
   photo: "/Team Canada Dart Hoodie.jpg"
 - photo: "/eastman-heat-mock-final.png"
