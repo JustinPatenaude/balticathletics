@@ -5,7 +5,10 @@ categories: []
 title: Next Level Apparel
 logo: "/NLlogo_header.jpg"
 website: https://www.alphabroder.ca/cgi-bin/online/webshr/search-result.w?ref=Mill_Name:Next%20Level
-catalogues: []
+catalogues:
+- title: Next Level Apparel Sizing Guide
+  year: 2019
+  pdf: "/2019-NLCatalog-Specs.pdf"
 photos:
 - title: "6010"
   photo: "/6010_a9_z.jpg"
