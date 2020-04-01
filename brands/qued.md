@@ -13,6 +13,8 @@ logo: "/Qued Logo1.PNG"
 website: http://www.quedbrand.com/
 catalogues: []
 photos:
+- title: Netting
+  photo: ''
 - title: Divider
   photo: "/Divider.jpg"
 - title: Proudly Canadian
