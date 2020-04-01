@@ -29,6 +29,8 @@ info: |-
   Link to [Omnikin Games Videos](https://www.omnikin.com/en/games)
 date: '2019-03-29T22:31:17.000+00:00'
 photos:
+- title: Volleyball 16 inch
+  photo: "/omnikin-volleyball 16 in.jpg"
 - title: Super Balls
   photo: "/omnikin-super footballs.jpg"
 - title: Omnikin-Six Balls
