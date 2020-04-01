@@ -16,7 +16,7 @@ catalogues: []
 photos:
 - title: 5887 Full Zip Hooded Fleece Sweatshirt
   photo: "/5887 Fleece Full Zip Sweatshirt.jpg"
-- title: Silicon Cap
+- title: 3587 Silicon Cap
   photo: "/3587 Silicon Cap.jpg"
 - title: Enduro Backpack
   photo: "/70587 22L Enduro Backpack.jpg"
