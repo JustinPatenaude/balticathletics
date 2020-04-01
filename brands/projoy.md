@@ -18,7 +18,8 @@ catalogues: []
 info: "**Projoy** was founded in 1985 by former mayor of Guelph, David E. Hastings.
   \ They started doing sublimation in 1993.  Projoy has done warm up suits for Canadian
   Olympic athletes, hockey jerseys worn by many American Hockey League teams, Pro
-  lacrosse jerseys in the NLL. \n\n***\n\nLink to [Projoy Sizing Charts](http://www.projoy.com/size-charts-for-all-products/)"
+  lacrosse jerseys in the National Lacrosse League. \n\n***\n\nLink to [Projoy Sizing
+  Charts](http://www.projoy.com/size-charts-for-all-products/)"
 photos:
 - photo: "/eastman-heat-mock-final.png"
   title: Sublimated Ringette Jerseys
