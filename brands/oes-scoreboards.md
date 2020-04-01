@@ -9,6 +9,8 @@ logo: "/OES-Logo1.png"
 website: ''
 catalogues: []
 photos:
+- title: 10 Shotclock
+  photo: "/SHOTS-10_lg-369x264.jpg"
 - title: 5200 Basketball Scoreboard
   photo: "/5200_lg-499x264.jpg"
 - title: 5210 Basketball Scoreboard
