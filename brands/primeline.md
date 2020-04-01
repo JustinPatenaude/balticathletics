@@ -36,7 +36,7 @@ photos:
 - title: MG851 Shaker Bottle
   photo: "/MG851_ab-prime_item_17.jpg"
 info: |-
-  **Primeline** is a division of Alphabroder. This is one of my "go-to" places for novelty items. HUGE inventory of items. Easy to jump down this rabbit hole and get lost...but so much fun!!
+  **Primeline** is one of my "go-to" places for novelty items. HUGE inventory of items. Easy to jump down this rabbit hole and get lost...but so much fun!! ;)
 
   ***
 
