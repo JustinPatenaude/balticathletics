@@ -15,6 +15,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: Sublimated Hockey Jerseys
+  photo: "/HomeAndAway1.jpg"
 - title: Sublimated Bowling Shirts
   photo: "/Let's Roll.JPG"
 - title: Dart Hoodie
