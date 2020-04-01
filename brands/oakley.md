@@ -18,7 +18,7 @@ photos:
   photo: "/5887 Fleece Full Zip Sweatshirt.jpg"
 - title: 3587 Silicon Cap
   photo: "/3587 Silicon Cap.jpg"
-- title: Enduro Backpack
+- title: 70587 Enduro Backpack
   photo: "/70587 22L Enduro Backpack.jpg"
 info: Oakley starting in 1975 and was named after the founder's dog. They started
   off selling motorcycle grips, then moved into motocycle googles, ski googles, sunglasses
