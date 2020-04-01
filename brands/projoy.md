@@ -15,13 +15,15 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: Sublimated Dart Shirts
+  photo: "/True North.JPG"
 - title: Sublimated Hockey Jerseys
   photo: "/HomeAndAway1.jpg"
+- photo: "/eastman-heat-mock-final.png"
+  title: Sublimated Ringette Jerseys
 - title: Sublimated Bowling Shirts
   photo: "/Let's Roll.JPG"
 - title: Sublimated Hoodies
   photo: "/Team Canada Dart Hoodie.jpg"
-- photo: "/eastman-heat-mock-final.png"
-  title: Sublimated Ringette Jerseys
 
 ---
