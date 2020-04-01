@@ -29,6 +29,8 @@ info: |-
   Link to [Omnikin Games Videos](https://www.omnikin.com/en/games)
 date: '2019-03-29T22:31:17.000+00:00'
 photos:
+- title: KIN-Ball 48 inch
+  photo: "/omnikin kin ball 48 in.jpg"
 - title: Compressor 4.5 HP
   photo: "/omnikin compressor 4.5 hp.jpg"
 - title: KIN-BALL Official Rulebook
