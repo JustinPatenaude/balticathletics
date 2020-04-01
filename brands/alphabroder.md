@@ -13,13 +13,10 @@ title: Alphabroder
 logo: "/alphabroder-big.jpg"
 website: www.yourapparel.ca/balticathletics
 catalogues:
-- title: Alphabroder Canada Catalogue
-  year: 2019
-  pdf: ''
 - title: Alphabroder Fall Essential Apparel Catalogue
   year: 2019
   pdf: "/Fall 2019 Alphabroder Essential Apparel.pdf"
 photos: []
-info: ''
+info: Link to [Alphabroder Canada Catalogue](https://viewer.zoomcatalog.com/alphabroder-2019-canada)
 
 ---
