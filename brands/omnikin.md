@@ -29,6 +29,8 @@ info: |-
   Link to [Omnikin Games Videos](https://www.omnikin.com/en/games)
 date: '2019-03-29T22:31:17.000+00:00'
 photos:
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 - title: Flip Scoreboard
   photo: "/omnikin-flip scoreboard.jpg"
 - title: Latex Bladders
