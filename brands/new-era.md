@@ -7,6 +7,8 @@ logo: "/New_Era_logo.svg.png"
 website: http://www.imprintableclothes.com/balticathletics/start.jsp
 catalogues: []
 photos:
+- title: NE200 Adjustable Structured Cap_scarlet
+  photo: "/NE200 Adjustable Structured Cap_scarlet.jpg"
 - title: NE406 NE Perforated Performance Cap_graphite
   photo: "/NE406 NE Perforated Performance Cap_graphite.jpg"
 - title: NE1000 Structured Stretch Cotton Cap_darkgreen
