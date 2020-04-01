@@ -14,7 +14,7 @@ logo: "/1200px-Oakley_logo.svg.png"
 website: https://en-ca.sportswearcollection.com/ps/oakley?site=CRGHPGYDZS
 catalogues: []
 photos:
-- title: Full Zip Hooded Fleece Sweatshirt 5887
+- title: 5887 Full Zip Hooded Fleece Sweatshirt
   photo: "/5887 Fleece Full Zip Sweatshirt.jpg"
 - title: Silicon Cap
   photo: "/3587 Silicon Cap.jpg"
