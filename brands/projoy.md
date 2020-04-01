@@ -15,14 +15,16 @@ website: ''
 catalogues: []
 info: ''
 photos:
-- title: Sublimated Dart Shirts
-  photo: "/True North.JPG"
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 - title: Sublimated Hockey Jerseys
   photo: "/HomeAndAway1.jpg"
 - photo: "/eastman-heat-mock-final.png"
   title: Sublimated Ringette Jerseys
 - title: Sublimated Bowling Shirts
   photo: "/Let's Roll.JPG"
+- title: Sublimated Dart Shirts
+  photo: "/True North.JPG"
 - title: Sublimated Hoodies
   photo: "/Team Canada Dart Hoodie.jpg"
 
