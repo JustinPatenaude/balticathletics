@@ -14,6 +14,8 @@ logo: "/1200px-Oakley_logo.svg.png"
 website: https://en-ca.sportswearcollection.com/ps/oakley?site=CRGHPGYDZS
 catalogues: []
 photos:
+- title: 2287 O-Hydrolix All In Performance Crewneck Tee
+  photo: "/2287 O-Hydrolix All In Performance Crewneck T-shirt.jpg"
 - title: 5887 Full Zip Hooded Fleece Sweatshirt
   photo: "/5887 Fleece Full Zip Sweatshirt.jpg"
 - title: 3587 Silicon Cap
