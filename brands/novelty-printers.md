@@ -22,9 +22,11 @@ logo: "/novelty-logo.png"
 website: https://www.noveltyprinters.com/
 pdfs: []
 info: "**Novelty Printers** is a Winnipeg company supplying printed promotional products,
-  especially custom pucks and mats."
+  specializing in golf balls, hockey pucks, skate mats and more!"
 date: '2019-03-29T22:31:01.000+00:00'
 photos:
+- title: Xpand and Stand Phone Grip
+  photo: "/novelty-xpand and stand phone grip.jpg"
 - title: Made in Canada
   photo: "/made_in_canada.jpg"
 
