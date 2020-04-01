@@ -13,7 +13,9 @@ title: Oakley
 logo: "/1200px-Oakley_logo.svg.png"
 website: https://en-ca.sportswearcollection.com/ps/oakley?site=CRGHPGYDZS
 catalogues: []
-photos: []
+photos:
+- title: Enduro Backpack
+  photo: "/70587 22L Enduro Backpack.jpg"
 info: Oakley starting in 1975 and was named after the founder's dog. They started
   off selling motorcycle grips, then moved into motocycle googles, ski googles, sunglasses
   then eventually moving into apparel.
