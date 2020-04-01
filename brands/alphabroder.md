@@ -15,7 +15,7 @@ website: www.yourapparel.ca/balticathletics
 catalogues:
 - title: Alphabroder Fall Essential Apparel Catalogue
   year: 2019
-  pdf: "/Fall 2019 Alphabroder Essential Apparel.pdf"
+  pdf: "/Alphabroder2019Canada.pdf"
 photos: []
 info: Link to [Alphabroder Canada Catalogue](https://viewer.zoomcatalog.com/alphabroder-2019-canada)
 
