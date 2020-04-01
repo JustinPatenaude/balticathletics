@@ -19,7 +19,7 @@ categories:
 - products/towels.md
 title: Novelty Printers
 logo: "/novelty-logo.png"
-website: https://www.noveltyprinters.com/
+website: ''
 pdfs: []
 info: "**Novelty Printers** is a Winnipeg company supplying printed promotional products,
   specializing in golf balls, hockey pucks, skate mats and more!"
@@ -47,5 +47,9 @@ photos:
   photo: "/novelty-webcam cover.jpg"
 - title: Made in Canada
   photo: "/made_in_canada.jpg"
+catalogues:
+- title: Novelty Catalogue
+  year: 2020
+  pdf: "/novelty-printers-2020-catalogue-1.pdf"
 
 ---
