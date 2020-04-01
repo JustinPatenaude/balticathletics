@@ -9,6 +9,8 @@ logo: "/OES-Logo1.png"
 website: ''
 catalogues: []
 photos:
+- title: Basketball Scoreboard
+  photo: "/5210_lg-330x264.jpg"
 - title: 6200 Hockey Scoreboard
   photo: "/6200_lg-330x264.jpg"
 info: |-
