@@ -5,6 +5,7 @@ categories:
 - products/made-in-canada.md
 - products/dividers.md
 - products/nets.md
+- products/pe-equipment.md
 - products/custom-mats.md
 - products/safety.md
 - products/wall-pads.md
@@ -13,10 +14,10 @@ logo: "/Qued Logo1.PNG"
 website: http://www.quedbrand.com/
 catalogues: []
 photos:
-- title: Netting
-  photo: ''
 - title: Divider
   photo: "/Divider.jpg"
+- title: Netting
+  photo: "/Netting.jpg"
 - title: Proudly Canadian
   photo: "/proudly canadian.jpg"
 info: |-
