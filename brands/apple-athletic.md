@@ -12,10 +12,6 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
-- title: Rock Wall Protective Padding down
-  photo: "/25529856_1748439068784242_1342054379_n.jpg"
-- title: Rock Wall Protective Padding
-  photo: "/25520133_1748438988784250_554144397_n.jpg"
 - title: Custom Permanent Wall Padding - Amber Trailblazers
   photo: "/20151221_162831.jpg"
 - title: Custom Permanent Wall Pads - Crusaders
@@ -36,6 +32,10 @@ photos:
   photo: "/2017-09-27 11.21.36.jpg"
 - title: Custom Padded Scoretable - Flames
   photo: "/2018-01-16 11.22.35.jpg"
+- title: Rock Wall Protective Padding
+  photo: "/25520133_1748438988784250_554144397_n.jpg"
+- title: Rock Wall Protective Padding down
+  photo: "/25529856_1748439068784242_1342054379_n.jpg"
 - title: Removable Wall Padding
   photo: "/2-protective-padding-removable-wall-padding.jpg"
 - title: Resting Exercise Mats
