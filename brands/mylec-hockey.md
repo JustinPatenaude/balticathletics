@@ -7,7 +7,9 @@ title: Mylec Hockey
 logo: "/mylec-text-k.svg"
 website: ''
 catalogues: []
-photos: []
+photos:
+- title: mk3-chest-protector
+  photo: "/mk3-chest-protector-.jpg"
 info: ''
 
 ---
