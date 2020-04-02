@@ -9,6 +9,8 @@ logo: "/mylec-text-k.svg"
 website: ''
 catalogues: []
 photos:
+- title: original-no-bounce-ball-orange
+  photo: "/original-no-bounce-ball-orange.jpg"
 - title: mk3-goalie-box-set
   photo: "/mk3-goalie-box-set.jpg"
 - title: mk3-ultra-pro-ii-goalie-mask
