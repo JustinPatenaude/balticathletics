@@ -12,6 +12,8 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
+- title: Rock Wall Protective Padding
+  photo: "/25520133_1748438988784250_554144397_n.jpg"
 - title: Custom Permanent Wall Padding - Amber Trailblazers
   photo: "/20151221_162831.jpg"
 - title: Custom Permanent Wall Pads - Crusaders
