@@ -12,12 +12,12 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
-- title: Custom Permanent Pads - Pirates
-  photo: "/2017-11-24 18.00.40.jpg"
-- title: Custom Permanent Pads - Thunder
-  photo: "/20150225_141658.jpg"
+- title: Custom Permanent Wall Padding - Amber Trailblazers
+  photo: "/20151221_162831.jpg"
 - title: Custom Permanent Wall Pads - Crusaders
   photo: "/2017-05-18 19.01.05.jpg"
+- title: Custom Permanent Pads - Pirates
+  photo: "/2017-11-24 18.00.40.jpg"
 - title: Custom Permanent Wall Pads - Grizzlies
   photo: "/glenwood-final-product-01.jpg"
 - title: Custom Permanent Wall pads with a door and cutouts - Grizzlies
