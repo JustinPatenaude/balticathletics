@@ -7,6 +7,8 @@ logo: "/logo.PNG"
 website: ''
 catalogues: []
 photos:
+- title: Road Warrior Cobalt Goalie Blocker
+  photo: "/Road Warrior Cobalt Goalie Blocker.PNG"
 - title: Road Warrior Chest Goalie Protector
   photo: "/Road Warrior Chest Goalie Protector.PNG"
 info: 'Road Warrior is Canada''s oldest Street Hockey brand. Nothing is more '
