@@ -7,6 +7,8 @@ logo: "/Camo_Realtree-Xtra logo.jpg"
 website: ''
 catalogues: []
 photos:
+- title: Y2034 Performance Fleece Hooded Camo Sweatshirt - Youth
+  photo: ''
 - title: L2051 Performance Fleece Two Tone Hooded Sweatshirt - Ladies
   photo: "/l2051_realtreextra_modl_studio-2019.jpg"
 - title: S3548 Performance Short Sleeve Camo Tee - Adult
