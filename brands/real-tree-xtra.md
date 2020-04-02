@@ -1,7 +1,10 @@
 ---
 layout: brand
 permalink: "/brands/real-tree-xtra"
-categories: []
+categories:
+- products/headwear.md
+- products/hoodies.md
+- products/shirts.md
 title: Real Tree Xtra
 logo: "/Camo_Realtree-Xtra logo.jpg"
 website: ''
