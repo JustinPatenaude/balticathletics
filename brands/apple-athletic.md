@@ -12,12 +12,12 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
+- title: Custom Permanent Wall Pads - Crusaders
+  photo: "/2017-05-18 19.01.05.jpg"
 - title: Custom Permanent Wall Pads
   photo: "/glenwood-final-product-01.jpg"
 - title: Custom Permanent Wall pads with a door and cutouts
   photo: "/glenwood-final-product-02.jpg"
-- title: Custom Permanent Wall Pads - Crusaders
-  photo: "/2017-05-18 19.01.05.jpg"
 - title: Custom Post Padding
   photo: "/2017-10-06 21.47.06.jpg"
 - title: Custom Door Padding
