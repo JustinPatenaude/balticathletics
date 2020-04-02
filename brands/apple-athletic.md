@@ -12,6 +12,8 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
+- title: Removable Wall Padding
+  photo: "/2-protective-padding-removable-wall-padding.jpg"
 - title: Resting Exercise Mats
   photo: "/1-matting-slab-mats-resting-mats-exercise-mats-LABEL-1-Resting-Mats-2.jpg"
 - title: Standard Training Pit
