@@ -8,6 +8,8 @@ logo: "/mylec-text-k.svg"
 website: ''
 catalogues: []
 photos:
+- title: mk3-goalie-pads
+  photo: "/mk3-goalie-pads.jpg"
 - title: mk3-goalie-glove
   photo: "/mk3-goalie-glove.jpg"
 - title: mk3-goalie-box-set
