@@ -7,6 +7,8 @@ logo: "/logo.PNG"
 website: ''
 catalogues: []
 photos:
+- title: Road Warrior Cobalt Goalie Trapper
+  photo: "/Road Warrior Cobalt Goalie Trapper.PNG"
 - title: Road Warrior Cobalt Goalie Pads
   photo: "/Road Warrior Cobalt Goalie Pads.PNG"
 - title: Road Warrior Cobalt Goalie Blocker
