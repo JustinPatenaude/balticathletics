@@ -12,6 +12,8 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
+- title: Custom Scoretable
+  photo: ''
 - title: Custom Permanent Pads
   photo: "/2017-11-24 18.00.40.jpg"
 - title: Custom Permanent Pads
