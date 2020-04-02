@@ -11,6 +11,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:33:17.000+00:00'
 photos:
+- title: Aero Floorball - White
+  photo: "/Aero Floorball - White.PNG"
 - title: Campus Aero 32 Stick
   photo: "/Campus Aero 32 Stick.PNG"
 - title: Campus floorball kit
