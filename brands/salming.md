@@ -16,6 +16,8 @@ info: Founded in Gothenburg Sweden, by NHL Hall of Famer, Borje Salming; **Salmi
   as one of the Europe’s most recognizable brands.
 date: '2019-03-29T22:33:17.000+00:00'
 photos:
+- title: Aero Ponte Squash Racquet
+  photo: "/Aero Ponte Squash Racquet.PNG"
 - title: Campus floorball kit
   photo: "/Campus floorball kit.jpg"
 - title: Campus Aero 32 Stick
