@@ -12,6 +12,8 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
+- title: Custom Stage Padding
+  photo: ''
 - title: Custom Permanent Wall Pads - Crusaders
   photo: "/2017-05-18 19.01.05.jpg"
 - title: Removable Wall Padding
