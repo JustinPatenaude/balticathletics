@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/boxercraft"
 categories:
+- products/camouflage.md
 - products/hoodies.md
 - products/jackets.md
 - products/pants.md
