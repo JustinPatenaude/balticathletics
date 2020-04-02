@@ -7,26 +7,26 @@ logo: "/logo.PNG"
 website: ''
 catalogues: []
 photos:
-- title: Road Warrior PTG+ Goalie Mask
-  photo: "/Road Warrior PTG  Goalie Mask.PNG"
-- title: Road Warrior PTG+ Elite Goalie Trapper
-  photo: "/Road Warrior PTG  Elite Goalie Trapper.PNG"
 - title: Road Warrior PTG+ Elite Goalie Pads
   photo: "/Road Warrior PTG  Elite Goalie Pads.PNG"
+- title: Road Warrior PTG+ Elite Goalie Trapper
+  photo: "/Road Warrior PTG  Elite Goalie Trapper.PNG"
 - title: Road Warrior PTG+ Elite Goalie Blocker
   photo: "/Road Warrior PTG  Elite Goalie Blocker.PNG"
-- title: Road Warrior Goalie Chest Protector
-  photo: "/Road Warrior Goalie Chest Protector.PNG"
 - title: Road Warrior Deluxe MicroFibre Goalie Chest Protector
   photo: "/Road Warrior Deluxe MicroFibre Goalie Chest Protector.PNG"
-- title: Road Warrior Cobalt Goalie Trapper
-  photo: "/Road Warrior Cobalt Goalie Trapper.PNG"
+- title: Road Warrior PTG+ Goalie Mask
+  photo: "/Road Warrior PTG  Goalie Mask.PNG"
 - title: Road Warrior Cobalt Goalie Pads
   photo: "/Road Warrior Cobalt Goalie Pads.PNG"
+- title: Road Warrior Cobalt Goalie Trapper
+  photo: "/Road Warrior Cobalt Goalie Trapper.PNG"
 - title: Road Warrior Cobalt Goalie Blocker
   photo: "/Road Warrior Cobalt Goalie Blocker.PNG"
 - title: Road Warrior Goalie Chest Protector
   photo: "/Road Warrior Chest Goalie Protector.PNG"
+- title: Road Warrior Goalie Chest Protector
+  photo: "/Road Warrior Goalie Chest Protector.PNG"
 info: 'Road Warrior is Canada''s oldest Street Hockey brand. Nothing is more '
 
 ---
