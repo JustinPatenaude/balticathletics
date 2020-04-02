@@ -8,7 +8,7 @@ categories:
 - products/shirts.md
 title: Real Tree Xtra
 logo: "/Camo_Realtree-Xtra logo1.jpg"
-website: ''
+website: https://www.sanmarcanada.com/shop-catalogue/shop-by-brand/realtree-174.html
 catalogues: []
 photos:
 - title: F2034 Performance Fleece Hooded Camo Sweatshirt - Adult
