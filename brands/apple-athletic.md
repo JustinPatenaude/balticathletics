@@ -13,9 +13,9 @@ website: https://appleathletic.com/
 catalogues: []
 photos:
 - title: 'Custom Padded Scoretable '
-  photo: "/2017-09-25 14.02.14.jpg"
+  photo: "/2018-01-16 11.22.35.jpg"
 - title: Custom Stage Padding
-  photo: ''
+  photo: "/2017-09-25 14.02.14.jpg"
 - title: Custom Permanent Wall Pads - Crusaders
   photo: "/2017-05-18 19.01.05.jpg"
 - title: Removable Wall Padding
