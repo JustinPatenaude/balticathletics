@@ -12,6 +12,8 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
+- title: Standard Training Pit
+  photo: "/1-gymnastics-standard-training-pit.jpg"
 - title: Custom Post Padding
   photo: "/1-football-custom-post-padding-1.jpg"
 - title: Corner Puzzle Pyramid
