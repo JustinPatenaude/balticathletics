@@ -1,7 +1,7 @@
 ---
 layout: product
 permalink: "/products/floor-hockey/"
-title: Floor Hockey
+title: Ball Floor or Street Hockey
 products:
 - Goalie Equipment
 - Eye Guards
