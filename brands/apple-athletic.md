@@ -12,6 +12,8 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
+- title: Resting Exercise Mats
+  photo: "/1-matting-slab-mats-resting-mats-exercise-mats-LABEL-1-Resting-Mats-2.jpg"
 - title: Standard Training Pit
   photo: "/1-gymnastics-standard-training-pit.jpg"
 - title: Custom Post Padding
