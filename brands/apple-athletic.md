@@ -12,6 +12,8 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
+- title: 'Custom Padded Scoretable '
+  photo: "/2017-09-25 14.02.14.jpg"
 - title: Custom Stage Padding
   photo: ''
 - title: Custom Permanent Wall Pads - Crusaders
