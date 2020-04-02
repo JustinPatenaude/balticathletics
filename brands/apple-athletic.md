@@ -26,7 +26,7 @@ photos:
   photo: "/2017-10-06 21.47.06.jpg"
 - title: Custom Door Padding
   photo: "/20150227_161213.jpg"
-- title: Custom Stage Padding
+- title: Custom Stage Padding - Stars
   photo: "/2017-09-25 14.02.14.jpg"
 - title: Custom Scoretable
   photo: "/2017-09-27 11.21.36.jpg"
