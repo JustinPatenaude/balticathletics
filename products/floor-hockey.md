@@ -1,7 +1,7 @@
 ---
 layout: product
-permalink: "/products/ball,-floor-or-street-hockey/"
-title: Ball, Floor or Street Hockey
+permalink: "/products/floor-hockey/"
+title: Floor Hockey
 products: []
 photos: []
 suppliers: []
