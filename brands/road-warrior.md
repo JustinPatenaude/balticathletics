@@ -7,6 +7,8 @@ logo: "/logo.PNG"
 website: ''
 catalogues: []
 photos:
+- title: Road Warrior PTG+ Goalie Mask
+  photo: "/Road Warrior PTG  Goalie Mask.PNG"
 - title: Road Warrior PTG+ Elite Goalie Trapper
   photo: "/Road Warrior PTG  Elite Goalie Trapper.PNG"
 - title: Road Warrior PTG+ Elite Goalie Pads
