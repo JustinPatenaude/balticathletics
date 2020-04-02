@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/soft-stuff-creations"
+permalink: "/brands/soft-stuff-creations/"
 categories:
 - products/made-in-canada.md
 - products/golf.md
@@ -51,6 +51,6 @@ info: |-
 
   Soft Stuff has good pricing for CUSTOM plush toys with a 1200 minimum. Custom orders have the option to pay for a "sample" to see before producing the 1199 others! :)
 
-  They also have some stock plush toys with lower minimums. Most of the photos shown are from the stock plush toys selection.
+  They also have some stock plush toys with lower minimums. Most of the photos shown are from the stock plush toys.
 
 ---
