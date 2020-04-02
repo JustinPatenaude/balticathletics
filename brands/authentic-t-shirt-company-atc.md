@@ -4,6 +4,7 @@ permalink: "/brands/atc-sanmar"
 categories:
 - products/badminton.md
 - products/bags-totes-duffels.md
+- products/camouflage.md
 - products/golf.md
 - products/headwear.md
 - products/hoodies.md
