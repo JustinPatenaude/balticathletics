@@ -12,7 +12,7 @@ categories:
 - products/shorts.md
 - products/sweaters.md
 title: SanMar Canada
-logo: "/Sanmar Canada logo.jpg"
+logo: "/Sanmarcanada.png"
 website: http://www.imprintableclothes.com/balticathletics/start.jsp
 catalogues: []
 photos:
