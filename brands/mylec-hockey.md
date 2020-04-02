@@ -11,8 +11,6 @@ catalogues: []
 photos:
 - title: original-no-bounce-ball-orange
   photo: "/original-no-bounce-ball-orange.jpg"
-- title: mk3-goalie-box-set
-  photo: "/mk3-goalie-box-set.jpg"
 - title: mk3-ultra-pro-ii-goalie-mask
   photo: "/mk3-ultra-pro-ii-goalie-mask.jpg"
 - title: mk3-chest-protector
@@ -23,6 +21,8 @@ photos:
   photo: "/mk3-goalie-glove.jpg"
 - title: mk3-goalie-blocker
   photo: "/mk3-goalie-blocker-.jpg"
+- title: mk3-goalie-box-set
+  photo: "/mk3-goalie-box-set.jpg"
 info: "**Mylec Hockey** has been a leading innovator and manufacturer of street hockey
   equipment since 1970 when it was founded in Winchendon, Massachusetts. In 1972 Ray
   Leclerc developed the first Orange “no bounce” street hockey ball, that allowed
