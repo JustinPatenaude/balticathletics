@@ -12,6 +12,8 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
+- title: Custom Permanent Wall pads with a door and cutouts
+  photo: "/glenwood-final-product-02.jpg"
 - title: Custom Permanent Wall Pads
   photo: "/glenwood-final-product-01.jpg"
 - title: 'Custom Padded Scoretable '
