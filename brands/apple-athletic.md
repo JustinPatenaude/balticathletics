@@ -30,7 +30,7 @@ photos:
   photo: "/2017-09-25 14.02.14.jpg"
 - title: Custom Scoretable - Crusaders
   photo: "/2017-09-27 11.21.36.jpg"
-- title: 'Custom Padded Scoretable '
+- title: Custom Padded Scoretable - Flames
   photo: "/2018-01-16 11.22.35.jpg"
 - title: Removable Wall Padding
   photo: "/2-protective-padding-removable-wall-padding.jpg"
