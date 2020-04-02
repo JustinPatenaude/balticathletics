@@ -9,6 +9,8 @@ logo: "/RICHARDSON_LOGO.jpg"
 website: https://en-ca.ssactivewear.com/ps/richardson
 catalogues: []
 photos:
+- title: "6367"
+  photo: "/6367_fl.jpg"
 - title: "5905"
   photo: "/5905_fl.jpg"
 - title: "6423"
