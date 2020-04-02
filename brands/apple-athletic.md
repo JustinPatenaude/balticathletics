@@ -12,6 +12,8 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
+- title: Exercise mats
+  photo: "/2019.04.01 Polyurethane exercise mats.gif"
 - title: Made in Canada
   photo: "/made_in_canada.jpg"
 info: "**Apple Athletic** is a family owned and operated business in Orillia, Ontario.
