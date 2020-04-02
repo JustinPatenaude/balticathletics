@@ -20,7 +20,7 @@ photos:
   photo: "/2017-05-18 19.01.05.jpg"
 - title: Custom Permanent Wall Pads - Grizzlies
   photo: "/glenwood-final-product-01.jpg"
-- title: Custom Permanent Wall pads with a door and cutouts
+- title: Custom Permanent Wall pads with a door and cutouts - Grizzlies
   photo: "/glenwood-final-product-02.jpg"
 - title: Custom Post Padding
   photo: "/2017-10-06 21.47.06.jpg"
