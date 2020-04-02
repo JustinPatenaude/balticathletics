@@ -11,6 +11,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:33:17.000+00:00'
 photos:
+- title: Hockey Canada Stick Toolbag
+  photo: "/Hockey Canada Stick Toolbag.PNG"
 - title: X3M Campus 900 Goal Cage
   photo: "/X3M Campus 900 Goal Cage.PNG"
 
