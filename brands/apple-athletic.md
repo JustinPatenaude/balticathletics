@@ -12,6 +12,8 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
+- title: Custom Door Padding
+  photo: "/20150227_161213.jpg"
 - title: Custom Post Padding
   photo: "/2017-10-06 21.47.06.jpg"
 - title: Custom Permanent Wall pads with a door and cutouts
