@@ -1,7 +1,9 @@
 ---
 layout: brand
 permalink: "/brands/road-warrior"
-categories: []
+categories:
+- products/made-in-canada.md
+- products/floor-hockey.md
 title: Road Warrior
 logo: "/logo.PNG"
 website: ''
