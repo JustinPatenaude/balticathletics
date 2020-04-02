@@ -18,7 +18,7 @@ photos:
   photo: "/20150225_141658.jpg"
 - title: Custom Permanent Wall Pads - Crusaders
   photo: "/2017-05-18 19.01.05.jpg"
-- title: Custom Permanent Wall Pads
+- title: Custom Permanent Wall Pads - Grizzlies
   photo: "/glenwood-final-product-01.jpg"
 - title: Custom Permanent Wall pads with a door and cutouts
   photo: "/glenwood-final-product-02.jpg"
