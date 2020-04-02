@@ -12,20 +12,20 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
-- title: Custom Door Padding
-  photo: "/20150227_161213.jpg"
-- title: Custom Post Padding
-  photo: "/2017-10-06 21.47.06.jpg"
-- title: Custom Permanent Wall pads with a door and cutouts
-  photo: "/glenwood-final-product-02.jpg"
 - title: Custom Permanent Wall Pads
   photo: "/glenwood-final-product-01.jpg"
-- title: 'Custom Padded Scoretable '
-  photo: "/2018-01-16 11.22.35.jpg"
-- title: Custom Stage Padding
-  photo: "/2017-09-25 14.02.14.jpg"
+- title: Custom Permanent Wall pads with a door and cutouts
+  photo: "/glenwood-final-product-02.jpg"
 - title: Custom Permanent Wall Pads - Crusaders
   photo: "/2017-05-18 19.01.05.jpg"
+- title: Custom Post Padding
+  photo: "/2017-10-06 21.47.06.jpg"
+- title: Custom Door Padding
+  photo: "/20150227_161213.jpg"
+- title: Custom Stage Padding
+  photo: "/2017-09-25 14.02.14.jpg"
+- title: 'Custom Padded Scoretable '
+  photo: "/2018-01-16 11.22.35.jpg"
 - title: Removable Wall Padding
   photo: "/2-protective-padding-removable-wall-padding.jpg"
 - title: Resting Exercise Mats
