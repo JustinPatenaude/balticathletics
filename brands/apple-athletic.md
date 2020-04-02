@@ -12,6 +12,8 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
+- title: High Jump Pit
+  photo: "/High Jump Pit.jpg"
 - title: Floater Mats
   photo: "/Floater Mat 01.png"
 - title: Exercise mats
