@@ -12,8 +12,6 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
-- title: Custom Stage Pads
-  photo: "/2019-06-03 16.28.29.jpg"
 - title: Custom Door and Wall with cutouts
   photo: "/2019-03-21 17.17.29.jpg"
 - title: Custom Permanent Wall Padding - Amber Trailblazers
@@ -30,6 +28,8 @@ photos:
   photo: "/2017-10-06 21.47.06.jpg"
 - title: Custom Door Padding
   photo: "/20150227_161213.jpg"
+- title: Custom Stage Pads - stick people
+  photo: "/2019-06-03 16.28.29.jpg"
 - title: Custom Stage Padding - Stars
   photo: "/2017-09-25 14.02.14.jpg"
 - title: Custom Scoretable - Crusaders
