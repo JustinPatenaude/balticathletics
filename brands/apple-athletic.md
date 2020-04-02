@@ -28,7 +28,7 @@ photos:
   photo: "/20150227_161213.jpg"
 - title: Custom Stage Padding - Stars
   photo: "/2017-09-25 14.02.14.jpg"
-- title: Custom Scoretable
+- title: Custom Scoretable - Crusaders
   photo: "/2017-09-27 11.21.36.jpg"
 - title: 'Custom Padded Scoretable '
   photo: "/2018-01-16 11.22.35.jpg"
