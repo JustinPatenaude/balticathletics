@@ -7,7 +7,7 @@ categories:
 - products/hoodies.md
 - products/shirts.md
 title: Real Tree Xtra
-logo: "/Camo_Realtree-Xtra logo.jpg"
+logo: "/Camo_Realtree-Xtra logo1.jpg"
 website: ''
 catalogues: []
 photos:
