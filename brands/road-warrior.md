@@ -7,6 +7,8 @@ logo: "/logo.PNG"
 website: ''
 catalogues: []
 photos:
+- title: Road Warrior Street Goal
+  photo: "/ROA-HOC-RWSG72.PNG"
 - title: Road Warrior Goal mask - Canada Series
   photo: "/ROA-HOC-RCM-NS-2T Road Warrior Goal mask.jpg"
 - title: Road Warrior PTG+ Elite Goalie Pads
