@@ -36,6 +36,8 @@ photos:
   photo: "/25520133_1748438988784250_554144397_n.jpg"
 - title: Rock Wall Protective Padding down
   photo: "/25529856_1748439068784242_1342054379_n.jpg"
+- title: Floater Mats
+  photo: "/Floater Mat 01.png"
 - title: Removable Wall Padding
   photo: "/2-protective-padding-removable-wall-padding.jpg"
 - title: Resting Exercise Mats
@@ -44,8 +46,6 @@ photos:
   photo: "/1-gymnastics-standard-training-pit.jpg"
 - title: Corner Puzzle Pyramid
   photo: "/1-foam-shapes-corner-puzzle-pyramid.jpg"
-- title: Floater Mats
-  photo: "/Floater Mat 01.png"
 - title: Made in Canada
   photo: "/made_in_canada.jpg"
 info: |-
