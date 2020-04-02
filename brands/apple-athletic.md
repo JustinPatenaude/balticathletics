@@ -32,8 +32,6 @@ photos:
   photo: "/1-matting-slab-mats-resting-mats-exercise-mats-LABEL-1-Resting-Mats-2.jpg"
 - title: Standard Training Pit
   photo: "/1-gymnastics-standard-training-pit.jpg"
-- title: Custom Post Padding
-  photo: "/1-football-custom-post-padding-1.jpg"
 - title: Corner Puzzle Pyramid
   photo: "/1-foam-shapes-corner-puzzle-pyramid.jpg"
 - title: Floater Mats
