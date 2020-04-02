@@ -6,6 +6,7 @@ categories:
 - products/baseball.md
 - products/basketball.md
 - products/beach-volleyball.md
+- products/camouflage.md
 - products/football.md
 - products/headwear.md
 - products/jackets.md
