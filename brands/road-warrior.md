@@ -7,6 +7,8 @@ logo: "/logo.PNG"
 website: ''
 catalogues: []
 photos:
+- title: Road Warrior Goalie Chest Protector
+  photo: "/Road Warrior Goalie Chest Protector.PNG"
 - title: Road Warrior Deluxe MicroFibre Goalie Chest Protector
   photo: "/Road Warrior Deluxe MicroFibre Goalie Chest Protector.PNG"
 - title: Road Warrior Cobalt Goalie Trapper
