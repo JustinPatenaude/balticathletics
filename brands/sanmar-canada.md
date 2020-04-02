@@ -16,6 +16,8 @@ logo: "/Sanmar Canada logo.jpg"
 website: http://www.imprintableclothes.com/balticathletics/start.jsp
 catalogues: []
 photos:
+- title: S350 Pro Team Tech Tee
+  photo: "/S350_TrueRoyal_Form_Side_2011.jpg"
 - title: F220 Tech Pullover Hoodie
   photo: "/F220_ForestGreen_Flat_2011.jpg"
 info: ''
