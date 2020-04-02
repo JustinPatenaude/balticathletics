@@ -12,7 +12,7 @@ logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
 catalogues: []
 photos:
-- title: Custom Permanent Pads
+- title: Custom Permanent Pads - Pirates
   photo: "/2017-11-24 18.00.40.jpg"
 - title: Custom Permanent Pads - Thunder
   photo: "/20150225_141658.jpg"
