@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: "/products/floor-hockey/"
+permalink: "/products/floor-hockey"
 title: Floor Hockey
 products: []
 photos: []
