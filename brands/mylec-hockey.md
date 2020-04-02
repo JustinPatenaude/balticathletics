@@ -1,9 +1,10 @@
 ---
 layout: brand
 permalink: "/brands/mylec-hockey"
-categories: []
+categories:
+- products/floor-hockey.md
 title: Mylec Hockey
-logo: ''
+logo: "/mylec-text-k.svg"
 website: ''
 catalogues: []
 photos: []
