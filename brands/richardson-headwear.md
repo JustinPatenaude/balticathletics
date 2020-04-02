@@ -9,6 +9,8 @@ logo: "/RICHARDSON_LOGO.jpg"
 website: https://en-ca.ssactivewear.com/ps/richardson
 catalogues: []
 photos:
+- title: "7614"
+  photo: "/7614_fl.jpg"
 - title: "51145"
   photo: "/51145_fl.jpg"
 - title: "6472"
@@ -23,6 +25,6 @@ photos:
   photo: "/5905_fl.jpg"
 - title: "6423"
   photo: "/6423_fl.jpg"
-info: "**Richardson Sports** started in 1970 in Oregon."
+info: "**Richardson Sports** started in 1970 in Oregon. A old name in headwear."
 
 ---
