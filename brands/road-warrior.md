@@ -7,6 +7,8 @@ logo: "/logo.PNG"
 website: ''
 catalogues: []
 photos:
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 - title: Road Warrior PTG+ Elite Goalie Pads
   photo: "/Road Warrior PTG  Elite Goalie Pads.PNG"
 - title: Road Warrior PTG+ Elite Goalie Trapper
@@ -25,6 +27,8 @@ photos:
   photo: "/Road Warrior Cobalt Goalie Blocker.PNG"
 - title: Road Warrior Goalie Chest Protector
   photo: "/Road Warrior Chest Goalie Protector.PNG"
-info: 'Road Warrior is Canada''s oldest Street Hockey brand. Nothing is more '
+info: "**Road Warrior** is Canada's oldest Street Hockey brand having been in business
+  for over 30 years.  Nothing is more Canadian than Street Hockey, and nothing is
+  more Street Hockey than Road Warrior."
 
 ---
