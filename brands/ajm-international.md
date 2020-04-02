@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/ajm-international-headwear/"
 categories:
+- products/camouflage.md
 - products/made-in-canada.md
 - products/headwear.md
 title: AJM International Headwear
