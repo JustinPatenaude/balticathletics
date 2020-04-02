@@ -10,10 +10,12 @@ title: Salming
 logo: "/salming-logo.png"
 website: ''
 pdfs: []
-info: Founded in Gothenburg Sweden, by NHL Hall of Famer, Borje Salming; **Salming
-  Sports** was established in 1991 to provide the market with vibrant, performance-driven
-  footwear, apparel and accessories. Since its inception, Salming has grown to exist
-  as one of the Europe’s most recognizable brands.
+info: |-
+  Founded in Gothenburg Sweden, by NHL Hall of Famer, Borje Salming; **Salming Sports** was established in 1991 to provide the market with vibrant, performance-driven footwear, apparel and accessories. Since its inception, Salming has grown to exist as one of the Europe’s most recognizable brands.
+
+  ***
+
+  Quality floorball equipment for various budgets from schools to professionals.
 date: '2019-03-29T22:33:17.000+00:00'
 photos:
 - title: Campus floorball kit
