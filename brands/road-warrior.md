@@ -7,6 +7,8 @@ logo: "/logo.PNG"
 website: ''
 catalogues: []
 photos:
+- title: Road Warrior Cobalt Goalie Pads
+  photo: "/Road Warrior Cobalt Goalie Pads.PNG"
 - title: Road Warrior Cobalt Goalie Blocker
   photo: "/Road Warrior Cobalt Goalie Blocker.PNG"
 - title: Road Warrior Chest Goalie Protector
