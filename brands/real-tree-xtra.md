@@ -7,6 +7,8 @@ logo: "/Camo_Realtree-Xtra logo.jpg"
 website: ''
 catalogues: []
 photos:
+- title: S3548LS Performance Long Sleeve Camo Tee
+  photo: "/s3548ls_realtreextra_modl_studio_1_2019c.jpg"
 - title: C1312 Camo Cap
   photo: "/c1312_flat_front_realtreextra.jpg"
 - title: C1313 Pigment Dyed Camo Cap
