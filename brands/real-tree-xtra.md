@@ -11,7 +11,7 @@ photos:
   photo: "/s3548_c1314_realtreextra_modl_studio3.jpg"
 - title: Y3548 Performance Short Sleeve Camo Tee - Youth
   photo: "/y3548_realtreextra_modl_studio_1_2019.jpg"
-- title: S3548LS Performance Long Sleeve Camo Tee
+- title: S3548LS Performance Long Sleeve Camo Tee - Adult
   photo: "/s3548ls_realtreextra_modl_studio_1_2019c.jpg"
 - title: C1312 Camo Cap
   photo: "/c1312_flat_front_realtreextra.jpg"
