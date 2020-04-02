@@ -7,6 +7,8 @@ logo: "/Camo_Realtree-Xtra logo.jpg"
 website: ''
 catalogues: []
 photos:
+- title: S3548 Performance Short Sleeve Camo Tee
+  photo: "/s3548_c1314_realtreextra_modl_studio3.jpg"
 - title: Y3548 Performance Short Sleeve Tee - YOUTH
   photo: "/y3548_realtreextra_modl_studio_1_2019.jpg"
 - title: S3548LS Performance Long Sleeve Camo Tee
