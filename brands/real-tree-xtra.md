@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/real-tree-xtra"
 categories:
+- products/camouflage.md
 - products/headwear.md
 - products/hoodies.md
 - products/shirts.md
