@@ -33,16 +33,6 @@ info: |-
   **FUN FACT!!** All hockey jerseys and socks worn at the Olympic Games were made by SP Apparel and feature the Nike logo. From the Nagano games in 1998 to the Sotchi games in 2014, SP Apparel has been dressing athletes from all countries.
 date: '2019-03-29T22:33:54.000+00:00'
 photos:
-- title: Hockey Bags
-  photo: "/Hockey Bags.jpg"
-- title: Sublimated Polo Shirts
-  photo: "/Polo Shirts.png"
-- title: Sublimated Long Sleeve Shirts
-  photo: "/Long Sleeve Shirts.png"
-- title: Sublimated Jackets
-  photo: "/Jackets.jpg"
-- title: Sublimated Hoodies
-  photo: "/Hoodie.png"
 - title: Basketball Jerseys
   photo: "/Basketball_jsy.jpg"
 - title: Baseball Jersey
@@ -71,12 +61,22 @@ photos:
   photo: "/hockey pants.png"
 - title: Hockey Socks
   photo: "/hockey socks.png"
+- title: Hockey Bags
+  photo: "/Hockey Bags.jpg"
 - title: Lacrosse jersey
   photo: "/lacrosse jsy.jpg"
 - title: Ringette Jerseys
   photo: "/ringette jsy.png"
 - title: Soccer Jersey
   photo: "/Soccer_jsy.jpg"
+- title: Sublimated Hoodies
+  photo: "/Hoodie.png"
+- title: Sublimated Jackets
+  photo: "/Jackets.jpg"
+- title: Sublimated Long Sleeve Shirts
+  photo: "/Long Sleeve Shirts.png"
+- title: Sublimated Polo Shirts
+  photo: "/Polo Shirts.png"
 - title: SP Size Chart - Hockey, Referee, Ringette, Dek Hockey, Baseball
   photo: "/SP Size Chart - hockey, referee, ringette, dek, baseball.PNG"
 - title: SP Size Chart - Fastpitch, Soccer, Basketball, Football, Lacrosse, Jackets,
