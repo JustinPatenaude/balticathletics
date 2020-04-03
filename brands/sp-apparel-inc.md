@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/sp-apparel-inc/"
 categories:
+- products/bags-totes-duffels.md
 - products/baseball.md
 - products/basketball.md
 - products/made-in-canada.md
@@ -11,6 +12,7 @@ categories:
 - products/lacrosse.md
 - products/officials-equipment.md
 - products/pants.md
+- products/shorts.md
 - products/softball.md
 - products/shirts.md
 - products/soccer.md
