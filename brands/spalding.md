@@ -15,6 +15,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:34:07.000+00:00'
 photos:
+- title: TF500 Basketball
+  photo: "/tf-500.jpg"
 - title: TF250 Basketball
   photo: "/tf-250.jpg"
 - title: TF150 Basketball
