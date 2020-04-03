@@ -22,6 +22,8 @@ info: Founded in 2002, **SKLZ** mission is to prepare athletes to perform with a
   and techniques for Fitness, Soccer, Hockey, Baseball, Basketball, Football, and
   Golf.
 photos:
+- title: Basketball D-man
+  photo: "/d-man_640x640.jpg"
 - title: Speed shute
   photo: "/0125_640x640.webp"
 - title: Proudly Canadian
