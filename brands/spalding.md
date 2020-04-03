@@ -2,12 +2,8 @@
 layout: brand
 permalink: "/brands/spalding/"
 categories:
-- products/baseball.md
 - products/basketball.md
 - products/football.md
-- products/inflators.md
-- products/misc.md
-- products/volleyball.md
 title: Spalding
 logo: "/spalding-logo.png"
 website: ''
