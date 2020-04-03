@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Milo Monkey
+  photo: "/Milo-Robe-logo-2.jpg"
 - title: Husky plush
   photo: "/Husky-DO-red-T-logo-1.jpg"
 - title: Scrub Bear
