@@ -33,8 +33,8 @@ info: |-
   **FUN FACT!!** All hockey jerseys and socks worn at the Olympic Games were made by SP Apparel and feature the Nike logo. From the Nagano games in 1998 to the Sotchi games in 2014, SP Apparel has been dressing athletes from all countries.
 date: '2019-03-29T22:33:54.000+00:00'
 photos:
-- title: Hockey Professional Jerseys
-  photo: "/Hockey_professional jsy.jpg"
+- title: Hockey Practice Jerseys
+  photo: "/Hockey_practice jsy.jpg"
 - title: Basketball Jerseys
   photo: "/Basketball_jsy.jpg"
 - title: Baseball Jersey
@@ -53,6 +53,8 @@ photos:
   photo: "/Football_Pants.jpg"
 - title: Football Cape
   photo: "/Football_Cape.jpg"
+- title: Hockey Professional Jerseys
+  photo: "/Hockey_professional jsy.jpg"
 - title: Hockey Socks
   photo: "/hockey socks.png"
 - title: Hockey Pants
