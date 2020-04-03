@@ -33,35 +33,35 @@ info: |-
   **FUN FACT!!** All hockey jerseys and socks worn at the Olympic Games were made by SP Apparel and feature the Nike logo. From the Nagano games in 1998 to the Sotchi games in 2014, SP Apparel has been dressing athletes from all countries.
 date: '2019-03-29T22:33:54.000+00:00'
 photos:
-- title: Hockey Socks
-  photo: "/hockey socks.png"
-- title: Hockey Pants
-  photo: "/hockey pants.png"
-- title: Football Regular Jerseys
-  photo: "/Football_regular jsy.jpg"
+- title: Basketball Jerseys
+  photo: "/Basketball_jsy.jpg"
+- title: Baseball Jersey
+  photo: "/Baseball js.png"
+- title: Baseball Semi Pro Pants
+  photo: "/Baseball semi pro pants.png"
+- title: Fastpitch Jerseys
+  photo: "/Fastpitch_jersey.jpg"
 - title: Football Pro Jerseys
   photo: "/Football_pro jsy.jpg"
+- title: Football Regular Jerseys
+  photo: "/Football_regular jsy.jpg"
 - title: Football Practice Jerseys
   photo: "/Football_Practice jsy.jpg"
 - title: Football Pants
   photo: "/Football_Pants.jpg"
 - title: Football Cape
   photo: "/Football_Cape.jpg"
-- title: Fastpitch Jerseys
-  photo: "/Fastpitch_jersey.jpg"
-- title: Basketball Jerseys
-  photo: "/Basketball_jsy.jpg"
-- title: Baseball Semi Pro Pants
-  photo: "/Baseball semi pro pants.png"
-- title: Baseball Jersey
-  photo: "/Baseball js.png"
-- title: Soccer Jersey
-  photo: "/Soccer_jsy.jpg"
+- title: Hockey Socks
+  photo: "/hockey socks.png"
+- title: Hockey Pants
+  photo: "/hockey pants.png"
 - title: Lacrosse jersey
   photo: "/lacrosse jsy.jpg"
+- title: Soccer Jersey
+  photo: "/Soccer_jsy.jpg"
 - title: SP Size Chart - Hockey, Referee, Ringette, Dek Hockey, Baseball
   photo: "/SP Size Chart - hockey, referee, ringette, dek, baseball.PNG"
-- title: Sizing Chart - Fastpitch, Soccer, Basketball, Football, Lacrosse, Jackets,
+- title: SP Size Chart - Fastpitch, Soccer, Basketball, Football, Lacrosse, Jackets,
     Hoodies, Polos
   photo: "/SP Size Chart - fastpitch, soccer, basketball, football, lacrosse, jackets,
     hoodies, polo, LS tees.PNG"
