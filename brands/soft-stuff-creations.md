@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Husky plush
+  photo: "/Husky-DO-red-T-logo-1.jpg"
 - title: Scrub Bear
   photo: "/Denver-health-scrub-bear-.jpg"
 - title: Cooper Bear w/hand knit sweater
