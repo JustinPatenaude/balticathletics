@@ -9,6 +9,7 @@ categories:
 - products/hockey.md
 - products/jerseys.md
 - products/lacrosse.md
+- products/officials-equipment.md
 - products/pants.md
 - products/softball.md
 - products/shirts.md
@@ -28,7 +29,8 @@ info: |-
   **FUN FACT!!** All hockey jerseys and socks worn at the Olympic Games were made by SP Apparel and feature the Nike logo. From the Nagano games in 1998 to the Sotchi games in 2014, SP Apparel has been dressing athletes from all countries.
 date: '2019-03-29T22:33:54.000+00:00'
 photos:
-- {}
+- title: Soccer Jersey
+  photo: "/Soccer_jsy.jpg"
 - title: Lacrosse jersey
   photo: "/lacrosse jsy.jpg"
 - title: Made in Canada
