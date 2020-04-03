@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Rufus Bear
+  photo: "/Quarex_Rufus-Bear-Black-Shirt-Front_v02.jpg"
 - title: Morris Moose
   photo: "/Morris-with-t-shirt_rockandroll.jpg"
 - title: Mini Horse
