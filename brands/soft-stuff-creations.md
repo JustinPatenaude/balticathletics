@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Mini Panda
+  photo: "/MiniMe-Panda-Mechanic-Front-Logo-Honda_WEB-1.jpg"
 - title: Mini Moose
   photo: "/mini-me-moose-pointe-claire.jpg"
 - title: Mini Eagle
