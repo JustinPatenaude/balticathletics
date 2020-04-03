@@ -49,8 +49,8 @@ info: |-
 
   ***
 
-  Soft Stuff has good pricing for CUSTOM plush toys with a 1200 minimum. Custom orders have the option to pay for a "sample" to see before producing the 1199 others! :)
+  Soft Stuff has good pricing for CUSTOM plush toys with a 1200 minimum. Custom orders also have the option to pay for a "sample" to see before producing the 1199 others! :)
 
-  They also have some stock plush toys with lower minimums (50 for heat transfers or 24 pieces for embroidery) . Most of the photos shown are from the stock plush toys.
+  They also have stock plush toys with lower minimums (50 for heat transfers or 24 pieces for embroidery) . Most of the photos shown are from the stock plush toys.
 
 ---
