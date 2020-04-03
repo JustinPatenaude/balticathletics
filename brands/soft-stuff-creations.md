@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Scrub Bear
+  photo: "/Denver-health-scrub-bear-.jpg"
 - title: Cooper Bear w/hand knit sweater
   photo: "/Cooper-with-beige-hand-knit-sweater.jpg"
 - title: Beaver w/black shirt
