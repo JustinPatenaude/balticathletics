@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Roary Bear
+  photo: "/11in-RoaryBear_Jean_Front_logo-1.jpg"
 - title: Justin Bear w/Santa Hat
   photo: "/11in-JustinBear_Santahat_front_logo.jpg"
 - title: Justin Bear
