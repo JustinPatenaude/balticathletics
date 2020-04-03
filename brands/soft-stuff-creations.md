@@ -10,8 +10,6 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
-- title: Morris Moose
-  photo: "/Morris-with-t-shirt_rockandroll.jpg"
 - title: Scrub Bear
   photo: "/Denver-health-scrub-bear-.jpg"
 - title: Cooper Bear w/hand knit sweater
@@ -42,6 +40,8 @@ photos:
   photo: "/Husky-DO-red-T-logo-1.jpg"
 - title: Mini Moose
   photo: "/mini-me-moose-pointe-claire.jpg"
+- title: Morris Moose
+  photo: "/Morris-with-t-shirt_rockandroll.jpg"
 - title: Proudly Canadian
   photo: "/proudly canadian.jpg"
 info: |-
