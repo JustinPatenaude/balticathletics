@@ -45,7 +45,7 @@ photos:
 - title: Proudly Canadian
   photo: "/proudly canadian.jpg"
 info: |-
-  **Soft Stuff Creations** is an industry leader in premium custom plush toys and other soft products. It has the most innovative and creative golf head covers available today through its [Creative Covers for Golf](https://creativecoversforgolf.com/) division.
+  **Soft Stuff Creations est. 2009** is an industry leader in premium custom plush toys and other soft products. It has the most innovative and creative golf head covers available today through its [Creative Covers for Golf](https://creativecoversforgolf.com/) division.
 
   ***
 
