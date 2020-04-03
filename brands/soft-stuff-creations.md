@@ -10,40 +10,40 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Scrub Bear
+  photo: "/Denver-health-scrub-bear-.jpg"
+- title: Cooper Bear w/hand knit sweater
+  photo: "/Cooper-with-beige-hand-knit-sweater.jpg"
+- title: Justin Bear w/Santa Hat
+  photo: "/11in-JustinBear_Santahat_front_logo.jpg"
 - title: Rufus Bear
   photo: "/Quarex_Rufus-Bear-Black-Shirt-Front_v02.jpg"
-- title: Morris Moose
-  photo: "/Morris-with-t-shirt_rockandroll.jpg"
+- title: Roary Bear
+  photo: "/11in-RoaryBear_Jean_Front_logo-1.jpg"
+- title: Justin Bear
+  photo: "/11in-JustinBear_handknit_beige-RF_front-2.jpg"
+- title: Bennie Bear
+  photo: "/11in_BennieBear_JeanJacket_front.jpg"
+- title: Fergus Bear
+  photo: "/11in-FergusBear_HandKnitSweater_Beige-logo_front-1.jpg"
+- title: Mini Black Bear
+  photo: "/mini-me-black-bear-BMW.jpg"
 - title: Mini Horse
   photo: "/MM-Horse_MechOutfit_Front-2-1.jpg"
 - title: Mini Cougar
   photo: "/MM-Cougar_Tshirt_Black_Front_logo-1.jpg"
 - title: Mini Lion
   photo: "/mini-me-RBC-lion.jpg"
-- title: Mini Moose
-  photo: "/mini-me-moose-pointe-claire.jpg"
 - title: Mini Eagle
   photo: "/mini-me-eagle-red-logo.jpg"
 - title: Mini Tiger
   photo: "/mini-me-Caddyshack-tiger-1.jpg"
-- title: Mini Black Bear
-  photo: "/mini-me-black-bear-BMW.jpg"
 - title: Husky plush
   photo: "/Husky-DO-red-T-logo-1.jpg"
-- title: Scrub Bear
-  photo: "/Denver-health-scrub-bear-.jpg"
-- title: Cooper Bear w/hand knit sweater
-  photo: "/Cooper-with-beige-hand-knit-sweater.jpg"
-- title: Roary Bear
-  photo: "/11in-RoaryBear_Jean_Front_logo-1.jpg"
-- title: Justin Bear w/Santa Hat
-  photo: "/11in-JustinBear_Santahat_front_logo.jpg"
-- title: Justin Bear
-  photo: "/11in-JustinBear_handknit_beige-RF_front-2.jpg"
-- title: Fergus Bear
-  photo: "/11in-FergusBear_HandKnitSweater_Beige-logo_front-1.jpg"
-- title: Bennie Bear
-  photo: "/11in_BennieBear_JeanJacket_front.jpg"
+- title: Mini Moose
+  photo: "/mini-me-moose-pointe-claire.jpg"
+- title: Morris Moose
+  photo: "/Morris-with-t-shirt_rockandroll.jpg"
 - title: Proudly Canadian
   photo: "/proudly canadian.jpg"
 info: |-
