@@ -10,30 +10,24 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Mini Cougar
+  photo: "/MM-Cougar_Tshirt_Black_Front_logo-1.jpg"
 - title: Mini Lion
   photo: "/mini-me-RBC-lion.jpg"
-- title: Mini Panda
-  photo: "/MiniMe-Panda-Mechanic-Front-Logo-Honda_WEB-1.jpg"
 - title: Mini Moose
   photo: "/mini-me-moose-pointe-claire.jpg"
 - title: Mini Eagle
   photo: "/mini-me-eagle-red-logo.jpg"
-- title: Mini Dalmation
-  photo: "/MiniMe-Dalmation-Red-Tshirt-Logo-front.jpg"
 - title: Mini Tiger
   photo: "/mini-me-Caddyshack-tiger-1.jpg"
 - title: Mini Black Bear
   photo: "/mini-me-black-bear-BMW.jpg"
-- title: Milo Monkey
-  photo: "/Milo-Robe-logo-2.jpg"
 - title: Husky plush
   photo: "/Husky-DO-red-T-logo-1.jpg"
 - title: Scrub Bear
   photo: "/Denver-health-scrub-bear-.jpg"
 - title: Cooper Bear w/hand knit sweater
   photo: "/Cooper-with-beige-hand-knit-sweater.jpg"
-- title: Beaver w/black shirt
-  photo: "/beaver-w-black-shirt-front-logo-1.jpg"
 - title: Roary Bear
   photo: "/11in-RoaryBear_Jean_Front_logo-1.jpg"
 - title: Justin Bear w/Santa Hat
