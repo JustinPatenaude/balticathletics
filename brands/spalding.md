@@ -12,11 +12,14 @@ title: Spalding
 logo: "/spalding-logo.png"
 website: ''
 pdfs: []
-info: ''
+info: |-
+  \**__SPORTS HISTORY LESSON HERE!!**__
+
+  This link to the [Spalding History](https://www.spalding.com/about-spalding.html) has a great history lesson with some really old photos of their first baseball from 1876 to the first basketball in 1894.
+
+  Spalding now focuses only on basketball and softball.
 date: '2019-03-29T22:34:07.000+00:00'
 photos:
-- title: Multisport Volleyball System
-  photo: "/vbpage-multisport.jpg"
 - title: TF150 Basketball
   photo: "/tf-150.jpg"
 - title: TF250 Basketball
@@ -31,7 +34,7 @@ photos:
   photo: "/74560 The Beast Basketball Backboard 2018.12.21.jpg"
 - title: Thunder Heat Softballs
   photo: "/4A-147YC.jpg"
-- title: Telescopic Aluminum Volleyball System
+- title: Multisport Volleyball System
   photo: "/vbpage-multisport.jpg"
 
 ---
