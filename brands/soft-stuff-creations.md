@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Justin Bear w/Santa Hat
+  photo: "/11in-JustinBear_Santahat_front_logo.jpg"
 - title: Justin Bear
   photo: "/11in-JustinBear_handknit_beige-RF_front-2.jpg"
 - title: Fergus Bear
