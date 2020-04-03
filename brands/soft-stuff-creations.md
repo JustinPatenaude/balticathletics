@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Mini Dalmation
+  photo: "/MiniMe-Dalmation-Red-Tshirt-Logo-front.jpg"
 - title: Mini Tiger
   photo: "/mini-me-Caddyshack-tiger-1.jpg"
 - title: Mini Black Bear
