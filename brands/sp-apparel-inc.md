@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/sp-apparel-inc/"
+permalink: "/brands/sp-apparel/"
 categories:
 - products/bags-totes-duffels.md
 - products/baseball.md
@@ -19,7 +19,7 @@ categories:
 - products/shirts.md
 - products/soccer.md
 - products/sublimation.md
-title: SP Apparel Inc.
+title: SP Apparel
 logo: "/sp-logo.png"
 website: https://www.spapparel.com/en/home/
 pdfs: []
