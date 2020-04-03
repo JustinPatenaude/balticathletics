@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Morris Moose
+  photo: "/Morris-with-t-shirt_rockandroll.jpg"
 - title: Scrub Bear
   photo: "/Denver-health-scrub-bear-.jpg"
 - title: Cooper Bear w/hand knit sweater
@@ -22,8 +24,6 @@ photos:
   photo: "/11in-RoaryBear_Jean_Front_logo-1.jpg"
 - title: Justin Bear
   photo: "/11in-JustinBear_handknit_beige-RF_front-2.jpg"
-- title: Bennie Bear
-  photo: "/11in_BennieBear_JeanJacket_front.jpg"
 - title: Fergus Bear
   photo: "/11in-FergusBear_HandKnitSweater_Beige-logo_front-1.jpg"
 - title: Mini Black Bear
