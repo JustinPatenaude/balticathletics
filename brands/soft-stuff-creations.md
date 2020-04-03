@@ -6,7 +6,7 @@ categories:
 - products/golf.md
 - products/plush-novelties.md
 title: Soft Stuff Creations
-logo: "/logo.jpeg"
+logo: "/soft stuff logo.PNG"
 website: https://softstuffcreations.com/
 catalogues: []
 photos:
