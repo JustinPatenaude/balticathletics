@@ -11,7 +11,7 @@ website: https://softstuffcreations.com/
 catalogues: []
 photos:
 - title: Soft Stuff Product Group
-  photo: "/Corey_with_Shirt_large BALTIC.jpg"
+  photo: "/productgroupshot-1.jpg"
 - title: Soft Stuff Stock Plush
   photo: "/2017-04-24 16.55.22.jpg"
 - title: Corey bear with custom tee
