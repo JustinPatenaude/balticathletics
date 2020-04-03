@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Morris Moose
+  photo: "/Morris-with-t-shirt_rockandroll.jpg"
 - title: Mini Horse
   photo: "/MM-Horse_MechOutfit_Front-2-1.jpg"
 - title: Mini Cougar
