@@ -8,6 +8,8 @@ categories:
 - products/made-in-canada.md
 - products/football.md
 - products/hockey.md
+- products/hoodies.md
+- products/jackets.md
 - products/jerseys.md
 - products/lacrosse.md
 - products/officials-equipment.md
@@ -37,5 +39,11 @@ photos:
   photo: "/lacrosse jsy.jpg"
 - title: Made in Canada
   photo: "/made_in_canada.jpg"
+catalogues:
+- title: Sizing Chart - Fastpitch, Soccer, Basketball, Football, Lacrosse, Jackets,
+    Hoodies, Polos
+  year: 0
+  pdf: "/SP Size Chart - fastpitch, soccer, basketball, football, lacrosse, jackets,
+    hoodies, polo, LS tees.PNG"
 
 ---
