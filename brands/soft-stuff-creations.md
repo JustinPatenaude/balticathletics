@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Mini Horse
+  photo: "/MM-Horse_MechOutfit_Front-2-1.jpg"
 - title: Mini Cougar
   photo: "/MM-Cougar_Tshirt_Black_Front_logo-1.jpg"
 - title: Mini Lion
