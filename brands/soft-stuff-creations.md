@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Mini Moose
+  photo: "/mini-me-moose-pointe-claire.jpg"
 - title: Mini Eagle
   photo: "/mini-me-eagle-red-logo.jpg"
 - title: Mini Dalmation
