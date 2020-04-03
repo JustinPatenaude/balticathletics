@@ -10,14 +10,12 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Justin Bear
+  photo: "/11in-JustinBear_handknit_beige-RF_front-2.jpg"
 - title: Fergus Bear
   photo: "/11in-FergusBear_HandKnitSweater_Beige-logo_front-1.jpg"
 - title: Bennie Bear
   photo: "/11in_BennieBear_JeanJacket_front.jpg"
-- title: Soft Stuff Product Group
-  photo: "/Product Group.PNG"
-- title: Soft Stuff Stock Plush
-  photo: "/2017-04-24 16.55.22.jpg"
 - title: Proudly Canadian
   photo: "/proudly canadian.jpg"
 info: |-
