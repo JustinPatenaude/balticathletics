@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Cooper Bear w/hand knit sweater
+  photo: "/Cooper-with-beige-hand-knit-sweater.jpg"
 - title: Beaver w/black shirt
   photo: "/beaver-w-black-shirt-front-logo-1.jpg"
 - title: Roary Bear
