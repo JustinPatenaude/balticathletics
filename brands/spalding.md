@@ -15,6 +15,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:34:07.000+00:00'
 photos:
+- title: Telescopic Aluminum Volleyball System
+  photo: "/vbpage-multisport.jpg"
 - title: '"The Beast" Portable Basketball System'
   photo: "/74560 The Beast Basketball Backboard 2018.12.21.jpg"
 - title: Thunder Heat Softballs
