@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Mini Black Bear
+  photo: "/mini-me-black-bear-BMW.jpg"
 - title: Milo Monkey
   photo: "/Milo-Robe-logo-2.jpg"
 - title: Husky plush
