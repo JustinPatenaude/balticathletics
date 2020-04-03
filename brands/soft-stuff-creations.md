@@ -7,7 +7,7 @@ categories:
 - products/plush-novelties.md
 title: Soft Stuff Promotions
 logo: "/soft stuff logo.PNG"
-website: softstuffpromo.com
+website: www.softstuffpromo.com
 catalogues: []
 photos:
 - title: Soft Stuff Product Group
