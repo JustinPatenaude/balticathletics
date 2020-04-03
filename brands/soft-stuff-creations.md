@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Fergus Bear
+  photo: "/11in-FergusBear_HandKnitSweater_Beige-logo_front-1.jpg"
 - title: Bennie Bear
   photo: "/11in_BennieBear_JeanJacket_front.jpg"
 - title: Soft Stuff Product Group
