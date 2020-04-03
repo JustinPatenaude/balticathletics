@@ -15,6 +15,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:34:07.000+00:00'
 photos:
+- title: Thunder Heat Softballs
+  photo: "/4A-147YC.jpg"
 - title: Precision Basketball
   photo: "/precision basketball.jpg"
 - title: TF150 Basketball
