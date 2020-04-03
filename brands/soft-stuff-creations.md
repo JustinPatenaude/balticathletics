@@ -10,6 +10,8 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Mini Tiger
+  photo: "/mini-me-Caddyshack-tiger-1.jpg"
 - title: Mini Black Bear
   photo: "/mini-me-black-bear-BMW.jpg"
 - title: Milo Monkey
