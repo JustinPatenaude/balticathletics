@@ -10,28 +10,12 @@ logo: "/soft stuff logo.PNG"
 website: https://softstuffpromo.com/
 catalogues: []
 photos:
+- title: Bennie Bear
+  photo: "/11in_BennieBear_JeanJacket_front.jpg"
 - title: Soft Stuff Product Group
   photo: "/Product Group.PNG"
 - title: Soft Stuff Stock Plush
   photo: "/2017-04-24 16.55.22.jpg"
-- title: Bailee Bear
-  photo: "/Bailee_bear_large.jpg"
-- title: Carter Bear
-  photo: "/Carter_with_shirt_large.jpg"
-- title: Cooper Bear
-  photo: "/JT32981_Cooper_Bear_large.jpg"
-- title: Roary Bear
-  photo: "/Roary_Bear_large.jpg"
-- title: Rufus Bear
-  photo: "/Rufus_Bear_large.jpg"
-- title: Sammy Bear
-  photo: "/Sammy_large.jpg"
-- title: Bucky Beaver
-  photo: "/Bucky_Beaver_large.jpg"
-- title: Morris Moose
-  photo: "/Morris_large.jpg"
-- title: Milo Monkey
-  photo: "/Milo_Monkey_1_large.jpg"
 - title: Proudly Canadian
   photo: "/proudly canadian.jpg"
 info: |-
