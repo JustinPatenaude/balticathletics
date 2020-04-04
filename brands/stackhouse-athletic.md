@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: TCEB Starting Blocks
+  photo: "/TCEB starting blocks.jpg"
 - title: TEXS High Jump Standards
   photo: "/TEXS- High Jump standards.jpg"
 - title: TJMC50 Javelin
