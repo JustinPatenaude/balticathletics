@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: TOLY Starting Blocks
+  photo: "/TOLY starting blocks.jpg"
 - title: TRASC High Jump Standards
   photo: "/TRASC High Jump standards.jpg"
 - title: TSW505 Robic Stopwatch
