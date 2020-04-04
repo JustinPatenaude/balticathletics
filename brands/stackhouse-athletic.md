@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: TRASC High Jump Standards
+  photo: "/TRASC High Jump standards.jpg"
 - title: TSW505 Robic Stopwatch
   photo: "/TSW505 Robic stopwatch.jpg"
 - title: TSW149 Seiko Stopwatch & Printer (paper sold separately)
