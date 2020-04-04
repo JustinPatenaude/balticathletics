@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: FSDM Sideline Markers
+  photo: "/FDSM sideline markers.jpg"
 - title: Practice High Jump Crossbar
   photo: "/crossbar-sh-offcl-prac-z.jpg"
 - title: Official Competition High Jump Crossbar
