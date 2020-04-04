@@ -17,7 +17,10 @@ info: All prices shown in the Stackhouse catalogues are in **US Dollars**. For a
 date: '2019-03-29T22:34:48.000+00:00'
 catalogues:
 - title: Stackhouse Catalogue
-  pdf: ''
+  pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
+photos:
+- title: Stopwatch Printer Paper
+  photo: "/TSWPR printer paper.jpg"
 
 ---
