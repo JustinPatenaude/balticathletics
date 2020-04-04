@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: FHR Football Helmet Rack
+  photo: "/FHR football helmet rack.jpg"
 - title: FSDM Sideline Markers
   photo: "/FDSM sideline markers.jpg"
 - title: Practice High Jump Crossbar
