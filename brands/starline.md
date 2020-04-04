@@ -33,6 +33,8 @@ info: |-
   **Starline** is a Canadian supplier in the promotional products industry for over 40 years and provides upscale retail quality gifts and awards among Bags, Drinkware, Electronics, ToolZone™ including CREE® Flashlights, LED Flashlights, Knives and Tools, Lifestyles, HomeStyles™, Safety including Eyewear, Head Protection, Hand Protection and Hi-Vis Apparel and Business Essentials.
 date: '2019-03-29T22:35:12.000+00:00'
 photos:
+- title: 33259 Urban Peak Summit Vacuum Camp Mug
+  photo: "/33259 Urban Peak Summit Vacuum Camp Mug.jpg"
 - title: 22260 Bolle safety glasses
   photo: "/22260 Bolle safety glasses.jpg"
 - title: 18198 foldable event table
