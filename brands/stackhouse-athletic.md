@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: TSW149 Seiko Stopwatch & Printer (paper sold separately)
+  photo: "/TSW149 seiko stopwatch and printer.jpg"
 - title: Stopwatch Printer Paper
   photo: "/TSWPR printer paper.jpg"
 
