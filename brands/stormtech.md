@@ -22,6 +22,8 @@ info: |-
 
   Link to [Since 1977 - Stormtech Story](https://www.stormtech.ca/pages/history)
 photos:
+- title: STXP-2_Warrior Training Pant
+  photo: "/STXP-2_Warrior Training Pant.jpg"
 - title: STXJ-2_Warrior Training Jacket
   photo: "/STXJ-2_Warrior Training Jacket.jpg"
 
