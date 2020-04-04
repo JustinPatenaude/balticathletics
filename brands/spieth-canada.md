@@ -24,6 +24,8 @@ info: |-
 
   Official supplier to Volleyball Canada.
 photos:
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 - title: Volleyball Aluminum Posts
   photo: "/Volleyball Aluminum Posts.PNG"
 - title: Post Padding
@@ -42,7 +44,5 @@ photos:
   photo: "/Post Storage Rack.PNG"
 - title: post storage bracket
   photo: "/post storage bracket.PNG"
-- title: Proudly Canadian
-  photo: "/proudly canadian.jpg"
 
 ---
