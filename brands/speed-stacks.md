@@ -9,6 +9,8 @@ logo: ''
 website: ''
 catalogues: []
 photos:
+- title: Speed Stacks Set
+  photo: "/Speed Stacks Set.PNG"
 - title: Stackmat Pro
   photo: "/Stack Mat Pro.PNG"
 - title: Stackmat Pro Timer
