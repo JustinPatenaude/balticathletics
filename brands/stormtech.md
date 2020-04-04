@@ -22,8 +22,6 @@ info: |-
 
   Link to [Since 1977 - Stormtech Story](https://www.stormtech.ca/pages/history)
 photos:
-- title: Proudly Canadian
-  photo: "/proudly canadian.jpg"
 - title: BHS-3_Men's Cascades Softshell
   photo: "/BHS-3_Men's Cascades Softshell.jpg"
 - title: FXH-1_Cascade Hoody
@@ -38,5 +36,7 @@ photos:
   photo: "/STXJ-2_Warrior Training Jacket.jpg"
 - title: STXP-2_Warrior Training Pant
   photo: "/STXP-2_Warrior Training Pant.jpg"
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 
 ---
