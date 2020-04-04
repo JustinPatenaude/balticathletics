@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: Practice High Jump Crossbar
+  photo: "/crossbar-sh-offcl-prac-z.jpg"
 - title: Official Competition High Jump Crossbar
   photo: "/crossbar-sh-offcl-comp-z.jpg"
 - title: Competition Iron Shop Put
