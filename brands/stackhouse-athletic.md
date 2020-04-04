@@ -20,8 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
-- title: TCEB Starting Blocks
-  photo: "/TCEB starting blocks.jpg"
+- title: T2PCS Ring
+  photo: "/T2PCS ring.jpg"
 - title: TEXS High Jump Standards
   photo: "/TEXS- High Jump standards.jpg"
 - title: TJMC50 Javelin
@@ -32,6 +32,8 @@ photos:
   photo: "/TMTB shot put toe board.jpg"
 - title: TOLY Starting Blocks
   photo: "/TOLY starting blocks.jpg"
+- title: TCEB Starting Blocks
+  photo: "/TCEB starting blocks.jpg"
 - title: TRASC High Jump Standards
   photo: "/TRASC High Jump standards.jpg"
 - title: TSW505 Robic Stopwatch
