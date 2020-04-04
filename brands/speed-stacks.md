@@ -9,6 +9,8 @@ logo: ''
 website: ''
 catalogues: []
 photos:
+- title: Colour Thirty Set
+  photo: "/Colour Thirty Set.PNG"
 - title: Speed Stacks Set
   photo: "/Speed Stacks Set.PNG"
 - title: Stackmat Pro
