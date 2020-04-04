@@ -17,7 +17,7 @@ info: All prices shown in the Stackhouse catalogues are in **US Dollars**. For a
 date: '2019-03-29T22:34:48.000+00:00'
 catalogues:
 - title: Stackhouse Catalogue
-  pdf: "/2019 Stack  Catalog final 10-15-18.pdf"
-  year: 2019
+  pdf: ''
+  year: 2020
 
 ---
