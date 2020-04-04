@@ -9,6 +9,8 @@ logo: ''
 website: ''
 catalogues: []
 photos:
+- title: G4 Stack Mat
+  photo: "/G4 Stack Mat.PNG"
 - title: Skillastics
   photo: "/Skillastics.PNG"
 info: |-
