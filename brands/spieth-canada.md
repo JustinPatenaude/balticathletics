@@ -3,6 +3,7 @@ layout: brand
 permalink: "/brands/spieth-canada/"
 categories:
 - products/badminton.md
+- products/made-in-canada.md
 - products/posts.md
 - products/nets.md
 - products/volleyball.md
@@ -21,12 +22,12 @@ info: |-
 
   Spieth America equipment can be found in gym clubs, YMCA’s, schools and various other organizations throughout North America and internationally, and at many local, national and international competitions. We support the US and Canadian Federations in order to continue developing the sport of gymnastics.
 photos:
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
+- title: Volleyball Aluminum Posts
+  photo: "/Volleyball Aluminum Posts.PNG"
 - title: Post Padding
   photo: "/Post Padding.PNG"
-- title: post storage bracket
-  photo: "/post storage bracket.PNG"
-- title: Post Storage Rack
-  photo: "/Post Storage Rack.PNG"
 - title: Referee Platform Padding
   photo: "/Referee Platform Padding.PNG"
 - title: Sitting Volleyball Net
@@ -35,9 +36,11 @@ photos:
   photo: "/Tournament Volleyball Net.PNG"
 - title: International Regulation Volleyball Net
   photo: "/International Regulation Volleyball Net.PNG"
-- title: Volleyball Aluminum Posts
-  photo: "/Volleyball Aluminum Posts.PNG"
 - title: Volleyball Net Antennaes & Pockets - sold separately
   photo: "/Volleyball Net Antennaes & Pockets - sold separately.PNG"
+- title: Post Storage Rack
+  photo: "/Post Storage Rack.PNG"
+- title: post storage bracket
+  photo: "/post storage bracket.PNG"
 
 ---
