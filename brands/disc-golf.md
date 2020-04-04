@@ -9,7 +9,7 @@ logo: ''
 website: ''
 catalogues:
 - year: 2018
-  pdf: ''
+  pdf: "/2018_discatcher_promo.pdf"
   title: DISCatcher Traveler Target Info (pricing subject to change)
 photos:
 - title: Disc Golf Portable Net
