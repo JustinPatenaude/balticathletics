@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: Official Rubber Discus
+  photo: "/official-rubber-discus.jpg"
 - title: T2PCS Ring
   photo: "/T2PCS ring.jpg"
 - title: TEXS High Jump Standards
