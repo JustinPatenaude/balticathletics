@@ -1,8 +1,8 @@
 ---
 layout: brand
-permalink: "/brands/ultimate-disc-and-disc-golf"
+permalink: "/brands/ultimate-disc"
 categories: []
-title: Ultimate Disc and Disc Golf
+title: Ultimate Disc
 logo: ''
 website: ''
 catalogues: []
