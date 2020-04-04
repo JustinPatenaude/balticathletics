@@ -18,6 +18,10 @@ info: |-
 
   Spieth America equipment can be found in gym clubs, YMCA’s, schools and various other organizations throughout North America and internationally, and at many local, national and international competitions. We support the US and Canadian Federations in order to continue developing the sport of gymnastics.
 photos:
+- title: Tournament Volleyball Net
+  photo: "/Tournament Volleyball Net.PNG"
+- title: Volleyball Aluminum Posts
+  photo: "/Volleyball Aluminum Posts.PNG"
 - title: Volleyball Net Antennaes & Pockets - sold separately
   photo: "/Volleyball Net Antennaes & Pockets - sold separately.PNG"
 
