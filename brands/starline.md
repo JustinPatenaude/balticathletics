@@ -2,34 +2,38 @@
 layout: brand
 permalink: "/brands/starline/"
 categories:
-- products/bags.md
+- products/auto.md
+- products/bags-totes-duffels.md
 - products/blankets.md
 - products/drinkware.md
 - products/first-aid.md
 - products/games.md
 - products/gift-sets.md
-- products/hats.md
+- products/headwear.md
 - products/health-fitness.md
 - products/home.md
-- products/auto.md
 - products/jackets.md
 - products/notebooks.md
-- products/plush-novelties.md
-- products/outdoor-camping.md
 - products/pants.md
+- products/pens.md
+- products/plush-novelties.md
 - products/safety.md
 - products/shirts.md
 - products/tech-items.md
 - products/tools-lights-keytags.md
 - products/travel.md
 - products/umbrellas.md
-- products/writing-materials.md
 title: Starline
 logo: "/starline-logo.png"
 website: https://www.starline.com/
 pdfs: []
-info: Click [HERE](https://www.starline.com/products/Safety/Safety_Eyewear "Starline
-  - Protective Eyewear") to view Starline’s Protective Eyewear
+info: |-
+  Click [HERE](https://www.starline.com/products/Safety/Safety_Eyewear "Starline - Protective Eyewear") to view Starline’s Protective Eyewear
+
+  **Starline** is a Canadian supplier in the promotional products industry for over 40 years and provides upscale retail quality gifts and awards among Bags, Drinkware, Electronics, ToolZone™ including CREE® Flashlights, LED Flashlights, Knives and Tools, Lifestyles, HomeStyles™, Safety including Eyewear, Head Protection, Hand Protection and Hi-Vis Apparel and Business Essentials.
 date: '2019-03-29T22:35:12.000+00:00'
+photos:
+- title: 1240 BBQ Tools
+  photo: "/1240 bbq tools.jpg"
 
 ---
