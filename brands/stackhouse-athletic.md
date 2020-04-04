@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: FLCS Lineman Chain Set
+  photo: "/FLCS Lineman chain set.jpg"
 - title: FKN Kicking Net
   photo: "/FKN kicking net.jpg"
 - title: FHR Football Helmet Rack
