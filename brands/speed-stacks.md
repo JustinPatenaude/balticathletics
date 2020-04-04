@@ -9,6 +9,8 @@ logo: ''
 website: ''
 catalogues: []
 photos:
+- title: Stackmat Pro
+  photo: "/Stack Mat Pro.PNG"
 - title: Stackmat Pro Timer
   photo: "/Stackmat Pro Timer.PNG"
 - title: G4 Stack Mat
