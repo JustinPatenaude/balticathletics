@@ -8,7 +8,9 @@ categories:
 - products/nets.md
 - products/parkour.md
 - products/posts.md
+- products/custom-mats.md
 - products/rhythmic-gymnastics.md
+- products/safety.md
 - products/volleyball.md
 title: Spieth Canada
 logo: "/spieth-canada-logo.jpg"
