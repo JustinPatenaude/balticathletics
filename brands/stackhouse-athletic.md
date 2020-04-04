@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: Competition Iron Shop Put
+  photo: "/competition-iron-shot-puts.jpg"
 - title: Competition Discus
   photo: "/competition-discus.jpg"
 - title: Official Rubber Discus
