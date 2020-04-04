@@ -1,12 +1,14 @@
 ---
 layout: brand
-permalink: "/brands/disc-golf"
+permalink: "/brands/flying-disc-games"
 categories: []
-title: Disc Golf
+title: Flying Disc Games
 logo: ''
 website: ''
 catalogues: []
 photos:
+- title: Discraft Ultimate Star Disc
+  photo: "/Discraft Ultra-Star disc.jpg"
 - title: Disc Golf Portable Net
   photo: "/2019.05.17 Disc Golf - Portable_L.jpg"
 info: |-
