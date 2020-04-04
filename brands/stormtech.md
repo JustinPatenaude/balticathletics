@@ -22,6 +22,8 @@ info: |-
 
   Link to [Since 1977 - Stormtech Story](https://www.stormtech.ca/pages/history)
 photos:
+- title: FXH-1_Cascade Hoody
+  photo: "/FXH-1_Cascade Hoody.jpg"
 - title: HTZ-1_Base Thermal Quarter Zip
   photo: "/HTZ-1_Base Thermal Quarter Zip.jpg"
 - title: JLC-1W_Women's Pacifica Jacket
