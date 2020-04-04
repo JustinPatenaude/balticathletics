@@ -24,25 +24,25 @@ info: |-
 
   Official supplier to Volleyball Canada.
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada.jpg"
-- title: Volleyball Aluminum Posts
-  photo: "/Volleyball Aluminum Posts.PNG"
-- title: Post Padding
-  photo: "/Post Padding.PNG"
-- title: Referee Platform Padding
-  photo: "/Referee Platform Padding.PNG"
 - title: Sitting Volleyball Net
   photo: "/Sitting Volleyball Net.PNG"
 - title: Tournament Volleyball Net
   photo: "/Tournament Volleyball Net.PNG"
 - title: International Regulation Volleyball Net
   photo: "/International Regulation Volleyball Net.PNG"
-- title: Volleyball Net Antennaes & Pockets - sold separately
-  photo: "/Volleyball Net Antennaes & Pockets - sold separately.PNG"
+- title: Volleyball Aluminum Posts
+  photo: "/Volleyball Aluminum Posts.PNG"
+- title: Post Padding
+  photo: "/Post Padding.PNG"
+- title: Referee Platform Padding
+  photo: "/Referee Platform Padding.PNG"
 - title: Post Storage Rack
   photo: "/Post Storage Rack.PNG"
 - title: post storage bracket
   photo: "/post storage bracket.PNG"
+- title: Volleyball Net Antennaes & Pockets - sold separately
+  photo: "/Volleyball Net Antennaes & Pockets - sold separately.PNG"
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 
 ---
