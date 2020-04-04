@@ -4,12 +4,12 @@ permalink: "/brands/spieth-canada/"
 categories:
 - products/badminton.md
 - products/made-in-canada.md
-- products/posts.md
-- products/nets.md
-- products/volleyball.md
-- products/parkour.md
 - products/gymnastics.md
+- products/nets.md
+- products/parkour.md
+- products/posts.md
 - products/rhythmic-gymnastics.md
+- products/volleyball.md
 title: Spieth Canada
 logo: "/spieth-canada-logo.jpg"
 website: ''
@@ -22,8 +22,6 @@ info: |-
 
   Spieth America equipment can be found in gym clubs, YMCA’s, schools and various other organizations throughout North America and internationally, and at many local, national and international competitions. We support the US and Canadian Federations in order to continue developing the sport of gymnastics.
 photos:
-- title: Proudly Canadian
-  photo: "/proudly canadian.jpg"
 - title: Volleyball Aluminum Posts
   photo: "/Volleyball Aluminum Posts.PNG"
 - title: Post Padding
@@ -42,5 +40,7 @@ photos:
   photo: "/Post Storage Rack.PNG"
 - title: post storage bracket
   photo: "/post storage bracket.PNG"
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 
 ---
