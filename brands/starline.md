@@ -29,15 +29,15 @@ logo: "/starline-logo.png"
 website: https://www.starline.com/
 pdfs: []
 info: |-
-  Click [HERE](https://www.starline.com/products/Safety/Safety_Eyewear "Starline - Protective Eyewear") to view Starline’s Protective Eyewear
+  Link to[ Starline 2020 New & Best Brochure](https://viewer.zoomcatalog.com/starline-2020-canada)
+
+  Line to view [Starline’s Protective Eyewear](https://www.starline.com/products/Safety/Safety_Eyewear)
 
   ***
 
   **Starline** is a Canadian supplier in the promotional products industry for over 40 years and provides upscale retail quality gifts and awards among Bags, Drinkware, Electronics, ToolZone™ including CREE® Flashlights, LED Flashlights, Knives and Tools, Lifestyles, HomeStyles™, Safety including Eyewear, Head Protection, Hand Protection and Hi-Vis Apparel and Business Essentials.
 date: '2019-03-29T22:35:12.000+00:00'
 photos:
-- title: Proudly Canadian
-  photo: "/proudly canadian.jpg"
 - title: 33259 Urban Peak Summit Vacuum Camp Mug
   photo: "/33259 Urban Peak Summit Vacuum Camp Mug.jpg"
 - title: 22260 Bolle safety glasses
@@ -54,5 +54,7 @@ photos:
   photo: "/1559 6 pc steak knife set.jpg"
 - title: 1240 BBQ Tools
   photo: "/1240 bbq tools.jpg"
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 
 ---
