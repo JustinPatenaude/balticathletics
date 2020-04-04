@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: Shoulder Pad Cart
+  photo: "/shoulder-pad-cart.jpg"
 - title: LSR String Reel
   photo: "/LSR string reel.jpg"
 - title: FRM High Step Running Maze
