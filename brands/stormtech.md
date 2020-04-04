@@ -22,6 +22,8 @@ info: |-
 
   Link to [Since 1977 - Stormtech Story](https://www.stormtech.ca/pages/history)
 photos:
+- title: JLC-1W_Women's Pacifica Jacket
+  photo: "/JLC-1W_Women's Pacifica Jacket.jpg"
 - title: KSH-1_Men's Orbiter Softshell Hoody
   photo: "/KSH-1_Men's Orbiter Softshell Hoody.jpg"
 - title: STXJ-2_Warrior Training Jacket
