@@ -1,11 +1,11 @@
 ---
 layout: brand
-permalink: "/brands/flying-disc-games"
+permalink: "/brands/flying-disc-sports"
 categories:
 - products/disc-golf.md
 - products/ultimate.md
-title: Flying Disc Games
-logo: ''
+title: Flying Disc Sports
+logo: "/Brand logo.png"
 website: ''
 catalogues:
 - year: 2018
