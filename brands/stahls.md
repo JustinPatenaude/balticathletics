@@ -9,6 +9,8 @@ website: ''
 catalogues: []
 info: ''
 photos:
+- title: Helmet Number Stickers
+  photo: "/Helmet Numbers.PNG"
 - title: Custom Helmet Stickers
   photo: "/Custom Helmet Stickers.PNG"
 - title: Custom Helmet Stickers
