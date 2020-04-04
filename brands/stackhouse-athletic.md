@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: TJMC50 Javelin
+  photo: "/TJMC50.jpg"
 - title: TJMC60 Javelin
   photo: "/TJMC60 javelin.jpg"
 - title: TMTB Shot Put Toe Board
