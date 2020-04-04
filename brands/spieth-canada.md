@@ -18,6 +18,8 @@ info: |-
 
   Spieth America equipment can be found in gym clubs, YMCA’s, schools and various other organizations throughout North America and internationally, and at many local, national and international competitions. We support the US and Canadian Federations in order to continue developing the sport of gymnastics.
 photos:
+- title: post storage bracket
+  photo: "/post storage bracket.PNG"
 - title: Post Storage Rack
   photo: "/Post Storage Rack.PNG"
 - title: Referee Platform Padding
