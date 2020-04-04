@@ -19,10 +19,10 @@ catalogues:
 - title: Spieth Volleyball Catalogue
   year: 2019
   pdf: "/2019 Volleyball Catalog_FINAL.pdf"
-info: |-
-  For over 40 years, **Spieth America** has been one of the most trusted gymnasium and sports equipment manufacturers in North America. They offer an assortment of highly specialized gymnastics apparatus and mats, preschool/developmental equipment, sport mat surfaces, volleyball, and badminton systems.
-
-  Spieth America equipment can be found in gym clubs, YMCA’s, schools and various other organizations throughout North America and internationally, and at many local, national and international competitions. We support the US and Canadian Federations in order to continue developing the sport of gymnastics.
+info: For over 40 years, **Spieth America** has been one of the most trusted gymnasium
+  and sports equipment manufacturers in North America. They offer an assortment of
+  highly specialized gymnastics apparatus and mats, preschool/developmental equipment,
+  sport mat surfaces, volleyball, and badminton systems.
 photos:
 - title: Volleyball Aluminum Posts
   photo: "/Volleyball Aluminum Posts.PNG"
