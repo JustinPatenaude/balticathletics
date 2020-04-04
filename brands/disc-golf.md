@@ -7,12 +7,15 @@ categories:
 title: Flying Disc Games
 logo: ''
 website: ''
-catalogues: []
+catalogues:
+- year: 2018
+  pdf: ''
+  title: DISCatcher Traveler Target Info (pricing subject to change)
 photos:
-- title: Discatcher Portable Lightweight Traveler Target
-  photo: "/innova_01.jpg"
 - title: Disc Golf Portable Net
   photo: "/2019.05.17 Disc Golf - Portable_L.jpg"
+- title: Discatcher Portable Lightweight Traveler Target
+  photo: "/innova_01.jpg"
 - title: Disc Golf Disc
   photo: "/disc golf.jpg"
 - title: Discraft Ultimate Star Disc
