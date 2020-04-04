@@ -7,6 +7,8 @@ logo: ''
 website: ''
 catalogues: []
 photos:
+- title: Disc Golf Disc
+  photo: "/disc golf.jpg"
 - title: Discraft Ultimate Star Disc
   photo: "/Discraft Ultra-Star disc.jpg"
 - title: Disc Golf Portable Net
