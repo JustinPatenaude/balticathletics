@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: Competition Discus
+  photo: "/competition-discus.jpg"
 - title: Official Rubber Discus
   photo: "/official-rubber-discus.jpg"
 - title: T2PCS Ring
