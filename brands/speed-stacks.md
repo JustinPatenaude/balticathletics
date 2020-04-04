@@ -9,6 +9,8 @@ logo: ''
 website: ''
 catalogues: []
 photos:
+- title: The Sport Pack
+  photo: "/The Sport Pack.PNG"
 - title: Colour Thirty Set
   photo: "/Colour Thirty Set.PNG"
 - title: Speed Stacks Set
