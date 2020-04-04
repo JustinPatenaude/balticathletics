@@ -20,6 +20,8 @@ catalogues:
   pdf: "/2020 Stackhouse Catalog 1-28-20.pdf"
   year: 2020
 photos:
+- title: TMTB Shot Put Toe Board
+  photo: "/TMTB shot put toe board.jpg"
 - title: TOLY Starting Blocks
   photo: "/TOLY starting blocks.jpg"
 - title: TRASC High Jump Standards
