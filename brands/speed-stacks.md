@@ -5,7 +5,7 @@ categories:
 - products/games.md
 - products/pe-equipment.md
 title: Speed Stacks
-logo: ''
+logo: "/speed stacks_logo.jpg"
 website: ''
 catalogues: []
 photos:
