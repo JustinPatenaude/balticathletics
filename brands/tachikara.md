@@ -16,6 +16,8 @@ logo: "/Tachikara logo.jpeg"
 website: ''
 catalogues: []
 photos:
+- title: DS1 Ball cart
+  photo: "/ds-1.jpg"
 - title: TV6 bag
   photo: "/tv6.jpg"
 - title: Game Plan board
