@@ -10,6 +10,8 @@ catalogues:
   year: 2019
   pdf: ''
 photos:
+- title: 6402 American Apparel Leggings
+  photo: "/6402_American Apparel leggings.jpg"
 - title: 5768_Yupoong 5 panel retro trucker cap
   photo: "/5768_Yupoong 5 panel retro trucker cap.jpg"
 - title: 4333 Richardson 6 panel cap
