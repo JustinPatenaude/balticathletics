@@ -12,6 +12,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:38:27.000+00:00'
 photos:
+- title: Konzept orange Soccer Ball
+  photo: "/Konzept orange Soccer Ball.jpg"
 - title: Jazz goal jersey
   photo: "/Jazz goal jersey.jpg"
 - title: goal jersey
