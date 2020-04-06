@@ -17,7 +17,9 @@ catalogues:
 - title: Toba Sportswear Catalogue
   year: 2020
   pdf: "/Toba 2020 Catalogue.pdf"
-photos: []
+photos:
+- title: 18500 Gildan Hoodies
+  photo: "/18500 PURPLE.jpg"
 info: |-
   Toba Sportswear is a Winnipeg, Manitoba wholesale company that carries:
 
