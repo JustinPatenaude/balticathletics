@@ -16,6 +16,8 @@ logo: "/Tachikara logo.jpeg"
 website: ''
 catalogues: []
 photos:
+- title: PV-NET Professional Volleyball Net
+  photo: "/pv-net.jpg"
 - title: BC-HAM Ball Cart
   photo: "/bc-ham.jpg"
 - title: DS1 Ball cart
