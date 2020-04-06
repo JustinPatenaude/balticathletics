@@ -16,6 +16,8 @@ logo: "/Tachikara logo.jpeg"
 website: ''
 catalogues: []
 photos:
+- title: RGB1 Rugby Ball
+  photo: "/rgb1.jpg"
 - title: REC-NET Recreational Net
   photo: "/rec-net.jpg"
 - title: PV-NET Professional Volleyball Net
