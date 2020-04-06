@@ -16,6 +16,8 @@ logo: "/Tachikara logo.jpeg"
 website: ''
 catalogues: []
 photos:
+- title: SV-MNC Volleyball Lite
+  photo: "/svmnc.pkw.jpg"
 - title: SV18S Volleyball
   photo: "/sv18s.ryw.jpg"
 - title: SV14 Soft Volleyball
