@@ -10,6 +10,8 @@ catalogues:
   year: 2019
   pdf: ''
 photos:
+- title: SS4500Z Independent Trading Co. Midweight Full Zip Hooded Sweatshirt
+  photo: "/83661_camo full zip.jpg"
 - title: 42781 Anvil Raglan Tee
   photo: "/42781 Anvil raglan tee.jpg"
 - title: 42000L Gildan Performance Tee
