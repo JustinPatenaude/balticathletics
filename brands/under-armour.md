@@ -10,6 +10,8 @@ catalogues:
   year: 2020
 info: ''
 photos:
+- title: 1327204 UA knit warm up pant BLACK
+  photo: "/1327204 UA knit warm up pant BLACK.jpg"
 - title: 1305780 UA Novelty Locker Quarter Zip
   photo: "/1305780 UA Novelty Locker Quarter Zip.PNG"
 - title: 1300123 UA Hustle Hoodie
