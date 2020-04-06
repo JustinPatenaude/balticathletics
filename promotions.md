@@ -5,7 +5,7 @@ permalink: "/promotions/"
 products:
 - title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
-  price: 25
+  price: 27
   description: "Features:\nAvailable in 6 colours and both left & right handed.\nLightweight
     premium composite shafts for consistent and power shooting.\nPre-hook curved blade
     for accurate shots and ball handling.\nTwo-tone soft PU grip for comfortable and
