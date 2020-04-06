@@ -12,6 +12,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:38:27.000+00:00'
 photos:
+- title: Starter goal gloves
+  photo: "/Starter goal gloves.jpg"
 - title: Standard GK pants
   photo: "/Standard GK pants.jpg"
 - title: Sensor GK jersey
