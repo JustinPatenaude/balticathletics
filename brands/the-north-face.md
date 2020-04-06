@@ -7,6 +7,8 @@ logo: "/the north face logo.jpg"
 website: https://www.sanmarcanada.com/shop-catalogue/shop-by-brand/the-north-face-reg.html
 catalogues: []
 photos:
+- title: NF0A3LH5 Dryvent Rain Jacket
+  photo: "/NF0A3LH5 Dryvent Rain Jacket.jpg"
 - title: NF0A3LHL Thermoball Trekker Vest
   photo: "/NF0A3LHL Thermoball Trekker Vest.jpg"
 info: |-
