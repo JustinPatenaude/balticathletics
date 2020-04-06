@@ -18,18 +18,16 @@ photos:
   photo: "/Uhlsport Elysia Ligue 1 game ball.jpg"
 - title: Uhlsport Elysia Match Ball
   photo: "/Uhlsport Elysia Match Ball.jpg"
-- title: Uhlsport Elysia Pro Training Ball
-  photo: "/Uhlsport Elysia Pro Training Ball.jpg"
 - title: Elysia Match Pro Soccer Ball
   photo: "/Elysia Match Pro Soccer Ball.png"
-- title: Elysia Ligue 1 replica
-  photo: "/Elysia Ligue 1 replica.png"
 - title: Konzept yellow soccer ball
   photo: "/Konzept yellow soccer ball.jpg"
 - title: Konzept Soccer Ball
   photo: "/Konzept Soccer Ball.jpg"
 - title: Konzept orange Soccer Ball
   photo: "/Konzept orange Soccer Ball.jpg"
+- title: Copacabana Beach Soccer Ball
+  photo: "/Copacabana Beach - 1500-25-714x500.jpg"
 - title: Elysia Sala-Futsal
   photo: "/Elysia Sala-Futsal.jpg"
 - title: Pro Ligue
@@ -46,8 +44,6 @@ photos:
   photo: "/goal jersey.jpg"
 - title: Torlinie GK pants
   photo: "/Torlinie GK pants.jpg"
-- title: Copacabana Beach Soccer Ball
-  photo: "/Copacabana Beach - 1500-25-714x500.jpg"
 - title: Standard GK pants
   photo: "/Standard GK pants.jpg"
 - title: Essential GK pants
