@@ -18,7 +18,7 @@ photos:
   photo: "/42000L Gildan Perf tee.jpg"
 - title: 8328W American Apparel Women's Spandex Jersey Leggings
   photo: "/6402_American Apparel leggings.jpg"
-- title: 5768_Yupoong 5 panel retro trucker cap
+- title: 6506 Yupoong 5 panel retro trucker cap
   photo: "/5768_Yupoong 5 panel retro trucker cap.jpg"
 - title: 4333 Richardson 6 panel cap
   photo: "/4333_Richardson 6 panel cap.jpg"
