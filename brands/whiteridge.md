@@ -4,6 +4,7 @@ permalink: "/brands/whiteridge/"
 categories:
 - products/bags-totes-duffels.md
 - products/blankets.md
+- products/camouflage.md
 - products/made-in-canada.md
 - products/chairs.md
 - products/jackets.md
