@@ -16,6 +16,8 @@ logo: "/Tachikara logo.jpeg"
 website: ''
 catalogues: []
 photos:
+- title: BC-HAM Ball Cart
+  photo: "/bc-ham.jpg"
 - title: DS1 Ball cart
   photo: "/ds-1.jpg"
 - title: TV6 bag
