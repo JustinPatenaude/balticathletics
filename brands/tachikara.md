@@ -15,7 +15,9 @@ title: Tachikara
 logo: "/Tachikara logo.jpeg"
 website: ''
 catalogues: []
-photos: []
+photos:
+- title: TPE33 Inflator
+  photo: "/tpe-33 inflator.jpg"
 info: |-
   **TACHIKARA**®, _(pronounced tah·chee·kah·rah)_ established in 1915, is a world renown innovator and leader in advanced methods for manufacturing and materials. The brand name is derived from a mythological character in Japanese folklore, Tachikara-Ono-Mikoto, a "god of power."
 
