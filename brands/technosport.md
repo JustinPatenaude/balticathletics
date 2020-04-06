@@ -10,6 +10,8 @@ catalogues:
   year: 2019
   pdf: ''
 photos:
+- title: 4333 Richardson 6 panel cap
+  photo: "/4333_Richardson 6 panel cap.jpg"
 - title: SP15 Grey/Black toque
   photo: "/SP15 Grey.Blk.png"
 info: ''
