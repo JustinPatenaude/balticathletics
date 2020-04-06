@@ -18,6 +18,8 @@ info: |-
   Headquartered in Chicago, United States, Wilson employs over 1,600 people globally. The company’s dedicated sales network serves customers in over 100 countries.
 date: '2019-03-29T22:38:38.000+00:00'
 photos:
+- title: Wilson CFL Ultimate Football
+  photo: "/Wilson CFL Ultimate Football.PNG"
 - title: WTH4407 Canada Official Beach Replica Volleyball
   photo: "/WTH4407 Canada Official Beach Replica Volleyball.jpg"
 
