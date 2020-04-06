@@ -14,7 +14,10 @@ categories:
 title: Tachikara
 logo: "/Tachikara logo.jpeg"
 website: ''
-catalogues: []
+catalogues:
+- title: Tachikara Catalogue
+  year: 2019
+  pdf: ''
 photos:
 - title: ZEBRA Volleyball
   photo: "/zebra.hpkw.jpg"
