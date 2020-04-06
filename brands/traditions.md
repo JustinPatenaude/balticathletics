@@ -1,18 +1,19 @@
 ---
 layout: brand
 permalink: "/brands/traditions"
-categories: []
+categories:
+- products/track-field.md
 title: Traditions
 logo: "/traditionslogo1.jpg"
 website: ''
 catalogues: []
 photos:
-- title: 22 Calibur Blanks (acorn blanks)
-  photo: "/22 Cal blanks.jpg"
-- title: 209 Primer Blanks (for use with Traditions 209 starter pistol)
-  photo: "/209 primer blanks.jpg"
 - photo: "/Starter fun fires 209 shotgun primers.jpg"
   title: Traditions 209 Starting Pistol
+- title: 209 Primer Blanks (for use with Traditions 209 starter pistol)
+  photo: "/209 primer blanks.jpg"
+- title: 22 Calibur Blanks (acorn blanks)
+  photo: "/22 Cal blanks.jpg"
 info: |-
   Importing firearms involves a lot of red tape, so we have connected with a supplier that is able to get **Traditions Starter Pistols and Blanks** in for us, taking care of that hassle.
 
