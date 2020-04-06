@@ -14,5 +14,8 @@ info: "**Trimark** has been supplying high quality apparel for over 40 years. Wi
   fashion-forward looks an innovative technical features to produce award-winning
   styles."
 date: '2019-03-29T22:37:27.000+00:00'
+photos:
+- title: 96310 Rumus Polo
+  photo: "/96310 Rumus Polo.jpg"
 
 ---
