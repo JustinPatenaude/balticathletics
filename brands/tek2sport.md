@@ -16,15 +16,15 @@ logo: "/tek2sport-logo.svg"
 website: https://tek2sport.com/
 catalogues:
 - title: Powertek Catalogue
-  year: 2018
-  pdf: "/2018-powertek-catalogue.pdf"
+  year: 2020
+  pdf: ''
 photos:
-- title: Sasquatch Walking Poles
-  photo: "/Sasquatch Walking Poles.PNG"
-- title: Powertek V3.0 Hockey Bag
-  photo: "/Powertek V3.0 Hockey Bag.PNG"
 - title: Hockey Helmet V3.0
   photo: "/v3-helmet-player.jpg"
+- title: Powertek V3.0 Hockey Bag
+  photo: "/Powertek V3.0 Hockey Bag.PNG"
+- title: Sasquatch Walking Poles
+  photo: "/Sasquatch Walking Poles.PNG"
 - title: Proudly Canadian
   photo: "/proudly canadian.jpg"
 info: "**TEK 2 Sport** is a sports equipment manufacturer focused on the future….
