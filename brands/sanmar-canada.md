@@ -4,6 +4,7 @@ permalink: "/brands/sanmar-canada"
 categories:
 - products/bags-totes-duffels.md
 - products/golf.md
+- products/headwear.md
 - products/hoodies.md
 - products/jackets.md
 - products/jerseys.md
