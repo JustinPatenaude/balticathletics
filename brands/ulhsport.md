@@ -12,6 +12,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:38:27.000+00:00'
 photos:
+- title: Essential GK pants
+  photo: "/Essential GK pants.jpg"
 - title: Elysia Sala-Futsal
   photo: "/Elysia Sala-Futsal.jpg"
 - title: Elysia Pro Training 2.0
