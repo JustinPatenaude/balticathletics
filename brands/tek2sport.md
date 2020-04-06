@@ -5,7 +5,10 @@ categories: []
 title: Tek2Sport
 logo: "/tek2sport-logo.svg"
 website: ''
-catalogues: []
+catalogues:
+- title: Powertek Catalogue
+  year: 2018
+  pdf: ''
 photos:
 - title: Proudly Canadian
   photo: "/proudly canadian.jpg"
