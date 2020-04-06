@@ -17,7 +17,7 @@ website: https://tek2sport.com/
 catalogues:
 - title: Powertek Catalogue
   year: 2020
-  pdf: ''
+  pdf: "/PTK-catalog2020.pdf"
 photos:
 - title: Hockey Helmet V3.0
   photo: "/v3-helmet-player.jpg"
