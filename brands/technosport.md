@@ -10,6 +10,8 @@ catalogues:
   year: 2019
   pdf: ''
 photos:
+- title: 5768_Yupoong 5 panel retro trucker cap
+  photo: "/5768_Yupoong 5 panel retro trucker cap.jpg"
 - title: 4333 Richardson 6 panel cap
   photo: "/4333_Richardson 6 panel cap.jpg"
 - title: SP15 Grey/Black toque
