@@ -16,6 +16,8 @@ logo: "/Tachikara logo.jpeg"
 website: ''
 catalogues: []
 photos:
+- title: SV14 Soft Volleyball
+  photo: "/sv14.jpg"
 - title: SV5WSC Volleyball
   photo: "/sv5wsc.swb Tachikara Volleyball.jpg"
 - title: RGB1 Rugby Ball
