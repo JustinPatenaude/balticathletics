@@ -1,7 +1,8 @@
 ---
 layout: brand
 permalink: "/brands/the-north-face"
-categories: []
+categories:
+- products/jackets.md
 title: The North Face
 logo: "/the north face logo.jpg"
 website: https://www.sanmarcanada.com/shop-catalogue/shop-by-brand/the-north-face-reg.html
