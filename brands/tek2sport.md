@@ -1,14 +1,23 @@
 ---
 layout: brand
 permalink: "/brands/tek2sport"
-categories: []
+categories:
+- products/bags-totes-duffels.md
+- products/made-in-canada.md
+- products/floor-hockey.md
+- products/hockey.md
+- products/jerseys.md
+- products/pinnies.md
+- products/ringette.md
+- products/socks.md
+- products/snowshoes.md
 title: Tek2Sport
 logo: "/tek2sport-logo.svg"
 website: ''
 catalogues:
 - title: Powertek Catalogue
   year: 2018
-  pdf: ''
+  pdf: "/2018-powertek-catalogue.pdf"
 photos:
 - title: Proudly Canadian
   photo: "/proudly canadian.jpg"
