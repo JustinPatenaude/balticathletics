@@ -11,6 +11,8 @@ logo: "/Camo_Realtree-Xtra logo1.jpg"
 website: https://www.sanmarcanada.com/shop-catalogue/shop-by-brand/realtree-174.html
 catalogues: []
 photos:
+- title: RT433 Real Tree Lazy Bear Chair (Whiteridge)
+  photo: "/RT433 Real Tree Lazy Bear Chair.jpg"
 - title: F2034 Performance Fleece Hooded Camo Sweatshirt - Adult
   photo: "/f2034_realtreeextra_modl_studio_c2018.jpg"
 - title: L2051 Performance Fleece Two Tone Hooded Camo Sweatshirt - Ladies
