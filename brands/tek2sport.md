@@ -19,6 +19,8 @@ catalogues:
   year: 2018
   pdf: "/2018-powertek-catalogue.pdf"
 photos:
+- title: Hockey Helmet V3.0
+  photo: "/v3-helmet-player.jpg"
 - title: Proudly Canadian
   photo: "/proudly canadian.jpg"
 info: "**TEK 2 Sport** is a sports equipment manufacturer focused on the future….
