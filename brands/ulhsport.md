@@ -12,6 +12,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:38:27.000+00:00'
 photos:
+- title: Eliminator supersoft goal gloves
+  photo: "/Eliminator supersoft goal gloves.jpg"
 - title: Copacabana Beach Soccer Ball
   photo: "/Copacabana Beach - 1500-25-714x500.jpg"
 - title: Cerebus goal gloves
