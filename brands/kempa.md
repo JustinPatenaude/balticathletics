@@ -8,6 +8,8 @@ logo: "/logo-kempa-1.png"
 website: ''
 catalogues: []
 photos:
+- title: 200188602 Leo Soft dense foam Handball
+  photo: "/200188602 Leo Soft dense foam Handball.png"
 - title: 200188401 Buteo Soft dense foam Handball
   photo: "/200188401 Buteo Soft dense foam Handball.png"
 - title: 200187606 Tiro Lite Profile
