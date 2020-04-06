@@ -5,7 +5,9 @@ categories: []
 title: Under Armour
 logo: "/logo-under-armour.png"
 website: ''
-catalogues: []
+catalogues:
+- title: Spring/Summer Catalogue
+  year: 2020
 info: ''
 
 ---
