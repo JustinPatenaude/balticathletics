@@ -16,6 +16,8 @@ logo: "/Tachikara logo.jpeg"
 website: ''
 catalogues: []
 photos:
+- title: SV18S Volleyball
+  photo: "/sv18s.ryw.jpg"
 - title: SV14 Soft Volleyball
   photo: "/sv14.jpg"
 - title: SV5WSC Volleyball
