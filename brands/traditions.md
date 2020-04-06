@@ -9,7 +9,7 @@ catalogues: []
 photos:
 - title: 22 Calibur Blanks (acorn blanks)
   photo: "/22 Cal blanks.jpg"
-- title: 209 Primer Blanks
+- title: 209 Primer Blanks (for use with Traditions 209 starter pistol)
   photo: "/209 primer blanks.jpg"
 - photo: "/Starter fun fires 209 shotgun primers.jpg"
   title: Traditions 209 Starting Pistol
