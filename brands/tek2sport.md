@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/TITLE"
+permalink: "/brands/tek2sport"
 categories: []
 title: Tek2Sport
 logo: "/tek2sport-logo.svg"
