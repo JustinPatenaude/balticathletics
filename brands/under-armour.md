@@ -35,8 +35,8 @@ info: "**Under Armour** was founded on September 25, 1996 by Kevin Plank, a then
 photos:
 - title: 1300123 UA Hustle Hoodie
   photo: "/1300123 UA Hustle hoodie ROYAL.jpg"
-- title: 1305780 UA Novelty Locker Quarter Zip
-  photo: "/1305780 UA Novelty Locker Quarter Zip.PNG"
+- title: UA Double Threat AF Hoodie
+  photo: "/UA Double Threat AF hoodie.jpg"
 - title: 1327204 UA knit warm up pant BLACK
   photo: "/1327204 UA knit warm up pant BLACK.jpg"
 - title: under-armour-gray
