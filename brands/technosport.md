@@ -9,7 +9,9 @@ catalogues:
 - title: Technosport Catalogue
   year: 2019
   pdf: ''
-photos: []
+photos:
+- title: SP15 Grey/Black toque
+  photo: "/SP15 Grey.Blk.png"
 info: ''
 
 ---
