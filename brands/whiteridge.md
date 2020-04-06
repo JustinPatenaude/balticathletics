@@ -18,6 +18,8 @@ info: |-
 
   For over 2 decades, **Whiteridge Inc.** has been Alberta’s leader in corporate, team, and recreational apparel.  Having grown from a 4 page flyer in 1997, their line has flourished to over 200 items. In 2014, the Whiteridge team was proud to introduce the Kuma line to its ever expanding products.
 photos:
+- title: 548 Berkeley Picnic Backpack w.Cooler & Blanket
+  photo: "/548 Berkeley Picnic Backpack w.Cooler & Blanket.jpg"
 - title: Proudly Canadian
   photo: "/proudly canadian.jpg"
 
