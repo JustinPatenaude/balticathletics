@@ -20,7 +20,7 @@ photos:
   photo: "/6402_American Apparel leggings.jpg"
 - title: 6506 Yupoong 5 panel retro trucker cap
   photo: "/5768_Yupoong 5 panel retro trucker cap.jpg"
-- title: 4333 Richardson 6 panel cap
+- title: 514 Richardson 6 panel cap
   photo: "/4333_Richardson 6 panel cap.jpg"
 - title: SP15 Grey/Black toque
   photo: "/SP15 Grey.Blk.png"
