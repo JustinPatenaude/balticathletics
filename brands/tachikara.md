@@ -16,6 +16,8 @@ logo: "/Tachikara logo.jpeg"
 website: ''
 catalogues: []
 photos:
+- title: TV6 bag
+  photo: "/tv6.jpg"
 - title: Game Plan board
   photo: "/game-plan.jpg"
 - title: TPE33 Inflator
