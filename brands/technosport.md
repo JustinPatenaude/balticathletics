@@ -10,6 +10,8 @@ catalogues:
   year: 2019
   pdf: ''
 photos:
+- title: 42000L Gildan Performance Tee
+  photo: "/42000L Gildan Perf tee.jpg"
 - title: 6402 American Apparel Leggings
   photo: "/6402_American Apparel leggings.jpg"
 - title: 5768_Yupoong 5 panel retro trucker cap
