@@ -16,7 +16,7 @@ photos:
   photo: "/42781 Anvil raglan tee.jpg"
 - title: 42000L Gildan Performance Tee
   photo: "/42000L Gildan Perf tee.jpg"
-- title: 6402 American Apparel Leggings
+- title: 8328W American Apparel Women's Spandex Jersey Leggings
   photo: "/6402_American Apparel leggings.jpg"
 - title: 5768_Yupoong 5 panel retro trucker cap
   photo: "/5768_Yupoong 5 panel retro trucker cap.jpg"
