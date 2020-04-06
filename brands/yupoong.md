@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/yupoong"
 categories:
+- products/camouflage.md
 - products/headwear.md
 title: Yupoong
 logo: "/YUPOONG_LOGO.jpg"
