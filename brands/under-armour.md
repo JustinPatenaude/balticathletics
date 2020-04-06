@@ -12,7 +12,7 @@ info: ''
 photos:
 - title: 1305780 UA Novelty Locker Quarter Zip
   photo: "/1305780 UA Novelty Locker Quarter Zip.PNG"
-- title: 1310071 UA Hustle Fleece Quarter Zip
-  photo: "/1310071 UA Hustle Fleece Quarter Zip.PNG"
+- title: 1300123 UA Hustle Hoodie
+  photo: "/1300123 UA Hustle hoodie ROYAL.jpg"
 
 ---
