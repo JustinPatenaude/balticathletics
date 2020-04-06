@@ -8,6 +8,8 @@ logo: "/YUPOONG_LOGO.jpg"
 website: https://en-ca.ssactivewear.com/ps/yupoong
 catalogues: []
 photos:
+- title: 6789M Yupoong Classics Premium Curved Visor Snapback Cap
+  photo: "/6789M Yupoong Classics Premium Curved Visor Snapback Cap.jpg"
 - title: 6506 Yupoong 5 panel retro trucker cap
   photo: "/6506 Yupoong 5 panel retro trucker cap.jpg"
 - title: 6606 Yupoong Classics 6 panel retro trucker cap
