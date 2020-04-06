@@ -7,6 +7,8 @@ logo: "/traditionslogo1.jpg"
 website: ''
 catalogues: []
 photos:
+- title: 22 Calibur Blanks (acorn blanks)
+  photo: "/22 Cal blanks.jpg"
 - title: 209 Primer Blanks
   photo: "/209 primer blanks.jpg"
 - photo: "/Starter fun fires 209 shotgun primers.jpg"
