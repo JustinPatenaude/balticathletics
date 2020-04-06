@@ -1,7 +1,15 @@
 ---
 layout: brand
 permalink: "/brands/toba-sportswear"
-categories: []
+categories:
+- products/made-in-canada.md
+- products/headwear.md
+- products/hoodies.md
+- products/jackets.md
+- products/pants.md
+- products/shirts.md
+- products/shorts.md
+- products/sweaters.md
 title: Toba Sportswear
 logo: "/toba logo 01.png"
 website: ''
@@ -10,6 +18,14 @@ catalogues:
   year: 2020
   pdf: "/Toba 2020 Catalogue.pdf"
 photos: []
-info: ''
+info: |-
+  Toba Sportswear is a Winnipeg, Manitoba wholesale company that carries:
+
+  * Bella + Canvas
+  * Fruit of the Loom
+  * Gildan
+  * Jerzees
+  * KNP Headwear
+  * Russell Athletics
 
 ---
