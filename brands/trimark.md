@@ -15,6 +15,8 @@ info: "**Trimark** has been supplying high quality apparel for over 40 years. Wi
   styles."
 date: '2019-03-29T22:37:27.000+00:00'
 photos:
+- title: 12802 Odaray Half Zip Jacket
+  photo: "/12802 Odaray Half Zip Jacket.jpg"
 - title: 12907 Peyto Softshell Jacket
   photo: "/12907 Peyto Softshell Jacket.jpg"
 - title: 16511 Piedmont Polo
