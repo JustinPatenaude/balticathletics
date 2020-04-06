@@ -18,6 +18,8 @@ catalogues:
   year: 2020
   pdf: "/Toba 2020 Catalogue.pdf"
 photos:
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 - title: 64HTTM Russell Lightweight Hoodie
   photo: "/64HTTM_8RX_lightweight hoodie.jpg"
 - title: 18500 Gildan Hoodies
