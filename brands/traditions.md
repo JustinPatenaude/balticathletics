@@ -7,6 +7,8 @@ logo: "/traditionslogo1.jpg"
 website: ''
 catalogues: []
 photos:
+- title: 209 Primer Blanks
+  photo: "/209 primer blanks.jpg"
 - photo: "/Starter fun fires 209 shotgun primers.jpg"
   title: Traditions 209 Starting Pistol
 info: |-
