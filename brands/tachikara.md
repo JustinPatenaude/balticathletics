@@ -16,6 +16,8 @@ logo: "/Tachikara logo.jpeg"
 website: ''
 catalogues: []
 photos:
+- title: ZEBRA Volleyball
+  photo: "/zebra.hpkw.jpg"
 - title: VX2 Volleyball Softec
   photo: "/vx2.rwy.jpg"
 - title: SV-MNC Volleyball Lite
