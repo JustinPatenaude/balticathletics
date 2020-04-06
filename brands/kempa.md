@@ -8,6 +8,8 @@ logo: "/logo-kempa-1.png"
 website: ''
 catalogues: []
 photos:
+- title: 200186303 Accedo Handball
+  photo: "/200186303 Accedo Handball.jpg"
 - title: Sentio Handball (only available in size 1 & 2)
   photo: "/Sentio Handball.jpg"
 info: |-
