@@ -12,6 +12,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:38:27.000+00:00'
 photos:
+- title: Tower GK jersey
+  photo: "/Tower GK jersey.jpg"
 - title: Torlinie GK pants
   photo: "/Torlinie GK pants.jpg"
 - title: Sunlight GK jersey
