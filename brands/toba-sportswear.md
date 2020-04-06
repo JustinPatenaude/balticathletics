@@ -18,6 +18,8 @@ catalogues:
   year: 2020
   pdf: "/Toba 2020 Catalogue.pdf"
 photos:
+- title: C-3727 Bella + Canvas joggers
+  photo: "/3727-dark-grey-heather.jpg"
 - title: J-92W snow heather ladies raglan full zip hood
   photo: "/j-92W snow heather ladies raglan full zip hood.PNG"
 - title: 64HTTM Russell Lightweight Hoodie
