@@ -10,6 +10,8 @@ catalogues:
   year: 2019
   pdf: ''
 photos:
+- title: 42781 Anvil Raglan Tee
+  photo: "/42781 Anvil raglan tee.jpg"
 - title: 42000L Gildan Performance Tee
   photo: "/42000L Gildan Perf tee.jpg"
 - title: 6402 American Apparel Leggings
