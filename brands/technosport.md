@@ -12,7 +12,7 @@ catalogues:
 photos:
 - title: SS4500Z Independent Trading Co. Midweight Full Zip Hooded Sweatshirt
   photo: "/83661_camo full zip.jpg"
-- title: 42781 Anvil Raglan Tee
+- title: 6755 Anvil Triblend Raglan Three Quarter Sleeve Tee
   photo: "/42781 Anvil raglan tee.jpg"
 - title: 42000L Gildan Performance Tee
   photo: "/42000L Gildan Perf tee.jpg"
