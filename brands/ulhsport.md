@@ -12,6 +12,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:38:27.000+00:00'
 photos:
+- title: Uhlsport Elysia Match Ball
+  photo: "/Uhlsport Elysia Match Ball.jpg"
 - title: Uhlsport Elysia Ligue 1 game ball
   photo: "/Uhlsport Elysia Ligue 1 game ball.jpg"
 - title: Tower GK jersey
