@@ -12,6 +12,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:38:27.000+00:00'
 photos:
+- title: Sunlight GK jersey
+  photo: "/Sunlight GK jersey.jpg"
 - title: Starter goal gloves
   photo: "/Starter goal gloves.jpg"
 - title: Standard GK pants
