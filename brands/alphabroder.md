@@ -11,7 +11,7 @@ categories:
 - products/sweaters.md
 title: Alphabroder
 logo: "/alphabroder-big.jpg"
-website: www.yourapparel.ca/balticathletics
+website: www.yourapparelchoice.ca/balticathletics
 catalogues:
 - title: Alphabroder Fall Essential Apparel Catalogue
   year: 2019
