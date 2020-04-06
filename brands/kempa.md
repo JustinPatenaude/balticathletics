@@ -8,6 +8,8 @@ logo: "/logo-kempa-1.png"
 website: ''
 catalogues: []
 photos:
+- title: 200187606 Tiro Lite Profile
+  photo: "/200187606 Tiro Lite Profile.jpg"
 - title: 200186303 Accedo Handball
   photo: "/200186303 Accedo Handball.jpg"
 - title: Sentio Handball (only available in size 1 & 2)
