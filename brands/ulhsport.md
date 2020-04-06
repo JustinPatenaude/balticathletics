@@ -12,6 +12,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:38:27.000+00:00'
 photos:
+- title: Sensor GK jersey
+  photo: "/Sensor GK jersey.jpg"
 - title: Pro Ligue
   photo: "/Pro Ligue.png"
 - title: Konzept yellow soccer ball
