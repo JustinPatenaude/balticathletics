@@ -16,6 +16,8 @@ logo: "/Tachikara logo.jpeg"
 website: ''
 catalogues: []
 photos:
+- title: Game Plan board
+  photo: "/game-plan.jpg"
 - title: TPE33 Inflator
   photo: "/tpe-33 inflator.jpg"
 info: |-
