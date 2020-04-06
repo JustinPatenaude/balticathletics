@@ -12,6 +12,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:38:27.000+00:00'
 photos:
+- title: Elysia Pro Training 2.0
+  photo: "/Elysia Pro Training 2.0.png"
 - title: Elysia Match Pro Soccer Ball
   photo: "/Elysia Match Pro Soccer Ball.png"
 - title: Elysia Ligue 1 replica
