@@ -12,6 +12,8 @@ pdfs: []
 info: ''
 date: '2019-03-29T22:38:27.000+00:00'
 photos:
+- title: Pro Ligue
+  photo: "/Pro Ligue.png"
 - title: Konzept yellow soccer ball
   photo: "/Konzept yellow soccer ball.jpg"
 - title: Konzept Soccer Ball
