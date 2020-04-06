@@ -15,6 +15,8 @@ info: "**Trimark** has been supplying high quality apparel for over 40 years. Wi
   styles."
 date: '2019-03-29T22:37:27.000+00:00'
 photos:
+- title: 16511 Piedmont Polo
+  photo: "/16511 Piedmont Polo.jpg"
 - title: 96310 Rumus Polo
   photo: "/96310 Rumus Polo.jpg"
 
