@@ -16,6 +16,8 @@ logo: "/Tachikara logo.jpeg"
 website: ''
 catalogues: []
 photos:
+- title: VX2 Volleyball Softec
+  photo: "/vx2.rwy.jpg"
 - title: SV-MNC Volleyball Lite
   photo: "/svmnc.pkw.jpg"
 - title: SV18S Volleyball
