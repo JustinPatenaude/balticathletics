@@ -20,10 +20,10 @@ date: '2019-03-29T22:38:38.000+00:00'
 photos:
 - title: Evolution Basketball
   photo: "/evolution.jpg"
-- title: I Cor Power Touch Volleyball
-  photo: "/I Cor Power touch volleyball.jpg"
 - title: Wilson CFL Ultimate Football
   photo: "/Wilson CFL Ultimate Football.PNG"
+- title: I Cor Power Touch Volleyball
+  photo: "/I Cor Power touch volleyball.jpg"
 - title: WTH4407 Canada Official Beach Replica Volleyball
   photo: "/WTH4407 Canada Official Beach Replica Volleyball.jpg"
 
