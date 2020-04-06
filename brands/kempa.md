@@ -7,7 +7,9 @@ title: Kempa
 logo: "/logo-kempa-1.png"
 website: ''
 catalogues: []
-photos: []
+photos:
+- title: Sentio Handball (only available in size 1 & 2)
+  photo: "/Sentio Handball.jpg"
 info: |-
   **Kempa** stands for handball. As a move and as a brand. The sport is characterised by agility, power, emotions and goosebump moments.
 
