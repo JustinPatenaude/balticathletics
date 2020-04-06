@@ -19,6 +19,8 @@ catalogues:
   year: 2018
   pdf: "/2018-powertek-catalogue.pdf"
 photos:
+- title: Sasquatch Walking Poles
+  photo: "/Sasquatch Walking Poles.PNG"
 - title: Powertek V3.0 Hockey Bag
   photo: "/Powertek V3.0 Hockey Bag.PNG"
 - title: Hockey Helmet V3.0
