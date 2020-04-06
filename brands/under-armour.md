@@ -10,6 +10,8 @@ catalogues:
   year: 2020
 info: ''
 photos:
+- title: under-armour-gray
+  photo: "/under-armour-gray.jpeg"
 - title: 1327204 UA knit warm up pant BLACK
   photo: "/1327204 UA knit warm up pant BLACK.jpg"
 - title: 1305780 UA Novelty Locker Quarter Zip
