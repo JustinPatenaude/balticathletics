@@ -8,6 +8,8 @@ logo: "/YUPOONG_LOGO.jpg"
 website: https://en-ca.ssactivewear.com/ps/yupoong
 catalogues: []
 photos:
+- title: 6606 Yupoong Classics 6 panel retro trucker cap
+  photo: "/6606 Yupoong Classics 6 panel retro trucker cap.jpg"
 - title: 6689 Yupoong Classics Melton Wool Blend Snapback Cap
   photo: "/6689 Yupoong Classics Melton Wool Blend Snapback Cap.jpg"
 info: Leveraging 40 years of manufacturing expertise, **Yupoong's** factories are
