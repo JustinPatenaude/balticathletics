@@ -17,8 +17,8 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
-- title: 65103 Medicine Ball Rack
-  photo: "/65103-MedicineBallRack.jpg"
+- title: 791420 36" Exergear Trampoline
+  photo: "/791420-36inch-Exergear-Trampoline.jpg"
 - title: 15400 Rubber Hex Dumbbell Set Stand
   photo: "/15400-RubberHexDumbbellSetStand.jpg"
 - title: 15402-15410 Rubber Hex Dumbbell Set
@@ -43,10 +43,12 @@ photos:
   photo: "/29092.jpg"
 - title: 2021_100 lb Contour Cast Iron Spinlock Set
   photo: "/2021_100LBContourCastIronSpinlockSet.jpg"
-- title: 6Q4A2571 Slam Balls
-  photo: "/6Q4A2571 slam balls.jpg"
 - title: 6 ft Straight Bar
   photo: "/6ft-straight.jpg"
+- title: 65103 Medicine Ball Rack
+  photo: "/65103-MedicineBallRack.jpg"
+- title: 6Q4A2571 Slam Balls
+  photo: "/6Q4A2571 slam balls.jpg"
 - title: 7801-7804 Unisex Fitness Glove
   photo: "/7801-7804-UnisexFitnessGlove.jpg"
 - title: 7891-7893 4" Padded Weight Lifting Belt
