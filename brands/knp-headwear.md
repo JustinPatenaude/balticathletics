@@ -9,6 +9,8 @@ logo: "/KNP-site-icon.jpg"
 website: ''
 catalogues: []
 photos:
+- title: Proudly Canadian
+  photo: "/proudly canadian.jpg"
 - title: AC1010 Acrylic Knit Winter Toque with Cuff
   photo: "/KNP-AC1010.jpg"
 - title: AC1070 Acrylic Toque with Pom
@@ -37,8 +39,6 @@ photos:
   photo: "/CT6550.jpg"
 - title: CY6070 Premium Cotton Jersey Cap
   photo: "/CY6070.jpg"
-- title: Made in Canada
-  photo: "/made_in_canada.jpg"
 info: Started in Ontario in 1989 by one man, **KNP Headwear** have been around for
   30 years, with extensive experience in all parts of the accessory, fashion, retail
   and sportswear business.
