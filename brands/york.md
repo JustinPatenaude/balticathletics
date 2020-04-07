@@ -17,6 +17,8 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
+- title: 6915 1" Plate Stand
+  photo: "/6915_1InchPlateStand.jpg"
 - title: 6914 3 Tier Dumbell Stand
   photo: "/6914_3TierDumbellStand.jpg"
 - title: 4239 Pro Series 210
