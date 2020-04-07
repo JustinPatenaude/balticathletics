@@ -14,21 +14,21 @@ info: "**YONEX** Founder Minoru Yoneyama begins manufacturing and selling wooden
   ;)"
 date: '2019-03-29T22:38:49.000+00:00'
 photos:
-- title: Mavis 350 Shuttlecocks
-  photo: "/badminton-shuttlecocks-M350-main.jpg"
-- title: Mavis 300 Shuttlecocks
-  photo: "/yonex-mavis-300.jpg"
-- title: Mavis 10 Shuttlecocks
-  photo: "/badminton-shuttlecocks-M10-main.jpg"
-- title: Voltric-5 Yonex Badminton Racquet
-  photo: "/Yonex Voltric-5.jpg"
 - title: B700 Yonex Badminton Racquet
   photo: "/B700 badminton racquet.jpg"
-- title: B6000 Yonex Badminton racquet
-  photo: "/B6000 badminton.jpg"
 - title: B4000 Yonex Badminton Racquet
   photo: "/B4000.jpg"
+- title: B6000 Yonex Badminton racquet
+  photo: "/B6000 badminton.jpg"
 - title: CAB6000N Yonex Badminton Racquet
   photo: "/CAB6000N.jpg"
+- title: Voltric-5 Yonex Badminton Racquet
+  photo: "/Yonex Voltric-5.jpg"
+- title: Mavis 10 Shuttlecocks
+  photo: "/badminton-shuttlecocks-M10-main.jpg"
+- title: Mavis 300 Shuttlecocks
+  photo: "/yonex-mavis-300.jpg"
+- title: Mavis 350 Shuttlecocks
+  photo: "/badminton-shuttlecocks-M350-main.jpg"
 
 ---
