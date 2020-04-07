@@ -4,7 +4,6 @@ permalink: "/brands/baltic-performance-wear/"
 categories:
 - products/baseball.md
 - products/basketball.md
-- products/blankets.md
 - products/bowling.md
 - products/football.md
 - products/hockey.md
