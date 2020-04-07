@@ -14,6 +14,8 @@ info: "**YONEX** Founder Minoru Yoneyama begins manufacturing and selling wooden
   ;)"
 date: '2019-03-29T22:38:49.000+00:00'
 photos:
+- title: B4000 Yonex racquet
+  photo: "/B4000.jpg"
 - title: CAB6000N Yonex racquet
   photo: "/CAB6000N.jpg"
 
