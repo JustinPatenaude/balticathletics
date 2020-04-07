@@ -8,6 +8,8 @@ logo: "/KNP-site-icon.jpg"
 website: ''
 catalogues: []
 photos:
+- title: CM6010 Two Tone Cotton Mesh Trucker Cap
+  photo: "/KNP-CM6010.jpg"
 - title: CM6020 Cotton Mesh Trucker Cap, Two Tone
   photo: "/KNP-CM6020.jpg"
 - title: PM6050 Dobby Mesh Modified Trucker
