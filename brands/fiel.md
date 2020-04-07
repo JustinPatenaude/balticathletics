@@ -3,7 +3,6 @@ layout: brand
 permalink: "/brands/fiel/"
 categories:
 - products/aprons.md
-- products/auto.md
 - products/bags-totes-duffels.md
 - products/blankets.md
 - products/made-in-canada.md
