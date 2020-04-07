@@ -17,6 +17,8 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
+- title: Medicine Balls
+  photo: "/medicine balls.png"
 - title: Kettlebells
   photo: "/Kettlebell-Group.jpg"
 - title: 791420 36" Exergear Trampoline
