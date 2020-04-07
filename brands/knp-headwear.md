@@ -8,6 +8,8 @@ logo: "/KNP-site-icon.jpg"
 website: ''
 catalogues: []
 photos:
+- title: WS6340 Polyester Twill High Profile Flat Brim Cap
+  photo: "/KNP-WS6340.jpg"
 - title: CT6320 Chino Twill Cap
   photo: "/CT6320.jpg"
 - title: CT6440 Fine Brushed Cotton Cap
