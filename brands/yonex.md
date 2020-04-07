@@ -14,6 +14,8 @@ info: "**YONEX** Founder Minoru Yoneyama begins manufacturing and selling wooden
   ;)"
 date: '2019-03-29T22:38:49.000+00:00'
 photos:
+- title: Mavis 350 Shuttlecocks
+  photo: "/badminton-shuttlecocks-M350-main.jpg"
 - title: Mavis 300 Shuttlecocks
   photo: "/yonex-mavis-300.jpg"
 - title: Mavis 10 Shuttlecocks
