@@ -5,9 +5,19 @@ categories:
 - products/weight-lifting.md
 title: York
 logo: "/york-logo.png"
-website: https://yorkbarbell.com/
+website: ''
 pdfs: []
-info: ''
+info: |-
+  Over 80 years ago, **York Barbell** began shaping the fitness industry through product design, education, competition, and athletic sponsorship.
+
+  Bob Hoffman founded York Barbell in 1932.
+
+  From the decades of the 30’s through the 70’s, York Barbell flexed its muscle with its Olympic lifting teams. The renowned York Barbell Club dominated the Olympic scene with over 40 national championships and numerous Olympic Gold Medalists.
+
+  Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
+photos:
+- title: 6 ft Straight Bar
+  photo: "/6ft-straight.jpg"
 
 ---
