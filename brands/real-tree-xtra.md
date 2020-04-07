@@ -11,8 +11,6 @@ logo: "/Camo_Realtree-Xtra logo1.jpg"
 website: https://www.sanmarcanada.com/shop-catalogue/shop-by-brand/realtree-174.html
 catalogues: []
 photos:
-- title: RT433 Real Tree Lazy Bear Chair (Whiteridge)
-  photo: "/RT433 Real Tree Lazy Bear Chair.jpg"
 - title: F2034 Performance Fleece Hooded Camo Sweatshirt - Adult
   photo: "/f2034_realtreeextra_modl_studio_c2018.jpg"
 - title: L2051 Performance Fleece Two Tone Hooded Camo Sweatshirt - Ladies
@@ -31,6 +29,15 @@ photos:
   photo: "/c1313_flat_front_realtreextra.jpg"
 - title: C1314 Mesh Back Camo Cap
   photo: "/c1314_flat_front_realtreextra_1.jpg"
-info: ''
+- title: RT433 Real Tree Lazy Bear Chair (Whiteridge)
+  photo: "/RT433 Real Tree Lazy Bear Chair.jpg"
+info: |-
+  We offer Real Tree camo from several supplies.
+
+  SanMar carries the most clothing in Real Tree camo that we offer.
+
+  Whiteridge has Kuma chairs and camo jackets.
+
+  Looking for something specific? Ask me below.
 
 ---
