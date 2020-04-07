@@ -1,7 +1,7 @@
 ---
 layout: product
-permalink: "/products/auto"
-title: Auto
+permalink: "/products/auto-Travel"
+title: Auto Travel
 products:
 - Aluminum Custom License Plate
 - Auto Safety Kit
