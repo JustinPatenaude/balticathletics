@@ -8,6 +8,8 @@ logo: "/KNP-site-icon.jpg"
 website: ''
 catalogues: []
 photos:
+- title: CY6070 Premium Cotton Jersey Cap
+  photo: "/KNP-CY6070.jpg"
 - title: Made in Canada
   photo: "/made_in_canada.jpg"
 info: "Started in 1989 by one man, **KNP Headwear** have been around for 30 years,
