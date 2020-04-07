@@ -17,8 +17,8 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
-- title: Cast Hex and Rack
-  photo: "/Cast-Hex-and-Rack.jpg"
+- title: Kettlebells
+  photo: "/Kettlebell-Group.jpg"
 - title: 791420 36" Exergear Trampoline
   photo: "/791420-36inch-Exergear-Trampoline.jpg"
 - title: 15400 Rubber Hex Dumbbell Set Stand
@@ -27,6 +27,8 @@ photos:
   photo: "/15402-15410-RubberHexDumbbellSet.jpg"
 - title: 6Q4A6377 Hex Dumbells
   photo: "/6Q4A6377 hexbells.jpg"
+- title: Cast Hex and Rack
+  photo: "/Cast-Hex-and-Rack.jpg"
 - title: 34002-34024 Iron Pro Hex Dumbells
   photo: "/34002-34024-IronProHexDumbells.jpg"
 - title: 6914 3 Tier Dumbell Stand
