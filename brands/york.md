@@ -17,10 +17,12 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
-- title: Vinyl Fitbell
-  photo: "/VinyFitbellwb-13.jpg"
+- title: York Plates
+  photo: "/York plates.jpg"
 - title: 791420 36" Exergear Trampoline
   photo: "/791420-36inch-Exergear-Trampoline.jpg"
+- title: Vinyl Fitbell
+  photo: "/VinyFitbellwb-13.jpg"
 - title: 15400 Rubber Hex Dumbbell Set Stand
   photo: "/15400-RubberHexDumbbellSetStand.jpg"
 - title: 15402-15410 Rubber Hex Dumbbell Set
