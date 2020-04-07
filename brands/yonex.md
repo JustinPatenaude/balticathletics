@@ -20,7 +20,7 @@ photos:
   photo: "/B6000 badminton.jpg"
 - title: B4000 Yonex Badminton Racquet
   photo: "/B4000.jpg"
-- title: CAB6000N Yonex racquet
+- title: CAB6000N Yonex Badminton Racquet
   photo: "/CAB6000N.jpg"
 
 ---
