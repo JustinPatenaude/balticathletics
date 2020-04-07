@@ -8,6 +8,8 @@ logo: "/KNP-site-icon.jpg"
 website: ''
 catalogues: []
 photos:
+- title: AC1010 Acrylic Knit Winter Toque with Cuff
+  photo: "/KNP-AC1010.jpg"
 - title: AC1070 Acrylic Toque with Pom
   photo: "/KNP-AC1070.jpg"
 - title: AC2890 Acrylic Knit Fine Gauge Toque aka "Board Toque"
