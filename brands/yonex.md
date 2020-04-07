@@ -14,6 +14,8 @@ info: "**YONEX** Founder Minoru Yoneyama begins manufacturing and selling wooden
   ;)"
 date: '2019-03-29T22:38:49.000+00:00'
 photos:
+- title: B700 Yonex Badminton Racquet
+  photo: "/B700 badminton racquet.jpg"
 - title: B6000 Yonex Badminton racquet
   photo: "/B6000 badminton.jpg"
 - title: B4000 Yonex racquet
