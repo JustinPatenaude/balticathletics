@@ -5,7 +5,7 @@ categories:
 - products/badminton.md
 title: Yonex
 logo: "/yonex-logo.jpg"
-website: ''
+website: http://www.yonex.com/
 pdfs: []
 info: "**YONEX** Founder Minoru Yoneyama begins manufacturing and selling wooden products
   in 1946 in Niigata Prefecture, Nagaoka City, Japan.  They started to make badminton
@@ -14,6 +14,8 @@ info: "**YONEX** Founder Minoru Yoneyama begins manufacturing and selling wooden
   ;)"
 date: '2019-03-29T22:38:49.000+00:00'
 photos:
+- title: Mavis 10 Shuttlecocks
+  photo: "/badminton-shuttlecocks-M10-main.jpg"
 - title: Voltric-5 Yonex Badminton Racquet
   photo: "/Yonex Voltric-5.jpg"
 - title: B700 Yonex Badminton Racquet
