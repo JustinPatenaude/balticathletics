@@ -17,8 +17,8 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
-- title: 7891-7893 4" Padded Weight Lifting Belt
-  photo: "/7891-7893-4inchPaddedWeightLiftingBelt.jpg"
+- title: 15400 Rubber Hex Dumbbell Set Stand
+  photo: "/15400-RubberHexDumbbellSetStand.jpg"
 - title: 6915 1" Plate Stand
   photo: "/6915_1InchPlateStand.jpg"
 - title: 6914 3 Tier Dumbell Stand
@@ -39,5 +39,7 @@ photos:
   photo: "/6ft-straight.jpg"
 - title: 7801-7804 Unisex Fitness Glove
   photo: "/7801-7804-UnisexFitnessGlove.jpg"
+- title: 7891-7893 4" Padded Weight Lifting Belt
+  photo: "/7891-7893-4inchPaddedWeightLiftingBelt.jpg"
 
 ---
