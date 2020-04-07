@@ -8,6 +8,8 @@ logo: "/KNP-site-icon.jpg"
 website: ''
 catalogues: []
 photos:
+- title: CM5020 Cotton Mesh Trucker Cap, White Front
+  photo: "/KNP-CM5020.jpg"
 - title: CM6010 Two Tone Cotton Mesh Trucker Cap
   photo: "/KNP-CM6010.jpg"
 - title: CM6020 Cotton Mesh Trucker Cap, Two Tone
