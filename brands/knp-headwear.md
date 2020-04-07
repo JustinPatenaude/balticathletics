@@ -8,6 +8,8 @@ logo: "/KNP-site-icon.jpg"
 website: ''
 catalogues: []
 photos:
+- title: CS6260 Brushed Cotton Stretchable Fitted Cap
+  photo: "/KNP-CS6260.jpg"
 - title: WS6140 Wool Serge Value Cap
   photo: "/KNP-WS6140.jpg"
 - title: WS6340 Polyester Twill High Profile Flat Brim Cap
