@@ -11,7 +11,7 @@ categories:
 - products/luggage.md
 title: Whiteridge
 logo: "/whiteridge-logo.png"
-website: ''
+website: https://www.whiteridgeinc.com/home/
 catalogues: []
 info: |-
   Link to [2019-2020 Whiteridge Online Catalogue](https://issuu.com/whiteridgeinc/docs/wr_catalog_2019-2020-hires?fr=sMmE0NDE5NTk2Nw)
