@@ -8,6 +8,8 @@ logo: "/KNP-site-icon.jpg"
 website: ''
 catalogues: []
 photos:
+- title: CY6550 Garment Washed Cotton Chino Twill Cap
+  photo: "/KNP-CT6550.jpg"
 - title: CY6070 Premium Cotton Jersey Cap
   photo: "/KNP-CY6070.jpg"
 - title: Made in Canada
