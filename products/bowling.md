@@ -2,7 +2,8 @@
 layout: product
 permalink: "/products/bowling/"
 title: Bowling
-products: []
+products:
+- Bowling Shirts
 photos: []
 
 ---
