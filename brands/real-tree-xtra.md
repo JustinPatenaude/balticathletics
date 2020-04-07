@@ -32,7 +32,7 @@ photos:
 - title: RT433 Real Tree Lazy Bear Chair (Whiteridge)
   photo: "/RT433 Real Tree Lazy Bear Chair.jpg"
 info: |-
-  We offer Real Tree camo from several supplies.
+  We offer **Real Tree** camo from several supplies.
 
   SanMar carries the most clothing in Real Tree camo that we offer.
 
