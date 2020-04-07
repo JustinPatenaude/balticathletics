@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/knp-headwear"
 categories:
+- products/made-in-canada.md
 - products/headwear.md
 title: KNP Headwear
 logo: "/KNP-site-icon.jpg"
