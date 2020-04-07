@@ -17,8 +17,6 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
-- title: York Plates
-  photo: "/York plates.jpg"
 - title: 791420 36" Exergear Trampoline
   photo: "/791420-36inch-Exergear-Trampoline.jpg"
 - title: Vinyl Fitbell
@@ -49,6 +47,8 @@ photos:
   photo: "/29085_ColorBumperPlate_10LB.jpg"
 - title: 29092 Coloured Plates & Bar
   photo: "/29092.jpg"
+- title: York Plates
+  photo: "/York plates.jpg"
 - title: 2021_100 lb Contour Cast Iron Spinlock Set
   photo: "/2021_100LBContourCastIronSpinlockSet.jpg"
 - title: 6 ft Straight Bar
