@@ -17,6 +17,8 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
+- title: 2907-2912 2" Calibrated Olympic Plates
+  photo: "/2907-2912-2InchCalibratedOlympicPlatesLB.jpg"
 - title: 2021_100 lb Contour Cast Iron Spinlock Set
   photo: "/2021_100LBContourCastIronSpinlockSet.jpg"
 - title: 6Q4A6377 Hex Dumbells
