@@ -5,6 +5,7 @@ title: Badminton
 products:
 - Jerseys
 - Nets
+- Poles
 - Racquets
 - Shuttlecocks
 photos: []
