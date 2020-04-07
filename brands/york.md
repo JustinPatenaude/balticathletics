@@ -17,6 +17,8 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
+- title: 6Q4A6377 Hex Dumbells
+  photo: "/6Q4A6377 hexbells.jpg"
 - title: 6Q4A2571 Slam Balls
   photo: "/6Q4A2571 slam balls.jpg"
 - title: 6 ft Straight Bar
