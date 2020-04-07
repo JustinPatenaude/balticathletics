@@ -17,8 +17,8 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
-- title: 29085 Color Bumper Plate 10 lb
-  photo: "/29085_ColorBumperPlate_10LB.jpg"
+- title: 29092 Coloured Plates & Bar
+  photo: "/29092.jpg"
 - title: 15400 Rubber Hex Dumbbell Set Stand
   photo: "/15400-RubberHexDumbbellSetStand.jpg"
 - title: 15402-15410 Rubber Hex Dumbbell Set
@@ -35,6 +35,8 @@ photos:
   photo: "/2907-2912-2InchCalibratedOlympicPlatesLB.jpg"
 - title: 7355 45 lb plate
   photo: "/7355-e1523025371708.jpg"
+- title: 29085 Color Bumper Plate 10 lb
+  photo: "/29085_ColorBumperPlate_10LB.jpg"
 - title: 2021_100 lb Contour Cast Iron Spinlock Set
   photo: "/2021_100LBContourCastIronSpinlockSet.jpg"
 - title: 6Q4A2571 Slam Balls
