@@ -38,8 +38,8 @@ photos:
   photo: "/CY6070.jpg"
 - title: Made in Canada
   photo: "/made_in_canada.jpg"
-info: Started in 1989 by one man, **KNP Headwear** have been around for 30 years,
-  with extensive experience in all parts of the accessory, fashion, retail and sportswear
-  business.
+info: Started in Ontario in 1989 by one man, **KNP Headwear** have been around for
+  30 years, with extensive experience in all parts of the accessory, fashion, retail
+  and sportswear business.
 
 ---
