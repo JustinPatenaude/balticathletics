@@ -8,6 +8,8 @@ logo: "/KNP-site-icon.jpg"
 website: ''
 catalogues: []
 photos:
+- title: CM6020 Cotton Mesh Trucker Cap, Two Tone
+  photo: "/KNP-CM6020.jpg"
 - title: PM6050 Dobby Mesh Modified Trucker
   photo: "/KNP-PM6050.jpg"
 - title: CS6260 Brushed Cotton Stretchable Fitted Cap
