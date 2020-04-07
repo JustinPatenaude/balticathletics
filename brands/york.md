@@ -17,12 +17,16 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
+- title: 15402-15410 Rubber Hex Dumbbell Set
+  photo: "/15402-15410-RubberHexDumbbellSet.jpg"
 - title: 15400 Rubber Hex Dumbbell Set Stand
   photo: "/15400-RubberHexDumbbellSetStand.jpg"
-- title: 6915 1" Plate Stand
-  photo: "/6915_1InchPlateStand.jpg"
+- title: 6Q4A6377 Hex Dumbells
+  photo: "/6Q4A6377 hexbells.jpg"
 - title: 6914 3 Tier Dumbell Stand
   photo: "/6914_3TierDumbellStand.jpg"
+- title: 6915 1" Plate Stand
+  photo: "/6915_1InchPlateStand.jpg"
 - title: 4239 Pro Series 210
   photo: "/4239_ProSeries210.jpg"
 - title: 2907-2912 2" Calibrated Olympic Plates
@@ -31,8 +35,6 @@ photos:
   photo: "/7355-e1523025371708.jpg"
 - title: 2021_100 lb Contour Cast Iron Spinlock Set
   photo: "/2021_100LBContourCastIronSpinlockSet.jpg"
-- title: 6Q4A6377 Hex Dumbells
-  photo: "/6Q4A6377 hexbells.jpg"
 - title: 6Q4A2571 Slam Balls
   photo: "/6Q4A2571 slam balls.jpg"
 - title: 6 ft Straight Bar
