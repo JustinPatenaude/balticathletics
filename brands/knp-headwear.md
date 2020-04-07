@@ -1,7 +1,8 @@
 ---
 layout: brand
 permalink: "/brands/knp-headwear"
-categories: []
+categories:
+- products/headwear.md
 title: KNP Headwear
 logo: "/KNP-site-icon.jpg"
 website: ''
@@ -18,6 +19,5 @@ info: "Started in 1989 by one man, **KNP Headwear** have been around for 30 year
   local manufacturer located in Toronto, Ontario. These toques made to survive Canadian
   Winters and suit Canadian taste. We are so proud, after 30 years of being in the
   headwear industry to now present this amazing locally manufactured option."
-published: false
 
 ---
