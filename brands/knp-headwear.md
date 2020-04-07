@@ -8,6 +8,8 @@ logo: "/KNP-site-icon.jpg"
 website: ''
 catalogues: []
 photos:
+- title: PM6050 Dobby Mesh Modified Trucker
+  photo: "/KNP-PM6050.jpg"
 - title: CS6260 Brushed Cotton Stretchable Fitted Cap
   photo: "/KNP-CS6260.jpg"
 - title: WS6140 Wool Serge Value Cap
