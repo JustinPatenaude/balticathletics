@@ -9,7 +9,7 @@ website: ''
 catalogues: []
 photos:
 - title: CT6320 Chino Twill Cap
-  photo: "/KNP-CT6320.jpg"
+  photo: "/CT6320.jpg"
 - title: CT6440 Fine Brushed Cotton Cap
   photo: "/CT6440.jpg"
 - title: CY6550 Garment Washed Cotton Chino Twill Cap
