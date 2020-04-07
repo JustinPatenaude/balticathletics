@@ -17,10 +17,8 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
-- title: Medicine Balls
-  photo: "/medicine balls.png"
-- title: Kettlebells
-  photo: "/Kettlebell-Group.jpg"
+- title: Mega Kettlebell Package
+  photo: "/Mega-Kettlebell-Package-1.jpg"
 - title: 791420 36" Exergear Trampoline
   photo: "/791420-36inch-Exergear-Trampoline.jpg"
 - title: 15400 Rubber Hex Dumbbell Set Stand
@@ -53,6 +51,10 @@ photos:
   photo: "/6ft-straight.jpg"
 - title: 65103 Medicine Ball Rack
   photo: "/65103-MedicineBallRack.jpg"
+- title: Medicine Balls
+  photo: "/medicine balls.png"
+- title: Kettlebells
+  photo: "/Kettlebell-Group.jpg"
 - title: 6Q4A2571 Slam Balls
   photo: "/6Q4A2571 slam balls.jpg"
 - title: 7801-7804 Unisex Fitness Glove
