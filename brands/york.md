@@ -17,10 +17,12 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
-- title: 15402-15410 Rubber Hex Dumbbell Set
-  photo: "/15402-15410-RubberHexDumbbellSet.jpg"
+- title: 29085 Color Bumper Plate 10 lb
+  photo: "/29085_ColorBumperPlate_10LB.jpg"
 - title: 15400 Rubber Hex Dumbbell Set Stand
   photo: "/15400-RubberHexDumbbellSetStand.jpg"
+- title: 15402-15410 Rubber Hex Dumbbell Set
+  photo: "/15402-15410-RubberHexDumbbellSet.jpg"
 - title: 6Q4A6377 Hex Dumbells
   photo: "/6Q4A6377 hexbells.jpg"
 - title: 6914 3 Tier Dumbell Stand
