@@ -8,6 +8,8 @@ logo: "/KNP-site-icon.jpg"
 website: ''
 catalogues: []
 photos:
+- title: AC1070 Acrylic Toque with Pom
+  photo: "/KNP-AC1070.jpg"
 - title: AC2890 Acrylic Knit Fine Gauge Toque aka "Board Toque"
   photo: "/KNP-AC2890.jpg"
 - title: CM5020 Cotton Mesh Trucker Cap, White Front
