@@ -8,6 +8,7 @@ products:
 - Auto Safety Tool
 - Beach Towels
 - Car Charger with Escape Safety Tool
+- Keychains
 - License Plate Frame
 - Luggage Straps
 - Luggage Tags
