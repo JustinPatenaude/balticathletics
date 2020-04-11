@@ -93,6 +93,8 @@ products:
     - Large wheels for indoor and outdoor use
     - Size: 42” L x 24” W x 36” H
     - MRSP $517.99
+
+    7 available
 - title: Diadora 880200 Aluminum Water Bottle
   image: "/880200 Diadora Alum water bottle.jpg"
   price: 
