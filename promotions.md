@@ -6,7 +6,9 @@ products:
 - title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
   image: "/2020-03-30 12.26.05.jpg"
   price: 15
-  description: Also available in sizes 3 & 4
+  description: |-
+    Also available in sizes 3 & 4
+    2 available
 - title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
   image: "/Eletto LIGA comp soccer ball.jpg"
   price: 29
