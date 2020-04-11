@@ -130,7 +130,7 @@ products:
     Soft touch, game quality
     1 - Size 4 available
     1 - Size 5 available
-- title: Nike Pitch Training Ball - Size 5 only
+- title: Nike Pitch Training Ball - Size 5
   image: "/Nike Training SB size 5.jpg"
   price: 25
   description: |-
