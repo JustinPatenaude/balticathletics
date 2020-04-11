@@ -3,6 +3,12 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Dudley 4Y222NC Thunder Heat Softball (sold in dozens)
+  image: "/4A147YC Spalding Dudley Softballs.jpg"
+  price: 55
+  description: |-
+    12" synthetic cover
+    7 dozen available
 - title: Spalding 41003 Official League Synthetic Cover Baseball (sold in case of
     12)
   image: "/2020-03-07 11.09.54.jpg"
