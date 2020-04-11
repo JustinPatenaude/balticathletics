@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Fox40 Classic Whistle & T-Reign Clip 7930-0000
+  image: "/Fox40 T-Reign & whistle 7930-0000.jpg"
+  price: 17
+  description: |-
+    -The Fox 40® Classic® is the standard choice referees and coaches at all levels, rescue professionals and general safety worldwide
+    - Flawless, consistent and reliable
+    - Easy to blow and cannot be overblown
+    - Will be heard above ambient noise, loud crowds, the roar of engines, breaking waves and thundering gale-force winds
+    - Sound will be heard up to a mile away
+
+    6 available
 - title: Fox40 Whistle+Ball Pump 6906-0000
   image: "/Fox40 6906-0000 whistle ball pump.jpg"
   price: 10
