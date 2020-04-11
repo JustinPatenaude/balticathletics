@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Fox40 Whistle+Ball Pump 6906-0000
+  image: "/Fox40 6906-0000 whistle ball pump.jpg"
+  price: 10
+  description: |-
+    - Dual Action Ball Pump
+    - 3 ball pump pins
+    - Sonik Blast CMG Pealess Whistle
+
+    2 available
 - title: CCM Hand/Foot Pump
   image: "/2020-03-07 12.26.20.jpg"
   price: 24
