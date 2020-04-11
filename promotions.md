@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: CCM Hand/Foot Pump
+  image: "/2020-03-07 12.26.20.jpg"
+  price: 24
+  description: 3 available
 - title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
   image: "/2020-03-30 12.26.05.jpg"
   price: 15
