@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Wilson A360 Glove - Right Hand Catch
+  image: "/A360 Wilson glove RHC.jpg"
+  price: 49
+  description: 2 Available
 - title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
   image: "/2020-04-11 14.51.18.jpg"
   price: 60
