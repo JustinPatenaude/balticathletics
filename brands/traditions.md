@@ -15,7 +15,7 @@ photos:
 - title: 22 Caliber Blanks (acorn blanks)
   photo: "/22 Cal blanks.jpg"
 info: |-
-  Importing starter pistols involves a lot of government red tape, so we have connected with a supplier that is able to get **Traditions Starter Pistols and Blanks** in for us, taking care of that process.
+  Importing starter pistols involves a lot of government red tape, so we have connected with a supplier who is able to get **Traditions Starter Pistols and Blanks** in for us, taking care of that process.
 
   We only get a limited number in each year. For current pricing and availability please check our [Promotions page](https://balticathletics.com/promotions/).
 
