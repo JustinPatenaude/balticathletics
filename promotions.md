@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Worth Mayhem Softball Bats
+  image: "/2020-03-07 11.21.13.jpg"
+  price: 49
+  description: 34" - 28 oz
 - title: Spalding Rookie Gear Composite Football - Size 6
   image: "/2020-03-31 14.40.28 a.jpg"
   price: 14
