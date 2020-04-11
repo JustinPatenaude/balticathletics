@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
+  image: "/2020-04-11 14.51.18.jpg"
+  price: 60
+  description: "- All leather"
 - title: Spalding 100 Leather Baseball
   image: "/spalding 100 baseball.jpg"
   price: 5
