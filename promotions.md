@@ -3,9 +3,9 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Exercise Station Activity Riser (Hoop holder)
+- title: Exercise Station Activity Riser (Hoop holder) w/Base & Wand Posts
   image: ''
-  price: 9
+  price: 
   description: |-
     - Can be used for multiple activities
     - Obstacle course, high jump, target etc
