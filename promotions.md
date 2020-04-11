@@ -173,7 +173,7 @@ products:
   price: 49
   description: 34" - 28 oz
 - title: Spalding Rookie Gear Composite Football - Size 6
-  image: ''
+  image: "/spalding rookie gear footballs.jpg"
   price: 16
   description: |-
     - raised tacky laces
