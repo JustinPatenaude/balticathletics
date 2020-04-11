@@ -14,6 +14,8 @@ products:
     - Powder coated steel frame, lacquer finished wood deck
     - Handle Style: D handle
     - 1000 lb capacity
+
+    1 available
 - title: Mat Cart - Floor exercise (MC) 36" x 24"
   image: "/MC Floor Exercise mat cart.jpg"
   price: 45
