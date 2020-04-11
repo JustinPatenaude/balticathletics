@@ -22,7 +22,7 @@ products:
     - available with red, blue, green or yellow flags
 - title: Adidas Krasava Soccer Ball - Size 5
   image: "/KRASAVA Adidas SB size 5.jpg"
-  price: 
+  price: 45
   description: 1 available
 - title: Adidas Pink/Blue Soccer Ball - Size 5
   image: "/Adidas game ball size 5.jpg"
