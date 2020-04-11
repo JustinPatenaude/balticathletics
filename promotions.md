@@ -283,13 +283,13 @@ products:
     Open reel
     - 22 available
 - title: Wilson 84-7967 Prestige Indoor Volleyball
-  image: "/wilson prestige vb.jpg"
-  price: 25
+  image: "/2020-03-30 12.31.08.jpg"
+  price: 27
   description: |-
     - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
     - Wound, cloth-wrapped (CW) carcass construction for extended durability
     - V-Tec seams
     - Official size and weight
-    - 6 available
+    - 5 available
 
 ---
