@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Bauer Floor Hockey Goal Pads - 27"
+  image: "/2020-03-07 12.05.49.jpg"
+  price: 60
+  description: |-
+    - 4 Snap straps
+    - Deep leg channel
+
+    4 pairs available
 - title: Volleyball Carrying Bag (L6V)
   image: "/l6v.jpg"
   price: 15
