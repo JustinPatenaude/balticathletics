@@ -130,10 +130,12 @@ products:
     Soft touch, game quality
     1 - Size 4 available
     1 - Size 5 available
-- title: Nike Pitch Training Ball - Size 5
+- title: Nike Pitch Training Ball - Size 5 only
   image: "/Nike Training SB size 5.jpg"
-  price: 
-  description: 40 available
+  price: 25
+  description: |-
+    Soft touch, training ball
+    40 available
 - title: Puma Arsenal Soccer Ball - Size 5
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 
