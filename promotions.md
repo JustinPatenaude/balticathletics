@@ -71,7 +71,9 @@ products:
 - title: Cosom Floor Hockey Sticks (w/fiberglass rod) 47"
   image: "/CosomPowerShaftHockeyStick.jpg"
   price: 13
-  description: 75 available
+  description: |-
+    Black shaft with Green or Orange blades
+    75 available
 - title: Cramer 950 Athletic Trainer's Tape - Box of 32 rolls
   image: "/cramer 950 tape.jpg"
   price: 95
