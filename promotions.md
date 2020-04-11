@@ -3,6 +3,12 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Spalding Alpha Composite Leather Varsity Football - Size 9
+  image: "/alpha varsity 72-702CA.jpg"
+  price: 30
+  description: |-
+    Pebbled tacky laces
+    7 available
 - title: Spalding Alpha Composite Leather Youth Football - Size 7
   image: "/2020-04-11 12.05.21.jpg"
   price: 28
