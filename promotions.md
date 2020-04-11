@@ -221,7 +221,7 @@ products:
     - 11 available
 - title: Spalding 71-0708C Rookie Basketball - size 27.5
   image: "/710708C Spalding Rookie BB 27.5.jpg"
-  price: 12
+  price: 11
   description: |-
     Armadillo graphics rubber ball (25% lighter weight)
      - 20 available
