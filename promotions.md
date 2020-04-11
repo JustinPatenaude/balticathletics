@@ -11,7 +11,7 @@ products:
     - 44" wide (end to end), 23" deep (from base of wall bracket).
 
     2 available
-- title: HJSP Professional High Jump Standards
+- title: Professional High Jump Standards (HJSP)
   image: "/HJSP.JPG"
   price: 995
   description: |
@@ -22,6 +22,8 @@ products:
     - Extra weighted base for stability.
     - Red only
     - IAAF Certified.
+
+    2 available
 - title: Mat Cart - Pneumatic Wheels (8715302)
   image: "/8715302 mat cart - pneumatic wheels.jpg"
   price: 195
