@@ -44,7 +44,7 @@ products:
   description: |-
     Soft touch game or training ball.
     1 available
-- title: Admiral Pro Soccer Socks
+- title: Admiral Pro Soccer Socks - colour GOLD only
   image: "/admiral gold soccer sock.jpg"
   price: 8
   description: |-
