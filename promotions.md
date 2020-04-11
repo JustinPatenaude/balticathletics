@@ -258,11 +258,10 @@ products:
     FOB Winnipeg
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
-  price: 235
-  description: |-
+  price: 245
+  description: |
     uses 209 primers (100/box $12)
     * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
-    - 20 pistols available
 - title: Traditions 209 Starting Pistol Blanks
   image: "/209 primer blanks.jpg"
   price: 12
