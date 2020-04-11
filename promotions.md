@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Wilson A800 Showtime Glove - 13" Left Hand Catch
+  image: "/Wilson A800 Showtime glove.jpg"
+  price: 65
+  description: |-
+    Genuine all leather glove
+    Soft and supple leather (broken in feel)
+    MSRP $120.00
+    limited quantities available
 - title: Easton BMG13 Glove - 13" Left hand catch
   image: "/2020-03-07 11.14.30.jpg"
   price: 35
