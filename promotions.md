@@ -3,6 +3,20 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Fox40 Ecoblast Rechargeable Air Horn & Air Pump 9509AZ
+  image: "/Fox40 9509AZ ecoblast horn.jpg"
+  price: 28
+  description: |-
+    - Great alternative to traditional starter pistol, as they can be used to initiate the start of track & field or swimming events
+    - The non-toxic, 100% ozone safe EcoBlast™
+    - Rechargeable safety signal air horn can be refilled quickly and easily with mini
+    air pump
+    - Powerful 120 dB sound power
+    - Can be stored indoors and outdoors
+    - Reliable in all weather conditions
+    - Made of lightweight aluminum and strong ABS plastic
+
+    1 available
 - title: Fox40 Classic Whistle & T-Reign Clip 7930-0000
   image: "/Fox40 T-Reign & whistle 7930-0000.jpg"
   price: 17
