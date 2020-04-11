@@ -200,7 +200,7 @@ products:
     SS110 One-Court Slide Multi-Sport System, includes:
     - Slide Multi-Sport Upright Package
     - Kevlar Net, Antennas, Pockets
-    - Upright End Pads - Pair (RED)
+    - Upright End Pads - Pair (choice of colour)
 - title: Spalding 73-3038C NBA For Her Basketball - Size 28.5
   image: "/733038C Spalding NBA For Her BB size 6.jpg"
   price: 12
