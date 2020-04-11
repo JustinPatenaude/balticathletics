@@ -148,7 +148,7 @@ products:
     - One size
     - 10 available
 - image: "/234DBMK_GRAY.jpg"
-  price: 20
+  price: 22
   description: |-
     Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
     Belt not included
