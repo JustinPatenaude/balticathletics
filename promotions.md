@@ -116,7 +116,7 @@ products:
 
     2 available
 - title: Mat Cart - Pneumatic Wheels (8715302)
-  image: "/8715302 mat cart - pneumatic wheels.jpg"
+  image: "/8715302 Mat Cart pneumatic a.jpg"
   price: 195
   description: |-
     - Automotive steering keeps wheels directly under corners for stability
