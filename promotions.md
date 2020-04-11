@@ -145,6 +145,7 @@ products:
   price: 3.5
   description: |-
     - This water resistant nylon pinnie has elastic stretch webbing on one side and velcro on the other.
+    - One size
     - 10 available
 - image: "/234DBMK Russell baseball pants.jpg"
   price: 20
