@@ -123,14 +123,13 @@ products:
     3 : 8 and Under
     4 : 8-12
     5 : 13 and Up
-- title: Monster Ball Cart BC80
-  image: "/MONSTER_BALL_CART_-_BC80.jpg"
-  price: 199
-  description: 2 available
 - title: Nike Pitch Game Soccer Ball - Size 5
   image: "/PITCH Nike SB size 5.jpg"
-  price: 
-  description: Only 1 available
+  price: 30
+  description: |-
+    Soft touch, game quality
+    1 - Size 4 available
+    1 - Size 5 available
 - title: Nike Pitch Training Ball - Size 5
   image: "/Nike Training SB size 5.jpg"
   price: 
