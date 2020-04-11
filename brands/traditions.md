@@ -15,7 +15,7 @@ photos:
 - title: 22 Caliber Blanks (acorn blanks)
   photo: "/22 Cal blanks.jpg"
 info: |-
-  Importing starter pistols involves a lot of red tape, so we have connected with a wholesaler that is able to get **Traditions Starter Pistols and Blanks** in for us, taking care of that process.
+  Importing starter pistols involves a lot of government red tape, so we have connected with a wholesaler that is able to get **Traditions Starter Pistols and Blanks** in for us, taking care of that process.
 
   We are unable to ship these items and need to arrange deliver or pick up.
 
