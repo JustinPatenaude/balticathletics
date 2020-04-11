@@ -63,7 +63,7 @@ products:
 - title: Bean Bag - Ultra-soft, 4" PX-501695
   image: "/bean bags.jpg"
   price: 1.75
-  description: assorted colours
+  description: 6 colours available (green, blue, yellow, red, purple, orange)
 - title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
   image: "/CosomPowerShaftHockeyStick 42.jpg"
   price: 9.5
