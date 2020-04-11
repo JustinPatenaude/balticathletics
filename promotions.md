@@ -178,13 +178,14 @@ products:
     - connecting
     - assorted colours
     - 11 available
-- title: Scooter wheels
-  image: "/upgraded scooter wheels.jpg"
-  price: 12
+- title: Scooter wheels - Sets of 4
+  image: "/2020-03-07 11.05.28.jpg"
+  price: 16
   description: |-
-    Rollarblade ballbearing scooter wheels
+    Rollerblade ball-bearing scooter wheels
     Sets of 4 wheels
-    - 4 sets available
+    - 10 grey sets available
+    - 9 red sets available
 - title: Spalding 3" Aluminum Slide Multi-Sport System
   image: "/spalding system.png"
   price: 2950
