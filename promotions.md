@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
+  image: "/Eletto LIGA comp soccer ball.jpg"
+  price: 29
+  description: ''
 - title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
   image: "/Eletto LNA-350 soccer ball.jpg"
   price: 22
