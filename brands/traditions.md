@@ -12,10 +12,10 @@ photos:
   title: Traditions 209 Starting Pistol
 - title: 209 Primer Blanks (for use with Traditions 209 starter pistol)
   photo: "/209 primer blanks.jpg"
-- title: 22 Calibur Blanks (acorn blanks)
+- title: 22 Caliber Blanks (acorn blanks)
   photo: "/22 Cal blanks.jpg"
 info: |-
-  Importing firearms involves a lot of red tape, so we have connected with a wholesaler that is able to get **Traditions Starter Pistols and Blanks** in for us, taking care of that hassle.
+  Importing starter pistols involves a lot of red tape, so we have connected with a wholesaler that is able to get **Traditions Starter Pistols and Blanks** in for us, taking care of that process.
 
   We are unable to ship these items and need to arrange deliver or pick up.
 
