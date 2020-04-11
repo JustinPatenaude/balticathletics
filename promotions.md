@@ -38,10 +38,12 @@ products:
   description: |-
     Soft touch game or training ball
     1 available
-- title: Adidas Telstar 18 World Cup Soccer Ball
+- title: Adidas Telstar 18 World Cup Replica Soccer Ball - Size 4
   image: "/TELSTAR 18 Adidas World Cup SB.jpg"
-  price: 
-  description: ''
+  price: 25
+  description: |-
+    Soft touch game or training ball.
+    1 available
 - title: Admiral Pro Soccer Socks
   image: "/admiral gold soccer sock.jpg"
   price: 8
