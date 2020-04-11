@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Chin Up Bar, Wall Mounted (WMCUB)
+  image: "/WMCUB.JPG"
+  price: 95
+  description: |-
+    - Made of industrial strength, heavy steel, featuring 4 different grip positions.
+    - 44" wide (end to end), 23" deep (from base of wall bracket).
+
+    2 available
 - title: HJSP Professional High Jump Standards
   image: "/HJSP.JPG"
   price: 995
