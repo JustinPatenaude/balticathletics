@@ -107,7 +107,7 @@ products:
   description: 18 available
 - title: Full Size Double First Base M155 w/spikes
   image: "/M155_double-base.png"
-  price: 
+  price: 58
   description: 7 available
 - title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
   image: "/w1B3205-1BasicTrainingBall.jpg"
