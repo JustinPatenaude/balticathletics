@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Spalding 41003 Official League Synthetic Cover Baseball (sold in case of
+    12)
+  image: "/2020-03-07 11.09.54.jpg"
+  price: 36
+  description: |-
+    stitched seams
+    5 dozen available
 - title: Spalding Alpha Composite Leather Varsity Football - Size 9
   image: "/alpha varsity 72-702CA.jpg"
   price: 30
