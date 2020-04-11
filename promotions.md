@@ -28,8 +28,10 @@ products:
     1 available
 - title: Adidas Pink/Blue Soccer Ball - Size 5
   image: "/Adidas game ball size 5.jpg"
-  price: 
-  description: 12 available
+  price: 25
+  description: |-
+    Soft touch ball for game or training.
+    12 available
 - title: Adidas European Club Soccer Ball - Size 5
   image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
   price: 
