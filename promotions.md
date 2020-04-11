@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Franklin Fieldmaster Gloves - 12" & 13" available
+  image: "/2020-03-07 11.13.11.jpg"
+  price: 28
+  description: ''
 - title: Worth Mayhem Softball Bats
   image: "/2020-03-07 11.21.13.jpg"
   price: 49
