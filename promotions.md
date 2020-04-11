@@ -203,9 +203,9 @@ products:
     - Upright End Pads - Pair (choice of colour)
 - title: Spalding 73-3038C NBA For Her Basketball - Size 28.5
   image: "/733038C Spalding NBA For Her BB size 6.jpg"
-  price: 12
+  price: 10
   description: |-
-    rubber
+    - Rubber
     - 12 available
 - title: Spalding 72-6548C Advance Pro Composite Football
   image: "/726548C Advance Pro Spalding FB.jpg"
