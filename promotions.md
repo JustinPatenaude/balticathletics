@@ -3,6 +3,12 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mat Cart - Floor exercise (MC) 36" x 24"
+  image: "/MC Floor Exercise mat cart.jpg"
+  price: 45
+  description: |-
+    - 1000 lb capacity
+    - includes pull rope
 - title: Mat Cart Platform Folding (PFMC) 36" x 24"
   image: "/PFMC Mat Car a.jpg"
   price: 60
