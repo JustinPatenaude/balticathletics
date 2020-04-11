@@ -3,6 +3,12 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Inflatable Cones PP-508178/9-00  8" & 12" height
+  image: "/2020-03-07 12.25.41.jpg"
+  price: 15
+  description: |-
+    PP-508178-00  8" set of 6 - $15.00
+    PP-508179-00  12" set of 6 - $18.00
 - title: Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
   image: "/2020-03-07 12.12.53.jpg"
   price: 35
