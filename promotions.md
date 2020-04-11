@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Eletto CINCO Futsal Ball
+  image: "/2020-03-30 12.15.56.jpg"
+  price: 23
+  description: 1 available
 - title: Sporteck CAPO Soccer Ball - Size 5
   image: "/sporteck CAPO soccer ball.jpg"
   price: 30
