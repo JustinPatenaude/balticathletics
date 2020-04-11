@@ -3,10 +3,6 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: football
-  image: "/2020-03-31 14.40.28 a.jpg"
-  price: 
-  description: ''
 - title: Accufli Floorball Sticks - 70 cm, 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 27
@@ -287,7 +283,7 @@ products:
     Open reel
     - 22 available
 - title: Wilson 84-7967 Prestige Indoor Volleyball
-  image: "/2020-03-30 12.31.08.jpg"
+  image: "/prestige red.white.jpg"
   price: 27
   description: |-
     - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
