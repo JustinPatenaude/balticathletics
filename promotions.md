@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Volleyball Carrying Bag (L6V)
+  image: "/l6v.jpg"
+  price: 15
+  description: |-
+    - Nylon tube bag with an adjustable shoulder strap.
+    - Holds 6 inflated volleyballs.
+    - 47” x 8.5” x 6.5”
+
+    6 available
 - title: Heart Rate Monitor (HRM1)
   image: "/HRM1 Heart Rate Monitor.jpg"
   price: 49
