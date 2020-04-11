@@ -142,7 +142,7 @@ products:
   description: Only 1 available
 - title: Referee Pinnie SKP67A
   image: "/SKP67_-_Referee_Pinnie.jpg"
-  price: 4
+  price: 3.5
   description: |-
     - This water resistant nylon pinnie has elastic stretch webbing on one side and velcro on the other.
     - 10 available
