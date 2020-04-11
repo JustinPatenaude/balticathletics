@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Sponge Dice PX-501332-00 (Colour dot sides)
+  image: "/PX-501332-00 Sponge Dice (colour dot sides).jpg"
+  price: 4.5
+  description: 5 available
 - title: Bauer Floor Hockey Goal Pads - 27"
   image: "/2020-03-07 12.05.49.jpg"
   price: 60
