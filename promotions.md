@@ -10,7 +10,9 @@ products:
     - 4 Snap straps
     - Deep leg channel
 
-    4 pairs available
+    4 pairs available:
+    Blue/White/Red
+    Black/White/Grey
 - title: Volleyball Carrying Bag (L6V)
   image: "/l6v.jpg"
   price: 15
