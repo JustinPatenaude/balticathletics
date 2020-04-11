@@ -12,6 +12,8 @@ products:
     - steers easily on 5 in. casters (2 rigid in front and 2 swivel rear)
     - overview: 35-7/16 x 23-5/8 in.
     - holds 660 lbs
+
+    2 available
 - title: Dudley 4Y222NC Thunder Heat Softball (sold in dozens)
   image: "/4A147YC Spalding Dudley Softballs.jpg"
   price: 55
