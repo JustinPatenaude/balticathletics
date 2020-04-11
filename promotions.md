@@ -172,10 +172,11 @@ products:
   price: 27
   description: 25 available
 - title: Scooter 16x16 rounded w/handles
-  image: ''
-  price: 25
+  image: "/2020-03-07 10.51.40.jpg"
+  price: 30
   description: |-
-    assorted colours
+    - connecting
+    - assorted colours
     - 11 available
 - title: Scooter wheels
   image: "/upgraded scooter wheels.jpg"
