@@ -165,7 +165,7 @@ products:
     - 24 available
 - title: Scooter 16x16 square, no handles
   image: "/cosom scooter no handles.jpg"
-  price: 22
+  price: 24
   description: ''
 - title: Scooter 16x16 square w/handles
   image: "/cosom 16x16 deluxe scooter.jpeg"
