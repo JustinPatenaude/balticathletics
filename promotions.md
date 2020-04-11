@@ -97,8 +97,10 @@ products:
     7 available
 - title: Diadora 880200 Aluminum Water Bottle
   image: "/880200 Diadora Alum water bottle.jpg"
-  price: 
-  description: 11 available
+  price: 5
+  description: |-
+    with carabiner
+    11 available
 - title: Dunlop 762034 Pro Racquetball Balls (3 pk)
   image: "/dunlop-pro-racketball-ball-3-pack-box-3.jpg"
   price: 
