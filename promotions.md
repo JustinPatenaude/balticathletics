@@ -3,10 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: ''
-  image: ''
-  price: 
-  description: ''
+- title: Mat Cart - Pneumatic Wheels (8715302)
+  image: "/8715302 mat cart - pneumatic wheels.jpg"
+  price: 195
+  description: |-
+    - Automotive steering keeps wheels directly under corners for stability
+    - Deck size: 48 x 24 in.
+    - Tire size: 13 x 5.00-6 in.
+    - Tire type: pneumatic
+    - Powder coated steel frame, lacquer finished wood deck
+    - Handle Style: D handle
+    - 1000 lb capacity
 - title: Mat Cart - Floor exercise (MC) 36" x 24"
   image: "/MC Floor Exercise mat cart.jpg"
   price: 45
