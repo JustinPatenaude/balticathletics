@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: ''
+  image: ''
+  price: 
+  description: ''
 - title: Exercise Station Activity Riser (Hoop holder) w/Base & Wand Posts
   image: ''
   price: 
@@ -22,9 +26,8 @@ products:
     - 4 Snap straps
     - Deep leg channel
 
-    4 pairs available:
-    Blue/White/Red
-    Black/White/Grey
+    1 - Blue/White/Red pairs available
+    2 - Black/White/Grey pairs available
 - title: Volleyball Carrying Bag (L6V)
   image: "/l6v.jpg"
   price: 15
