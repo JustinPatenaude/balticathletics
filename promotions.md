@@ -32,10 +32,12 @@ products:
   description: |-
     Soft touch ball for game or training.
     12 available
-- title: Adidas European Club Soccer Ball - Size 5
+- title: Adidas Juventus European Club Soccer Ball - Size 5
   image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
-  price: 
-  description: 1 available
+  price: 25
+  description: |-
+    Soft touch game or training ball
+    1 available
 - title: Adidas Telstar 18 World Cup Soccer Ball
   image: "/TELSTAR 18 Adidas World Cup SB.jpg"
   price: 
