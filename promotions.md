@@ -10,7 +10,8 @@ products:
     work out of your training sessions! \nFeatures: 3 selectable heart rate zones,
     average heart rate, audio & visual alarm in target zone, upper & lower heart rate
     zone alarm, calories burned counter, chronograph, exercise data recall, exercise
-    timer, in-zone timer, % of maximum heart rate, maximum heart rate, EL backlight."
+    timer, in-zone timer, % of maximum heart rate, maximum heart rate, EL backlight.\n\n1
+    available"
 - title: Chin Up Bar, Wall Mounted (WMCUB)
   image: "/WMCUB.JPG"
   price: 95
