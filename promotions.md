@@ -117,7 +117,7 @@ products:
     - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
     - 32 panel
     - High gloss finish
-    - Available in White, Yellow or Orange
+    - Available in White, Hi-Vis-Green or Hi-Vis Orange
 
     Ball Size: Age
     3 : 8 and Under
