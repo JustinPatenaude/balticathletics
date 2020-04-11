@@ -73,9 +73,14 @@
                     <i class="fal fa-users"></i> Meet the Team
                   </a>
                 </div>
-                <div class="sub-nav__item sub-nav__item--last-desktop">
+                <div class="sub-nav__item">
                   <a href="{{ "/testimonials" | relative_url }}" class="sub-nav__link {% if page.url contains "/testimonials" %}active{% endif %}" title="Testimonials">
                     <i class="fal fa-quote-left"></i> Testimonials
+                  </a>
+                </div>
+                <div class="sub-nav__item sub-nav__item--last-desktop">
+                  <a href="{{ "/newsletter" | relative_url }}" class="sub-nav__link {% if page.url contains "/newsletter" %}active{% endif %}" title="Newsletter">
+                    <i class="fal fa-newspaper"></i> Newsletter
                   </a>
                 </div>
                 <div class="sub-nav__item menu-show sub-nav__item--last-mobile">
@@ -91,4 +96,9 @@
 
     </div>
   </div>
+</div>
+<div class="promo-bar">
+  <a class="promo-bar__link" href="{{ site.data.site_settings.promo_link }}">
+    {{ site.data.site_settings.promo_text }}
+  </a>
 </div>

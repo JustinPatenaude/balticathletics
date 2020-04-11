@@ -34,16 +34,16 @@ Click **Brands** in the sidebar and click **Create new > Brands** at the top of 
 
 ***
 
-#### 3. Adding a category
-Click **Categories** in the sidebar and click **Create new > Categories** at the top of the page. Add your title, handle and any other content your may need. In the top right of the page, make sure *Draft* is set to **off** and click **Save**.
+#### 3. Adding a product
+Click **Products** in the sidebar and click **Create new > Products** at the top of the page. Add your title, handle and any other content your may need. In the top right of the page, make sure *Draft* is set to **off** and click **Save**.
 
 * `Title`
-  The title of the category
+  The title of the product
 * `Permalink`
   This is what the URL will look like. It should be lowercase and dashes converted into spaces. Example: Archery would be /products/archery
 * `Products`
-  This is a simple list of products for a particular category. This is just off the top of your head, and isn't a reference to any other part of the site. Example: in the Baseball category, you could add: Bats, Balls, Gloves, Catchers Equipment, Helmets, etc. This gives your customers an idea of what you can offer for a particular category.
+  This is a simple list of product types for a particular product. This is just off the top of your head, and isn't a reference to any other part of the site. Example: in the Baseball product, you could add: Bats, Balls, Gloves, Catchers Equipment, Helmets, etc. This gives your customers an idea of what you can offer for a particular product.
 * `Photos`
-  Here you can upload photos for the category. Click it, add a title and click 'Click to Browse' you will be taken to the Media Manager section. In the top right of the page you will see an upload button where you will be able to look for the file on your computer.
+  Here you can upload photos for the prodct. Click it, add a title and click 'Click to Browse' you will be taken to the Media Manager section. In the top right of the page you will see an upload button where you will be able to look for the file on your computer.
 
-One you've added a *Category* page, we need to add it to the list. Click **Category list** in the sidebar and find the section you want to add your new category into. Once clicked, add your new Category by typing it into the list and pressing enter. Once added, click **Save**.
+One you've added a *Product* page, we need to add it to the list. Click **Product list** in the sidebar and find the section you want to add your new product into. Once clicked, add your new Product by typing it into the list and pressing enter. Once added, click **Save**.

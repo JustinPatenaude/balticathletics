@@ -15,12 +15,17 @@ $colorBlue: #4B87C7;
 $colorBlueDark: #3A6492;
 $colorGreyLighter: #ECECEC;
 $colorGreyLight: #CCCCCC;
+$colorBorder: #efefef;
 $colorGrey: #666666;
 $colorDark: #333333;
+$colorGreen: #2ecc71;
+$colorGreenDark: #27ae60;
 $error: #a22020;
 $colorWarning: #efd313;
 $colorWarningDark: #bba616;
 $colorWarningLight: #fdfae9;
+
+$borderRadius: 4px;
 
 $gutter: 30px;
 
@@ -67,6 +72,12 @@ p {
   margin-bottom: 12px;
   font-size: 16px;
   line-height: 1.8em;
+  color: $colorGrey;
+  a {
+    &:hover, &:active, &:focus {
+      text-decoration: underline;
+    }
+  }
 }
 strong {
   font-weight: 700;
@@ -74,10 +85,15 @@ strong {
 em {
   font-style: italic;
 }
+ul {
+  padding-left: 20px;
+  list-style-type: disc;
+}
 li {
   margin-bottom: 6px;
   font-size: 16px;
   line-height: 1.8em;
+  color: $colorGrey;
 }
 hr {
   width: 100%;
@@ -92,14 +108,6 @@ a {
   transition: all 0.2s ease-in-out;
   &:hover {
     color: $colorDark;
-  }
-}
-p {
-  color: $colorGrey;
-  a {
-    &:hover, &:active, &:focus {
-      text-decoration: underline;
-    }
   }
 }
 input, textarea, button {
@@ -151,7 +159,7 @@ input, textarea, button {
   color: #fff;
   background-color: $colorBlue;
   border: 0;
-  border-radius: 4px;
+  border-radius: $borderRadius;
   cursor: pointer;
   transition: all .2s ease-in-out;
   &:hover {
@@ -165,6 +173,10 @@ input, textarea, button {
       color: #fff;
       background-color: $colorBlueDark;
     }
+  }
+  &.btn--small {
+    padding: 2px 12px;
+    font-size: 12px;
   }
 }
 .btn__icon {
@@ -195,7 +207,7 @@ input, textarea, button {
   background-color: #fff;
   border: 0;
   //border-bottom: 2px solid #fff;
-  border-radius: 4px;
+  border-radius: $borderRadius;
   box-shadow: 0 0 30px rgba(0,0,0,0.10);
   transition: box-shadow 0.2s ease-in-out;
   &:focus, &:active {
@@ -261,7 +273,7 @@ input, textarea, button {
   color: $colorDark;
   background-color: transparent;
   border: 1px solid rgba(102,102,102,0.50);
-  border-radius: 4px;
+  border-radius: $borderRadius;
   transition: border-color 0.2s ease-in-out;
   &:focus, &:active {
     border-color: rgba(102,102,102,1);
@@ -271,12 +283,28 @@ input, textarea, button {
 .input-wire__text::placeholder {
   color: rgba(102,102,102,0.75);
 }
+.input-group {
+  li {
+    display: inline-block;
+    width: 33%;
+    margin-bottom: 10px;
+    margin-right: -1px;
+    line-height: 1em;
+    list-style-type: none;
+  }
+  label {
+    font-size: 14px;
+  }
+}
+.input-wire__checkbox, .input-wire__radio {
+  margin: 0 5px 0 0;
+}
 .table {
   background-color: #fff;
   border-right: 1px solid $colorGreyLighter;
   border-top: 1px solid $colorGreyLighter;
   border-left: 1px solid $colorGreyLighter;
-  border-radius: 4px;
+  border-radius: $borderRadius;
   // box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
   &.table--6 {
     .table__cell:nth-of-type(2n+1){
@@ -290,21 +318,12 @@ input, textarea, button {
   padding: 11px 15px;
   border-bottom: 1px solid $colorGreyLighter;
 }
-.rte {
-  p {
-    color: $colorGrey;
-  }
-  ul {
-    list-style-type: disc;
-    list-style-position: inside;
-  }
-}
 .warning {
   position: relative;
   padding: 20px 20px 20px 50px;
   background-color: $colorWarningLight;
   border: 1px solid $colorWarning;
-  border-radius: 4px;
+  border-radius: $borderRadius;
   p {
     &:last-of-type {
       margin-bottom: 0;
@@ -351,7 +370,7 @@ input, textarea, button {
   width: 100%;
 }
 .rounded {
-  border-radius: 4px;
+  border-radius: $borderRadius;
 }
 .margin-20 {
   margin-bottom: 20px;
@@ -468,7 +487,7 @@ input, textarea, button {
 .sub-nav__inner {
   background-color: $colorBlue;
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.25);
-  border-radius: 4px;
+  border-radius: $borderRadius;
   overflow: hidden;
 }
 .sub-nav__item {
@@ -540,6 +559,28 @@ input, textarea, button {
 }
 
 /*======================
+  PROMO BAR
+======================*/
+.promo-bar__link {
+  position: relative;
+  z-index: 4;
+  display: block;
+  padding: 5px 0;
+  font-size: 14px;
+  text-align: center;
+  color: #fff;
+  background-color: $colorBlue;
+  box-shadow: 0 1px 10px rgba(0,0,0,0.1);
+  &:hover {
+    color: #fff;
+    background-color: $colorBlueDark;
+  }
+  @media only screen and (max-width: 768px) {
+    padding: 5px 10px 5px 154px;
+  }
+}
+
+/*======================
   HOME
 ======================*/
 .banner {
@@ -547,13 +588,46 @@ input, textarea, button {
   height: 550px;
   background-size: cover;
 }
-.banner__content {
+.banner__slides {
   position: absolute;
   top: 50%;
   left: 0;
   z-index: 2;
   width: 100%;
   transform: translate(0, -50%);
+  .slick-dots {
+    position: absolute;
+    top: calc(100% + 60px);
+    left: 50%;
+    z-index: 2;
+    text-align: center;
+    transform: translate(0, -50%);
+    li {
+      display: inline-block;
+      vertical-align: top;
+      margin: 0 8px;
+    }
+    button {
+      display: block;
+      padding: 0;
+      width: 12px;
+      height: 12px;
+      font-size: 0;
+      background-color: #fff;
+      border: 2px solid #fff;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: all .2s ease-in-out;
+      &:hover {
+        opacity: 0.5;
+      }
+    }
+    .slick-active {
+      button {
+        background-color: $colorBlueDark;
+      }
+    }
+  }
 }
 .banner__content-inner {
   max-width: 50%;
@@ -590,7 +664,7 @@ input, textarea, button {
   padding: 30px;
   text-align: center;
   background: #FFFFFF;
-  border-radius: 4px;
+  border-radius: $borderRadius;
   box-shadow: 0 0 30px 0 rgba(0,0,0,0.10);
   transition: all .2s ease-in-out;
   &:hover {
@@ -619,7 +693,7 @@ input, textarea, button {
   }
 }
 .home__about-photo {
-  border-radius: 4px;
+  border-radius: $borderRadius;
 }
 .home__testimonials-wrapper {
   background-color: $colorGreyLighter;
@@ -800,8 +874,8 @@ input, textarea, button {
 .page__contact {
   margin-bottom: 30px;
   padding: 12px;
-  border: 1px solid #efefef;
-  border-radius: 4px;
+  border: 1px solid $colorBorder;
+  border-radius: $borderRadius;
   p {
     margin-bottom: 0;
   }
@@ -829,7 +903,7 @@ input, textarea, button {
   margin-bottom: $gutter;
   padding: 25px 0 10px 0;
   background-color: #fff;
-  border-radius: 4px;
+  border-radius: $borderRadius;
   box-shadow: 0 0 30px rgba(0,0,0,0.10);
   transition: all .2s ease-in-out;
   &:hover {
@@ -877,7 +951,7 @@ input, textarea, button {
   display: block;
   padding-bottom: 100%;
   // background-color: #F3F3F3;
-  border-radius: 4px;
+  border-radius: $borderRadius;
   overflow: hidden;
   cursor: zoom-in;
 }
@@ -928,7 +1002,7 @@ input, textarea, button {
   margin-bottom: $gutter;
   padding-bottom: 50%;
   background-color: #fff;
-  border-radius: 4px;
+  border-radius: $borderRadius;
   box-shadow: 0 0 30px rgba(0,0,0,0.10);
   transition: all .2s ease-in-out;
   &:hover {
@@ -1049,16 +1123,29 @@ input, textarea, button {
 /*======================
   CLEARANCE
 ======================*/
-.product {
+.product-item {
+  display: block;
   margin-bottom: 30px;
+  cursor: pointer;
+  &:hover {
+    .product-item__image-wrapper {
+      border-color: $colorBlue;
+    }
+    .btn {
+      background-color: $colorBlueDark;
+    }
+  }
 }
-.product__image-wrapper {
+.product-item__image-wrapper {
   position: relative;
   width: 100%;
+  margin-bottom: 10px;
   padding-bottom: 100%;
-  background-color: #efefef;
+  border: 1px solid $colorBorder;
+  border-radius: $borderRadius;
+  transition: all .2s ease-in-out;
 }
-.product__image {
+.product-item__image {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -1067,6 +1154,42 @@ input, textarea, button {
   max-width: 100%;
   max-height: 100%;
   transform: translate(-50%, -50%);
+}
+.product-item__title {
+  font-size: 16px;
+  line-height: 1.5em;
+  color: $colorDark;
+}
+.product-item__price {
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.5em;
+  color: $colorDark;
+}
+.product-item__modal {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: $gutter;
+  background-color: #fff;
+  .product-item__title {
+    font-size: 24px;
+    line-height: 1.25em;
+  }
+  .product-item__price {
+    margin-bottom: 12px;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.8em;
+  }
+  .mfp-close {
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+  }
+  @media only screen and (max-width: 480px) {
+    padding: 15px;
+  }
 }
 
 /*======================
@@ -1119,7 +1242,7 @@ input, textarea, button {
   padding: 50px 0;
 }
 .search__input-wrapper {
-  border-radius: 4px;
+  border-radius: $borderRadius;
   box-shadow: 0 0 30px rgba(0,0,0,0.10);
 }
 .search__input {

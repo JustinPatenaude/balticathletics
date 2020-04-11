@@ -15,10 +15,11 @@ $large: 1280px;
 $medium: 1024px;
 $small: 768px;
 $extrasmall: 480px;
-$tiny: 320px;
+$tiny: 360px;
 $gl-gutter: 30px;
 
 $postSmall: $small + 1;
+$gl-ty: "screen and (max-width: #{$tiny})";
 $gl-xs: "screen and (max-width: #{$extrasmall})";
 $gl-sm: "screen and (max-width: #{$small})";
 $gl-md: "screen and (max-width: #{$medium})";
@@ -332,6 +333,9 @@ html.lte-ie9 .col, html.lte-ie9 [class*="col-"] {
 @media #{$gl-xs}{
   @include makeGridByNumber(_xs);
 }
+@media #{$gl-ty}{
+  @include makeGridByNumber(_ty);
+}
 
 
 /*==============================================================================
@@ -355,6 +359,10 @@ html.lte-ie9 .col, html.lte-ie9 [class*="col-"] {
 @media #{$gl-xs}{
   @include makeCol(_xs);
   @include makeOff(_xs);
+}
+@media #{$gl-ty}{
+  @include makeCol(_ty);
+  @include makeOff(_ty);
 }
 
 /*==============================================================================

@@ -12,6 +12,14 @@ $(document).ready(function(){
   /* ==========================
      HOME
   ========================== */
+  $('.banner__slides').slick({
+    dots: true,
+    infinite: true,
+    arrows: false,
+    fade: true,
+    cssEase: 'linear',
+  });
+
   $('.home__testimonials-slider').slick({
     dots: false,
     arrows: false
@@ -25,6 +33,13 @@ $(document).ready(function(){
     gallery:{
       enabled: true
     }
+  });
+
+  /* ==========================
+     PROMOTIONS
+  ========================== */
+  $('.product-item').magnificPopup({
+    type: 'inline'
   });
 
   /* ==========================
