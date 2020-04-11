@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
+  image: "/Eletto LNA-350 soccer ball.jpg"
+  price: 22
+  description: ''
+- title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
+  image: ''
+  price: 0
+  description: ''
 - title: Eletto CINCO Futsal Ball
   image: "/2020-03-30 12.15.56.jpg"
   price: 23
