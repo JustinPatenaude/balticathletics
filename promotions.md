@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: HJSP Professional High Jump Standards
+  image: "/HJSP.JPG"
+  price: 995
+  description: |
+    - INCLUDES: competition level fiberglass 13.1' crossbar (not shown)
+    - Height range-69-250cm
+    - 75mm aluminum pole with 59x53cm “T” shape laser cut base, casting alum.
+    - Crossbar platform and top cap.
+    - Extra weighted base for stability.
+    - Red only
+    - IAAF Certified.
 - title: Mat Cart - Pneumatic Wheels (8715302)
   image: "/8715302 mat cart - pneumatic wheels.jpg"
   price: 195
