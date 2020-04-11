@@ -23,7 +23,9 @@ products:
 - title: Adidas Krasava Soccer Ball - Size 5
   image: "/KRASAVA Adidas SB size 5.jpg"
   price: 45
-  description: 1 available
+  description: |-
+    Match quality ball, superb bounce and feel
+    1 available
 - title: Adidas Pink/Blue Soccer Ball - Size 5
   image: "/Adidas game ball size 5.jpg"
   price: 
