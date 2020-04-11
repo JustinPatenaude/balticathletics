@@ -4,7 +4,7 @@ title: Promotions
 permalink: "/promotions/"
 products:
 - title: football
-  image: "/2020-03-31 14.40.28.jpg"
+  image: "/2020-03-31 14.40.28 a.jpg"
   price: 
   description: ''
 - title: Accufli Floorball Sticks - 70 cm, 80cm, 90cm, 100cm
