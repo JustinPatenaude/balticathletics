@@ -3,7 +3,7 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Accufli Floorball Sticks - 80cm, 90cm, 100cm
+- title: Accufli Floorball Sticks - 70 cm, 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 27
   description: "Features:\nAvailable in 6 colours and both left & right handed.\nLightweight
