@@ -253,9 +253,7 @@ products:
     - Game instructions (in English or French)
 
     FITB approved! Drawn steel tube with rounded corners and a strong foldable
-    support mechanism keeps the frame stable during play. Net is held by 52 steel
-    “S” hooks spread around the frame. Non-marking guards at the bottom. Frame
-    size is 1 m x 1 m and features rust-proof steel net rings.
+    support mechanism keeps the frame stable during play. 10 angle adjustments on bar. Net is held by 52 steel “S” hooks spread around the frame. Non-marking guards at the bottom. Frame size is 1 m x 1 m and features rust-proof steel net rings.
 
     FOB Winnipeg
 - title: Traditions 209 Starting Pistol
