@@ -5,8 +5,8 @@ permalink: "/promotions/"
 products:
 - title: Franklin Fieldmaster Glove - 11" Left Hand Catch
   image: "/Franklin fieldmaster.jpg"
-  price: 26
-  description: ''
+  price: 24
+  description: Navy/Red/White
 - title: Wilson A360 Glove - Right Hand Catch
   image: "/A360 Wilson glove RHC.jpg"
   price: 49
