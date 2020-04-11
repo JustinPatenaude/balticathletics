@@ -3,6 +3,12 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
+  image: "/2020-03-07 11.14.18a.jpg"
+  price: 35
+  description: |-
+    Soft & supple, very flexible (broken in feel)
+    13 available
 - title: Franklin Fieldmaster Gloves - 12" & 13" available
   image: "/2020-03-07 11.13.11.jpg"
   price: 28
