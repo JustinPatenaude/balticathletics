@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Exercise Station Activity Riser (Hoop holder)
+  image: ''
+  price: 9
+  description: |-
+    - Can be used for multiple activities
+    - Obstacle course, high jump, target etc
+
+    5 available
 - title: Sponge Dice PX-501332-00 (Colour dot sides)
   image: "/PX-501332-00 Sponge Dice (colour dot sides).jpg"
   price: 4.5
