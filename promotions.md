@@ -103,8 +103,8 @@ products:
     11 available
 - title: Dunlop 762034 Pro Racquetball Balls (3 pk)
   image: "/dunlop-pro-racketball-ball-3-pack-box-3.jpg"
-  price: 
-  description: ''
+  price: 6
+  description: 18 available
 - title: Full Size Double First Base M155 w/spikes
   image: "/M155_double-base.png"
   price: 
