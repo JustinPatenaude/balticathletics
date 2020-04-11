@@ -227,7 +227,7 @@ products:
      - 20 available
 - title: Spalding 642478C NBA Outdoor Jr Basketball - size 28.5
   image: "/642478C Spalding NBA Outdoor Jr BB 28.5.jpg"
-  price: 12
+  price: 10
   description: |-
     rubber
     - 14 available
