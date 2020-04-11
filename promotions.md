@@ -8,7 +8,7 @@ products:
   price: 22
   description: ''
 - title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
-  image: ''
+  image: "/Eletto LNA-290 soccer ball.jpg"
   price: 0
   description: ''
 - title: Eletto CINCO Futsal Ball
