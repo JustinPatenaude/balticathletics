@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Spalding Alpha Composite Leather Youth Football - Size 7
+  image: "/2020-04-11 12.05.21.jpg"
+  price: 28
+  description: Pebbled tacky laces
 - title: Wilson A800 Showtime Glove - 13" Left Hand Catch
   image: "/Wilson A800 Showtime glove.jpg"
   price: 65
