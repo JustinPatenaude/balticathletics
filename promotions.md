@@ -147,10 +147,11 @@ products:
     - This water resistant nylon pinnie has elastic stretch webbing on one side and velcro on the other.
     - One size
     - 10 available
-- image: "/234DBMK Russell baseball pants.jpg"
+- image: "/234DBMK_GRAY.jpg"
   price: 20
-  description: Full length, straight hem, double knees, welt pockets, tunnel belt
-    loops, brass zipper
+  description: |-
+    Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
+    Belt not included
   title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
 - title: Scooter 12x12 square, no handles
   image: "/cosom scooter no handles.jpg"
