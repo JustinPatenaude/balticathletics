@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Spalding Rookie Gear Composite Football - Size 6
+  image: "/2020-03-31 14.40.28 a.jpg"
+  price: 14
+  description: |-
+    - raised tacky laces
+    - 25% lighter
+
+    19 brown available
+    8 red/blue available
 - title: Accufli Floorball Sticks - 70 cm, 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 27
