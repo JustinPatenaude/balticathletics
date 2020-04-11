@@ -138,7 +138,7 @@ products:
     40 available
 - title: Puma Arsenal Soccer Ball - Size 5
   image: "/ARSENAL Puma SB size 5.jpg"
-  price: 
+  price: 25
   description: Only 1 available
 - title: Referee Pinnie SKP67A
   image: "/SKP67_-_Referee_Pinnie.jpg"
