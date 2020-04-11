@@ -7,7 +7,8 @@ products:
   image: "/Fox40 T-Reign & whistle 7930-0000.jpg"
   price: 17
   description: |-
-    -The Fox 40® Classic® is the standard choice referees and coaches at all levels, rescue professionals and general safety worldwide
+    FOX40 CLASSIC WHISTLE FEATURES:
+    -The Fox 40® Classic® whistle is the standard choice referees and coaches at all levels, rescue professionals and general safety worldwide
     - Flawless, consistent and reliable
     - Easy to blow and cannot be overblown
     - Will be heard above ambient noise, loud crowds, the roar of engines, breaking waves and thundering gale-force winds
