@@ -3,10 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: ''
-  image: ''
-  price: 
-  description: ''
+- title: Spalding 100 Leather Baseball
+  image: "/spalding 100 baseball.jpg"
+  price: 5
+  description: 3 single balls available
 - title: Exercise Station Activity Riser (Hoop holder) w/Base & Wand Posts
   image: ''
   price: 
