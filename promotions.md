@@ -67,7 +67,7 @@ products:
 - title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
   image: "/CosomPowerShaftHockeyStick 42.jpg"
   price: 9.5
-  description: 13 available
+  description: Black shaft with Green or Orange blades
 - title: Cosom Floor Hockey Sticks (w/fiberglass rod) 47"
   image: "/CosomPowerShaftHockeyStick.jpg"
   price: 13
