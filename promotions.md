@@ -3,6 +3,21 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- price: 24
+  description: |-
+    8 oz
+    Ozone friendly
+
+    Used in all sports:
+    - soccer
+    - basketball
+    - field hockey
+    - wrestling
+    - lacrosse
+
+    1 available
+  title: Kwikgoal Blast Air Horn 9A1
+  image: "/2020-04-10 16.39.19.jpg"
 - title: Fox40 Ecoblast Rechargeable Air Horn & Air Pump 9509AZ
   image: "/Fox40 9509AZ ecoblast horn.jpg"
   price: 28
