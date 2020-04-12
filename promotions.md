@@ -3,6 +3,20 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: BacPacJac Backpack Shock Absorbers - Light (3 - 25 lbs)
+  image: "/2020-04-10 16.59.04.jpg"
+  price: 12
+  description: |-
+    2 available (1 black, 1 blue)
+
+    The Patented BacPacJac Shock Absorbing System Can Help Protect Your Children Against Dangerous Injuries Caused by Heavy Backpacks
+
+    Instantly lessens backpack load
+    Reduces pressure on the back by up to 50+%
+    Reduces strain on back and knees
+    Easily installs on any backpack
+
+    https://bacpacjac.com/
 - price: 24
   description: |-
     8 oz
