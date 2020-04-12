@@ -4,7 +4,7 @@ title: Promotions
 permalink: "/promotions/"
 products:
 - title: BacPacJac Backpack Shock Absorbers - Heavy (20 - 50 lbs)
-  image: ''
+  image: "/2020-04-10 16.58.32.jpg"
   price: 14
   description: ''
 - title: BacPacJac Backpack Shock Absorbers - Light (3 - 25 lbs)
