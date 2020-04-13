@@ -14,6 +14,8 @@ products:
     - Gain coordination with each workout
     - With anti-burst strength of 1000 lbs
     - Dual action pump INCLUDED
+
+    1 available at this price
 - title: BY Group Classic Fitness Ball 92139
   image: "/2020-03-07 12.43.06.jpg"
   price: 15
