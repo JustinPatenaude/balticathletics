@@ -57,10 +57,6 @@ products:
     7 available
     - 6 black
     - 1 yellow
-- title: Franklin FRK-BB-22601 Fieldmaster Ball Glove - 13" Left hand catch
-  image: "/Franklin FRK-BB-22601 Fieldmaster Glove.jpg"
-  price: 
-  description: 1 available - Blonde/Black
 - title: Mini Volleyball Aluminum Post Extensions VBPE - 36"
   image: "/2020-03-07 13.32.52.jpg"
   price: 40
@@ -166,14 +162,6 @@ products:
   image: "/2020-04-11 14.43.02.jpg"
   price: 8
   description: 12 available
-- title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
-  image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
-  price: 40
-  description: |-
-    - Full grain leather
-    - soft supple feel
-
-    1 available
 - title: Head Stream Badminton Racquet
   image: "/Head Stream Badminton Racquet.jpg"
   price: 39
@@ -204,6 +192,18 @@ products:
     - Spigot on bottom
 
     1 available
+- title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
+  image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
+  price: 40
+  description: |-
+    - Full grain leather
+    - soft supple feel
+
+    1 available
+- title: Franklin FRK-BB-22601 Fieldmaster Ball Glove - 13" Left hand catch
+  image: "/Franklin FRK-BB-22601 Fieldmaster Glove.jpg"
+  price: 
+  description: 1 available - Blonde/Black
 - title: Wilson A450 Leather Glove - 12" Left hand catch
   image: "/Wilson A450 Leather Glove.jpg"
   price: 39
@@ -604,14 +604,14 @@ products:
     - Soft & supple, very flexible (broken in feel)
 
     13 available (black/purple)
-- title: Franklin FRK-BB-22610 Fieldmaster Glove - 13" Left hand catch
-  image: ''
+- title: Franklin FRK-BB-22610 Fieldmaster Ball Glove - 13" Left hand catch
+  image: "/Franklin FRK-BB-22610 Fieldmaster Ball Glove.jpg"
   price: 28
   description: |
     - Synthetic leather
     - Soft feel
 
-    8 available - Black LHC (FRK-BB-22610)
+    8 available  - Black
 - title: Worth Mayhem Softball Bats
   image: "/2020-03-07 11.21.13.jpg"
   price: 49
