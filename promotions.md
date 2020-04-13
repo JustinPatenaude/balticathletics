@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Franklin FRK-BB-22603 Fieldmaster Glove - 12" Left hand catch
+  image: "/2020-04-13 15.45.48.jpg"
+  price: 28
+  description: 2 available - Blonde/Black
 - title: Franklin FRK-BB-22611 Fieldmaster Glove - 12" Left hand catch
   image: "/2020-04-13 15.45.10.jpg"
   price: 28
