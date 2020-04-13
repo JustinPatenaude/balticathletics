@@ -4,7 +4,7 @@ title: Promotions
 permalink: "/promotions/"
 products:
 - title: Racquet Cart
-  image: ''
+  image: "/2020-03-07 13.03.06.jpg"
   price: 460
   description: |
     - 44"L  X 20" W X 42" T
@@ -15,7 +15,7 @@ products:
     - black
     - racquets & shuttles in photo not included
 
-    Custom item (allow 2-3 weeks)
+    CUSTOM ITEM (allow 2-3 weeks)
 - title: Champion VC500PRO Mammoth Volleyball Cart
   image: "/vc500pro_l.jpg"
   price: 170
