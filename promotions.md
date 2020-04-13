@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Franklin RTP Fielding Glove FRK-BB-22553 - 11" Left Hand Catch
+  image: "/Franklin RTP Fielding Glove FRK-BB-22553.jpg"
+  price: 26
+  description: |-
+    Really soft
+    Ready To Play (RTP)
+
+    1 available
 - title: Franklin Fastpitch Fielding Glove FRK-BB-223 - 11" Left Hand Catch
   image: "/2020-04-11 14.47.16.jpg"
   price: 28
