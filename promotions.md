@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Wiffle Ball CX040630-00 - 9" (baseball size)
+  image: "/plbb-enhanced-1_l.jpg"
+  price: 1.5
+  description: ''
 - title: Road Warrior ROA-HOC-RWSG54 Floor Hockey Goal - 54"
   image: "/ROA-HOC-RWSG54-2.jpg"
   price: 65
