@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Franklin FRK-PIC-52710 Pickleball-X Volt Set
+  image: "/2020-04-13 10.31.20.jpg"
+  price: 40
+  description: |-
+    - includes 2 laminated wood, padded handle, plastic edge paddles
+    - includes 2 balls
+
+    3 sets available
 - title: Franklin FRK-SOC-30125X Premier Steel Soccer Goal 12' x 6'
   image: "/5680.PNG"
   price: 380
