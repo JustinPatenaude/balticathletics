@@ -3,10 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
-  image: "/2020-04-13 10.34.14.jpg"
-  price: 10
-  description: 2 sets available
+- title: Champion M500P Molded Rubber Base Plug - Set of 3
+  image: "/m500p-lifestyle1-l.jpg"
+  price: 16.5
+  description: 1 set available
 - title: Kwik Goal 10B3402 Tamper Resistant Soccer Net Clips - Bag of 200
   image: "/2020-04-13 10.39.43.jpg"
   price: 190
@@ -138,6 +138,10 @@ products:
   image: "/2020-04-11 14.34.59.jpg"
   price: 39
   description: 1 available in RED
+- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
+  image: "/2020-04-13 10.34.14.jpg"
+  price: 10
+  description: 2 sets available
 - title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
   image: "/2020-03-30 13.42.56.jpg"
   price: 19
