@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Rawlings HFP
+  image: ''
+  price: 
+  description: ''
 - title: Head Stream Badminton Racquet
   image: "/Head Stream Badminton Racquet.jpg"
   price: 39
@@ -427,7 +431,7 @@ products:
     Soft composite leather
     9 available
 - title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
-  image: "/2020-03-07 11.14.18a.jpg"
+  image: "/Rawlings HFP125BP Baseball Glove.jpg"
   price: 35
   description: |-
     Soft & supple, very flexible (broken in feel)
