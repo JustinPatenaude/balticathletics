@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Ragim RG-WC62 Wildcat Recurve Takedown Bow
+  image: "/Wildcat Recurve Takedown Bow.png"
+  price: 150
+  description: |-
+    - Right hand
+    - 26 lb draw weight
+    - 62" tall
+    - includes string
+
+    1 available
 - title: Champion BK25BK Deluxe Basketball Carry Bag
   image: "/bk25bk_n.jpg"
   price: 26
