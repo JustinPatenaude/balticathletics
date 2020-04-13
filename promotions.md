@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
+  image: "/2020-03-30 13.42.56.jpg"
+  price: 19
+  description: |-
+    - Soft touch
+    - Great bounce
+
+    7 available
+    - 6 black
+    - 1 yellow
 - title: Mini Volleyball Aluminum Post Extensions VBPE - 36"
   image: "/2020-03-07 13.32.52.jpg"
   price: 40
