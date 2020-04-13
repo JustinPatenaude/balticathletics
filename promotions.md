@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
+  image: "/2020-03-30 11.33.27.jpg"
+  price: 4
+  description: |-
+    Only white as shown
+
+    15 available
 - title: Black Knight Airstream 660 Badminton Racquet
   image: "/2020-03-09 11.50.18.jpg"
   price: 35
