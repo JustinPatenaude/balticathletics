@@ -3,14 +3,6 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Franklin FRK-BB-22603 Fieldmaster Glove - 12" Left hand catch
-  image: "/2020-04-13 15.45.48.jpg"
-  price: 28
-  description: 2 available - Blonde/Black
-- title: Franklin FRK-BB-22611 Fieldmaster Glove - 12" Left hand catch
-  image: "/2020-04-13 15.45.10.jpg"
-  price: 28
-  description: 6 available - Black
 - title: Franklin FRK-BB-22612 Fieldmaster Glove - 11" YOUTH - Left hand catch
   image: "/2020-04-13 14.20.17.jpg"
   price: 24
@@ -19,75 +11,18 @@ products:
   image: "/2020-04-13 14.19.51.jpg"
   price: 24
   description: 3 available - Blonde/Black
+- title: Franklin FRK-BB-22603 Fieldmaster Glove - 12" Left hand catch
+  image: "/2020-04-13 15.45.48.jpg"
+  price: 28
+  description: 2 available - Blonde/Black
+- title: Franklin FRK-BB-22611 Fieldmaster Glove - 12" Left hand catch
+  image: "/2020-04-13 15.45.10.jpg"
+  price: 28
+  description: 6 available - Black
 - title: Franklin FRK-BB-22600 Fieldmaster Glove - 14" Left hand catch
   image: "/2020-04-13 14.19.33.jpg"
   price: 28
   description: 8 available - Blonde/Black
-- title: Black Knight Airstream 660 Badminton Racquet
-  image: "/2020-03-09 11.50.18.jpg"
-  price: 35
-  description: |-
-    - Graphite/Aluminum racquet
-    - Single piece racquet
-
-    20 available
-- title: Carlton ISO4.3 Midi-Blade Badminton Racquet - Junior
-  image: "/2020-03-07 13.10.43.jpg"
-  price: 15
-  description: |-
-    - Titanium Alloy/Steel racquet
-
-    1 available
-- title: Carlton ISO4.3 Maxi-Blade Badminton Racquet
-  image: "/2020-03-07 13.10.31.jpg"
-  price: 16
-  description: |-
-    - Titanium Alloy/Steel racquet
-
-    7 available
-- title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
-  image: "/2020-03-30 11.33.27.jpg"
-  price: 4
-  description: |-
-    Only white as shown
-
-    15 available
-- title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
-  image: "/2020-03-30 13.42.56.jpg"
-  price: 19
-  description: |-
-    - Soft touch
-    - Great bounce
-
-    7 available
-    - 6 black
-    - 1 yellow
-- title: Mini Volleyball Aluminum Post Extensions VBPE - 36"
-  image: "/2020-03-07 13.32.52.jpg"
-  price: 40
-  description: |
-    - Inserts into the top of 2" badminton posts for mini-volleyball play
-    - 4 easy height adjustments
-    - 2 eyelets for side by side courts
-- title: Saucer Cone Set CM36P - 4 colour/36 pack
-  image: "/2020-04-09 19.14.58.jpg"
-  price: 18
-  description: |-
-    - includes carrying stacker
-
-     20 available
-- title: Saucer Cone Set CM50P - 5 colour/50 pack
-  image: "/2020-04-09 19.13.46.jpg"
-  price: 26
-  description: |-
-    - includes carrying stacker
-    - 7.5" saucer cones
-
-    8 available
-- title: York 7822 Firm Fit Weight Lifting Glove - Size M
-  image: "/2020-03-07 12.39.15.jpg"
-  price: 10
-  description: 1 pair available
 - title: Dudley 4Y222NC Thunder Heat COR44 Synthetic Softball - 12" Yellow (sold in
     dozens)
   image: "/4A147YC Spalding Dudley Softballs.jpg"
@@ -108,91 +43,28 @@ products:
   image: "/2020-04-11 14.41.37.jpg"
   price: 
   description: ''
-- title: York 7852 All Person Fitness Glove - Size M
-  image: "/2020-03-07 12.39.05.jpg"
-  price: 12
-  description: 1 available
-- title: Champion RT610 All Purpose Resistance Belt Set
-  image: "/RT610 All purpose resistance belt set.jpg"
-  price: 55
+- title: Carlton ISO4.3 Maxi-Blade Badminton Racquet
+  image: "/2020-03-07 13.10.31.jpg"
+  price: 16
   description: |-
-    • Great for athletic partner training
-    • Uses include speed, reaction and competition drills
-    • 1 waist belt
-    • 1-8.5' high elastic tubing with a nylon covering
-    • 2 locking snap links
-    • 1 red handle strap
-    • 2 d-rings
-    • One locking snap link
+    - Titanium Alloy/Steel racquet
 
-    • 1 available in Royal Blue
-- title: Acupoint L2489-6 Foam Roller - 5" dia x 12" high
-  image: "/2020-03-07 12.33.42.jpg"
-  price: 23
-  description: ''
-- title: Firm Foam Roller EPPFR36  - 6" dia x 36" high
-  image: "/Firm Foam Roller EPPFR36 a.jpg"
-  price: 35
-  description: |-
-    - Firm density, retains shape longer
-    - 6" diameter
-    - Made of expanded polypropylene (EPP)
-    - Eco-friendly
-- title: Easton Z5 Batting Helmet - Senior
-  image: "/2020-04-11 14.36.02.jpg"
-  price: 39
-  description: 1 available in BLACK
-- title: Easton Z5JR Batting Helmet - Junior
-  image: "/2020-04-11 14.34.59.jpg"
-  price: 39
-  description: 1 available in RED
-- title: Safety Pads for Referee Stand
-  image: "/LO-764SP1 ref stand pad.jpg"
-  price: 435
-  description: "- Padding extends 6' high covering front and sides of stand.\n- 18
-    oz vinyl exterior attaching to stand with Velcro Straps.\n- 2\" polyurethane foam
-    provides impact absorption. \n\nFits LO-764 referee stand (sold separately in
-    red only $620)\n\n1 available at this price in ROYAL BLUE only"
-- title: Puma Trainer Soccer Ball - Size 4
-  image: "/2020-04-11 14.30.31.jpg"
-  price: 25
-  description: |-
-    - Soft touch
-    - Great bounce
-
-    3 available (colours shown)
-- title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
-  image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
+    7 available
+- title: Mini Volleyball Aluminum Post Extensions VBPE - 36"
+  image: "/2020-03-07 13.32.52.jpg"
   price: 40
+  description: |
+    - Inserts into the top of 2" badminton posts for mini-volleyball play
+    - 4 easy height adjustments
+    - 2 eyelets for side by side courts
+- title: Saucer Cone Set CM50P - 5 colour/50 pack
+  image: "/2020-04-09 19.13.46.jpg"
+  price: 26
   description: |-
-    - Full grain leather
-    - soft supple feel
+    - includes carrying stacker
+    - 7.5" saucer cones
 
-    1 available
-- title: Franklin FRK-BB-22601 Fieldmaster Ball Glove - 13" Left hand catch
-  image: "/Franklin FRK-BB-22601 Fieldmaster Glove.jpg"
-  price: 
-  description: 1 available - Blonde/Black
-- title: Rawlings PM11MBCC Playmaker Series - 11" Left hand catch
-  image: "/Rawlings PM11MBCC Playmaker Series.jpg"
-  price: 36
-  description: |-
-    - All leather pocket construction for durability and shape retention
-    - Basket Web creates a deep, flexible pocket for easier catches
-    - High density cushioned palm and finger back linings for added comfort
-
-    1 available
-- title: Wilson A450 Leather Glove - 12" Left hand catch
-  image: "/Wilson A450 Leather Glove.jpg"
-  price: 39
-  description: |-
-    - Pigskin Leather Shell
-    - Duel Welting
-    - Designed for all hand sizes
-
-    2 available
-    - 1 black
-    - 1 tan
+    8 available
 - title: Franklin RTP Fielding Glove FRK-BB-22552 - 12" Left Hand Catch
   image: "/Franklin RTP Fielding Glove FRK-BB-22552.jpg"
   price: 26
@@ -211,6 +83,134 @@ products:
   description: |-
     Soft composite leather
     9 available
+- title: Franklin FRK-BB-22601 Fieldmaster Ball Glove - 13" Left hand catch
+  image: "/Franklin FRK-BB-22601 Fieldmaster Glove.jpg"
+  price: 
+  description: 1 available - Blonde/Black
+- title: Wilson A450 Leather Glove - 12" Left hand catch
+  image: "/Wilson A450 Leather Glove.jpg"
+  price: 39
+  description: |-
+    - Pigskin Leather Shell
+    - Duel Welting
+    - Designed for all hand sizes
+
+    2 available
+    - 1 black
+    - 1 tan
+- title: Rawlings PM11MBCC Playmaker Series - 11" Left hand catch
+  image: "/Rawlings PM11MBCC Playmaker Series.jpg"
+  price: 36
+  description: |-
+    - All leather pocket construction for durability and shape retention
+    - Basket Web creates a deep, flexible pocket for easier catches
+    - High density cushioned palm and finger back linings for added comfort
+
+    1 available
+- title: Easton Z5 Batting Helmet - Senior
+  image: "/2020-04-11 14.36.02.jpg"
+  price: 39
+  description: 1 available in BLACK
+- title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
+  image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
+  price: 40
+  description: |-
+    - Full grain leather
+    - soft supple feel
+
+    1 available
+- title: Easton Z5JR Batting Helmet - Junior
+  image: "/2020-04-11 14.34.59.jpg"
+  price: 39
+  description: 1 available in RED
+- title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
+  image: "/2020-03-30 13.42.56.jpg"
+  price: 19
+  description: |-
+    - Soft touch
+    - Great bounce
+
+    7 available
+    - 6 black
+    - 1 yellow
+- title: Acupoint L2489-6 Foam Roller - 5" dia x 12" high
+  image: "/2020-03-07 12.33.42.jpg"
+  price: 23
+  description: ''
+- title: Safety Pads for Referee Stand
+  image: "/LO-764SP1 ref stand pad.jpg"
+  price: 435
+  description: "- Padding extends 6' high covering front and sides of stand.\n- 18
+    oz vinyl exterior attaching to stand with Velcro Straps.\n- 2\" polyurethane foam
+    provides impact absorption. \n\nFits LO-764 referee stand (sold separately in
+    red only $620)\n\n1 available at this price in ROYAL BLUE only"
+- title: Carlton ISO4.3 Midi-Blade Badminton Racquet - Junior
+  image: "/2020-03-07 13.10.43.jpg"
+  price: 15
+  description: |-
+    - Titanium Alloy/Steel racquet
+
+    1 available
+- title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
+  image: "/2020-03-30 11.33.27.jpg"
+  price: 4
+  description: |-
+    Only white as shown
+
+    15 available
+- title: Firm Foam Roller EPPFR36  - 6" dia x 36" high
+  image: "/Firm Foam Roller EPPFR36 a.jpg"
+  price: 35
+  description: |-
+    - Firm density, retains shape longer
+    - 6" diameter
+    - Made of expanded polypropylene (EPP)
+    - Eco-friendly
+- title: Saucer Cone Set CM36P - 4 colour/36 pack
+  image: "/2020-04-09 19.14.58.jpg"
+  price: 18
+  description: |-
+    - includes carrying stacker
+
+     20 available
+- title: York 7852 All Person Fitness Glove - Size M
+  image: "/2020-03-07 12.39.05.jpg"
+  price: 12
+  description: 1 available
+- title: Black Knight Airstream 660 Badminton Racquet
+  image: "/2020-03-09 11.50.18.jpg"
+  price: 35
+  description: |-
+    - Graphite/Aluminum racquet
+    - Single piece racquet
+
+    20 available
+- title: Champion RT610 All Purpose Resistance Belt Set
+  image: "/RT610 All purpose resistance belt set.jpg"
+  price: 55
+  description: |-
+    • Great for athletic partner training
+    • Uses include speed, reaction and competition drills
+    • 1 waist belt
+    • 1-8.5' high elastic tubing with a nylon covering
+    • 2 locking snap links
+    • 1 red handle strap
+    • 2 d-rings
+    • One locking snap link
+
+    • 1 available in Royal Blue
+- title: Puma Trainer Soccer Ball - Size 4
+  image: "/2020-04-11 14.30.31.jpg"
+  price: 25
+  description: |-
+    - Soft touch
+    - Great bounce
+
+    3 available (colours shown)
+- title: York 7822 Firm Fit Weight Lifting Glove - Size M
+  image: "/2020-03-07 12.39.15.jpg"
+  price: 10
+  description: 1 pair available
 - title: Franklin Fastpitch Fielding Glove FRK-BB-223 - 11" Left Hand Catch
   image: "/2020-04-11 14.47.16.jpg"
   price: 28
