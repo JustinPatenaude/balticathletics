@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Dudley 4A147 Thunder Heat Leather COR47 Fastpitch Ball - 12"
+  image: "/Dudley 4A147 Thunder Heat Leather COR47 Fastpitch Ball.jpg"
+  price: 7.5
+  description: |-
+    - Raised seams
+    - Optic yellow with red stitch
+
+    3 available
 - title: Easton Incrediball Vinyl cover Softball - 11"
   image: "/2020-04-11 14.43.02.jpg"
   price: 8
