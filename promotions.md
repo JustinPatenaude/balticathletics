@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Baseball Scorebook
+  image: "/SC1 Baseball Scorebook.jpg"
+  price: 6
+  description: "- Keeps track of in-game statistics for up to 15 players for 25 games\n-
+    Heavy cardboard back and spiral bound cover is durable enough to last all season
+    \n- Includes batting average chart, roster, and line-up pages for quick access
+    to statistics\n- Suitable for all baseball and softball games"
 - title: Safety Pads for Referee Stand
   image: "/LO-764SP1 ref stand pad.jpg"
   price: 435
