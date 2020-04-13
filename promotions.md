@@ -4,7 +4,7 @@ title: Promotions
 permalink: "/promotions/"
 products:
 - title: BY Group Classic Fitness Ball 92141
-  image: ''
+  image: "/BY Group fitness ball 92141.jpg"
   price: 18
   description: |-
     - Diameter 55 cm
