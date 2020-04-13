@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Acupoint L2489-6 Foam Roller - 5" dia x 12" high
+  image: "/2020-03-07 12.33.42.jpg"
+  price: 23
+  description: ''
 - title: Firm Foam Roller EPPFR36  - 6" dia x 36" high
   image: "/2020-03-07 12.30.42.jpg"
   price: 35
