@@ -3,61 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Jaypro TE-PE01 Totemaster Open Top Multipurpose Ball Cart
-  image: "/Capture.PNG"
-  price: 450
+- title: Archery Paper Target ML-TA122 - 48" x 48"
+  image: "/ML-TA122 48x48 10 ring 5 col paper target.jpg"
+  price: 7
   description: |-
-    - Holds up to 33 volleyballs, nets, pads and other equipment
-    - 4"x3" wire mesh open top storage baskets
-    - Deeper upper basket for larger items
-    - 48"L x 26"W x 54"H
-    - 2 side shelves included (not shown)
+    - 10 ring
+    - 5 colour
 
-    1 available
-- title: Custom Steel Racquet Cart
-  image: "/2020-03-07 13.03.06.jpg"
-  price: 460
-  description: |
-    - 44"L  X 20" W X 42" T
-    - Holds approx 100 racquets
-    - swivel & fixed casters
-    - plastic bin included on bottom shelf
-    - welded steel - much stronger and more durable than PVC plastic
-    - black
-    - racquets & shuttles in photo not included
-
-    CUSTOM ITEM (allow 2-3 weeks for manufacturing)
-- title: Champion VCPRO Collapsible Volleyball Cart
-  image: "/vcpro_l.jpg"
-  price: 120
-  description: |-
-    - Aluminum frame for exceptional durability
-    - Hammock-style reinforced nylon bag holds up to 24 volleyballs
-    - All-around access design for easy reach during fast-paced drills
-    - Non-marring swivel casters make bin easy to move without damaging gym floors
-    - Storage bin below holds extra volleyball gear
-    - Folds for simple and convenient storage
-    - 55"L x 19"W x 35"H
-    - Black
-
-    5 available
-- title: Franklin FRK-PIC-52710 Pickleball-X Volt Set
-  image: "/2020-04-13 10.31.20.jpg"
-  price: 40
-  description: |-
-    - includes 2 laminated wood, padded handle, plastic edge paddles
-    - includes 2 balls
-
-    3 sets available
-- title: Franklin FRK-SOC-30125X Premier Steel Soccer Goal 12' x 6'
-  image: "/5680.PNG"
-  price: 380
-  description: |-
-    - Stakes included
-    - Sold as a pair
-    - Ball not included
-
-    1 pair available
+    24 available
 - title: Ragim RG-WC62 Wildcat Recurve Takedown Bow
   image: "/Wildcat Recurve Takedown Bow.png"
   price: 150
@@ -68,46 +21,13 @@ products:
     - includes string
 
     1 available
-- title: Champion BK25BK Deluxe Basketball Carry Bag
-  image: "/bk25bk_n.jpg"
-  price: 26
+- title: Carlton ISO4.3 Maxi-Blade Badminton Racquet
+  image: "/2020-03-07 13.10.31.jpg"
+  price: 16
   description: |-
-    - Durable 600 Denier nylon stands up to heavy loads
-    - Heavy-duty construction for longer life
-    - Removable and adjustable shoulder strap allows for comfortable carrying
-    - Holds up to 6 basketballs
-    - 29"x 20"x 11"
+    - Titanium Alloy/Steel racquet
 
-    8 available
-- title: Champion SM1 Softball Catcher's Mask
-  image: "/sm1_n.jpg"
-  price: 28
-  description: |-
-    • Softball catcher's mask
-    • Heavy-duty wire frame is lightweight and durable
-    • Padded for comfort
-    • Black
-
-    1 available
-- title: Champion M500A Pro Anchor Base Replacement Pin - Set of 3
-  image: "/m500a-enhanced-2-l.jpg"
-  price: 28.75
-  description: 1 set available
-- title: Champion M500P Molded Rubber Base Plug - Set of 3
-  image: "/m500p-lifestyle1-l.jpg"
-  price: 16.5
-  description: 1 set available
-- title: Kwik Goal 10B3402 Tamper Resistant Soccer Net Clips - Bag of 200
-  image: "/2020-04-13 10.39.43.jpg"
-  price: 190
-  description: 1 available
-- title: Kwik Goal 10B3401 Tamper Resistant Soccer Net Clips - Bag of 100 w/tool
-  image: "/2020-04-13 10.39.30.jpg"
-  price: 120
-  description: |-
-    Sold in bag of 100 with hex driver
-
-    1 available
+    7 available
 - title: Franklin FRK-BB-22612 Fieldmaster Glove - 11" YOUTH - Left hand catch
   image: "/2020-04-13 14.20.17.jpg"
   price: 24
@@ -116,6 +36,14 @@ products:
   image: "/2020-04-13 14.19.51.jpg"
   price: 24
   description: 3 available - Blonde/Black
+- title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
+  image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
+  price: 40
+  description: |-
+    - Full grain leather
+    - soft supple feel
+
+    1 available
 - title: Franklin FRK-BB-22603 Fieldmaster Glove - 12" Left hand catch
   image: "/2020-04-13 15.45.48.jpg"
   price: 28
@@ -124,10 +52,47 @@ products:
   image: "/2020-04-13 15.45.10.jpg"
   price: 28
   description: 6 available - Black
+- title: Wilson A450 Leather Glove - 12" Left hand catch
+  image: "/Wilson A450 Leather Glove.jpg"
+  price: 39
+  description: |-
+    - Pigskin Leather Shell
+    - Duel Welting
+    - Designed for all hand sizes
+
+    2 available
+    - 1 black
+    - 1 tan
+- title: Franklin RTP Fielding Glove FRK-BB-22552 - 12" Left Hand Catch
+  image: "/Franklin RTP Fielding Glove FRK-BB-22552.jpg"
+  price: 26
+  description: |-
+    Ready to Play (RTP)
+    soft supple
+
+    1 available
+- title: Easton BMG13 Glove - 13" Left hand catch
+  image: "/2020-03-07 11.14.30.jpg"
+  price: 35
+  description: |-
+    Soft composite leather
+    9 available
+- title: Franklin FRK-BB-22601 Fieldmaster Ball Glove - 13" Left hand catch
+  image: "/Franklin FRK-BB-22601 Fieldmaster Glove.jpg"
+  price: 
+  description: 1 available - Blonde/Black
+- title: Champion Sports CBG900 Glove - 13" Left hand catch
+  image: "/Champion Sports CBG900 Glove.jpg"
+  price: 30
+  description: 1 available
 - title: Franklin FRK-BB-22600 Fieldmaster Glove - 14" Left hand catch
   image: "/2020-04-13 14.19.33.jpg"
   price: 28
   description: 8 available - Blonde/Black
+- title: Dudley 4A135 Thunder Heat Leather COR40 Softball - 12"
+  image: "/2020-04-11 14.41.37.jpg"
+  price: 
+  description: ''
 - title: Dudley 4Y222NC Thunder Heat COR44 Synthetic Softball - 12" Yellow (sold in
     dozens)
   image: "/4A147YC Spalding Dudley Softballs.jpg"
@@ -144,17 +109,114 @@ products:
     - Optic yellow with red stitch
 
     3 available
-- title: Dudley 4A135 Thunder Heat Leather COR40 Softball - 12"
-  image: "/2020-04-11 14.41.37.jpg"
-  price: 
-  description: ''
-- title: Carlton ISO4.3 Maxi-Blade Badminton Racquet
-  image: "/2020-03-07 13.10.31.jpg"
-  price: 16
+- title: Champion SM1 Softball Catcher's Mask
+  image: "/sm1_n.jpg"
+  price: 28
   description: |-
-    - Titanium Alloy/Steel racquet
+    • Softball catcher's mask
+    • Heavy-duty wire frame is lightweight and durable
+    • Padded for comfort
+    • Black
 
-    7 available
+    1 available
+- title: Easton Z5JR Batting Helmet - Junior
+  image: "/2020-04-11 14.34.59.jpg"
+  price: 39
+  description: 1 available in RED
+- title: Easton Z5 Batting Helmet - Senior
+  image: "/2020-04-11 14.36.02.jpg"
+  price: 39
+  description: 1 available in BLACK
+- title: Champion M500A Pro Anchor Base Replacement Pin - Set of 3
+  image: "/m500a-enhanced-2-l.jpg"
+  price: 28.75
+  description: 1 set available
+- title: Champion M500P Molded Rubber Base Plug - Set of 3
+  image: "/m500p-lifestyle1-l.jpg"
+  price: 16.5
+  description: 1 set available
+- title: Rawlings PM11MBCC Playmaker Series - 11" Left hand catch
+  image: "/Rawlings PM11MBCC Playmaker Series.jpg"
+  price: 36
+  description: |-
+    - All leather pocket construction for durability and shape retention
+    - Basket Web creates a deep, flexible pocket for easier catches
+    - High density cushioned palm and finger back linings for added comfort
+
+    1 available
+- title: Jaypro TE-PE01 Totemaster Open Top Multipurpose Ball Cart
+  image: "/Capture.PNG"
+  price: 450
+  description: |-
+    - Holds up to 33 volleyballs, nets, pads and other equipment
+    - 4"x3" wire mesh open top storage baskets
+    - Deeper upper basket for larger items
+    - 48"L x 26"W x 54"H
+    - 2 side shelves included (not shown)
+
+    1 available
+- title: Kwik Goal 10B3401 Tamper Resistant Soccer Net Clips - Bag of 100 w/tool
+  image: "/2020-04-13 10.39.30.jpg"
+  price: 120
+  description: |-
+    Sold in bag of 100 with hex driver
+
+    1 available
+- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
+  image: "/2020-04-13 10.34.14.jpg"
+  price: 10
+  description: 2 sets available
+- title: Champion BK25BK Deluxe Basketball Carry Bag
+  image: "/bk25bk_n.jpg"
+  price: 26
+  description: |-
+    - Durable 600 Denier nylon stands up to heavy loads
+    - Heavy-duty construction for longer life
+    - Removable and adjustable shoulder strap allows for comfortable carrying
+    - Holds up to 6 basketballs
+    - 29"x 20"x 11"
+
+    8 available
+- title: Kwik Goal 10B3402 Tamper Resistant Soccer Net Clips - Bag of 200
+  image: "/2020-04-13 10.39.43.jpg"
+  price: 190
+  description: 1 available
+- title: Champion VCPRO Collapsible Volleyball Cart
+  image: "/vcpro_l.jpg"
+  price: 120
+  description: |-
+    - Aluminum frame for exceptional durability
+    - Hammock-style reinforced nylon bag holds up to 24 volleyballs
+    - All-around access design for easy reach during fast-paced drills
+    - Non-marring swivel casters make bin easy to move without damaging gym floors
+    - Storage bin below holds extra volleyball gear
+    - Folds for simple and convenient storage
+    - 55"L x 19"W x 35"H
+    - Black
+
+    5 available
+- title: Custom Steel Racquet Cart
+  image: "/2020-03-07 13.03.06.jpg"
+  price: 460
+  description: |
+    - 44"L  X 20" W X 42" T
+    - Holds approx 100 racquets
+    - swivel & fixed casters
+    - plastic bin included on bottom shelf
+    - welded steel - much stronger and more durable than PVC plastic
+    - black
+    - racquets & shuttles in photo not included
+
+    CUSTOM ITEM (allow 2-3 weeks for manufacturing)
+- title: Franklin FRK-SOC-30125X Premier Steel Soccer Goal 12' x 6'
+  image: "/5680.PNG"
+  price: 380
+  description: |-
+    - Stakes included
+    - Sold as a pair
+    - Ball not included
+
+    1 pair available
 - title: Mini Volleyball Aluminum Post Extensions VBPE - 36"
   image: "/2020-03-07 13.32.52.jpg"
   price: 40
@@ -170,68 +232,14 @@ products:
     - 7.5" saucer cones
 
     8 available
-- title: Franklin RTP Fielding Glove FRK-BB-22552 - 12" Left Hand Catch
-  image: "/Franklin RTP Fielding Glove FRK-BB-22552.jpg"
-  price: 26
-  description: |-
-    Ready to Play (RTP)
-    soft supple
-
-    1 available
-- title: Champion Sports CBG900 Glove - 13" Left hand catch
-  image: "/Champion Sports CBG900 Glove.jpg"
-  price: 30
-  description: 1 available
-- title: Easton BMG13 Glove - 13" Left hand catch
-  image: "/2020-03-07 11.14.30.jpg"
-  price: 35
-  description: |-
-    Soft composite leather
-    9 available
-- title: Franklin FRK-BB-22601 Fieldmaster Ball Glove - 13" Left hand catch
-  image: "/Franklin FRK-BB-22601 Fieldmaster Glove.jpg"
-  price: 
-  description: 1 available - Blonde/Black
-- title: Wilson A450 Leather Glove - 12" Left hand catch
-  image: "/Wilson A450 Leather Glove.jpg"
-  price: 39
-  description: |-
-    - Pigskin Leather Shell
-    - Duel Welting
-    - Designed for all hand sizes
-
-    2 available
-    - 1 black
-    - 1 tan
-- title: Rawlings PM11MBCC Playmaker Series - 11" Left hand catch
-  image: "/Rawlings PM11MBCC Playmaker Series.jpg"
-  price: 36
-  description: |-
-    - All leather pocket construction for durability and shape retention
-    - Basket Web creates a deep, flexible pocket for easier catches
-    - High density cushioned palm and finger back linings for added comfort
-
-    1 available
-- title: Easton Z5 Batting Helmet - Senior
-  image: "/2020-04-11 14.36.02.jpg"
-  price: 39
-  description: 1 available in BLACK
-- title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
-  image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
+- title: Franklin FRK-PIC-52710 Pickleball-X Volt Set
+  image: "/2020-04-13 10.31.20.jpg"
   price: 40
   description: |-
-    - Full grain leather
-    - soft supple feel
+    - includes 2 laminated wood, padded handle, plastic edge paddles
+    - includes 2 balls
 
-    1 available
-- title: Easton Z5JR Batting Helmet - Junior
-  image: "/2020-04-11 14.34.59.jpg"
-  price: 39
-  description: 1 available in RED
-- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
-  image: "/2020-04-13 10.34.14.jpg"
-  price: 10
-  description: 2 sets available
+    3 sets available
 - title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
   image: "/2020-03-30 13.42.56.jpg"
   price: 19
