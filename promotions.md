@@ -3,9 +3,9 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: ''
-  image: ''
-  price: 
+- title: Kwik Goal 10B3402 Tamper Resistant Soccer Net Clips - Bag of 200
+  image: "/2020-04-13 10.39.43.jpg"
+  price: 190
   description: ''
 - title: Kwik Goal 10B3401 Tamper Resistant Soccer Net Clips
   image: "/2020-04-13 10.39.30.jpg"
