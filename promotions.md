@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Head Stream Badminton Racquet
+  image: "/Head Stream Badminton Racquet.jpg"
+  price: 0
+  description: |-
+    - Graphite shaft
+    - Aluminum Head
+    - Power Helix shaft structure for improved strength & flexibility generating a more powerful shot
+
+    12 available
 - title: High Density Mini Hockey Balls FI1017 - 2"
   image: "/2020-03-07 12.21.31.jpg"
   price: ".90"
