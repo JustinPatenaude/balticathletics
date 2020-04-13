@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: BY Group Classic Fitness Ball 92139
+  image: "/2020-03-07 12.43.06.jpg"
+  price: 15
+  description: |-
+    - Great for all fitness levels
+    - Increases muscle flexibility and strength
+    - Strengthens and tones your body
+    - Will not burst if punctured
 - title: ATF Anti Burst Fitness Ball A4460R/75 - 75 cm (30")
   image: "/ATF fitness ball A4460.75.jpg"
   price: 26
