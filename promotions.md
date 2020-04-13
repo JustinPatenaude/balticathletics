@@ -3,14 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Jaypro TE-PE02 Totemaster Open Top Multipurpose Ball Cart
-  image: ''
-  price: 
+- title: Jaypro TE-PE01 Totemaster Open Top Multipurpose Ball Cart
+  image: "/Capture.PNG"
+  price: 450
   description: |-
     - Holds up to 33 volleyballs, nets, pads and other equipment
     - 4"x3" wire mesh open top storage baskets
     - Deeper upper basket for larger items
     - 48"L x 26"W x 54"H
+    - 2 side shelves included (not shown)
+
+    1 available
 - title: Custom Steel Racquet Cart
   image: "/2020-03-07 13.03.06.jpg"
   price: 460
@@ -24,20 +27,6 @@ products:
     - racquets & shuttles in photo not included
 
     CUSTOM ITEM (allow 2-3 weeks for manufacturing)
-- title: Champion VC500PRO Mammoth Volleyball Cart
-  image: "/vc500pro_l.jpg"
-  price: 170
-  description: |-
-    - Aluminum frame for exceptional durability
-    - Hammock-style reinforced nylon bag holds up to 40 volleyballs
-    - All-around access design for easy reach during fast-paced drills or for storage
-    - Rugged heavy-duty casters make bin easy to move without damaging gym floors
-    - Side pockets offer extra storage
-    - Folds for simple and convenient storage
-    - 42.5"L x 32"W x 38"H
-    - Black
-
-    3 available
 - title: Champion VCPRO Collapsible Volleyball Cart
   image: "/vcpro_l.jpg"
   price: 120
@@ -257,6 +246,20 @@ products:
   image: "/2020-03-07 12.33.42.jpg"
   price: 23
   description: ''
+- title: Champion VC500PRO Mammoth Volleyball Cart
+  image: "/vc500pro_l.jpg"
+  price: 170
+  description: |-
+    - Aluminum frame for exceptional durability
+    - Hammock-style reinforced nylon bag holds up to 40 volleyballs
+    - All-around access design for easy reach during fast-paced drills or for storage
+    - Rugged heavy-duty casters make bin easy to move without damaging gym floors
+    - Side pockets offer extra storage
+    - Folds for simple and convenient storage
+    - 42.5"L x 32"W x 38"H
+    - Black
+
+    3 available
 - title: Safety Pads for Referee Stand
   image: "/LO-764SP1 ref stand pad.jpg"
   price: 435
@@ -264,13 +267,6 @@ products:
     oz vinyl exterior attaching to stand with Velcro Straps.\n- 2\" polyurethane foam
     provides impact absorption. \n\nFits LO-764 referee stand (sold separately in
     red only $620)\n\n1 available at this price in ROYAL BLUE only"
-- title: Carlton ISO4.3 Midi-Blade Badminton Racquet - Junior
-  image: "/2020-03-07 13.10.43.jpg"
-  price: 15
-  description: |-
-    - Titanium Alloy/Steel racquet
-
-    1 available
 - title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
@@ -278,6 +274,14 @@ products:
     Only white as shown
 
     15 available
+- title: Puma Trainer Soccer Ball - Size 4
+  image: "/2020-04-11 14.30.31.jpg"
+  price: 25
+  description: |-
+    - Soft touch
+    - Great bounce
+
+    3 available (colours shown)
 - title: Firm Foam Roller EPPFR36  - 6" dia x 36" high
   image: "/Firm Foam Roller EPPFR36 a.jpg"
   price: 35
@@ -297,6 +301,13 @@ products:
   image: "/2020-03-07 12.39.05.jpg"
   price: 12
   description: 1 available
+- title: Carlton ISO4.3 Midi-Blade Badminton Racquet - Junior
+  image: "/2020-03-07 13.10.43.jpg"
+  price: 15
+  description: |-
+    - Titanium Alloy/Steel racquet
+
+    1 available
 - title: Black Knight Airstream 660 Badminton Racquet
   image: "/2020-03-09 11.50.18.jpg"
   price: 35
@@ -319,14 +330,6 @@ products:
     • One locking snap link
 
     • 1 available in Royal Blue
-- title: Puma Trainer Soccer Ball - Size 4
-  image: "/2020-04-11 14.30.31.jpg"
-  price: 25
-  description: |-
-    - Soft touch
-    - Great bounce
-
-    3 available (colours shown)
 - title: York 7822 Firm Fit Weight Lifting Glove - Size M
   image: "/2020-03-07 12.39.15.jpg"
   price: 10
