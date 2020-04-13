@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Carlton ISO4.3 Midi-Blade Badminton Racquet - Junior
+  image: "/2020-03-07 13.10.43.jpg"
+  price: 15
+  description: 1 available
 - title: Carlton ISO4.3 Maxi-Blade Badminton Racquet
   image: "/2020-03-07 13.10.31.jpg"
   price: 16
