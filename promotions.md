@@ -3,6 +3,20 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Champion RT610 All Purpose Resistance Belt Set
+  image: "/RT610 All purpose resistance belt set.jpg"
+  price: 55
+  description: |-
+    • Great for athletic partner training
+    • Uses include speed, reaction and competition drills
+    • 1 waist belt
+    • 1-8.5' high elastic tubing with a nylon covering
+    • 2 locking snap links
+    • 1 red handle strap
+    • 2 d-rings
+    • One locking snap link
+
+    • 1 available in Royal Blue
 - title: Acupoint L2489-6 Foam Roller - 5" dia x 12" high
   image: "/2020-03-07 12.33.42.jpg"
   price: 23
