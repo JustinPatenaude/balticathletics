@@ -5,7 +5,7 @@ permalink: "/promotions/"
 products:
 - title: Head Stream Badminton Racquet
   image: "/Head Stream Badminton Racquet.jpg"
-  price: 0
+  price: 39
   description: |-
     - Graphite shaft
     - Aluminum Head
