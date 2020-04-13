@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Easton Batting Helmet - Junior
+  image: "/2020-04-11 14.34.59.jpg"
+  price: 39
+  description: 1 available in RED
 - title: Baseball Scorebook
   image: "/SC1 Baseball Scorebook.jpg"
   price: 6
