@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: York 7822 Firm Fit Weight Lifting Glove - Size M
+  image: "/2020-03-07 12.39.15.jpg"
+  price: 10
+  description: 1 pair available
 - title: York 7852 All Person Fitness Glove - Size M
   image: "/2020-03-07 12.39.05.jpg"
   price: 12
