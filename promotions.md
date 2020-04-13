@@ -3,6 +3,12 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: SKLZ Speed Chute SAQ
+  image: "/sklz speed chute.jpg"
+  price: 57
+  description: |-
+    54 inches
+    Professional quality resistance sprint trainer
 - title: Rubbermaid Drink Station
   image: "/2020-04-11 14.32.44.jpg"
   price: 
