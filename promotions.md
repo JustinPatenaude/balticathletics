@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Easton Incrediball Vinyl cover Softball - 11"
+  image: "/2020-04-11 14.43.02.jpg"
+  price: 8
+  description: 12 available
 - title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
   image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
   price: 40
