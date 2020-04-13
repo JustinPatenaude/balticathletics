@@ -7,7 +7,7 @@ products:
   image: "/2020-04-13 10.39.43.jpg"
   price: 190
   description: ''
-- title: Kwik Goal 10B3401 Tamper Resistant Soccer Net Clips
+- title: Kwik Goal 10B3401 Tamper Resistant Soccer Net Clips - Bag of 100 w/driver
   image: "/2020-04-13 10.39.30.jpg"
   price: 120
   description: Sold in bag of 100 with hex driver
