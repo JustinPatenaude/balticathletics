@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: York 76000 High-Density Roll Mat - 24" x 72"
+  image: "/2020-03-07 12.30.18.jpg"
+  price: 18
+  description: |-
+    - Extra-thick foam for a safe and comfortable workout
+    - Heavy-duty vinyl makes cleaning and sanitizing easy
+    - Thick, nylon handles make it easy to transport
+    - Rolls up for convenient storage
+    - Perfect for any type of floor exercises
+    - Reduces pressure on the back during exercise and is excellent for physical therapy
 - title: Easton Z5 Batting Helmet - Senior
   image: "/2020-04-11 14.36.02.jpg"
   price: 39
