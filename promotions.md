@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Champion SM1 Softball Catcher's Mask
+  image: "/sm1_n.jpg"
+  price: 28
+  description: |-
+    • Softball catcher's mask
+    • Heavy-duty wire frame is lightweight and durable
+    • Padded for comfort
+    • Black
+
+    1 available
 - title: Champion M500A Pro Anchor Base Replacement Pin - Set of 3
   image: "/m500a-enhanced-2-l.jpg"
   price: 28.75
