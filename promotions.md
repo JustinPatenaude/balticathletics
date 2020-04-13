@@ -458,10 +458,14 @@ products:
     - Soft & supple, very flexible (broken in feel)
 
     13 available (black/purple)
-- title: Franklin Fieldmaster Gloves - 12" & 13" available
+- title: Franklin Fieldmaster Gloves - 12", 13" & 14" available
   image: "/2020-03-07 11.13.11.jpg"
   price: 28
-  description: ''
+  description: |
+    - Synthetic leather
+    - Soft feel
+
+    8 - 14" available (FRK-BB-22600)
 - title: Worth Mayhem Softball Bats
   image: "/2020-03-07 11.21.13.jpg"
   price: 49
