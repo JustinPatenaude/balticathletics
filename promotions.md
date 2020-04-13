@@ -602,8 +602,8 @@ products:
     - raised tacky laces
     - 25% lighter
 
-    19 brown available
-    8 red/blue available
+    19 brown available 62-9888C
+    8 red/blue available 62-9929C
 - title: Accufli Floorball Sticks - 70 cm, 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 27
