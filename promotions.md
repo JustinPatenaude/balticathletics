@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: York 7852 All Person Fitness Glove - Size M
+  image: "/2020-03-07 12.39.05.jpg"
+  price: 12
+  description: 1 available
 - title: Champion RT610 All Purpose Resistance Belt Set
   image: "/RT610 All purpose resistance belt set.jpg"
   price: 55
