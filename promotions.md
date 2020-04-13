@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Road Warrior ROA-HOC-RWSG54 Floor Hockey Goal - 54"
+  image: "/ROA-HOC-RWSG54-2.jpg"
+  price: 65
+  description: |-
+    - steel frame
+    - comes with net
+
+    8 available
 - title: Archery Paper Target ML-TA122 - 48" x 48"
   image: "/ML-TA122 48x48 10 ring 5 col paper target.jpg"
   price: 7
