@@ -32,6 +32,8 @@ products:
     - 75 cm SILVER Ball
     - Pump
     - Program
+
+    1 available at this price
 - title: ATF Fitness Ball A4460R/65 - 65 cm (26")
   image: "/ATF fitness ball A4460.65.jpg"
   price: 23
