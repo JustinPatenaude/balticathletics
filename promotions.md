@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Franklin FRK-BB-22601 Fieldmaster Glove - 13" Left hand catch
+  image: "/Franklin FRK-BB-22601 Fieldmaster Glove.jpg"
+  price: 
+  description: 1 available - Blonde/Black
 - title: Saucer Cone Set CM36P - 4 colour/36 pack
   image: "/2020-04-09 19.14.58.jpg"
   price: 18
