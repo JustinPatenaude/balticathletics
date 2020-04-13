@@ -8,7 +8,7 @@ products:
   price: 23
   description: |-
     Includes:
-    - 65 cm Ball
+    - 65 cm BLUE Ball
     - Pump
     - Program
 - title: ATF Anti Burst Fitness Ball A4460R/55 - 55 cm (22")
