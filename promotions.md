@@ -235,10 +235,19 @@ products:
     Broken in feel
 
     1 available
-- title: Wilson A360 Glove - Right Hand Catch
+- title: Wilson A360 Glove - 13" RIGHT Hand Catch
   image: "/A360 Wilson glove RHC.jpg"
   price: 49
   description: 2 Available
+- title: Wilson A800 Showtime Glove - 13" Left Hand Catch
+  image: "/Wilson A800 Showtime glove a.jpg"
+  price: 65
+  description: |-
+    Genuine all leather glove
+    Soft and supple leather (broken in feel)
+    MSRP $120.00
+
+    8 available
 - title: Spalding 100 Leather Baseball
   image: "/spalding 100 baseball.jpg"
   price: 5
@@ -439,15 +448,6 @@ products:
     - Made of lightweight aluminum and strong ABS plastic
 
     1 available
-- title: Wilson A800 Showtime Glove - 13" Left Hand Catch
-  image: "/Wilson A800 Showtime glove a.jpg"
-  price: 65
-  description: |-
-    Genuine all leather glove
-    Soft and supple leather (broken in feel)
-    MSRP $120.00
-
-    8 available
 - title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
   image: "/2020-04-11 14.51.18.jpg"
   price: 60
