@@ -3,6 +3,12 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Saucer Cone Set CM50P - 5 colour/50 pack
+  image: "/2020-04-09 19.13.46.jpg"
+  price: 26
+  description: |-
+    - includes carrying stacker
+    - 7.5" saucer cones
 - title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
