@@ -14,7 +14,7 @@ products:
   image: "/2020-03-07 13.10.31.jpg"
   price: 16
   description: |-
-    - Aluminum/Steel racquet
+    - Titanium Alloy/Steel racquet
 
     7 available
 - title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
