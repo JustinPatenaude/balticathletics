@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Carlton ISO4.3 Maxi-Blade Badminton Racquet
+  image: "/2020-03-07 13.10.31.jpg"
+  price: 16
+  description: ''
 - title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
   image: "/2020-03-30 13.42.56.jpg"
   price: 19
