@@ -3,7 +3,7 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Racquet Cart
+- title: Custom Steel Racquet Cart
   image: "/2020-03-07 13.03.06.jpg"
   price: 460
   description: |
