@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Rawlings PM11MBCC Playmaker Series - 11" Left hand catch
+  image: "/Rawlings PM11MBCC Playmaker Series.jpg"
+  price: 36
+  description: |-
+    - All leather pocket construction for durability and shape retention
+    - Basket Web creates a deep, flexible pocket for easier catches
+    - High density cushioned palm and finger back linings for added comfort
+
+    1 available
 - title: Louisville Slugger (Diva Series) - 11.5" Left Hand Catch
   image: "/2020-04-11 14.47.00.jpg"
   price: 38
