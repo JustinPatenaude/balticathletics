@@ -142,6 +142,14 @@ products:
   image: "/2020-04-11 14.41.37.jpg"
   price: 
   description: ''
+- title: Dudley 4Y222NC Thunder Heat COR44 Synthetic Softball - 12" Yellow (sold in
+    dozens)
+  image: "/4A147YC Spalding Dudley Softballs.jpg"
+  price: 72
+  description: |-
+    - 12" synthetic cover
+
+    7 dozen available
 - title: Dudley 4A147 Thunder Heat Leather COR47 Fastpitch Ball - 12"
   image: "/Dudley 4A147 Thunder Heat Leather COR47 Fastpitch Ball.jpg"
   price: 7.5
@@ -551,14 +559,6 @@ products:
     - holds 660 lbs
 
     2 available
-- title: Dudley 4Y222NC Thunder Heat COR44 Synthetic Softball - 12" Yellow (sold in
-    dozens)
-  image: "/4A147YC Spalding Dudley Softballs.jpg"
-  price: 72
-  description: |-
-    - 12" synthetic cover
-
-    7 dozen available
 - title: Spalding 41003 Official League Synthetic Cover Baseball (sold in case of
     12)
   image: "/2020-03-07 11.09.54.jpg"
