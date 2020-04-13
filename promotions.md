@@ -509,7 +509,7 @@ products:
   description: |-
     Pebbled tacky laces
     7 available
-- title: Spalding Alpha Composite Leather Youth Football - Size 7
+- title: Spalding 727018C Alpha Composite Leather Youth Football - Size 7
   image: "/2020-04-11 12.05.21.jpg"
   price: 28
   description: |-
