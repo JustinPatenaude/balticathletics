@@ -554,9 +554,10 @@ products:
 - title: Dudley 4Y222NC Thunder Heat COR44 Synthetic Softball - 12" Yellow (sold in
     dozens)
   image: "/4A147YC Spalding Dudley Softballs.jpg"
-  price: 55
+  price: 70
   description: |-
-    12" synthetic cover
+    - 12" synthetic cover
+
     7 dozen available
 - title: Spalding 41003 Official League Synthetic Cover Baseball (sold in case of
     12)
