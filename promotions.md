@@ -7,7 +7,7 @@ products:
   image: "/2020-04-11 14.36.02.jpg"
   price: 39
   description: 1 available in BLACK
-- title: Easton Batting Helmet - Junior
+- title: Easton Z5JR Batting Helmet - Junior
   image: "/2020-04-11 14.34.59.jpg"
   price: 39
   description: 1 available in RED
