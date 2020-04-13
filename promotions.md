@@ -47,7 +47,7 @@ products:
   price: 23
   description: ''
 - title: Firm Foam Roller EPPFR36  - 6" dia x 36" high
-  image: "/2020-03-07 12.30.42.jpg"
+  image: "/Firm Foam Roller EPPFR36 a.jpg"
   price: 35
   description: |-
     - Firm density, retains shape longer
