@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Franklin FRK-BB-22612 Fieldmaster Glove - 11" YOUTH - Left hand catch
+  image: "/2020-04-13 14.20.17.jpg"
+  price: 24
+  description: 16 available - Black
 - title: Franklin FRK-BB-22604 Fieldmaster Glove - 11" YOUTH - Left hand catch
   image: "/2020-04-13 14.19.51.jpg"
   price: 24
