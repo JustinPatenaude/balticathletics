@@ -3,6 +3,12 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Firm Foam Roller EPPFR36  - 6" dia x 36" high
+  image: "/2020-03-07 12.30.42.jpg"
+  price: 
+  description: |-
+    - Firm density, retains shape longer
+    - 6" diameter
 - title: York 76000 High-Density Roll Mat - 24" x 72"
   image: "/2020-03-07 12.30.18.jpg"
   price: 18
