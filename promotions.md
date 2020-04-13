@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: BY Group Classic Fitness Ball 92141
+  image: ''
+  price: 18
+  description: |-
+    - Diameter 55 cm
+    - Great for all fitness levels
+    - Increases muscle flexibility and strength
+    - Strengthens and tones your body
+    - Gain coordination with each workout
+    - With anti-burst strength of 1000 lbs
+    - Dual action pump INCLUDED
 - title: BY Group Classic Fitness Ball 92139
   image: "/2020-03-07 12.43.06.jpg"
   price: 15
