@@ -457,7 +457,7 @@ products:
   image: "/2020-03-07 12.12.53.jpg"
   price: 35
   description: Sold in sets of 6
-- title: Franklin Fieldmaster Glove - 11" Left Hand Catch
+- title: Franklin 22622 Fieldmaster Glove - 11" Left Hand Catch
   image: "/Franklin fieldmaster.jpg"
   price: 24
   description: 1 available - Navy/Red/White
