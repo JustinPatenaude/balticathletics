@@ -3,6 +3,20 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Champion VC500PRO Mammoth Volleyball Cart
+  image: "/vc500pro_l.jpg"
+  price: 170
+  description: |-
+    - Aluminum frame for exceptional durability
+    - Hammock-style reinforced nylon bag holds up to 40 volleyballs
+    - All-around access design for easy reach during fast-paced drills or for storage
+    - Rugged heavy-duty casters make bin easy to move without damaging gym floors
+    - Side pockets offer extra storage
+    - Folds for simple and convenient storage
+    - 42.5"L x 32"W x 38"H
+    - Black
+
+    3 available
 - title: Champion VCPRO Collapsible Volleyball Cart
   image: "/vcpro_l.jpg"
   price: 
