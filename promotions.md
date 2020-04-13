@@ -432,10 +432,12 @@ products:
     9 available
 - title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
   image: "/Rawlings HFP125BP Baseball Glove.jpg"
-  price: 35
+  price: 38
   description: |-
-    Soft & supple, very flexible (broken in feel)
-    13 available
+    - All leather shell
+    - Soft & supple, very flexible (broken in feel)
+
+    13 available (black/purple)
 - title: Franklin Fieldmaster Gloves - 12" & 13" available
   image: "/2020-03-07 11.13.11.jpg"
   price: 28
