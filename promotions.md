@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Saucer Cone Set CM36P - 4 colour/36 pack
+  image: "/2020-04-09 19.14.58.jpg"
+  price: 18
+  description: |-
+    - includes carrying stacker
+
+     20 available
 - title: Saucer Cone Set CM50P - 5 colour/50 pack
   image: "/2020-04-09 19.13.46.jpg"
   price: 26
