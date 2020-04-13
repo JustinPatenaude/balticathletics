@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Rawlings PM120TBJB Leather Palm Glove - 12" Left Hand Catch
+  image: "/Rawlings PM120TBJB Leather Palm Glove.jpg"
+  price: 35
+  description: |-
+    R.A. Dickey Autograph Model
+
+    2 available
 - title: Franklin RTP Fielding Glove FRK-BB-22553 - 11" Left Hand Catch
   image: "/Franklin RTP Fielding Glove FRK-BB-22553.jpg"
   price: 26
