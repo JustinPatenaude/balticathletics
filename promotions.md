@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Dudley 4A135 Thunder Heat Leather COR40 Softball - 12"
+  image: "/2020-04-11 14.41.37.jpg"
+  price: 
+  description: ''
 - title: Dudley 4A147 Thunder Heat Leather COR47 Fastpitch Ball - 12"
   image: "/Dudley 4A147 Thunder Heat Leather COR47 Fastpitch Ball.jpg"
   price: 7.5
