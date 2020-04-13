@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Jaypro TE-PE02 Totemaster Open Top Multipurpose Ball Cart
+  image: ''
+  price: 
+  description: |-
+    - Holds up to 33 volleyballs, nets, pads and other equipment
+    - 4"x3" wire mesh open top storage baskets
+    - Deeper upper basket for larger items
+    - 48"L x 26"W x 54"H
 - title: Custom Steel Racquet Cart
   image: "/2020-03-07 13.03.06.jpg"
   price: 460
