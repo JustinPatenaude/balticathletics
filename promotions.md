@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Franklin FRK-SOC-30125X Premier Steel Soccer Goal 12' x 6'
+  image: "/5680.PNG"
+  price: 380
+  description: |-
+    - Stakes included
+    - Sold as a pair
+    - Ball not included
+
+    1 pair available
 - title: Ragim RG-WC62 Wildcat Recurve Takedown Bow
   image: "/Wildcat Recurve Takedown Bow.png"
   price: 150
