@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Wilson A450 Leather Glove - 12" Left hand catch
+  image: "/Wilson A450 Leather Glove.jpg"
+  price: 39
+  description: |-
+    - Pigskin Leather Shell
+    - Duel Welting
+    - Designed for all hand sizes
+
+    2 available
+    - 1 black
+    - 1 tan
 - title: Champion Sports CBG900 Glove - 13" Left hand catch
   image: "/Champion Sports CBG900 Glove.jpg"
   price: 30
