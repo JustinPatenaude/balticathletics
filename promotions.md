@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
+  image: "/2020-04-13 10.34.14.jpg"
+  price: 10
+  description: 2 sets available
 - title: Kwik Goal 10B3402 Tamper Resistant Soccer Net Clips - Bag of 200
   image: "/2020-04-13 10.39.43.jpg"
   price: 190
