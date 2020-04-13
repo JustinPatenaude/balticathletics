@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Franklin Fastpitch Fielding Glove FRK-BB-223 - 11" Left Hand Catch
+  image: "/2020-04-11 14.47.16.jpg"
+  price: 28
+  description: |-
+    Mesh back
+    No break in required
+
+    2 available
 - title: Fox40 Whistle & Stopwatch Combo
   image: "/6906-0700 whistle & stopwatch.jpg"
   price: 16
