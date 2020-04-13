@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Kwik Goal 10B3401 Tamper Resistant Soccer Net Clips
+  image: "/2020-04-13 10.39.30.jpg"
+  price: 115
+  description: Sold in bag of 100 with hex driver
 - title: Franklin FRK-BB-22612 Fieldmaster Glove - 11" YOUTH - Left hand catch
   image: "/2020-04-13 14.20.17.jpg"
   price: 24
