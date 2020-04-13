@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Freeman High Density Mini Hockey Balls FI1017 - 2"
+  image: "/2020-03-07 12.21.31.jpg"
+  price: ".90"
+  description: ''
 - title: SKLZ Speed Chute SAQ
   image: "/sklz speed chute.jpg"
   price: 57
