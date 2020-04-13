@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: ATF Anti Burst Fitness Ball A4460R/75 - 75 cm (30")
+  image: "/ATF fitness ball A4460.75.jpg"
+  price: 26
+  description: |-
+    Includes:
+    - 75 cm SILVER Ball
+    - Pump
+    - Program
 - title: ATF Anti Burst Fitness Ball A4460R/65 - 65 cm (26")
   image: "/ATF fitness ball A4460.65.jpg"
   price: 23
