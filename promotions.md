@@ -18,13 +18,6 @@ products:
     - 7.5" saucer cones
 
     8 available
-- title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
-  image: "/2020-03-30 11.33.27.jpg"
-  price: 4
-  description: |-
-    Only white as shown
-
-    15 available
 - title: Black Knight Airstream 660 Badminton Racquet
   image: "/2020-03-09 11.50.18.jpg"
   price: 35
@@ -47,6 +40,13 @@ products:
     - Titanium Alloy/Steel racquet
 
     7 available
+- title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
+  image: "/2020-03-30 11.33.27.jpg"
+  price: 4
+  description: |-
+    Only white as shown
+
+    15 available
 - title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
   image: "/2020-03-30 13.42.56.jpg"
   price: 19
@@ -600,14 +600,14 @@ products:
     - Soft & supple, very flexible (broken in feel)
 
     13 available (black/purple)
-- title: Franklin Fieldmaster Gloves - 12", 13" & 14" available
-  image: "/2020-03-07 11.13.11.jpg"
+- title: Franklin FRK-BB-22610 Fieldmaster Glove - 13" Left hand catch
+  image: ''
   price: 28
   description: |
     - Synthetic leather
     - Soft feel
 
-    8 - 14" available (FRK-BB-22600)
+    8 available - Black LHC (FRK-BB-22610)
 - title: Worth Mayhem Softball Bats
   image: "/2020-03-07 11.21.13.jpg"
   price: 49
