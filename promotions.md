@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Black Knight Airstream 660 Badminton Racquet
+  image: "/2020-03-09 11.50.18.jpg"
+  price: 35
+  description: |-
+    - Graphite/Aluminum racquet
+    - Single piece racquet
+
+    20 available
 - title: Carlton ISO4.3 Midi-Blade Badminton Racquet - Junior
   image: "/2020-03-07 13.10.43.jpg"
   price: 15
