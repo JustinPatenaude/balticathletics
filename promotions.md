@@ -3,7 +3,7 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Wiffle Ball CX040650-00 - 12" cir/4" dia (softball size)
+- title: Wiffle Ball CX040650-00 - 12" circ / 4" dia (softball size)
   image: "/plsb-lifestyle-1_l.jpg"
   price: 1.75
   description: 35 available
