@@ -5,7 +5,7 @@ permalink: "/promotions/"
 products:
 - title: Fox40 Whistle & Stopwatch Combo
   image: "/6906-0700 whistle & stopwatch.jpg"
-  price: 
+  price: 16
   description: |-
     Includes:
     - Digital stopwatch
