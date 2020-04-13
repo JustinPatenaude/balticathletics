@@ -3,10 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Rawlings HFP
-  image: ''
-  price: 
-  description: ''
+- title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
+  image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
+  price: 40
+  description: |-
+    - Full grain leather
+    - soft supple feel
+
+    1 available
 - title: Head Stream Badminton Racquet
   image: "/Head Stream Badminton Racquet.jpg"
   price: 39
