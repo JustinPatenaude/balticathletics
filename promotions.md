@@ -16,7 +16,7 @@ products:
   price: 18
   description: |-
     Includes:
-    - 55 cm Ball
+    - 55 cm RED Ball
     - Pump
     - Program
 - title: Fox40 Water Rescue Throw Ring 7928-0700
