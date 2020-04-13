@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Safety Pads for Referee Stand
+  image: "/LO-764SP1 ref stand pad.jpg"
+  price: 435
+  description: "- Padding extends 6' high covering front and sides of stand.\n- 18
+    oz vinyl exterior attaching to stand with Velcro Straps.\n- 2\" polyurethane foam
+    provides impact absorption. \n\nFits LO-764 referee stand (sold separately in
+    red only $620)\n\n1 available at this price in ROYAL BLUE only"
 - title: Puma Trainer Soccer Ball - Size 4
   image: "/2020-04-11 14.30.31.jpg"
   price: 25
