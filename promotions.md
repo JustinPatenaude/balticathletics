@@ -7,7 +7,7 @@ products:
   image: "/plsb-lifestyle-1_l.jpg"
   price: 1.75
   description: 35 available
-- title: Wiffle Ball CX040630-00 - 9" cir / 3" dia (baseball size)
+- title: Wiffle Ball CX040630-00 - 9" circ / 3" dia (baseball size)
   image: "/plbb-enhanced-1_l.jpg"
   price: 1.5
   description: ''
