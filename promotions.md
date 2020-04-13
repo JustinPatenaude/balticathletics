@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Professional Field Marking Chalk - 50 lb bag
+  image: "/chalkformarking.jpg"
+  price: 35
+  description: |-
+    - Calcium Carbonate
+    - Bright White
+    - 50 lb bag
+    - For dry line marker machines
+
+    4 available
 - title: Road Warrior ROA-HOC-RWSG54 Floor Hockey Goal - 54"
   image: "/ROA-HOC-RWSG54-2.jpg"
   price: 65
