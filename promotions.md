@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Louisville Slugger (Diva Series) - 11.5" Left Hand Catch
+  image: "/2020-04-11 14.47.00.jpg"
+  price: 38
+  description: |-
+    Full grain leather palm
+    Mesh back
+    Broken in feel
+
+    1 available
 - title: Franklin RTP Fielding Glove FRK-BB-22552 - 12" Left Hand Catch
   image: "/Franklin RTP Fielding Glove FRK-BB-22552.jpg"
   price: 26
