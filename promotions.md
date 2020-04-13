@@ -6,7 +6,11 @@ products:
 - title: ATF Anti Burst Fitness Ball A4460R/65 - 65 cm (26")
   image: "/ATF fitness ball A4460.65.jpg"
   price: 23
-  description: ''
+  description: |-
+    Includes:
+    - 65 cm Ball
+    - Pump
+    - Program
 - title: ATF Anti Burst Fitness Ball A4460R/55 - 55 cm (22")
   image: "/ATF A4460.55 fitness ball a.jpg"
   price: 18
