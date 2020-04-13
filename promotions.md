@@ -3,6 +3,19 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Champion VCPRO Collapsible Volleyball Cart
+  image: "/vcpro_l.jpg"
+  price: 
+  description: |+
+    - Aluminum frame for exceptional durability
+    - Hammock-style reinforced nylon bag holds up to 24 volleyballs
+    - All-around access design for easy reach during fast-paced drills
+    - Non-marring swivel casters make bin easy to move without damaging gym floors
+    - Storage bin below holds extra volleyball gear
+    - Folds for simple and convenient storage
+    - 55"L x 19"W x 35"H
+    - Black
+
 - title: Franklin FRK-PIC-52710 Pickleball-X Volt Set
   image: "/2020-04-13 10.31.20.jpg"
   price: 40
