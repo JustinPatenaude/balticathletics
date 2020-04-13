@@ -15,7 +15,7 @@ products:
     - black
     - racquets & shuttles in photo not included
 
-    CUSTOM ITEM (allow 2-3 weeks)
+    CUSTOM ITEM (allow 2-3 weeks manufacturing)
 - title: Champion VC500PRO Mammoth Volleyball Cart
   image: "/vc500pro_l.jpg"
   price: 170
