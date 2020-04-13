@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Champion BK25BK Deluxe Basketball Carry Bag
+  image: "/bk25bk_n.jpg"
+  price: 26
+  description: |-
+    - Durable 600 Denier nylon stands up to heavy loads
+    - Heavy-duty construction for longer life
+    - Removable and adjustable shoulder strap allows for comfortable carrying
+    - Holds up to 6 basketballs
+    - 29"x 20"x 11"
+
+    8 available
 - title: Champion SM1 Softball Catcher's Mask
   image: "/sm1_n.jpg"
   price: 28
