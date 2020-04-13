@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Franklin RTP Fielding Glove FRK-BB-22552 - 12" Left Hand Catch
+  image: "/Franklin RTP Fielding Glove FRK-BB-22552.jpg"
+  price: 26
+  description: |-
+    Ready to Play (RTP)
+    soft supple
+
+    1 available
 - title: Rawlings PM120TBJB Leather Palm Glove - 12" Left Hand Catch
   image: "/Rawlings PM120TBJB Leather Palm Glove.jpg"
   price: 35
