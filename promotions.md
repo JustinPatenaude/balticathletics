@@ -3,11 +3,22 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: BacPacJac Backpack Shock Absorbers - Heavy (20 - 50 lbs)
-  image: "/2020-04-10 16.58.32.jpg"
-  price: 14
+- title: Fox40 Water Rescue Throw Ring 7928-0700
+  image: "/2020-04-10 16.34.39.jpg"
+  price: 25
+  description: |
+    From the Fox 40 Outdoor Marine safety line
+
+    - lightweight and floats; easy to use
+    - textured grip with directions for use
+    - brightly coloured for day or night visibility
+    - easily stored in watercraft, by pool or on lifeguard stand
+    - 50 ft (15 m)
+- title: BacPacJac Backpack Shock Absorbers - Light (3 - 25 lbs)
+  image: "/2020-04-10 16.59.04.jpg"
+  price: 12
   description: |-
-    2 available (1 black, 1 pink)
+    2 available (1 black, 1 blue)
 
     The Patented BacPacJac Shock Absorbing System Can Help Protect Your Children Against Dangerous Injuries Caused by Heavy Backpacks
 
@@ -17,11 +28,11 @@ products:
     Easily installs on any backpack
 
     https://bacpacjac.com/
-- title: BacPacJac Backpack Shock Absorbers - Light (3 - 25 lbs)
-  image: "/2020-04-10 16.59.04.jpg"
-  price: 12
+- title: BacPacJac Backpack Shock Absorbers - Heavy (20 - 50 lbs)
+  image: "/2020-04-10 16.58.32.jpg"
+  price: 14
   description: |-
-    2 available (1 black, 1 blue)
+    2 available (1 black, 1 pink)
 
     The Patented BacPacJac Shock Absorbing System Can Help Protect Your Children Against Dangerous Injuries Caused by Heavy Backpacks
 
