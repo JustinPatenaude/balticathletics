@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Rubbermaid Drink Station
+  image: "/2020-04-11 14.32.44.jpg"
+  price: 
+  description: 18.9 L
 - title: Wilson A450 Leather Glove - 12" Left hand catch
   image: "/Wilson A450 Leather Glove.jpg"
   price: 39
