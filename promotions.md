@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mini Volleyball Aluminum Post Extensions VBPE - 36"
+  image: "/2020-03-07 13.32.52.jpg"
+  price: 40
+  description: |
+    - Inserts into the top of 2" badminton posts for mini-volleyball play
+    - 4 easy height adjustments
+    - 2 eyelets for side by side courts
 - title: York 7822 Firm Fit Weight Lifting Glove - Size M
   image: "/2020-03-07 12.39.15.jpg"
   price: 10
