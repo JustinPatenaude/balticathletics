@@ -8,11 +8,12 @@ products:
   price: 460
   description: |
     - 44"L  X 20" W X 42" T
-    - Holds 50+ racquets
+    - Holds approx 100 racquets
     - swivel & fixed casters
     - plastic bin included on bottom shelf
     - welded steel - much stronger and more durable than PVC plastic
     - black
+    - racquets & shuttles in photo not included
 
     Custom item (allow 2-3 weeks)
 - title: Champion VC500PRO Mammoth Volleyball Cart
