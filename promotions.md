@@ -63,6 +63,8 @@ products:
     - 18.9 L
     - Insulated
     - Spigot on bottom
+
+    1 available
 - title: Wilson A450 Leather Glove - 12" Left hand catch
   image: "/Wilson A450 Leather Glove.jpg"
   price: 39
