@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: ATF Anti Burst Fitness Ball A4460R/55 - 55 cm (22")
+  image: "/ATF A4460.55 fitness ball a.jpg"
+  price: 18
+  description: |-
+    Includes:
+    - 55 cm Ball
+    - Pump
+    - Program
 - title: Fox40 Water Rescue Throw Ring 7928-0700
   image: "/2020-04-10 16.34.39.jpg"
   price: 25
