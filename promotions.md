@@ -9,6 +9,8 @@ products:
   description: |-
     - includes carrying stacker
     - 7.5" saucer cones
+
+    8 available
 - title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
