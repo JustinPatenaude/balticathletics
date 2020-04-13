@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Champion Sports CBG900 Glove - 13" Left hand catch
+  image: "/Champion Sports CBG900 Glove.jpg"
+  price: 30
+  description: 1 available
 - title: Rawlings PM11MBCC Playmaker Series - 11" Left hand catch
   image: "/Rawlings PM11MBCC Playmaker Series.jpg"
   price: 36
