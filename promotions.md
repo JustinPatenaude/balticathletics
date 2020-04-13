@@ -15,21 +15,6 @@ products:
   image: "/2020-04-13 14.19.33.jpg"
   price: 28
   description: 8 available - Blonde/Black
-- title: Saucer Cone Set CM36P - 4 colour/36 pack
-  image: "/2020-04-09 19.14.58.jpg"
-  price: 18
-  description: |-
-    - includes carrying stacker
-
-     20 available
-- title: Saucer Cone Set CM50P - 5 colour/50 pack
-  image: "/2020-04-09 19.13.46.jpg"
-  price: 26
-  description: |-
-    - includes carrying stacker
-    - 7.5" saucer cones
-
-    8 available
 - title: Black Knight Airstream 660 Badminton Racquet
   image: "/2020-03-09 11.50.18.jpg"
   price: 35
@@ -76,10 +61,45 @@ products:
     - Inserts into the top of 2" badminton posts for mini-volleyball play
     - 4 easy height adjustments
     - 2 eyelets for side by side courts
+- title: Saucer Cone Set CM36P - 4 colour/36 pack
+  image: "/2020-04-09 19.14.58.jpg"
+  price: 18
+  description: |-
+    - includes carrying stacker
+
+     20 available
+- title: Saucer Cone Set CM50P - 5 colour/50 pack
+  image: "/2020-04-09 19.13.46.jpg"
+  price: 26
+  description: |-
+    - includes carrying stacker
+    - 7.5" saucer cones
+
+    8 available
 - title: York 7822 Firm Fit Weight Lifting Glove - Size M
   image: "/2020-03-07 12.39.15.jpg"
   price: 10
   description: 1 pair available
+- title: Dudley 4Y222NC Thunder Heat COR44 Synthetic Softball - 12" Yellow (sold in
+    dozens)
+  image: "/4A147YC Spalding Dudley Softballs.jpg"
+  price: 72
+  description: |-
+    - 12" synthetic cover
+
+    7 dozen available
+- title: Dudley 4A147 Thunder Heat Leather COR47 Fastpitch Ball - 12"
+  image: "/Dudley 4A147 Thunder Heat Leather COR47 Fastpitch Ball.jpg"
+  price: 7.5
+  description: |-
+    - Raised seams
+    - Optic yellow with red stitch
+
+    3 available
+- title: Dudley 4A135 Thunder Heat Leather COR40 Softball - 12"
+  image: "/2020-04-11 14.41.37.jpg"
+  price: 
+  description: ''
 - title: York 7852 All Person Fitness Glove - Size M
   image: "/2020-03-07 12.39.05.jpg"
   price: 12
@@ -110,16 +130,6 @@ products:
     - 6" diameter
     - Made of expanded polypropylene (EPP)
     - Eco-friendly
-- title: York 76000 High-Density Roll Mat - 24" x 72"
-  image: "/2020-03-07 12.30.18.jpg"
-  price: 18
-  description: |-
-    - Extra-thick foam for a safe and comfortable workout
-    - Heavy-duty vinyl makes cleaning and sanitizing easy
-    - Thick, nylon handles make it easy to transport
-    - Rolls up for convenient storage
-    - Perfect for any type of floor exercises
-    - Reduces pressure on the back during exercise and is excellent for physical therapy
 - title: Easton Z5 Batting Helmet - Senior
   image: "/2020-04-11 14.36.02.jpg"
   price: 39
@@ -128,13 +138,6 @@ products:
   image: "/2020-04-11 14.34.59.jpg"
   price: 39
   description: 1 available in RED
-- title: Baseball Scorebook
-  image: "/SC1 Baseball Scorebook.jpg"
-  price: 6
-  description: "- Keeps track of in-game statistics for up to 15 players for 25 games\n-
-    Heavy cardboard back and spiral bound cover is durable enough to last all season
-    \n- Includes batting average chart, roster, and line-up pages for quick access
-    to statistics\n- Suitable for all baseball and softball games"
 - title: Safety Pads for Referee Stand
   image: "/LO-764SP1 ref stand pad.jpg"
   price: 435
@@ -150,39 +153,107 @@ products:
     - Great bounce
 
     3 available (colours shown)
-- title: Dudley 4A135 Thunder Heat Leather COR40 Softball - 12"
-  image: "/2020-04-11 14.41.37.jpg"
+- title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
+  image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
+  price: 40
+  description: |-
+    - Full grain leather
+    - soft supple feel
+
+    1 available
+- title: Franklin FRK-BB-22601 Fieldmaster Ball Glove - 13" Left hand catch
+  image: "/Franklin FRK-BB-22601 Fieldmaster Glove.jpg"
   price: 
-  description: ''
-- title: Dudley 4Y222NC Thunder Heat COR44 Synthetic Softball - 12" Yellow (sold in
-    dozens)
-  image: "/4A147YC Spalding Dudley Softballs.jpg"
-  price: 72
+  description: 1 available - Blonde/Black
+- title: Rawlings PM11MBCC Playmaker Series - 11" Left hand catch
+  image: "/Rawlings PM11MBCC Playmaker Series.jpg"
+  price: 36
   description: |-
-    - 12" synthetic cover
+    - All leather pocket construction for durability and shape retention
+    - Basket Web creates a deep, flexible pocket for easier catches
+    - High density cushioned palm and finger back linings for added comfort
 
-    7 dozen available
-- title: Dudley 4A147 Thunder Heat Leather COR47 Fastpitch Ball - 12"
-  image: "/Dudley 4A147 Thunder Heat Leather COR47 Fastpitch Ball.jpg"
-  price: 7.5
+    1 available
+- title: Wilson A450 Leather Glove - 12" Left hand catch
+  image: "/Wilson A450 Leather Glove.jpg"
+  price: 39
   description: |-
-    - Raised seams
-    - Optic yellow with red stitch
+    - Pigskin Leather Shell
+    - Duel Welting
+    - Designed for all hand sizes
 
-    3 available
+    2 available
+    - 1 black
+    - 1 tan
+- title: Franklin RTP Fielding Glove FRK-BB-22552 - 12" Left Hand Catch
+  image: "/Franklin RTP Fielding Glove FRK-BB-22552.jpg"
+  price: 26
+  description: |-
+    Ready to Play (RTP)
+    soft supple
+
+    1 available
+- title: Champion Sports CBG900 Glove - 13" Left hand catch
+  image: "/Champion Sports CBG900 Glove.jpg"
+  price: 30
+  description: 1 available
+- title: Easton BMG13 Glove - 13" Left hand catch
+  image: "/2020-03-07 11.14.30.jpg"
+  price: 35
+  description: |-
+    Soft composite leather
+    9 available
+- title: Franklin Fastpitch Fielding Glove FRK-BB-223 - 11" Left Hand Catch
+  image: "/2020-04-11 14.47.16.jpg"
+  price: 28
+  description: |-
+    Mesh back
+    No break in required
+
+    2 available
+- title: Franklin RTP Fielding Glove FRK-BB-22553 - 11" Left Hand Catch
+  image: "/Franklin RTP Fielding Glove FRK-BB-22553.jpg"
+  price: 26
+  description: |-
+    Really soft
+    Ready To Play (RTP)
+
+    1 available
+- title: Rawlings PM120TBJB Leather Palm Glove - 12" Left Hand Catch
+  image: "/Rawlings PM120TBJB Leather Palm Glove.jpg"
+  price: 35
+  description: |-
+    R.A. Dickey Autograph Model
+
+    2 available
+- title: Louisville Slugger (Diva Series) - 11.5" Left Hand Catch
+  image: "/2020-04-11 14.47.00.jpg"
+  price: 38
+  description: |-
+    Full grain leather palm
+    Mesh back
+    Broken in feel
+
+    1 available
+- title: Wilson A360 Glove - Right Hand Catch
+  image: "/A360 Wilson glove RHC.jpg"
+  price: 49
+  description: 2 Available
+- title: Spalding 100 Leather Baseball
+  image: "/spalding 100 baseball.jpg"
+  price: 5
+  description: 3 single balls available
 - title: Easton Incrediball Vinyl cover Softball - 11"
   image: "/2020-04-11 14.43.02.jpg"
   price: 8
   description: 12 available
-- title: Head Stream Badminton Racquet
-  image: "/Head Stream Badminton Racquet.jpg"
-  price: 39
-  description: |-
-    - Graphite shaft
-    - Aluminum Head
-    - Power Helix shaft structure for improved strength & flexibility generating a more powerful shot
-
-    12 available
+- title: Baseball Scorebook
+  image: "/SC1 Baseball Scorebook.jpg"
+  price: 6
+  description: "- Keeps track of in-game statistics for up to 15 players for 25 games\n-
+    Heavy cardboard back and spiral bound cover is durable enough to last all season
+    \n- Includes batting average chart, roster, and line-up pages for quick access
+    to statistics\n- Suitable for all baseball and softball games"
 - title: High Density Mini Hockey Balls FI1017 - 2"
   image: "/2020-03-07 12.21.31.jpg"
   price: ".90"
@@ -204,82 +275,6 @@ products:
     - Spigot on bottom
 
     1 available
-- title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
-  image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
-  price: 40
-  description: |-
-    - Full grain leather
-    - soft supple feel
-
-    1 available
-- title: Franklin FRK-BB-22601 Fieldmaster Ball Glove - 13" Left hand catch
-  image: "/Franklin FRK-BB-22601 Fieldmaster Glove.jpg"
-  price: 
-  description: 1 available - Blonde/Black
-- title: Wilson A450 Leather Glove - 12" Left hand catch
-  image: "/Wilson A450 Leather Glove.jpg"
-  price: 39
-  description: |-
-    - Pigskin Leather Shell
-    - Duel Welting
-    - Designed for all hand sizes
-
-    2 available
-    - 1 black
-    - 1 tan
-- title: Champion Sports CBG900 Glove - 13" Left hand catch
-  image: "/Champion Sports CBG900 Glove.jpg"
-  price: 30
-  description: 1 available
-- title: Rawlings PM11MBCC Playmaker Series - 11" Left hand catch
-  image: "/Rawlings PM11MBCC Playmaker Series.jpg"
-  price: 36
-  description: |-
-    - All leather pocket construction for durability and shape retention
-    - Basket Web creates a deep, flexible pocket for easier catches
-    - High density cushioned palm and finger back linings for added comfort
-
-    1 available
-- title: Louisville Slugger (Diva Series) - 11.5" Left Hand Catch
-  image: "/2020-04-11 14.47.00.jpg"
-  price: 38
-  description: |-
-    Full grain leather palm
-    Mesh back
-    Broken in feel
-
-    1 available
-- title: Franklin RTP Fielding Glove FRK-BB-22552 - 12" Left Hand Catch
-  image: "/Franklin RTP Fielding Glove FRK-BB-22552.jpg"
-  price: 26
-  description: |-
-    Ready to Play (RTP)
-    soft supple
-
-    1 available
-- title: Rawlings PM120TBJB Leather Palm Glove - 12" Left Hand Catch
-  image: "/Rawlings PM120TBJB Leather Palm Glove.jpg"
-  price: 35
-  description: |-
-    R.A. Dickey Autograph Model
-
-    2 available
-- title: Franklin RTP Fielding Glove FRK-BB-22553 - 11" Left Hand Catch
-  image: "/Franklin RTP Fielding Glove FRK-BB-22553.jpg"
-  price: 26
-  description: |-
-    Really soft
-    Ready To Play (RTP)
-
-    1 available
-- title: Franklin Fastpitch Fielding Glove FRK-BB-223 - 11" Left Hand Catch
-  image: "/2020-04-11 14.47.16.jpg"
-  price: 28
-  description: |-
-    Mesh back
-    No break in required
-
-    2 available
 - title: Fox40 Whistle & Stopwatch Combo
   image: "/6906-0700 whistle & stopwatch.jpg"
   price: 16
@@ -289,6 +284,16 @@ products:
     - Sonik Blast Cushion Mouth Guard (CMG) Pealess Whistle
 
     1 available
+- title: York 76000 High-Density Roll Mat - 24" x 72"
+  image: "/2020-03-07 12.30.18.jpg"
+  price: 18
+  description: |-
+    - Extra-thick foam for a safe and comfortable workout
+    - Heavy-duty vinyl makes cleaning and sanitizing easy
+    - Thick, nylon handles make it easy to transport
+    - Rolls up for convenient storage
+    - Perfect for any type of floor exercises
+    - Reduces pressure on the back during exercise and is excellent for physical therapy
 - title: BY Group Classic Fitness Ball 92141
   image: "/BY Group fitness ball 92141.jpg"
   price: 18
@@ -340,6 +345,60 @@ products:
     - Program
 
     1 available
+- title: Franklin 22622 Fieldmaster Glove - 11" Left Hand Catch
+  image: "/Franklin fieldmaster.jpg"
+  price: 24
+  description: 1 available - Navy/Red/White
+- title: Franklin FRK-BB-22610 Fieldmaster Ball Glove - 13" Left hand catch
+  image: "/Franklin FRK-BB-22610 Fieldmaster Ball Glove.jpg"
+  price: 28
+  description: |
+    - Synthetic leather
+    - Soft feel
+
+    8 available  - Black
+- title: Spalding 41003 Official League Synthetic Cover Baseball (sold in case of
+    12)
+  image: "/2020-03-07 11.09.54.jpg"
+  price: 36
+  description: |-
+    stitched seams
+    5 dozen available
+- title: Head Stream Badminton Racquet
+  image: "/Head Stream Badminton Racquet.jpg"
+  price: 39
+  description: |-
+    - Graphite shaft
+    - Aluminum Head
+    - Power Helix shaft structure for improved strength & flexibility generating a more powerful shot
+
+    12 available
+- title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
+  image: "/2020-03-30 12.26.05.jpg"
+  price: 15
+  description: |-
+    Also available in sizes 3 & 4
+    2 available
+- title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
+  image: "/Eletto LIGA comp soccer ball.jpg"
+  price: 29
+  description: ''
+- title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
+  image: "/Eletto LNA-350 soccer ball.jpg"
+  price: 22
+  description: ''
+- title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
+  image: "/Eletto LNA-290 soccer ball.jpg"
+  price: 0
+  description: ''
+- title: Sporteck CAPO Soccer Ball - Size 5
+  image: "/sporteck CAPO soccer ball.jpg"
+  price: 30
+  description: ''
+- title: Eletto CINCO Futsal Ball
+  image: "/2020-03-30 12.15.56.jpg"
+  price: 23
+  description: 1 available
 - title: Fox40 Water Rescue Throw Ring 7928-0700
   image: "/2020-04-10 16.34.39.jpg"
   price: 25
@@ -351,34 +410,6 @@ products:
     - brightly coloured for day or night visibility
     - easily stored in watercraft, by pool or on lifeguard stand
     - 50 ft (15 m)
-- title: BacPacJac Backpack Shock Absorbers - Light (3 - 25 lbs)
-  image: "/2020-04-10 16.59.04.jpg"
-  price: 12
-  description: |-
-    2 available (1 black, 1 blue)
-
-    The Patented BacPacJac Shock Absorbing System Can Help Protect Your Children Against Dangerous Injuries Caused by Heavy Backpacks
-
-    Instantly lessens backpack load
-    Reduces pressure on the back by up to 50+%
-    Reduces strain on back and knees
-    Easily installs on any backpack
-
-    https://bacpacjac.com/
-- title: BacPacJac Backpack Shock Absorbers - Heavy (20 - 50 lbs)
-  image: "/2020-04-10 16.58.32.jpg"
-  price: 14
-  description: |-
-    2 available (1 black, 1 pink)
-
-    The Patented BacPacJac Shock Absorbing System Can Help Protect Your Children Against Dangerous Injuries Caused by Heavy Backpacks
-
-    Instantly lessens backpack load
-    Reduces pressure on the back by up to 50+%
-    Reduces strain on back and knees
-    Easily installs on any backpack
-
-    https://bacpacjac.com/
 - price: 24
   description: |-
     8 oz
@@ -408,6 +439,27 @@ products:
     - Made of lightweight aluminum and strong ABS plastic
 
     1 available
+- title: Wilson A800 Showtime Glove - 13" Left Hand Catch
+  image: "/Wilson A800 Showtime glove a.jpg"
+  price: 65
+  description: |-
+    Genuine all leather glove
+    Soft and supple leather (broken in feel)
+    MSRP $120.00
+
+    8 available
+- title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
+  image: "/2020-04-11 14.51.18.jpg"
+  price: 60
+  description: "- All leather"
+- title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
+  image: "/Rawlings HFP125BP Baseball Glove.jpg"
+  price: 38
+  description: |-
+    - All leather shell
+    - Soft & supple, very flexible (broken in feel)
+
+    13 available (black/purple)
 - title: Fox40 Classic Whistle & T-Reign Clip 7930-0000
   image: "/Fox40 T-Reign & whistle 7930-0000.jpg"
   price: 17
@@ -433,32 +485,34 @@ products:
   image: "/2020-03-07 12.26.20.jpg"
   price: 24
   description: 3 available
-- title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
-  image: "/2020-03-30 12.26.05.jpg"
-  price: 15
+- title: BacPacJac Backpack Shock Absorbers - Light (3 - 25 lbs)
+  image: "/2020-04-10 16.59.04.jpg"
+  price: 12
   description: |-
-    Also available in sizes 3 & 4
-    2 available
-- title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
-  image: "/Eletto LIGA comp soccer ball.jpg"
-  price: 29
-  description: ''
-- title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
-  image: "/Eletto LNA-350 soccer ball.jpg"
-  price: 22
-  description: ''
-- title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
-  image: "/Eletto LNA-290 soccer ball.jpg"
-  price: 0
-  description: ''
-- title: Eletto CINCO Futsal Ball
-  image: "/2020-03-30 12.15.56.jpg"
-  price: 23
-  description: 1 available
-- title: Sporteck CAPO Soccer Ball - Size 5
-  image: "/sporteck CAPO soccer ball.jpg"
-  price: 30
-  description: ''
+    2 available (1 black, 1 blue)
+
+    The Patented BacPacJac Shock Absorbing System Can Help Protect Your Children Against Dangerous Injuries Caused by Heavy Backpacks
+
+    Instantly lessens backpack load
+    Reduces pressure on the back by up to 50+%
+    Reduces strain on back and knees
+    Easily installs on any backpack
+
+    https://bacpacjac.com/
+- title: BacPacJac Backpack Shock Absorbers - Heavy (20 - 50 lbs)
+  image: "/2020-04-10 16.58.32.jpg"
+  price: 14
+  description: |-
+    2 available (1 black, 1 pink)
+
+    The Patented BacPacJac Shock Absorbing System Can Help Protect Your Children Against Dangerous Injuries Caused by Heavy Backpacks
+
+    Instantly lessens backpack load
+    Reduces pressure on the back by up to 50+%
+    Reduces strain on back and knees
+    Easily installs on any backpack
+
+    https://bacpacjac.com/
 - title: Inflatable Cones PP-508178/9-00  8" & 12" height
   image: "/2020-03-07 12.25.41.jpg"
   price: 15
@@ -469,22 +523,6 @@ products:
   image: "/2020-03-07 12.12.53.jpg"
   price: 35
   description: Sold in sets of 6
-- title: Franklin 22622 Fieldmaster Glove - 11" Left Hand Catch
-  image: "/Franklin fieldmaster.jpg"
-  price: 24
-  description: 1 available - Navy/Red/White
-- title: Wilson A360 Glove - Right Hand Catch
-  image: "/A360 Wilson glove RHC.jpg"
-  price: 49
-  description: 2 Available
-- title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
-  image: "/2020-04-11 14.51.18.jpg"
-  price: 60
-  description: "- All leather"
-- title: Spalding 100 Leather Baseball
-  image: "/spalding 100 baseball.jpg"
-  price: 5
-  description: 3 single balls available
 - title: Exercise Station Activity Riser (Hoop holder) w/Base & Wand Posts
   image: ''
   price: 
@@ -515,6 +553,14 @@ products:
     - 47” x 8.5” x 6.5”
 
     6 available
+- title: Chin Up Bar, Wall Mounted (WMCUB)
+  image: "/WMCUB.JPG"
+  price: 95
+  description: |-
+    - Made of industrial strength, heavy steel, featuring 4 different grip positions.
+    - 44" wide (end to end), 23" deep (from base of wall bracket).
+
+    2 available
 - title: Heart Rate Monitor (HRM1)
   image: "/HRM1 Heart Rate Monitor.jpg"
   price: 49
@@ -524,14 +570,16 @@ products:
     zone alarm, calories burned counter, chronograph, exercise data recall, exercise
     timer, in-zone timer, % of maximum heart rate, maximum heart rate, EL backlight.\n\n1
     available"
-- title: Chin Up Bar, Wall Mounted (WMCUB)
-  image: "/WMCUB.JPG"
-  price: 95
+- title: Spalding 72702CA Alpha Composite Leather Varsity Football - Size 9
+  image: "/alpha varsity 72-702CA.jpg"
+  price: 30
   description: |-
-    - Made of industrial strength, heavy steel, featuring 4 different grip positions.
-    - 44" wide (end to end), 23" deep (from base of wall bracket).
-
-    2 available
+    Pebbled tacky laces
+    7 available
+- title: Worth Mayhem Softball Bats
+  image: "/2020-03-07 11.21.13.jpg"
+  price: 49
+  description: 34" - 28 oz
 - title: Professional High Jump Standards (HJSP)
   image: "/HJSP.JPG"
   price: 995
@@ -575,59 +623,12 @@ products:
     - holds 660 lbs
 
     2 available
-- title: Spalding 41003 Official League Synthetic Cover Baseball (sold in case of
-    12)
-  image: "/2020-03-07 11.09.54.jpg"
-  price: 36
-  description: |-
-    stitched seams
-    5 dozen available
-- title: Spalding 72702CA Alpha Composite Leather Varsity Football - Size 9
-  image: "/alpha varsity 72-702CA.jpg"
-  price: 30
-  description: |-
-    Pebbled tacky laces
-    7 available
 - title: Spalding 727018C Alpha Composite Leather Youth Football - Size 7
   image: "/2020-04-11 12.05.21.jpg"
   price: 28
   description: |-
     Pebbled tacky laces
     12 available
-- title: Wilson A800 Showtime Glove - 13" Left Hand Catch
-  image: "/Wilson A800 Showtime glove.jpg"
-  price: 65
-  description: |-
-    Genuine all leather glove
-    Soft and supple leather (broken in feel)
-    MSRP $120.00
-    limited quantities available
-- title: Easton BMG13 Glove - 13" Left hand catch
-  image: "/2020-03-07 11.14.30.jpg"
-  price: 35
-  description: |-
-    Soft composite leather
-    9 available
-- title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
-  image: "/Rawlings HFP125BP Baseball Glove.jpg"
-  price: 38
-  description: |-
-    - All leather shell
-    - Soft & supple, very flexible (broken in feel)
-
-    13 available (black/purple)
-- title: Franklin FRK-BB-22610 Fieldmaster Ball Glove - 13" Left hand catch
-  image: "/Franklin FRK-BB-22610 Fieldmaster Ball Glove.jpg"
-  price: 28
-  description: |
-    - Synthetic leather
-    - Soft feel
-
-    8 available  - Black
-- title: Worth Mayhem Softball Bats
-  image: "/2020-03-07 11.21.13.jpg"
-  price: 49
-  description: 34" - 28 oz
 - title: Spalding Rookie Gear Composite Football - Size 6
   image: "/spalding rookie gear footballs.jpg"
   price: 16
