@@ -3,10 +3,6 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Franklin FRK-BB-22601 Fieldmaster Glove - 13" Left hand catch
-  image: "/Franklin FRK-BB-22601 Fieldmaster Glove.jpg"
-  price: 
-  description: 1 available - Blonde/Black
 - title: Saucer Cone Set CM36P - 4 colour/36 pack
   image: "/2020-04-09 19.14.58.jpg"
   price: 18
@@ -61,6 +57,10 @@ products:
     7 available
     - 6 black
     - 1 yellow
+- title: Franklin FRK-BB-22601 Fieldmaster Ball Glove - 13" Left hand catch
+  image: "/Franklin FRK-BB-22601 Fieldmaster Glove.jpg"
+  price: 
+  description: 1 available - Blonde/Black
 - title: Mini Volleyball Aluminum Post Extensions VBPE - 36"
   image: "/2020-03-07 13.32.52.jpg"
   price: 40
