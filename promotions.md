@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Fox40 Whistle & Stopwatch Combo
+  image: "/6906-0700 whistle & stopwatch.jpg"
+  price: 
+  description: |-
+    Includes:
+    - Digital stopwatch
+    - Sonik Blast Cushion Mouth Guard (CMG) Pealess Whistle
+
+    1 available
 - title: BY Group Classic Fitness Ball 92141
   image: "/BY Group fitness ball 92141.jpg"
   price: 18
