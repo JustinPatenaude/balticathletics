@@ -9,7 +9,7 @@ products:
   description: ''
 - title: Kwik Goal 10B3401 Tamper Resistant Soccer Net Clips
   image: "/2020-04-13 10.39.30.jpg"
-  price: 115
+  price: 120
   description: Sold in bag of 100 with hex driver
 - title: Franklin FRK-BB-22612 Fieldmaster Glove - 11" YOUTH - Left hand catch
   image: "/2020-04-13 14.20.17.jpg"
@@ -551,6 +551,10 @@ products:
   image: "/PX-501332-00 Sponge Dice (colour dot sides).jpg"
   price: 4.5
   description: 5 available
+- title: Worth Mayhem Softball Bats
+  image: "/2020-03-07 11.21.13.jpg"
+  price: 49
+  description: 34" - 28 oz
 - title: Bauer Floor Hockey Goal Pads - 27"
   image: "/2020-03-07 12.05.49.jpg"
   price: 60
@@ -592,10 +596,6 @@ products:
   description: |-
     Pebbled tacky laces
     7 available
-- title: Worth Mayhem Softball Bats
-  image: "/2020-03-07 11.21.13.jpg"
-  price: 49
-  description: 34" - 28 oz
 - title: Professional High Jump Standards (HJSP)
   image: "/HJSP.JPG"
   price: 995
