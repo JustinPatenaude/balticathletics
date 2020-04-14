@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Nike Phantom Venom Soccer Ball - Size 4 & 5
+  image: "/2020-04-14 16.27.21.jpg"
+  price: 27
+  description: |-
+    - Soft touch
+
+    3 available - Size 4
+    2 available - Size 5
 - title: Nike NKFC Total FC Soccer Ball - Size 4 & 5
   image: "/2020-04-14 16.27.06.jpg"
   price: 27
