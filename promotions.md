@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Plastic Segmented Skipping Rope PR9 - 9 ft
+  image: "/pr9_l.jpg"
+  price: 3.35
+  description: |-
+    - Plastic segmented
+    - 9 foot
+    - Blue/White
 - title: Plastic Segmented Skipping Rope PR8 - 8 ft
   image: "/pr8_l.jpg"
   price: 2.95
