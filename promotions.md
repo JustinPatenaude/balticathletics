@@ -40,7 +40,7 @@ products:
   image: "/BOCA-2.jpg"
   price: 28
   description: 1 available
-- title: Diadora Gara III Soccer Ball - Size 5
+- title: Diadora Gara III 881810 Soccer Ball - Size 5
   image: "/2020-04-14 16.26.09.jpg"
   price: 29
   description: |-
