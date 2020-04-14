@@ -25,6 +25,7 @@ products:
     - Realistic colors and layouts
     - Durable clip holds paperwork
     - includes dry erase pen
+    - 10" x 16" (25.5 cm x 40.5 cm)
 
     SPORTS MODELS AVAILABLE:
     2 - Baseball
