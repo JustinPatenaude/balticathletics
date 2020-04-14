@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Nike NKFC Total FC Soccer Ball - Size 4 & 5
+  image: "/2020-04-14 16.27.06.jpg"
+  price: 27
+  description: ''
 - title: Nike Pitch Soccer Ball - Size 4
   image: "/2020-04-14 16.26.42.jpg"
   price: 24
