@@ -3,6 +3,11 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa NVL-VX Official NVL Game Ball Replica Beach Volleyball
+  image: "/NVL-VX_1-B.jpg"
+  price: 23
+  description: "- Official NVL beach volleyball replica\n- Cushioned synthetic leather
+    cover, butyl bladder for maximum air retention. \n- White\n\n4 available"
 - title: Mikasa VSL215PNK Indoor/Outdoor Volleyball
   image: "/VSL215PNK_1-Z.jpg"
   price: 26
