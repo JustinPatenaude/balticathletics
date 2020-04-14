@@ -12,7 +12,7 @@ products:
     - IMS (INTERNATIONAL MATCHBALL STANDARD)
 
     1 available
-- title: Uhlsport 1001634012017 Elysia Sala Ligue 1 Futsal Ball - Size 4
+- title: Uhlsport Elysia Sala Ligue 1 2017 Futsal Ball - Size 4
   image: "/2020-04-14 16.24.25.jpg"
   price: 38
   description: |-
