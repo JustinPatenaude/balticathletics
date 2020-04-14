@@ -11,6 +11,7 @@ products:
     - Compact and convenient coaching board
     - Full-colour write-on/wipe-off dry erase surfaces
     - Double-sided playing surfaces with 2-dimensional full field/court on one side and close-up of 3-dimensional half field/court on the other side
+    - includes dry erase marker
     - 4” x 6” (10 cm x 15.25 cm)
 
     3 - Soccer available
