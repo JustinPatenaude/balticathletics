@@ -3,10 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: ''
-  image: ''
-  price: 
-  description: ''
+- title: Reflex Soccer Goal Keeper Training Ball
+  image: "/2020-04-14 16.25.49.jpg"
+  price: 32
+  description: |-
+    Does a ball have to be round? To be good with a round ball you have to start with the angled one. This is especially true for goalkeepers! As its name suggests, this ball is there to help goalies train their reflexes. It‘s made of tough TPU and comes in fluorescent yellow.
+
+    No Size
+
+    1 available
 - title: Uhlsport Medusa Nereo 1501 Futsal Ball - Size 4
   image: "/2020-04-14 16.25.08.jpg"
   price: 32
