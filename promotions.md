@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa MGV500 Setter's Training Volleyball
+  image: "/MGV500_1-Z.jpg"
+  price: 59
+  description: |-
+    - Heavyweight 16 oz
+    - Premium composite cover
+    - Builds strength in the back, shoulder, arm and wrists
+
+    1 available
 - title: Mikasa VSV800 Squish Beach Volleyball
   image: "/VSV800_1-B.jpg"
   price: 24
