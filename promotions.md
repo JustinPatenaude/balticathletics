@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Puma Futsal Ball - Size 4
+  image: "/2020-04-14 16.23.25.jpg"
+  price: 27
+  description: |-
+    - Soft touch
+
+    6 available
 - title: Reflex Soccer Goal Keeper Training Ball
   image: "/2020-04-14 16.25.49.jpg"
   price: 32
