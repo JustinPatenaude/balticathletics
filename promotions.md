@@ -4,7 +4,7 @@ title: Promotions
 permalink: "/promotions/"
 products:
 - title: Mikasa SS50 Varsity Series Cushioned Cover Soccer Ball - Size 5
-  image: "/SS30-BK_1-Z.jpg"
+  image: "/SS30-BK_1-Z a.jpg"
   price: 30
   description: |-
     - Size: #5
