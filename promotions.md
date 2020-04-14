@@ -3,7 +3,7 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Cosom Goal Floor Hockey Stick
+- title: Cosom Goal Floor Hockey Stick CH-700845-00
   image: "/2020-04-14 12.23.00.jpg"
   price: 10
   description: |-
