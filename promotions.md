@@ -339,6 +339,8 @@ products:
     - Plastic segmented
     - 16 foot
     - Red/White/Blue
+
+    12 available
 - title: Replacement Street/Floor Hockey Net - Black - 4' x 6'
   image: "/NET46_1-Z.jpg"
   price: 48
