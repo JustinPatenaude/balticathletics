@@ -3,6 +3,23 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Fox40 Smartcoach Pro Clipboard - Various Sports
+  image: ''
+  price: 20
+  description: |-
+    - Full-color write-on/wipe-off dry erase surfaces
+    - Double-sided playing surfaces with a 2-dimensional full field/court on one
+    side and a close-up of a 3-dimensional half field/court on the other side
+    - Realistic colors and layouts
+    - Durable clip holds paperwork
+    - includes dry erase pen
+
+    SPORTS MODELS AVAILABLE:
+    2 - Baseball
+    12 - Basketball
+    1 - Canadian Football
+    12 - Soccer
+    6 - Volleyball
 - title: Base Spikes HDB-NN-RNAIL10 & HDB Super Anchorhead Clips HDB-BB-SASH
   image: "/2020-04-14 09.55.03.jpg"
   price: 5
