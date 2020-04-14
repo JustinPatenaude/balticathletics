@@ -8,6 +8,7 @@ products:
   price: 27
   description: |-
     - Soft touch
+    - Low rebound
 
     6 available
 - title: Reflex Soccer Goal Keeper Training Ball
