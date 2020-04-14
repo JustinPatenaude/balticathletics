@@ -3,6 +3,18 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Fox40 Pro Junior Clipboard - Various Sports available
+  image: ''
+  price: 10
+  description: |-
+    - Smaller, compact black and white coaching board
+    - Single-sided write-on/wipe-off dry erase surface
+    - Durable clip holds paperwork
+    - 8” x 11” (20 cm x 28 cm)
+
+    SPORTS MODELS AVAILABLE:
+    6 - Basketball
+    4 - Soccer
 - title: Fox40 Smartcoach Pro Clipboard - Various Sports
   image: ''
   price: 20
