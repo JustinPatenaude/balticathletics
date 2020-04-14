@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Fox40 Super Force CMG Glovegrip
+  image: ''
+  price: 
+  description: |-
+    - Nickel-plated brass, non-corrosive silver metal whistle
+    - Traditional lower-tone pea-style whistle developed for referees, coaches and trainers of any sport
+    - Lead-free
+    - Includes removable Cushioned Mouth Grip (CMG®)
+    - Glove grip model uses extended Velcro® straps to secure around a hockey glove
 - title: Fox40 Electronic Whistle
   image: "/8616-1908 electronic whistle.PNG"
   price: 16
