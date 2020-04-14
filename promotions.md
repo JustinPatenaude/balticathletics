@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: 1Star Table Tennis Balls - Box of 144
+  image: "/1star144_l.jpg"
+  price: 40
+  description: |-
+    - Recreational 40 mm
+    - Top grade institutional ball
+    - Packed 144 balls to a box
+    - White
+
+    12 boxes available
 - title: Plastic Segmented Skipping Rope PR8 - 8 ft
   image: "/pr8_l.jpg"
   price: 2.95
