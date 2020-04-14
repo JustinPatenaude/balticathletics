@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: 'Fox40 Epik CMG Whistle w/Lanyard '
+  image: "/Fox40 epik whistle 8803-0108.PNG"
+  price: 6.5
+  description: |-
+    - Integrated black over-molded Cushioned Mouth Grip (CMG®) with added grip ribs along the top surface of whistle to provide maximum control
+    - Easy to blow for optimized performance
+    - Ergonomically designed shape for better grip overall
+
+    9 available in RED 8803-0108
+    8 available in YELLOW 8803-1308
 - title: Fox40 Digital Ball Gauge 6916-0200
   image: "/Fox40 digital ball gauge.PNG"
   price: 24
