@@ -3,6 +3,18 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Base Spikes HDB-NN-RNAIL10 & Clips HDB-BB-SASH
+  image: "/2020-04-14 09.55.03.jpg"
+  price: 5
+  description: |-
+    - Heavy duty steel 10" spike
+    - 1/4" dia heavy duty Clip for base strap
+
+    Two step process:
+    1. Hammer spike with clip into ground
+    2. Attach base straps onto clip
+
+    Eliminates the wear on base straps from hammering spikes into the ground while attached to the base straps. Allows bases and straps to last longer.
 - title: Cosom Floor Hockey Goalie Stick CH-700845-00
   image: "/2020-04-14 12.23.00.jpg"
   price: 10
