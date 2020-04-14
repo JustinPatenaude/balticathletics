@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Inaria Liga 1000 Soccer Ball - Size 5
+  image: "/inaria liga 1000 soccer ball size 5.PNG"
+  price: 18
+  description: |-
+    - Recommended as a club-level training ball
+    - Soft touch and durable, bright and glossy finish
+    - Hand-sewn with 32 panels, a latex bladder and a butyl valve
+
+    1 available
 - title: Acacia Canada Soccer Ball 22-556 - Size 5
   image: "/canada-At-Acaciasports.jpg"
   price: 16
