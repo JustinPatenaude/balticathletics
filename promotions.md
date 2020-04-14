@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa SAR50 4 Seasons Neon Honeycomb Soccer Ball
+  image: "/SAR50-BKY_1-Z.jpg"
+  price: 35
+  description: |-
+    - Size #5
+    - Cushioned exterior which maintains its flexibilty even in cold weather
+    - 4 seasons soccer ball and high visibility on the snow
+    - Yellow / Black
+
+    1 available
 - title: Mikasa MCS50 Orbite Design Soccer Ball - Size 5
   image: "/MCS50-WO_1-Z.jpg"
   price: 30
