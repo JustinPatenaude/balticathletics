@@ -7,6 +7,7 @@ products:
   image: "/Fox40 digital ball gauge.PNG"
   price: 24
   description: |-
+    - Includes 1.5V battery
     - Quick release air valve that allows air to discharge without removing the pin or gauge from the ball, guaranteeing that over-inflated balls obtain immediate and absolute accurate air pressure
     - PSI, BAR, KG and kPa options available – default mode is PSI
     - Pins are made of zinc alloy
