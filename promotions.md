@@ -8,7 +8,7 @@ products:
   price: 10
   description: |-
     - 21" tall black plastic blade
-    - oak wood laminate shaft 48" (that can be cut to desired length)
+    - laminated oak wood shaft 48" (that can be cut to desired length)
     - plastic butt end
 
     6 available
