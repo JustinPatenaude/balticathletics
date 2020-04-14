@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Tournament Volleyball Net - 32 foot x 39"
+  image: "/VN8080-360_Tournament_Net.jpg"
+  price: 75
+  description: |-
+    - Made of 2.5mm PE netting
+    - Fully taped
+    - Reversible
+    - PVC coated cable top and bottom
+    - 32’ x 1’ x 4” top band
+
+    1 available
 - title: Ball Carrying Net L16
   image: "/L16_-_Net_Carry_Bag-WEB.jpg"
   price: 6.75
