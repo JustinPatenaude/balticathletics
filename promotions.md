@@ -3,6 +3,18 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Diadora Gara 2 Soccer Ball - Size 5
+  image: ''
+  price: 29
+  description: |-
+    - Match quality ball
+    - Microfiber polyurethane cover
+    - High tenacity polyester filament stitching provides excellent durability
+    - Closed cell air mattress ensures soft touch under all temperature conditions
+    - Butyl bladder and valve
+    - Size 5
+
+    1 available
 - title: Diadora 881520 Magnifico Game Soccer Ball - Size 5
   image: "/881520---Magnifico-Game-020301-White-Red-Black-.jpg"
   price: 32
