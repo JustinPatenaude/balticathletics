@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Fox40 Smartcoach Pro POCKET Clipboard - Soccer only
+  image: "/fox40 smart coach pro pocket clipboard.PNG"
+  price: 2.5
+  description: |-
+    - Small format is great for sideline strategy sessions
+    - Compact and convenient coaching board
+    - Full-colour write-on/wipe-off dry erase surfaces
+    - Double-sided playing surfaces with 2-dimensional full field/court on one side and close-up of 3-dimensional half field/court on the other side
+    - 4” x 6” (10 cm x 15.25 cm)
+
+    3 - Soccer available
 - title: Fox40 Pro Junior Clipboard - Various Sports available
   image: ''
   price: 10
