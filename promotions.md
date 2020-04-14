@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa MCS50 Orbite Design Soccer Ball - Size 5
+  image: "/MCS50-WO_1-Z.jpg"
+  price: 30
+  description: |-
+    - MCS Orbit design soccer ball
+    - Deluxe cushioned cover
+    - Stitched
+    - Size #5
+    - Orange & White
+
+    1 available
 - title: Mikasa SE509 Elstar Soccer Ball - Size 5
   image: "/Mikasa Elstar Soccer Ball - Size 5_.jpg"
   price: 28
