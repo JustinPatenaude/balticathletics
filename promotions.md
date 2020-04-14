@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa VSV800 Squish Beach Volleyball
+  image: "/VSV800_1-B.jpg"
+  price: 24
+  description: |-
+    - All purpose premium no sting waterproof pillow cover.
+    - Excellent recreational ball.
+    - Great for swimming pools and volleyball camps.
+    - Yellow and red
+
+    1 available
 - title: Mikasa NVL-VX Official NVL Game Ball Replica Beach Volleyball
   image: "/NVL-VX_1-B.jpg"
   price: 23
