@@ -3,7 +3,7 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Tournament Volleyball Net - 32 foot x 39"
+- title: Tournament Volleyball Net - 32 ft
   image: "/VN8080-360_Tournament_Net.jpg"
   price: 75
   description: |-
