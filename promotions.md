@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa VXL30 Official 2016 Olympics Beach Volleyball Replica
+  image: "/VXL30_1-Z.jpg"
+  price: 23
+  description: |-
+    - Soft stitched cover
+    - Butyl airlock bladder
+    - Size #5 – Official
+
+    1 available
 - title: Mikasa VUL500 Starter Ultra-Light Training Volleyball
   image: "/VUL500_1-Z.jpg"
   price: 55
