@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa SS50 Varsity Series Cushioned Cover Soccer Ball - Size 5
+  image: "/SS30-BK_1-Z.jpg"
+  price: 30
+  description: |-
+    - Size: #5
+    - Deluxe cushioned cover
+    - Butyl bladder
+    - Black/White
+
+    1 available
 - title: Mikasa SAR50 4 Seasons Neon Honeycomb Soccer Ball
   image: "/SAR50-BKY_1-Z.jpg"
   price: 35
