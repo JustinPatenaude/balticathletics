@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa VSL215PNK Indoor/Outdoor Volleyball
+  image: "/VSL215PNK_1-Z.jpg"
+  price: 26
+  description: |-
+    - Competitive class ball
+    - Durable synthetic leather cover, designed for indoor and outdoor use
+    - Great for recreational play.
+    - Pink and white
+
+    2 available
 - title: 360 Electronic Whistle WE1
   image: "/WE1_-_Electronic_Whistle.jpg"
   price: 16
