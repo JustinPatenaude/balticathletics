@@ -3,6 +3,19 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Diadora Futsala ID II 881701 Futsal Ball - Size 4
+  image: "/2020-04-14 16.25.24.jpg"
+  price: 38
+  description: |-
+    - Game quality futsal ball
+    - Unibond technology
+    - Machine stitched panels
+    - Polyurethane outer shell
+    - Soft touch
+    - Butyl bladder & valve
+    - Size 4
+
+    1 available
 - title: Inaria Liga 1000 Soccer Ball - Size 5
   image: "/inaria liga 1000 soccer ball size 5.PNG"
   price: 18
