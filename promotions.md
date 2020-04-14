@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa VUL500 Starter Ultra-Light Training Volleyball
+  image: "/VUL500_1-Z.jpg"
+  price: 55
+  description: |-
+    - Youth starter training ball for 12 years & under.
+    - Ultra-light and premium composite cover.
+    - Weight: 8 ounces (227 g)
+
+    1 available
 - title: Mikasa NVL-PRO Official NVL Game Beach Volleyball
   image: "/NVL-PRO_1-Z.jpg"
   price: 45
