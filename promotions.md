@@ -7,11 +7,11 @@ products:
   image: "/sl10-a-front_l.jpg"
   price: 15
   description: |-
-    • Soft, lightweight cover ideal for blocking shots or heading the ball
-    • 30% Lighter than traditional size 4 balls
-    • 32 Panels for added quality and durability
-    • Size 4
-    • Yellow/Black
+    - Soft, lightweight cover ideal for blocking shots or heading the ball
+    - 30% Lighter than traditional size 4 balls
+    - 32 Panels for added quality and durability
+    - Size 4
+    - Yellow/Black
 
     2 available
 - title: Champion EX5PR Extreme Soccer Ball - Size 5
