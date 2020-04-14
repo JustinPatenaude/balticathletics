@@ -3,6 +3,19 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Champion MGSET Mini Golf Set
+  image: "/mgset-a-main_l.jpg"
+  price: 75
+  description: |-
+    - Made of durable plastic shaft and head foam grips
+    - Solid foam balls
+    - 3 plastic target holes to develop golf skills
+    - Six 24" putters
+    - 18 Targets
+    - 18 Foam balls
+    - 6 colours - Red, Orange, Yellow, Green, Blue, and Purple
+
+    1 available
 - title: Wiffle Ball CX040630-00 - 9" circ / 3" dia (baseball size)
   image: "/plbb-enhanced-1_l.jpg"
   price: 1.5
