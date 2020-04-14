@@ -145,7 +145,7 @@ products:
 
     3 - Soccer available
 - title: Fox40 Pro Junior Clipboard - Various Sports available
-  image: ''
+  image: "/fox40 pro junior clipboards final.png"
   price: 10
   description: |-
     - Smaller, compact black and white coaching board
@@ -156,6 +156,7 @@ products:
     SPORTS MODELS AVAILABLE:
     6 - Basketball
     4 - Soccer
+    Other sports shown are available to order at regular price.
 - title: Fox40 Smartcoach Pro Clipboard - Various Sports
   image: ''
   price: 20
