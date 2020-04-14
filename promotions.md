@@ -3,6 +3,19 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Ball Carrying Net L16
+  image: "/L16_-_Net_Carry_Bag-WEB.jpg"
+  price: 6.75
+  description: |-
+    - Large weave, soft braided nylon bag
+    - Drawstring closure
+    - 48” in size with 4” square mesh
+    - Holds 12 size 5 soccer balls or 10 basketballs
+    - Balls not included
+
+    This is a great economical storage and transporting solution for balls.
+
+    9 available
 - title: Mesh Ball Bag / Laundry Bag L40
   image: "/L40_-_Laundry_Bags.jpg"
   price: 7.5
