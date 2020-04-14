@@ -134,7 +134,7 @@ products:
     - 1 tan
 - title: Franklin RTP Fielding Glove FRK-BB-22552 - 12" Left Hand Catch
   image: "/Franklin RTP Fielding Glove FRK-BB-22552.jpg"
-  price: 26
+  price: 28
   description: |-
     Ready to Play (RTP)
     soft supple
