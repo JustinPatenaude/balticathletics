@@ -13,7 +13,7 @@ products:
     - Size 4
 
     3 available
-- title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
+- title: Uhlsport 1525 Medusa Keto Sala Soccer Ball - Size 4
   image: "/2020-04-14 16.23.55.jpg"
   price: 29
   description: |-
