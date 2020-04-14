@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: ''
+  image: ''
+  price: 
+  description: ''
 - title: Uhlsport Medusa Nereo 1501 Futsal Ball - Size 4
   image: "/2020-04-14 16.25.08.jpg"
   price: 32
