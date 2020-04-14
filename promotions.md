@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Fox40 Digital Ball Gauge 6916-0200
+  image: "/Fox40 digital ball gauge.PNG"
+  price: 24
+  description: |-
+    - Quick release air valve that allows air to discharge without removing the pin or gauge from the ball, guaranteeing that over-inflated balls obtain immediate and absolute accurate air pressure
+    - PSI, BAR, KG and kPa options available – default mode is PSI
+    - Pins are made of zinc alloy
+    - Have on hand at any sports facility
+
+    4 available
 - title: Fox40 9123-1408 Super Force CMG Glovegrip
   image: "/Fox40 9123-1408 Super Force CMG Glovegrip a.PNG"
   price: 15
