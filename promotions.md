@@ -15,6 +15,8 @@ products:
     2. Attach base straps onto clip
 
     Eliminates the wear on base straps from hammering spikes into the ground while attached to the base straps. Allows bases and straps to last longer.
+
+    12 available.
 - title: Cosom Floor Hockey Goalie Stick CH-700845-00
   image: "/2020-04-14 12.23.00.jpg"
   price: 10
