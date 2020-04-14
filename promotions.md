@@ -3,6 +3,19 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Champion EX5PR Extreme Soccer Ball - Size 5
+  image: "/ex5pr-a-front_l.jpg"
+  price: 14
+  description: |-
+    - Soft-touch TPU cover for added softness without compromising power and weight
+    - Butyl bladder for exceptional air retention and durability during intense play in all outdoor conditions
+    - Patented machine-stitched panels for added quality and durability
+    - All-weather ball: heat, cold, wind, rain
+    - Recommended for age 12 and up
+    - Size: 5
+    - Purple
+
+    1 available
 - title: Champion VB5 Synthetic Leather Volleyball
   image: "/vb5-front-l.jpg"
   price: 17
