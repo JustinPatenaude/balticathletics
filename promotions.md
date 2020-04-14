@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa NVL-PRO Official NVL Game Volleyball
+  image: "/NVL-PRO_1-Z.jpg"
+  price: 45
+  description: "- Official National Volleyball League (NVL) game volleyball\n- Soft
+    supple composite leather cover\n- Unique 18 panel hand sewn construction\n- Unique
+    red, white and blue design \n- Made to Mikasa’s well known standard of excellent
+    quality\n- Size 5 - Official \n\n1 available"
 - title: Mikasa MGV500 Setter's Training Volleyball
   image: "/MGV500_1-Z.jpg"
   price: 59
