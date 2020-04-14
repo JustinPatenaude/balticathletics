@@ -6,7 +6,9 @@ products:
 - title: Nike NKFC Total FC Soccer Ball - Size 4 & 5
   image: "/2020-04-14 16.27.06.jpg"
   price: 27
-  description: ''
+  description: |-
+    5 available - Size 4
+    2 available - Size 5
 - title: Nike Pitch Soccer Ball - Size 4
   image: "/2020-04-14 16.26.42.jpg"
   price: 24
