@@ -806,13 +806,15 @@ products:
     - Titanium Alloy/Steel racquet
 
     1 available
-- title: Safety Pads for Referee Stand
+- title: Volleyball Referee Stand & Safety Pads
   image: "/LO-764SP1 ref stand pad.jpg"
-  price: 435
-  description: "- Padding extends 6' high covering front and sides of stand.\n- 18
-    oz vinyl exterior attaching to stand with Velcro Straps.\n- 2\" polyurethane foam
-    provides impact absorption. \n\nFits LO-764 referee stand (sold separately in
-    red only $620)\n\n1 available at this price in ROYAL BLUE only"
+  price: 1100
+  description: "REFEREE STAND:\n- Constructed from steel tubing\n- Fully welded frame
+    able to fold for easy of storage\n- Complete with rubber floor protectors\n- Platform
+    is 18\" x 24\" and stands 48\" from floor\n- Powder Coated red finish.\n\nPADDING:\n-
+    Padding extends 6' high covering front and sides of stand.\n- 18 oz vinyl exterior
+    attaching to stand with Velcro Straps.\n- 2\" polyurethane foam provides impact
+    absorption. \n\n1 available at this price exactly as shown with Royal Blue padding"
 - title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
