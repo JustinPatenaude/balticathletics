@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Champion VL20 Volleyball Trainer - Size 8
+  image: "/vl20-front-l.jpg"
+  price: 15
+  description: |-
+    - Same size as a traditional volleyball but 20% lighter for training and accuracy practice
+    - 18 Soft, hand-sewn vinyl-covered nylon panels
+    - Tough rubber bladder for exceptional air retention
+    - Size 8
+    - Yellow (not exact ball shown-graphics on ball different)
+
+    2 available
 - title: Wilson WTH4407 Canada Official Beach Volleyball Replica
   image: "/WTH4407 Canada Official Beach Replica Volleyball.jpg"
   price: 30
