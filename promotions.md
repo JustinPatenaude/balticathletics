@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Uhlsport Medusa Nereo 1501 Futsal Ball - Size 4
+  image: "/2020-04-14 16.25.08.jpg"
+  price: 32
+  description: |-
+    - Futsal ball made of abrasion resistant structured PU material with 3D-"Hampton"- effect
+    - Low rebound characteristics
+    - IMS (INTERNATIONAL MATCHBALL STANDARD)
+
+    1 available
 - title: Uhlsport 1001634012017 Elysia Sala Ligue 1 Futsal Ball - Size 4
   image: "/2020-04-14 16.24.25.jpg"
   price: 38
