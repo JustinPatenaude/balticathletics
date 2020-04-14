@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: 360 Screamer Soccer Ball - Size 4
+  image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
+  price: 12
+  description: |-
+    - Ideal for beginner level players
+    - Designed for game play, practice or recreation
+    - Butyl bladder for maximum air retention to keep the ball's shape and stay inflated longer
+    - Durable 2.7mm PVC cover with a gloss finish
+    - 2 ply cloth backing
+
+    1 available
 - title: Mikasa SS50 Varsity Series Cushioned Cover Soccer Ball - Size 5
   image: "/SS30-BK_1-Z a.jpg"
   price: 30
