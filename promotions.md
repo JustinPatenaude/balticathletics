@@ -3,14 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Wiffle Ball CX040650-00 - 12" circ / 4" dia (softball size)
-  image: "/plsb-lifestyle-1_l.jpg"
-  price: 1.75
-  description: 35 available
 - title: Wiffle Ball CX040630-00 - 9" circ / 3" dia (baseball size)
   image: "/plbb-enhanced-1_l.jpg"
   price: 1.5
   description: ''
+- title: Wiffle Ball CX040650-00 - 12" circ / 4" dia (softball size)
+  image: "/plsb-lifestyle-1_l.jpg"
+  price: 1.75
+  description: 35 available
 - title: Road Warrior ROA-HOC-RWSG54 Floor Hockey Goal - 54"
   image: "/ROA-HOC-RWSG54-2.jpg"
   price: 65
