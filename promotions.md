@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Net Chain Height Gauge VNCHG
+  image: "/VNCHG-z.jpg"
+  price: 16
+  description: |-
+    - 4 pre-set net heights for Men's, Women's, Coed, and Junior volleyball
+    - Comes with instructions and official net heights
+
+    2 available
 - title: Training Hurdles SH9 - 9" Orange
   image: "/training hurdles.jpg"
   price: 9
