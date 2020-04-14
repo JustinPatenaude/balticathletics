@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa SE509 Elstar Soccer Ball - Size 5
+  image: "/Mikasa Elstar Soccer Ball - Size 5_.jpg"
+  price: 28
+  description: |-
+    - All Condition Treatment deluxe cushioned cover
+    - 2-Ply Butyl Bladder
+    - Orange/White/Blue
+    - Size 5
+
+    1 available
 - title: Champion SL10 Soccer Ball Trainer - Size 4
   image: "/sl10-a-front_l.jpg"
   price: 15
