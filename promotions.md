@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Champion VB2COMP Volleyball
+  image: "/vb2-front-l.jpg"
+  price: 20
+  description: |-
+    - Official size and weight volleyball
+    - Top of the line Cordley® composite synthetic leather soft touch cover for comfort and durability
+    - Two-ply cotton wrapped butyl bladder for added comfort during serves and returns
+    - Meets all NFHS, NCAA, IVBF, USAV and FIVB specifications and standards
+    - White
+
+    4 available
 - title: ChampionVB2GB Composite Volleyball
   image: "/vb2gb-front-l.jpg"
   price: 20
