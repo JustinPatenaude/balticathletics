@@ -14,7 +14,7 @@ products:
     - Have on hand at any sports facility
 
     4 available
-- title: Fox40 9123-1408 Super Force CMG Glovegrip
+- title: Fox40 Super Force CMG Glovegrip 9123-1408
   image: "/Fox40 9123-1408 Super Force CMG Glovegrip a.PNG"
   price: 15
   description: |-
