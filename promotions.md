@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Sporteck BOCA Soccer Ball - Size 4
+  image: "/BOCA-2.jpg"
+  price: 28
+  description: 1 available
 - title: Diadora Gara 2 Soccer Ball - Size 5
   image: ''
   price: 29
