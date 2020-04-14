@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Plastic Segmented Skipping Rope PR8 - 8 ft
+  image: "/pr8_l.jpg"
+  price: 2.95
+  description: |-
+    - Plastic segmented
+    - 8 foot
+    - Yellow/White
 - title: Replacement Street/Floor Hockey Net - Black - 4' x 6'
   image: "/NET46_1-Z.jpg"
   price: 48
