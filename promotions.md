@@ -3,6 +3,19 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Fox40 Electronic Whistle
+  image: "/8616-1908 electronic whistle.PNG"
+  price: 16
+  description: |-
+    - Includes a 9V battery
+    - Utilizes a push button, which offers a hygienic solution for multiple operators
+    - Provides a loud, clear and consistent sound every time
+    - Give verbal commands without a whistle in user's mouth
+    - Fox 40 Electronic Whistle® has three distinct tones that can be aimed in
+    specific directions:
+    Off / Tone 1 / Tone 2 / Tone 3
+
+    9 available
 - title: 1Star Table Tennis Balls - Box of 144
   image: "/1star144_l.jpg"
   price: 40
