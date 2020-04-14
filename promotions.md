@@ -13,7 +13,7 @@ products:
     - Black/White
 
     1 available
-- title: Mikasa SAR50 4 Seasons Neon Honeycomb Soccer Ball
+- title: Mikasa SAR50 4 Seasons Neon Honeycomb Soccer Ball - Size 5
   image: "/SAR50-BKY_1-Z.jpg"
   price: 35
   description: |-
