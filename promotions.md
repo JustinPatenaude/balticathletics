@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Training Hurdles SH9 - 9" Orange
+  image: "/training hurdles.jpg"
+  price: 9
+  description: 3 available
 - title: Tournament Volleyball Net - 32 ft
   image: "/VN8080-360_Tournament_Net.jpg"
   price: 75
