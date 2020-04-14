@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Cosom Goal Floor Hockey Stick
+  image: "/2020-04-14 12.23.00.jpg"
+  price: 10
+  description: |-
+    - 21" tall black plastic blade
+    - oak wood laminate shaft 48" (that can be cut to desired length)
+    - plastic butt end
+
+    6 available
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
