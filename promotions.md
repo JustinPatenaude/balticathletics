@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Champion VB5 Synthetic Leather Volleyball
+  image: "/vb5-front-l.jpg"
+  price: 17
+  description: |-
+    - Official size and weight volleyball
+    - Deluxe synthetic leather cover for comfort and durability
+    - Nylon wound 2-ply butyl bladder for exceptional air retention
+    - Designed for indoor and outdoor use
+    - White
+
+    6 available
 - title: Champion VB2COMP Volleyball
   image: "/vb2-front-l.jpg"
   price: 20
