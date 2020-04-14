@@ -7,6 +7,8 @@ products:
   image: "/2020-04-14 16.27.06.jpg"
   price: 27
   description: |-
+    - Soft touch
+
     5 available - Size 4
     2 available - Size 5
 - title: Nike Pitch Soccer Ball - Size 4
