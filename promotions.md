@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Acacia Canada Soccer Ball 22-556 - Size 5
+  image: "/canada-At-Acaciasports.jpg"
+  price: 16
+  description: |-
+    - World Cup Soccer Balls
+    - Machine sewn ball with a durable, soft synthetic leather outer shell
+    - An excellent training level team ball with a 4-ply poly/cotton backing
+    - Excellent in all weather conditions
+    - Size 5
+
+    1 available
 - title: Sporteck BOCA Soccer Ball - Size 4
   image: "/BOCA-2.jpg"
   price: 28
