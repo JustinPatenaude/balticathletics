@@ -156,7 +156,7 @@ products:
     SPORTS MODELS AVAILABLE:
     6 - Basketball
     4 - Soccer
-    Other sports shown are available to order at regular price $12
+    Other sports shown are available to order.
 - title: Fox40 Smartcoach Pro Clipboard - Various Sports
   image: ''
   price: 20
