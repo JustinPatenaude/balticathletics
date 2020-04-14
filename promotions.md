@@ -3,7 +3,7 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Fox40 Telescopic Paddle
+- title: Fox40 Telescopic Paddle 7928-0206
   image: "/Fox40 Telescoping Paddle 7928-0206.PNG"
   price: 16
   description: "- Telescoping paddle is lightweight with aluminum shaft\n- Adjusts
