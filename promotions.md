@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Diadora 881520 Magnifico Game Soccer Ball - Size 5
+  image: "/881520---Magnifico-Game-020301-White-Red-Black-.jpg"
+  price: 32
+  description: |-
+    - Match quality ball
+    - Soft Polyurethane Cover
+    - Hand stitched
+    - Butyl Bladder & Valve for superior air retention
+    - Size 5
+
+    1 available
 - title: Fox40 Smartcoach Pro POCKET Clipboard - Soccer only
   image: "/fox40 smart coach pro pocket clipboard.PNG"
   price: 2.5
