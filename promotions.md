@@ -3,6 +3,25 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Wilson WTH4407 Canada Official Beach Volleyball Replica
+  image: "/WTH4407 Canada Official Beach Replica Volleyball.jpg"
+  price: 30
+  description: |-
+    - Replica look of the Volleyball Canada Official Game Ball
+    - Synthetic leather cover for enhanced durability
+    - 18-panel, machine sewn construction for optimal shape retention
+    - Butyl rubber bladder for extended air retention
+
+    1 available
+- title: Wilson I-COR Power Touch Volleyball
+  image: "/I Cor Power touch volleyball.jpg"
+  price: 42
+  description: |-
+    - Microfibre composite Leather cover
+    - Latex power lining creates a trampoline effect so the ball explodes off a player's hands at impact for maximum speed
+    - Butyl rubber bladder
+
+    14 available (assorted colours)
 - title: Mikasa VXL30 Official 2016 Olympics Beach Volleyball Replica
   image: "/VXL30_1-Z.jpg"
   price: 23
