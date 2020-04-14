@@ -3,13 +3,6 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Plastic Segmented Skipping Rope PR16 - 16 ft
-  image: "/pr16_l.jpg"
-  price: 5.75
-  description: |-
-    - Plastic segmented
-    - 16 foot
-    - Red/White/Blue
 - title: Plastic Segmented Skipping Rope PR8 - 8 ft
   image: "/pr8_l.jpg"
   price: 2.95
@@ -24,6 +17,13 @@ products:
     - Plastic segmented
     - 9 foot
     - Blue/White
+- title: Plastic Segmented Skipping Rope PR16 - 16 ft
+  image: "/pr16_l.jpg"
+  price: 5.75
+  description: |-
+    - Plastic segmented
+    - 16 foot
+    - Red/White/Blue
 - title: Replacement Street/Floor Hockey Net - Black - 4' x 6'
   image: "/NET46_1-Z.jpg"
   price: 48
@@ -668,7 +668,7 @@ products:
 - title: Fox40 Water Rescue Throw Ring 7928-0700
   image: "/2020-04-10 16.34.39.jpg"
   price: 25
-  description: |
+  description: |-
     From the Fox 40 Outdoor Marine safety line
 
     - lightweight and floats; easy to use
@@ -676,6 +676,8 @@ products:
     - brightly coloured for day or night visibility
     - easily stored in watercraft, by pool or on lifeguard stand
     - 50 ft (15 m)
+
+    1 available
 - price: 24
   description: |-
     8 oz
