@@ -330,6 +330,8 @@ products:
     - Plastic segmented
     - 9 foot
     - Blue/White
+
+    6 available
 - title: Plastic Segmented Skipping Rope PR16 - 16 ft
   image: "/pr16_l.jpg"
   price: 5.75
