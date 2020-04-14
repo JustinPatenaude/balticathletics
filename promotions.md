@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mesh Ball Bag / Laundry Bag L40
+  image: "/L40_-_Laundry_Bags.jpg"
+  price: 6.75
+  description: |-
+    - Large maroon nylon mesh bag
+    - With drawstring closure and barrel lock
+    - 42” x 34”
+    - Holds 10-12 size 7 basketballs
+    - Can be used for laundry or for storage
+
+    12 available
 - title: Champion MGSET Mini Golf Set
   image: "/mgset-a-main_l.jpg"
   price: 75
