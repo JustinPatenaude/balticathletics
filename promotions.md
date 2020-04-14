@@ -13,6 +13,8 @@ products:
     - 67 g, 5.5” L x 1.75” W diameter (at widest point).
     - Includes 4 x CR2032 batteries
     - ** Warning: extremely loud. Do not use close to ears.
+
+    12 available
 - title: Fox40 LED Flashlight 7914-0105
   image: "/Fox40 LED flashlight.PNG"
   price: 10
