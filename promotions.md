@@ -4,7 +4,7 @@ title: Promotions
 permalink: "/promotions/"
 products:
 - title: Fox40 9123-1408 Super Force CMG Glovegrip
-  image: "/Fox40 9123-1408 Super Force CMG Glovegrip.PNG"
+  image: "/Fox40 9123-1408 Super Force CMG Glovegrip a.PNG"
   price: 15
   description: |-
     - Nickel-plated brass, non-corrosive silver metal whistle
