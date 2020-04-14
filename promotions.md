@@ -3,7 +3,7 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Mikasa NVL-PRO Official NVL Game Volleyball
+- title: Mikasa NVL-PRO Official NVL Game Beach Volleyball
   image: "/NVL-PRO_1-Z.jpg"
   price: 45
   description: "- Official National Volleyball League (NVL) game volleyball\n- Soft
