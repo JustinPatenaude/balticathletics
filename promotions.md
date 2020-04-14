@@ -158,7 +158,7 @@ products:
     4 - Soccer
     Other sports shown are available to order.
 - title: Fox40 Smartcoach Pro Clipboard - Various Sports
-  image: ''
+  image: "/fox40 smartcoach pro clipboard final.png"
   price: 20
   description: |-
     - Full-color write-on/wipe-off dry erase surfaces
@@ -175,6 +175,7 @@ products:
     1 - Canadian Football
     12 - Soccer
     6 - Volleyball
+    Other sports shown are available to order.
 - title: Base Spikes HDB-NN-RNAIL10 & HDB Super Anchorhead Clips HDB-BB-SASH
   image: "/2020-04-14 09.55.03.jpg"
   price: 5
