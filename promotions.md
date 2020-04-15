@@ -720,7 +720,7 @@ products:
     Soft composite leather
     9 available
 - title: Franklin FRK-BB-22601 Fieldmaster Ball Glove - 13" Left hand catch
-  image: "/Franklin FRK-BB-22601 Fieldmaster Glove.jpg"
+  image: "/Franklin FRK-BB-22601 Fieldmaster Glove a.jpg"
   price: 
   description: 1 available - Blonde/Black
 - title: Wilson A360 Glove - 13" RIGHT Hand Catch
