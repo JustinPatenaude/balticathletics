@@ -170,12 +170,12 @@ products:
     - 10" x 16" (25.5 cm x 40.5 cm)
 
     SPORTS MODELS AVAILABLE:
-    2 - Baseball
-    12 - Basketball
-    1 - Canadian Football
-    12 - Soccer
-    6 - Volleyball
-    Other sports shown are available to order.
+    - 2 - Baseball
+    - 12 - Basketball
+    - 1 - Canadian Football
+    - 12 - Soccer
+    - 6 - Volleyball
+    - Other sports shown are available to order.
 - title: Base Spikes HDB-NN-RNAIL10 & HDB Super Anchorhead Clips HDB-BB-SASH
   image: "/2020-04-14 09.55.03.jpg"
   price: 5
