@@ -1,15 +1,32 @@
 <div class="banner" style="background-image: url({{ '/assets/images/banner.jpg' | relative_url }});">
   <div class="banner__slides">
 
-    <div class="banner__content">
-      <div class="container">
-        <div class="banner__content-inner">
-          <h2 class="banner__title">Need athletic equipment or clothing?</h2>
-          <p class="banner__text">You've come to the right place.</p>
-          <a class="btn btn--inverse" href="{{ "/products" | relative_url }}" title="Browse our product offerings">Browse Products</a>
+    {% for slide in page.slideshow %}
+      <div class="banner__content">
+        <div class="container">
+
+          <div class="grid-middle">
+            <div class="col-8_sm-12">
+              <div class="banner__content-inner">
+                <h2 class="banner__title">{{ slide.title }}</h2>
+                {% if slide.text != '' %}
+                  <p class="banner__text">{{ slide.text }}</p>
+                {% endif %}
+                {% if slide.button_text != '' %}
+                  <a class="btn btn--inverse" href="{{ slide.button_url | relative_url }}" title="{{ slide.button_text }}">{{ slide.button_text }}</a>
+                {% endif %}
+              </div>
+            </div>
+            <div class="col-4_sm-12">
+              {% if slide.image != '' %}
+                <img class="banner__image" src="{{ slide.image | prepend: site.mediaUrl }}" alt="{{ slide.title }}" />
+              {% endif %}
+            </div>
+          </div>
+
         </div>
       </div>
-    </div>
+    {% endfor %}
     {% comment %} <div class="banner__content">
       <div class="container">
         <div class="banner__content-inner">

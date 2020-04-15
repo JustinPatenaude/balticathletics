@@ -123,7 +123,8 @@ layout: default
           </div>
           <div class="page__section">
             <div class="markdown">
-              {{ page.info | markdownify }}
+              {% assign imgUrl = site.mediaUrl | prepend: 'src="' %}
+              {{ page.info | markdownify | replace: 'src="', imgUrl }}
             </div>
           </div>
 

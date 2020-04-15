@@ -6,6 +6,7 @@
 1. Editing a page
 2. Adding a supplier
 3. Adding a category
+4. Adding a category
 
 ***
 
