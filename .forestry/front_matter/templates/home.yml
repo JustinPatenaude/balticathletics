@@ -1,4 +1,37 @@
 ---
 label: Home
 hide_body: false
-fields: []
+fields:
+- name: slideshow
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Text
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button text
+  - name: button_link
+    type: text
+    config:
+      required: false
+    label: Button link
+  - name: image
+    type: file
+    config:
+      maxSize: 250
+    label: Image
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Slideshow
