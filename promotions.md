@@ -726,7 +726,8 @@ products:
   image: "/2020-03-07 11.14.30.jpg"
   price: 35
   description: |-
-    Soft composite leather
+    - Soft composite leather
+
     9 available
 - title: Franklin FRK-BB-22601 Fieldmaster Ball Glove - 13" Left hand catch
   image: "/Franklin FRK-BB-22601 Fieldmaster Glove a.jpg"
