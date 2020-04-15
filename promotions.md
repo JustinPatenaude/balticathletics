@@ -184,8 +184,8 @@ products:
     - 1/4" dia heavy duty Clip for base strap
 
     Two step process:
-    1. Hammer spike with clip into ground
-    2. Attach base straps onto clip
+    - Hammer spike with clip into ground
+    - Attach base straps onto clip
 
     Eliminates the wear on base straps from hammering spikes into the ground while attached to the base straps. Allows bases and straps to last longer.
 
