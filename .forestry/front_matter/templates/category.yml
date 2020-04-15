@@ -31,12 +31,6 @@ fields:
     use_select: false
     source:
       type: documents
-- name: tags
-  type: tag_list
-  default: []
-  label: Tags
-  description: Add any words here that you would like customers to be able to search
-    this product by.
 - name: photos
   type: field_group_list
   fields:
