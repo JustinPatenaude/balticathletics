@@ -675,6 +675,15 @@ products:
     - soft supple feel
 
     1 available
+- title: Louisville Slugger (Diva Series) - 11.5" Left Hand Catch
+  image: "/2020-04-11 14.47.00.jpg"
+  price: 38
+  description: |-
+    Full grain leather palm
+    Mesh back
+    Broken in feel
+
+    1 available
 - title: Franklin FRK-BB-22603 Fieldmaster Glove - 12" Left hand catch
   image: "/2020-04-13 15.45.48.jpg"
   price: 28
@@ -727,6 +736,15 @@ products:
   image: "/A360 Wilson glove RHC.jpg"
   price: 49
   description: 2 Available
+- title: Wilson A800 Showtime Glove - 13" Left Hand Catch
+  image: "/Wilson A800 Showtime glove a.jpg"
+  price: 65
+  description: |-
+    Genuine all leather glove
+    Soft and supple leather (broken in feel)
+    MSRP $120.00
+
+    8 available
 - title: Franklin FRK-BB-22600 Fieldmaster Glove - 14" Left hand catch
   image: "/2020-04-13 14.19.33.jpg"
   price: 28
@@ -785,6 +803,13 @@ products:
   image: "/m500p-lifestyle1-l.jpg"
   price: 16.5
   description: 1 set available
+- title: Baseball Scorebook
+  image: "/SC1 Baseball Scorebook.jpg"
+  price: 6
+  description: "- Keeps track of in-game statistics for up to 15 players for 25 games\n-
+    Heavy cardboard back and spiral bound cover is durable enough to last all season
+    \n- Includes batting average chart, roster, and line-up pages for quick access
+    to statistics\n- Suitable for all baseball and softball games"
 - title: Professional Field Marking Chalk - 50 lb bag
   image: "/chalkformarking.jpg"
   price: 35
@@ -891,31 +916,6 @@ products:
     - includes 2 balls
 
     3 sets available
-- title: Wilson A800 Showtime Glove - 13" Left Hand Catch
-  image: "/Wilson A800 Showtime glove a.jpg"
-  price: 65
-  description: |-
-    Genuine all leather glove
-    Soft and supple leather (broken in feel)
-    MSRP $120.00
-
-    8 available
-- title: Louisville Slugger (Diva Series) - 11.5" Left Hand Catch
-  image: "/2020-04-11 14.47.00.jpg"
-  price: 38
-  description: |-
-    Full grain leather palm
-    Mesh back
-    Broken in feel
-
-    1 available
-- title: Baseball Scorebook
-  image: "/SC1 Baseball Scorebook.jpg"
-  price: 6
-  description: "- Keeps track of in-game statistics for up to 15 players for 25 games\n-
-    Heavy cardboard back and spiral bound cover is durable enough to last all season
-    \n- Includes batting average chart, roster, and line-up pages for quick access
-    to statistics\n- Suitable for all baseball and softball games"
 - title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
   image: "/2020-03-30 13.42.56.jpg"
   price: 19
