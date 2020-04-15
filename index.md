@@ -10,6 +10,6 @@ slideshow:
   text: Ross L Gray girls and boys basketball teams!
   button_text: ''
   button_link: ''
-  image: ''
+  image: "/2020.02.29 RLG B-ball win prov.JPG"
 
 ---
