@@ -182,12 +182,12 @@ products:
   description: |-
     - Heavy duty steel 10" spike
     - 1/4" dia heavy duty Clip for base strap
+    - Eliminates the wear on base straps from hammering spikes into the ground while attached to the base straps.
+    - Allows bases and straps to last longer.
 
-    Two step process:
+    TWO STEP PROCESS:
     - Hammer spike with clip into ground
     - Attach base straps onto clip
-
-    Eliminates the wear on base straps from hammering spikes into the ground while attached to the base straps. Allows bases and straps to last longer.
 
     12 available.
 - title: Cosom Floor Hockey Goalie Stick CH-700845-00
