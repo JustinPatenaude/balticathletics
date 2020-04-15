@@ -154,9 +154,9 @@ products:
     - 8” x 11” (20 cm x 28 cm)
 
     SPORTS MODELS AVAILABLE:
-    6 - Basketball
-    4 - Soccer
-    Other sports shown are available to order.
+    - 6 - Basketball
+    - 4 - Soccer
+    - Other sports shown are available to order.
 - title: Fox40 Smartcoach Pro Clipboard - Various Sports
   image: "/fox40 smartcoach pro clipboard final.png"
   price: 20
