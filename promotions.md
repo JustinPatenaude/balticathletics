@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Crocheted Hackey Sack
+  image: "/hackysack2.jpg"
+  price: 3
+  description: 12 available in assorted colours
 - title: Champion BP2040 Baseball Backpack
   image: "/bp2040-front_l.jpg"
   price: 39
