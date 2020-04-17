@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Track Spikes - 7 mm Ceramic (set of 10)
+  image: "/2020-04-16 15.03.37.jpg"
+  price: 5
+  description: 20 sets available
 - title: Track Spikes - 7 mm Steel (set of 10)
   image: "/2020-04-16 15.04.53.jpg"
   price: 5
