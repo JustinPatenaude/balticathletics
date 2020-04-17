@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Shaker Cup FI-5090 - 700 mL with steel ball
+  image: "/2020-04-16 16.54.50.jpg"
+  price: 4.5
+  description: |-
+    2 - black
+    1 - red
+    1 - blue
 - title: Soccer Net Spikes - 9" (set of 6)
   image: "/2020-04-16 16.52.41.jpg"
   price: 4.25
