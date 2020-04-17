@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Eletto SG1202 Iron Soccer Shin Pads with Compression Sleeves - Size M
+  image: "/2020-04-16 16.13.19.jpg"
+  price: 14
+  description: 1 available
 - title: Eletto SG1500 Soft Shell Soccer Shin Guards - Size M
   image: "/2020-04-16 16.10.59.jpg"
   price: 11
