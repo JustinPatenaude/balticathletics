@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: 'Lowry #264 - 6 - 1L Waterbottles with Case'
+  image: "/2020-04-16 14.24.44.jpg"
+  price: 30
+  description: ''
 - title: Nike Phantom Venom Soccer Ball - Size 4 & 5
   image: "/2020-04-14 16.27.21.jpg"
   price: 27
