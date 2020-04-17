@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Kwik Goal 10B1301 Soccer Net Spikes (set of 6)
+  image: "/2020-04-16 15.43.25.jpg"
+  price: 9.5
+  description: ''
 - title: Soccer Corner Flag Anchors SCFA (set of 4)
   image: "/2020-04-16 15.39.13.jpg"
   price: 12
