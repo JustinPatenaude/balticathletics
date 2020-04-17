@@ -7,7 +7,7 @@ products:
   image: "/2020-04-16 15.59.31.jpg"
   price: 30
   description: 1 available
-- title: Uhlsport 100054801 Eliminator Goal Keeper Soccer Gloves
+- title: Uhlsport 100054801 Eliminator Soccer Goal Keeper Gloves - Size 9
   image: "/2020-04-16 15.56.28.jpg"
   price: 45
   description: 1 available
