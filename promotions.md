@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Champion BP2040 Baseball Backpack
+  image: "/bp2040-front_l.jpg"
+  price: 39
+  description: |-
+    - Features two bat holders, glove and helmet pockets, drink sleeve and large main chamber
+    - Adjustable shoulder and back strap with shoe and cleat compartment
+    - Hooks onto fence
+    - 17"H x 14"W x 10"D
+    - Black
+
+    1 available
 - title: Champion PD1SET Pedometer (Set of 6)
   image: "/pd1set_l.jpg"
   price: 75
