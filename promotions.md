@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Eletto SG1500 Soft Shell Soccer Shin Guards - Size M
+  image: "/2020-04-16 16.10.59.jpg"
+  price: 11
+  description: 1 available
 - title: Eletto GK0800 Soccer Goal Keeper Knee Pads - Size M
   image: "/2020-04-16 16.08.01.jpg"
   price: 9.5
