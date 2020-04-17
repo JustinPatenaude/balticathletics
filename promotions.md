@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Jaypro NP-25 Steel Soccer Net Pegs (Set of 25)
+  image: "/NP-25-1.jpg"
+  price: 50
+  description: |-
+    - 9.25" long
+    - Heavy duty steel
+    - Prevents balls from passing under the net
+
+    1 set available
 - title: Penguin Bowling Ball Set PENBBS
   image: "/PENBBS_-_Penguin_Bowling_Ball_Set.jpg"
   price: 80
