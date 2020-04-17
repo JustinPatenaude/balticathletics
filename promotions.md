@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Uhlsport 100675901 T-Bone Pro Soccer Shin Guards - Size L
+  image: "/2020-04-16 16.04.39.jpg"
+  price: 18
+  description: 1 available
 - title: Uhlsport 6774 Pro Lite Shin Guards - Size M
   image: "/2020-04-16 16.03.21.jpg"
   price: 16
