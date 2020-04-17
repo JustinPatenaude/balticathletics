@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Eletto GK0800 Soccer Goal Keeper Knee Pads - Size M
+  image: "/2020-04-16 16.08.01.jpg"
+  price: 9.5
+  description: 1 available
 - title: Diadora 152655 Xeres You Soccer Shin Guards - Size M
   image: "/2020-04-16 16.06.08.jpg"
   price: 9
