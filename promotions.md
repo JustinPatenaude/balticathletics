@@ -9,7 +9,7 @@ products:
   description: |-
     - Soft hardness  -5 to -10 degrees Celsius
 
-    1 available
+    1 set available
 - title: D-Gel 385 Street Hockey Ball - Pink (set of 2)
   image: "/2020-04-16 17.05.19.jpg"
   price: 7
