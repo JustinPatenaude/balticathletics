@@ -3,6 +3,16 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Eletto SC-1100 Classic Pro Sock - WHITE - Size 7-9
+  image: "/Eletto Classic Pro SC1100 sock.PNG"
+  price: 8
+  description: |-
+    - Made of Polyester and spandex leg with elastic on ankle
+    - Foot made of polyester, spandex and lycra
+    - Eletto logo on foot only
+    - DryForm Technology for wicking away sweat.
+
+    9 pairs available
 - title: Jaypro NP-25 Steel Soccer Net Pegs (Set of 25)
   image: "/NP-25-1.jpg"
   price: 50
