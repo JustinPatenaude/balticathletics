@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Kwik Goal 10B3201 Kwik Lock Net Clips (bag of 50)
+  image: "/2020-04-16 15.54.17.jpg"
+  price: 50
+  description: 1 available
 - title: Kwik Goal 10B1301 Soccer Net Spikes (set of 6)
   image: "/2020-04-16 15.43.25.jpg"
   price: 9.5
