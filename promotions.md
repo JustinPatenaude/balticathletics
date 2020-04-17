@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Soccer Net Spikes - 9" (set of 6)
+  image: "/2020-04-16 16.52.41.jpg"
+  price: 4.25
+  description: |-
+    - plastic
+
+    6 sets available
 - title: Soccer Net Spikes - 6" (set of 6)
   image: "/2020-04-16 16.50.52.jpg"
   price: 3
