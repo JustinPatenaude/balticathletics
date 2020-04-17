@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: D-Gel 315P Street Hockey Ball - Yellow (set of 2)
+  image: "/2020-04-16 17.06.56.jpg"
+  price: 7
+  description: |-
+    - Soft hardness  -5 to -10 degrees Celsius
+
+    1 available
 - title: D-Gel 385 Street Hockey Ball - Pink (set of 2)
   image: "/2020-04-16 17.05.19.jpg"
   price: 7
