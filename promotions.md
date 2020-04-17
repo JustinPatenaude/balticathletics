@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: D-Gel 350P Street Hockey Ball - Orange (set of 2)
+  image: "/2020-04-16 17.08.39.jpg"
+  price: 8
+  description: |-
+    - 0 to 15 degrees Celsius
+
+    1 pair available
 - title: D-Gel 315P Street Hockey Ball - Yellow (set of 2)
   image: "/2020-04-16 17.06.56.jpg"
   price: 7
