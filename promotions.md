@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Diadora 885040 Finale Soccer Socks - White/Navy - Size 7-9
+  image: "/diadora finale sock.PNG"
+  price: 6.5
+  description: |-
+    - 80% Polyester, 10% Lycra, 10% Spandex
+
+    12 pairs available
 - title: Eletto SC-1100 Classic Pro Sock - WHITE - Size 7-9
   image: "/Eletto Classic Pro SC1100 sock.PNG"
   price: 8
