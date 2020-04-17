@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Uhlsport 6774 Pro Lite Shin Guards - Size M
+  image: "/2020-04-16 16.03.21.jpg"
+  price: 16
+  description: 1 available
 - title: 'Uhlsport 0150 Ergonomic Starter Graphit Soccer Goal Keeper Gloves - Size
     7 '
   image: "/2020-04-16 16.01.43.jpg"
