@@ -10,6 +10,7 @@ products:
     - 9.25" long
     - Heavy duty steel
     - Prevents balls from passing under the net
+    - Ideal for hard ground
 
     1 set available
 - title: Penguin Bowling Ball Set PENBBS
