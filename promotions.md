@@ -3,7 +3,7 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: Diadora 885040 Finale Soccer Socks - White/Navy - Size 7-9
+- title: Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
   image: "/diadora finale sock.PNG"
   price: 6.5
   description: |-
