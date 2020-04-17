@@ -3,6 +3,19 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Champion PD1SET Pedometer (Set of 6)
+  image: "/pd1set_l.jpg"
+  price: 75
+  description: |-
+    - 12/24 hour format with current time
+    - Distance measurement up to 999 miles
+    - Step counter up to 99999 steps
+    - Calorie expenditure up to 999.9Kcal
+    - Stopwatch with 1/100 second precision
+    - Easy clip-on feature
+    - Set of 6 (1 of each):Blue, Green, Orange, Purple, Red & Yellow
+
+    2 available
 - title: D-Gel 350P Street Hockey Ball - Orange (set of 2)
   image: "/2020-04-16 17.08.39.jpg"
   price: 8
