@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Soccer Corner Flag Anchors SCFA (set of 4)
+  image: "/2020-04-16 15.39.13.jpg"
+  price: 12
+  description: |-
+    - 3/4" diameter post opening
+    - 9.5" tall
+    - spring attachment
 - title: Track Spikes - 7 mm Ceramic (set of 10)
   image: "/2020-04-16 15.03.37.jpg"
   price: 5
