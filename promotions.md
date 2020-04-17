@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Cosom CM741722-00 Gym Tennis Balls
+  image: "/2020-04-16 16.31.55.jpg"
+  price: 1.5
+  description: |-
+    - dense foam
+    - yellow
+
+    21 available
 - title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
   image: "/2020-04-16 16.16.51.jpg"
   price: 39
