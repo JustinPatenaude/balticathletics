@@ -964,8 +964,9 @@ input, textarea, button {
 .category__photo-wrapper {
   position: relative;
   display: block;
+  margin-bottom: $gutter;
   padding-bottom: 100%;
-  // background-color: #F3F3F3;
+  border: 1px solid $colorBorder;
   border-radius: $borderRadius;
   overflow: hidden;
   cursor: zoom-in;

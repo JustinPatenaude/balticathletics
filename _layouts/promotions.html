@@ -27,6 +27,11 @@ layout: default
             </div>
           </div>
         </div>
+        {% if content != "" %}
+          <div class="col-10_md-12 rte">
+            {{ content }}
+          </div>
+        {% endif %}
         <div class="col-10_md-12">
           <div class="grid">
             {% for product in page.products %}

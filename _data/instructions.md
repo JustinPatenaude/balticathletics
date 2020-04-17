@@ -3,19 +3,24 @@
 ***
 
 #### Table of contents
-1. Editing a page
-2. Adding a supplier
-3. Adding a category
+1. Home page slideshow
+2. Editing a page
+3. Adding a supplier
 4. Adding a category
 
 ***
 
-#### 1. Editing a page
+#### 1. Home page slideshow
+Click **Pages** in the sidebar and find the page called **index.md**. Here you can add, edit or remove slides. Don't forget to click **Save**.
+
+***
+
+#### 2. Editing a page
 To edit a page such as *About us* or *Contact us*, follow these steps. Click **Pages** in the sidebar and find the page your looking for. Click the title to open the page, edit your content and don't forget to click **Save**.
 
 ***
 
-#### 2. Adding a brand
+#### 3. Adding a brand
 Click **Brands** in the sidebar and click **Create new > Brands** at the top of the page. Add your title, handle and logo and any other content your may need. In the top right of the page, make sure *Draft* is set to **off** and click **Save**.
 
 * `Title`
@@ -35,7 +40,7 @@ Click **Brands** in the sidebar and click **Create new > Brands** at the top of 
 
 ***
 
-#### 3. Adding a product
+#### 4. Adding a product
 Click **Products** in the sidebar and click **Create new > Products** at the top of the page. Add your title, handle and any other content your may need. In the top right of the page, make sure *Draft* is set to **off** and click **Save**.
 
 * `Title`
