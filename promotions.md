@@ -3,6 +3,18 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Penguin Bowling Ball Set PENBBS
+  image: "/PENBBS_-_Penguin_Bowling_Ball_Set.jpg"
+  price: 80
+  description: |-
+    - Hand painted, this numbered latex construction penguin bowling ball set includes 10 x 9" H free standing penguins and 1 x 8.25" diameter
+    - PU foam bowling ball (Available in BLUE, not orange as shown)
+    - Includes retail clear carry bag for easy storage
+    - Safe for children
+    - CPSIA tested.
+    - MSRP $169.99
+
+    1 available
 - title: Crocheted Hackey Sack
   image: "/hackysack2.jpg"
   price: 3
