@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Juggling Flower Stick JFS
+  image: "/2020-04-16 16.40.35.jpg"
+  price: 12
+  description: 1 set available
 - title: Cosom CM741722-00 Gym Tennis Balls
   image: "/2020-04-16 16.31.55.jpg"
   price: 1.5
