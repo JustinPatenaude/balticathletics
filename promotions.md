@@ -3,6 +3,11 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: 'Uhlsport 0150 Ergonomic Starter Graphit Soccer Goal Keeper Gloves - Size
+    7 '
+  image: "/2020-04-16 16.01.43.jpg"
+  price: 25
+  description: 1 available
 - title: Uhlsport 100022201 Cerberus Start Soccer Goal Keeper Gloves - Size 9
   image: "/2020-04-16 15.59.31.jpg"
   price: 30
