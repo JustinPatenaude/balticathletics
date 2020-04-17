@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Diadora 152655 Xeres You Soccer Shin Guards - Size M
+  image: "/2020-04-16 16.06.08.jpg"
+  price: 9
+  description: 1 available
 - title: Uhlsport 100675901 T-Bone Pro Soccer Shin Guards - Size L
   image: "/2020-04-16 16.04.39.jpg"
   price: 18
