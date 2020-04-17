@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Track Spikes - 7 mm Steel (set of 10)
+  image: "/2020-04-16 15.04.53.jpg"
+  price: 5
+  description: 10 sets available
 - title: Track Spikes - 9 mm Steel (set of 10)
   image: "/2020-04-16 14.57.57.jpg"
   price: 5
