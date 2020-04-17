@@ -7,7 +7,7 @@ products:
   image: "/2020-04-16 16.04.39.jpg"
   price: 18
   description: 1 available
-- title: Uhlsport 6774 Pro Lite Shin Guards - Size M
+- title: Uhlsport 6774 Pro Lite Soccer Shin Guards - Size M
   image: "/2020-04-16 16.03.21.jpg"
   price: 16
   description: 1 available
