@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
+  image: "/2020-04-16 16.16.51.jpg"
+  price: 39
+  description: 1 available
 - title: Eletto SG1440 React Hard Shell Soccer Shin Guards - Size L
   image: "/2020-04-16 16.15.34.jpg"
   price: 8
