@@ -7,7 +7,7 @@ products:
   image: "/2020-04-16 17.05.19.jpg"
   price: 7
   description: |-
-    - Medium hardness - 0-15 degrees celcius
+    - Medium hardness - 0-15 degrees Celsius
 
     1 pair available
 - title: Shaker Cup FI-5090 - 700 mL with steel ball
