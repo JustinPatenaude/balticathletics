@@ -3,6 +3,13 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: D-Gel 385 Street Hockey Ball - Pink (set of 2)
+  image: "/2020-04-16 17.05.19.jpg"
+  price: 7
+  description: |-
+    - Medium hardness - 0-15 degrees celcius
+
+    1 pair available
 - title: Shaker Cup FI-5090 - 700 mL with steel ball
   image: "/2020-04-16 16.54.50.jpg"
   price: 4.5
