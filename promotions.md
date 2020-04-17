@@ -6,7 +6,10 @@ products:
 - title: Soccer Net Spikes - 6" (set of 6)
   image: "/2020-04-16 16.50.52.jpg"
   price: 3
-  description: 20 sets available
+  description: |-
+    - plastic
+
+    20 sets available
 - title: Omnikin 30191-700 Hand/Foot Ball Pump w/attachments
   image: "/2020-04-16 16.45.55.jpg"
   price: 10
