@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Omnikin 30191-700 Hand/Foot Ball Pump w/attachments
+  image: "/2020-04-16 16.45.55.jpg"
+  price: 10
+  description: 2 available
 - title: Juggling Flower Stick JFS
   image: "/2020-04-16 16.40.35.jpg"
   price: 12
