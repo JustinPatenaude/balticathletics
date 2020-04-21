@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Jeffix PR600 Playground Rubber Ball - 6 inch
+  image: "/PR600_1-Z.jpg"
+  price: 5.75
+  description: |-
+    - Deluxe playground ball
+    - 4 ply. Nylon winding under tough rubber cover
+    - Softer, better bounce and durability!
+    - 6" (15 cm)
+    - Available in orange color only
+
+    5 available
 - title: Jeffix PR700 Playground Rubber Ball - 7 inch
   image: "/PR700-R_1-Z.jpg.png"
   price: 6.5
