@@ -1,7 +1,7 @@
 ---
 layout: product
-permalink: "/products/canadian-company"
-title: Canadian Company
+permalink: "/products/made-in-canada"
+title: Made in Canada
 products: []
 photos: []
 

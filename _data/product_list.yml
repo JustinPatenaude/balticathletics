@@ -9,18 +9,23 @@ product_list:
   - products/beach-volleyball.md
   - products/bowling.md
   - products/boxing.md
+  - products/broomball.md
   - products/coaching.md
   - products/cross-country-skiing.md
+  - products/cycling.md
+  - products/darts.md
   - products/disc-golf.md
   - products/field-marking.md
   - products/floor-hockey.md
   - products/football.md
   - products/futsal.md
+  - products/games.md
   - products/golf.md
   - products/gymnastics.md
   - products/hockey.md
   - products/juggling.md
   - products/lacrosse.md
+  - products/made-in-canada.md
   - products/marine-supplies.md
   - products/martial-arts.md
   - products/officials-equipment.md
@@ -31,10 +36,12 @@ product_list:
   - products/racquetball.md
   - products/rhythmic-gymnastics.md
   - products/ringette.md
+  - products/rock-wall-climbing.md
   - products/rugby.md
   - products/snowshoes.md
   - products/soccer.md
   - products/softball.md
+  - products/squash.md
   - products/table-tennis.md
   - products/team-handball.md
   - products/tennis.md
@@ -46,6 +53,7 @@ product_list:
 - product_type: Attire & Accessories
   products:
   - products/bags-totes-duffels.md
+  - products/camouflage.md
   - products/headwear.md
   - products/hoodies.md
   - products/jackets.md
@@ -53,27 +61,31 @@ product_list:
   - products/pants.md
   - products/shirts.md
   - products/shorts.md
+  - products/socks.md
+  - products/sublimation.md
   - products/sweaters.md
   - products/track-suits.md
   - products/workwear.md
 - product_type: Equipment
   products:
   - products/chairs.md
+  - products/custom-mats.md
   - products/dividers.md
+  - products/floor-covering.md
   - products/helmet-decals.md
   - products/inflators.md
   - products/misc.md
   - products/nets.md
+  - products/officials-equipment.md
   - products/pe-equipment.md
   - products/pinnies.md
-  - products/volleyball.md
-  - products/custom-mats.md
   - products/scoreboards.md
-  - products/scorekeeping-tables.md
+  - products/score-tables.md
   - products/seating.md
   - products/storage-solutions.md
   - products/training-supplies.md
   - products/wall-pads.md
+  - products/whistles.md
 - product_type: Promotional Items
   products:
   - products/aprons.md
@@ -82,6 +94,7 @@ product_list:
   - products/banners.md
   - products/blankets.md
   - products/canopies.md
+  - products/cleaning-supplies.md
   - products/drinkware.md
   - products/event-planning.md
   - products/eyewear.md
@@ -93,6 +106,7 @@ product_list:
   - products/pens.md
   - products/pets.md
   - products/plush-novelties.md
+  - products/ribbons.md
   - products/safety.md
   - products/table-covers.md
   - products/tech-items.md

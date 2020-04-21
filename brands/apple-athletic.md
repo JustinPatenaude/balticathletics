@@ -5,7 +5,7 @@ categories:
 - products/made-in-canada.md
 - products/custom-mats.md
 - products/safety.md
-- products/scorekeeping-tables.md
+- products/score-tables.md
 - products/wall-pads.md
 title: Apple Athletic
 logo: "/APPLE_logo.png"
