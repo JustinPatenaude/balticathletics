@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: "/products/broomball"
+permalink: "/products/broomball/"
 title: Broomball
 products: []
 photos: []

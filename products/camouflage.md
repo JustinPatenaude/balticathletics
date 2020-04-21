@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: "/products/camouflage"
+permalink: "/products/camouflage/"
 title: 'Camouflage '
 products: []
 photos: []

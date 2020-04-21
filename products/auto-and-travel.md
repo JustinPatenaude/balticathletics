@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: "/products/auto-and-travel"
+permalink: "/products/auto-and-travel/"
 title: Auto & Travel
 products:
 - Aluminum Custom License Plate

@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: "/products/whistles"
+permalink: "/products/whistles/"
 title: Whistles
 products: []
 photos: []

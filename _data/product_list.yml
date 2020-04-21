@@ -69,7 +69,6 @@ product_list:
 - product_type: Equipment
   products:
   - products/chairs.md
-  - products/custom-mats.md
   - products/dividers.md
   - products/floor-covering.md
   - products/helmet-decals.md
@@ -79,6 +78,7 @@ product_list:
   - products/officials-equipment.md
   - products/pe-equipment.md
   - products/pinnies.md
+  - products/protective-padding.md
   - products/scoreboards.md
   - products/score-tables.md
   - products/seating.md
@@ -89,7 +89,7 @@ product_list:
 - product_type: Promotional Items
   products:
   - products/aprons.md
-  - products/auto.md
+  - products/auto-and-travel.md
   - products/bags-totes-duffels.md
   - products/banners.md
   - products/blankets.md

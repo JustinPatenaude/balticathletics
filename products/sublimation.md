@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: "/products/sublimation"
+permalink: "/products/sublimation/"
 title: Sublimation
 products: []
 photos: []
