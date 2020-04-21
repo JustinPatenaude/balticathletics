@@ -3,6 +3,18 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Rhino Skin RS7 Allround Medium Bounce Foam Ball - 7 inch
+  image: "/rs7_l.jpg"
+  price: 24.65
+  description: |-
+    - Rhino Skin® coating for exceptional tear-resistance
+    - Medium-density foam core and soft exterior to prevent injury when hit with the ball
+    - 7" D
+    - Ball weight: 133 g
+    - Foam density: 35 kg/m3
+    - Recommended age: 10 years and up
+
+    1 Yellow available
 - title: Rhino Skin RS5 Micro Playball - 5 inch
   image: "/rs5_l.jpg"
   price: 14.5
