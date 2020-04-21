@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa T8000 Rubber Cover Tetherball
+  image: "/T8000_1-Z.jpg"
+  price: 22
+  description: |-
+    - cushioned rubber cover
+    - competition rope included
+
+    1 yellow available
 - title: Mikasa T8000S Cushioned Cover Tetherball
   image: "/T8000S_1-Z.jpg.png"
   price: 25
