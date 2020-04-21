@@ -3,6 +3,14 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Concorde VB88B Super Soft Volleyballs - 8 inch
+  image: "/VB88.jpg"
+  price: 6.5
+  description: |-
+    - This special “no sting” volleyball is only 8.5 oz., making it 40% lighter than a regulation volleyball.
+    - Ideal for new, recreational, or younger players.
+
+    1 blue available
 - title: Softex P60Y Playball - 6 inch
   image: "/P60Y.jpg"
   price: 3.5
