@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Swiftflyte 53118 Playground Ball - 8.5 inch
+  image: "/2020-04-17 08.49.47.jpg"
+  price: 6
+  description: 1 available
 - title: Trial TRHJ Super Soft and Safe Handball - 6.3 inch
   image: "/TRHJ_-_Trial_Super_Soft_And_Safe_Handball.jpg"
   price: 29
