@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Trial TRHJ Super Soft and Safe Handball - 6.3 inch
+  image: "/TRHJ_-_Trial_Super_Soft_And_Safe_Handball.jpg"
+  price: 29
+  description: |
+    - Terrific grip
+    - For beginners.
+    - Junior size
+    - Non Sting!
+    - Non-toxic
+
+    1 available pink
 - title: 360 PGB6G Playground Series Rubber Basketball - Size 6
   image: "/PGB6G-Playground_Series_Rubber_Basketball.jpg"
   price: 9
