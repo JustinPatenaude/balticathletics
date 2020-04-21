@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Softex P60Y Playball - 6 inch
+  image: "/P60Y.jpg"
+  price: 3.5
+  description: |-
+    - Soft inflatable vinyl balls are extra thick
+    - best sellers for young school aged children
+    - Can be used for a variety of games and activities.
+
+    2 yellow available
 - title: Concorde GPG7 Grippy Playground Ball - 7 inch
   image: "/2020-04-17 09.01.39.jpg"
   price: 6.75
