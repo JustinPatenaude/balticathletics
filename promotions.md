@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: 360 MR1K Rubber Medicine Ball - 1 kg
+  image: "/2020-04-17 14.51.41.jpg"
+  price: 19
+  description: 1 available
 - title: 360 SPG6Y Rubber Playground Balls - 6 inch
   image: "/SPG6Y.jpg"
   price: 5.75
