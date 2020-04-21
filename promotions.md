@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: 360 PGB6G Playground Series Rubber Basketball - Size 6
+  image: "/PGB6G-Playground_Series_Rubber_Basketball.jpg"
+  price: 9
+  description: |-
+    - Traditional 8 panel composition rubber cover ball.
+    - Nylon wound with 2-Ply butyl bladder for better air retention and consistent bounce.
+    - Heavy-duty construction.
+
+    1 available
 - title: 360 MR1K Rubber Medicine Ball - 1 kg
   image: "/2020-04-17 14.51.41.jpg"
   price: 19
