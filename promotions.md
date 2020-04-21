@@ -3,6 +3,19 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Jeffix PR850 Playground Rubber Ball - 8.5 inch
+  image: "/PR850-Y_1-Z.png"
+  price: 8
+  description: |-
+    - Deluxe playground ball
+    - 4 ply Nylon winding under tough rubber cover
+    - Softer, better bounce and durability!
+    - Size: 8.5” (22 cm)
+
+    Available:
+    - 1 Green
+    - 1 Yellow
+    - 1 Purple
 - title: Mikasa T8000 Rubber Cover Tetherball
   image: "/T8000_1-Z.jpg"
   price: 22
