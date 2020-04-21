@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: 360 PS5RB Diamond Tek Soccer Ball - Size 5
+  image: "/PS5RBG_Green_Diamond_Dek_Soccer_Ball_13980_0231.jpg"
+  price: 15
+  description: |-
+    - textured outer shell, making the ball tough, durable and waterproof
+    - Great for outdoor use in all conditions and surfaces.
+
+    Available:
+    - 7 Blue
+    - 6 Orange
+    - 6 Green
 - title: 360 PGS4B Playground Series Soccer Ball - Size 4
   image: "/PGS4B-web.jpg"
   price: 7.75
