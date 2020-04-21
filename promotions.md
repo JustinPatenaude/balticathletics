@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa P500 Playground Ball - 5 inch
+  image: "/P500LIME_1-Z.jpg"
+  price: 8
+  description: |-
+    - Perfect for any kind of surface, indoors or outdoors
+    - Its resistance and bounce are out of this world!
+    - Size: 5" (12.7 cm)
+    - Premium rubber cover
+    - Latex-free
+
+    1 Lime Green available
 - title: Mikasa P850 Four Square Playground Ball - 8.5 inch
   image: "/P850PINK_1-Z (1).jpg.png"
   price: 10
