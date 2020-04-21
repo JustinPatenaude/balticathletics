@@ -3,6 +3,18 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Rhino Skin RS5 Micro Playball - 5 inch
+  image: "/rs5_l.jpg"
+  price: 14.5
+  description: |-
+    - Rhino Skin® coating for exceptional tear-resistance
+    - Low-density foam core and soft exterior to prevent injury when hit with the ball
+    - Size: 5" D
+    - Ball weight: 66 g
+    - Foam density: 65 kg/m3
+    - Recommended age: 10 years and up
+
+    1 Orange available
 - title: Rhino Skin RS79 Softi Low Bounce Foam Ball - 7 inch
   image: "/rs79_l.jpg"
   price: 17
