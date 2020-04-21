@@ -52,8 +52,6 @@ fields:
 pages:
 - products/aprons.md
 - products/aprons.md
-- products/auto.md
-- products/auto.md
 - products/badminton.md
 - products/badminton.md
 - products/bags-totes-duffels.md
@@ -194,8 +192,8 @@ pages:
 - products/safety.md
 - products/scoreboards.md
 - products/scoreboards.md
-- products/score-tables.md
-- products/score-tables.md
+- products/scorekeeping-tables.md
+- products/scorekeeping-tables.md
 - products/seating.md
 - products/seating.md
 - products/shirts.md

@@ -3,6 +3,89 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Swiftflyte 53118 Playground Ball - 8.5 inch
+  image: "/2020-04-17 08.49.47.jpg"
+  price: 6
+  description: 1 available
+- title: Trial TRHJ Super Soft and Safe Handball - 6.3 inch
+  image: "/TRHJ_-_Trial_Super_Soft_And_Safe_Handball.jpg"
+  price: 29
+  description: |
+    - Terrific grip
+    - For beginners.
+    - Junior size
+    - Non Sting!
+    - Non-toxic
+
+    1 available pink
+- title: 360 PGB6G Playground Series Rubber Basketball - Size 6
+  image: "/PGB6G-Playground_Series_Rubber_Basketball.jpg"
+  price: 9
+  description: |-
+    - Traditional 8 panel composition rubber cover ball.
+    - Nylon wound with 2-Ply butyl bladder for better air retention and consistent bounce.
+    - Heavy-duty construction.
+
+    1 available
+- title: 360 MR1K Rubber Medicine Ball - 1 kg
+  image: "/2020-04-17 14.51.41.jpg"
+  price: 19
+  description: 1 available
+- title: 360 SPG6Y Rubber Playground Balls - 6 inch
+  image: "/SPG6Y.jpg"
+  price: 5.75
+  description: |-
+    - Classic rubber play ball.
+    - Essential for classrooms, playgrounds and kickball.
+    - Nylon wound with 3-ply rubber cover for extra durability.
+
+    1 available
+- title: Concorde VB88B Super Soft Volleyballs - 8 inch
+  image: "/VB88.jpg"
+  price: 6.5
+  description: |-
+    - This special “no sting” volleyball is only 8.5 oz., making it 40% lighter than a regulation volleyball.
+    - Ideal for new, recreational, or younger players.
+
+    1 blue available
+- title: Softex P60Y Playball - 6 inch
+  image: "/P60Y.jpg"
+  price: 3.5
+  description: |-
+    - Soft inflatable vinyl balls are extra thick
+    - best sellers for young school aged children
+    - Can be used for a variety of games and activities.
+
+    2 yellow available
+- title: Concorde GPG7 Grippy Playground Ball - 7 inch
+  image: "/2020-04-17 09.01.39.jpg"
+  price: 6.75
+  description: 1 available
+- title: 360 PGB5R Playground Series Rubber Basketballs - Size 5
+  image: "/PGB5R_Playground-Series-Basketballs-Size-5-Red-webjpg.jpg"
+  price: 8.5
+  description: |-
+    - Traditional 8 panel composition rubber cover ball
+    - Nylon wound with 2-Ply butyl bladder for better air retention and consistent bounce
+    - Heavy-duty construction.
+
+    1 available
+- title: 360 PS5RB Diamond Tek Soccer Ball - Size 5
+  image: "/PS5RBG_Green_Diamond_Dek_Soccer_Ball_13980_0231.jpg"
+  price: 15
+  description: |-
+    - textured outer shell, making the ball tough, durable and waterproof
+    - Great for outdoor use in all conditions and surfaces.
+
+    Available:
+    - 7 Blue
+    - 6 Orange
+    - 6 Green
+- title: 360 PGS4B Playground Series Soccer Ball - Size 4
+  image: "/PGS4B-web.jpg"
+  price: 7.75
+  description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
+    for classroom use.\n\n5 available"
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 245
