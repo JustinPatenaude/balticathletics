@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: 360 SPG6Y Rubber Playground Balls - 6 inch
+  image: "/SPG6Y.jpg"
+  price: 5.75
+  description: |-
+    - Classic rubber play ball.
+    - Essential for classrooms, playgrounds and kickball.
+    - Nylon wound with 3-ply rubber cover for extra durability.
+
+    1 available
 - title: Concorde VB88B Super Soft Volleyballs - 8 inch
   image: "/VB88.jpg"
   price: 6.5
