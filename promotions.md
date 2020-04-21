@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa T8000S Cushioned Cover Tetherball
+  image: "/T8000S_1-Z.jpg.png"
+  price: 25
+  description: |-
+    - Super stitched soft shell
+    - cushioned cover
+    - competition rope included
+
+    1 available
 - title: Mikasa T8000G Glow in the Dark Tetherball
   image: "/T8000G_1-Z.jpg"
   price: 30
