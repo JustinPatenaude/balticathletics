@@ -6,7 +6,7 @@ products:
 - title: Mikasa T8000G Glow in the Dark Tetherball
   image: "/T8000G_1-Z.jpg"
   price: 30
-  description: ''
+  description: 1 available
 - title: Mikasa P500 Playground Ball - 5 inch
   image: "/P500LIME_1-Z.jpg"
   price: 8
