@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: 360 PGB5R Playground Series Rubber Basketballs - Size 5
+  image: "/PGB5R_Playground-Series-Basketballs-Size-5-Red-webjpg.jpg"
+  price: 8.5
+  description: |-
+    - Traditional 8 panel composition rubber cover ball
+    - Nylon wound with 2-Ply butyl bladder for better air retention and consistent bounce
+    - Heavy-duty construction.
+
+    1 available
 - title: 360 PS5RB Diamond Tek Soccer Ball - Size 5
   image: "/PS5RBG_Green_Diamond_Dek_Soccer_Ball_13980_0231.jpg"
   price: 15
