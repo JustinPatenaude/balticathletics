@@ -3,6 +3,17 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Mikasa P850 Four Square Playground Ball - 8.5 inch
+  image: "/P850PINK_1-Z (1).jpg.png"
+  price: 10
+  description: |-
+    - Ideal for any type of playground, its resistance and rebound are out of this world!
+
+    - Size: 8.5" (22 cm)
+    - Premium rubber cover
+    - Latex-free
+
+    1 Pink available
 - title: Rhino Skin RS7SET Medium Bounce Allround (Set of 6) - 7 inch
   image: "/rs7set_l.jpg"
   price: 145.0
