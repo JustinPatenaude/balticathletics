@@ -3,10 +3,11 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
-- title: 360 PGS4B Playground Series Soccer Ball
+- title: 360 PGS4B Playground Series Soccer Ball - Size 4
   image: "/PGS4B-web.jpg"
   price: 7.75
-  description: 5 available
+  description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
+    for classroom use.\n\n5 available"
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 245
