@@ -1,7 +1,7 @@
 ---
 layout: product
-permalink: "/products/scorekeeping-tables/"
-title: Scorekeeping Tables
+permalink: "/products/score-tables/"
+title: Score Tables
 products:
 - Custom Padding
 - Tables

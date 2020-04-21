@@ -17,6 +17,7 @@ $(document).ready(function(){
     infinite: true,
     arrows: false,
     fade: true,
+    adaptiveHeight: true,
     cssEase: 'linear',
   });
 

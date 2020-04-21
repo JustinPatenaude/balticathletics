@@ -627,26 +627,37 @@ input, textarea, button {
         background-color: $colorBlueDark;
       }
     }
+    @media only screen and (max-width: 768px) {
+      top: auto;
+      bottom: 20px;
+      transform: translate(-50%, 0);
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    position: static;
+    transform: none;
   }
 }
-.banner__content-inner {
-  max-width: 50%;
-}
 .banner__title {
-  margin-bottom: 0;
+  margin-bottom: 10px;
   font-size: 64px;
-  line-height: 76px;
+  line-height: 68px;
   font-weight: 700;
   color: #fff;
 }
 .banner__text {
+  margin-bottom: 20px;
   font-size: 34px;
-  line-height: 76px;
+  line-height: 40px;
   color: #fff;
 }
 .banner__image {
   display: block;
   width: 100%;
+  @media only screen and (max-width: 768px) {
+    max-width: 360px;
+    margin: 0 auto;
+  }
 }
 .home__centered-section {
   padding: 60px 0;
@@ -714,7 +725,8 @@ input, textarea, button {
 /* RESPONSIVE STYLES FOR HOME */
 @media only screen and (max-width: 1024px) {
   .banner {
-    height: 400px;
+    height: auto;
+    padding: 50px 0 75px;
   }
   .banner__content-inner {
     max-width: 100%;
@@ -737,6 +749,9 @@ input, textarea, button {
   }
 }
 @media only screen and (max-width: 768px) {
+  .banner__content-inner {
+    text-align: center;
+  }
   .home__about-owner {
     margin-top: 30px;
     text-align: left;
@@ -949,8 +964,9 @@ input, textarea, button {
 .category__photo-wrapper {
   position: relative;
   display: block;
+  margin-bottom: $gutter;
   padding-bottom: 100%;
-  // background-color: #F3F3F3;
+  border: 1px solid $colorBorder;
   border-radius: $borderRadius;
   overflow: hidden;
   cursor: zoom-in;
@@ -1064,6 +1080,7 @@ input, textarea, button {
 }
 .supplier__pdf-wrapper {
   margin-bottom: 12px;
+  list-style-type: none;
 }
 .supplier__pdf {
   position: relative;
@@ -1232,6 +1249,10 @@ input, textarea, button {
   li {
     margin-bottom: 3px;
     line-height: 24px;
+  }
+  img {
+    display: block;
+    max-width: 100%;
   }
 }
 
