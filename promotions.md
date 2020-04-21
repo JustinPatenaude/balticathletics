@@ -3,6 +3,18 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Rhino Skin RS79 Softi Low Bounce Foam Ball - 7 inch
+  image: "/rs79_l.jpg"
+  price: 17
+  description: |-
+    - Rhino Skin® coating for exceptional tear-resistance
+    - Low-density foam core and soft exterior to prevent injury when hit with the ball
+    - 7" D
+    - Ball weight: 115 g
+    - Foam density: 28 kg/m3
+    - Recommended age: 10 years and up
+
+    1 Blue available
 - title: Rhino Skin RS65 Low Bounce Softi Foam Ball - 6 inch
   image: "/rs65_l.jpg"
   price: 15.5
