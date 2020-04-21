@@ -3,6 +3,10 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Concorde GPG7 Grippy Playground Ball - 7 inch
+  image: "/2020-04-17 09.01.39.jpg"
+  price: 6.75
+  description: 1 available
 - title: 360 PGB5R Playground Series Rubber Basketballs - Size 5
   image: "/PGB5R_Playground-Series-Basketballs-Size-5-Red-webjpg.jpg"
   price: 8.5
