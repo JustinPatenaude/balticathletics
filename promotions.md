@@ -3,6 +3,15 @@ layout: promotions
 title: Promotions
 permalink: "/promotions/"
 products:
+- title: Rhino PG85PR Rubber Playground Ball - 8.5 inch
+  image: "/pg85pr_l.jpg"
+  price: 7.75
+  description: |-
+    - high bouncing 2-ply balls are nylon wound
+    - feature an easy grip textured surface
+    - durable 8.5” purple playground ball is always a popular choice!
+
+    2 purple available
 - title: Swiftflyte 53118 Playground Ball - 8.5 inch
   image: "/2020-04-17 08.49.47.jpg"
   price: 6
@@ -1447,7 +1456,7 @@ products:
   description: ''
 - title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
   image: "/Eletto LNA-290 soccer ball.jpg"
-  price: 0
+  price: 
   description: ''
 - title: Sporteck CAPO Soccer Ball - Size 5
   image: "/sporteck CAPO soccer ball.jpg"
