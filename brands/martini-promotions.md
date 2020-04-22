@@ -23,7 +23,6 @@ categories:
 - products/tech-items.md
 - products/tissues.md
 - products/towels.md
-- products/travel.md
 title: Martini Vispak
 logo: "/martini-logo.png"
 website: https://www.martinivispak.com/en_ca
