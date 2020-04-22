@@ -3,7 +3,7 @@ layout: brand
 permalink: "/brands/primeline"
 categories:
 - products/aprons.md
-- products/auto.md
+- products/auto-and-travel.md
 - products/bags-totes-duffels.md
 - products/blankets.md
 - products/drinkware.md
@@ -20,7 +20,6 @@ categories:
 - products/tissues.md
 - products/tools-lights-keytags.md
 - products/towels.md
-- products/travel.md
 - products/umbrellas.md
 title: Primeline
 logo: "/primeline_logo.gif"
