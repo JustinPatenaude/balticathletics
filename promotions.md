@@ -85,7 +85,7 @@ products:
     1 Pink available
 - title: Rhino Skin RS7SET Medium Bounce Allround (Set of 6) - 7 inch
   image: "/rs7set_l.jpg"
-  price: 145.0
+  price: 145
   description: "- Rhino Skin® coating for exceptional tear-resistance \n- Medium-density,
     medium-bounce foam core and soft exterior to prevent injury when hit with the
     ball \n- 7\" D\n- Ball Weight: 133 g\n- Foam density: 35 kg/m3\n- Set of 6 balls
@@ -2125,3 +2125,6 @@ products:
     - 5 available
 
 ---
+All promotional products are also sorted by [product category here](https://balticathletics.com/products/) in addition to this master list. If you are looking for a particular sport this is the best way to go.
+
+These promotional products have no additional shipping charges.
