@@ -39,13 +39,13 @@ categories:
 - products/lacrosse.md
 - products/made-in-canada.md
 - products/posts.md
+- products/protective-padding.md
 - products/safety.md
 - products/seating.md
 - products/soccer.md
 - products/storage-solutions.md
 - products/tennis.md
 - products/volleyball.md
-- products/wall-pads.md
 photos:
 - title: Aluminum Soccer Goal
   photo: "/soccer_goal_frame_sideview_360x.jpg"
