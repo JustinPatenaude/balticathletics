@@ -2127,4 +2127,4 @@ products:
 ---
 All promotional products are also sorted by [product category here](https://balticathletics.com/products/) in addition to this master list. If you are looking for a particular sport this is the best way to go.
 
-These promotional products have no additional shipping charges.
+These promotional products have no additional shipping charges and are "in stock".
