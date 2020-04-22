@@ -15,6 +15,116 @@ products:
 - Balls
 photos: []
 promotions:
+- title: 360 PGS4B Playground Series Soccer Ball - Size 4
+  image: "/PGS4B-web.jpg"
+  price: 7.75
+  description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
+    for classroom use.\n\n5 available"
+- title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
+  image: "/Eletto LIGA comp soccer ball.jpg"
+  price: 29
+  description: ''
+- title: 360 Screamer Soccer Ball - Size 4
+  image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
+  price: 12
+  description: |-
+    - Ideal for beginner level players
+    - Designed for game play, practice or recreation
+    - Butyl bladder for maximum air retention to keep the ball's shape and stay inflated longer
+    - Durable 2.7mm PVC cover with a gloss finish
+    - 2 ply cloth backing
+
+    1 available
+- title: Adidas Telstar 18 World Cup Replica Soccer Ball - Size 4
+  image: "/TELSTAR 18 Adidas World Cup SB.jpg"
+  price: 25
+  description: |-
+    Soft touch game or training ball.
+    1 available
+- title: Champion SL10 Soccer Ball Trainer - Size 4
+  image: "/sl10-a-front_l.jpg"
+  price: 15
+  description: |-
+    - Soft, lightweight cover ideal for blocking shots or heading the ball
+    - 30% Lighter than traditional size 4 balls
+    - 32 Panels for added quality and durability
+    - Size 4
+    - Yellow/Black
+
+    2 available
+- title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
+  image: "/2020-03-30 13.42.56.jpg"
+  price: 19
+  description: |-
+    - Soft touch
+    - Great bounce
+
+    7 available
+    - 6 black
+    - 1 yellow
+- title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
+  image: "/Eletto LNA-290 soccer ball.jpg"
+  price: 
+  description: ''
+- title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
+  image: "/w1B3205-1BasicTrainingBall.jpg"
+  price: 19
+  description: |-
+    - A great ball for training and at home practice and comes in multiple sizes for different age groups.
+    - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
+    - 32 panel
+    - High gloss finish
+    - Available in White, Hi-Vis-Green or Hi-Vis Orange
+
+    Ball Size: Age
+    3 : 8 and Under
+    4 : 8-12
+    5 : 13 and Up
+- title: Nike NKFC Total FC Soccer Ball - Size 4 & 5
+  image: "/2020-04-14 16.27.06.jpg"
+  price: 27
+  description: |-
+    - Soft touch
+
+    5 available - Size 4
+    2 available - Size 5
+- title: Nike Phantom Venom Soccer Ball - Size 4 & 5
+  image: "/2020-04-14 16.27.21.jpg"
+  price: 27
+  description: |-
+    - Soft touch
+
+    3 available - Size 4
+    2 available - Size 5
+- title: Nike Pitch Soccer Ball - Size 4
+  image: "/2020-04-14 16.26.42.jpg"
+  price: 24
+  description: |-
+    - Soft touch
+    - Size 4
+
+    1 available
+- title: Puma Trainer Soccer Ball - Size 4
+  image: "/2020-04-11 14.30.31.jpg"
+  price: 25
+  description: |-
+    - Soft touch
+    - Great bounce
+
+    3 available (colours shown)
+- title: Sporteck BOCA Soccer Ball - Size 4
+  image: "/BOCA-2.jpg"
+  price: 28
+  description: 1 available
+- title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
+  image: "/2020-04-14 16.23.55.jpg"
+  price: 29
+  description: |-
+    - Made with new abrasion resistant, environmentally friendly, kid grain PVC upper material
+    - Low rebound characteristic
+    - Butyl bladder for good air retention
+
+    3 available
 - title: 360 PS5RB Diamond Tek Soccer Ball - Size 5
   image: "/PS5RBG_Green_Diamond_Dek_Soccer_Ball_13980_0231.jpg"
   price: 15
@@ -26,107 +136,6 @@ promotions:
     - 7 Blue
     - 6 Orange
     - 6 Green
-- title: 360 PGS4B Playground Series Soccer Ball - Size 4
-  image: "/PGS4B-web.jpg"
-  price: 7.75
-  description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
-    for classroom use.\n\n5 available"
-- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
-  image: "/2020-04-16 16.16.51.jpg"
-  price: 39
-  description: 1 available
-- title: Eletto SG1440 React Hard Shell Soccer Shin Guards - Size L
-  image: "/2020-04-16 16.15.34.jpg"
-  price: 8
-  description: 1 available
-- title: Eletto SG1202 Iron Soccer Shin Pads with Compression Sleeves - Size M
-  image: "/2020-04-16 16.13.19.jpg"
-  price: 14
-  description: 1 available
-- title: Eletto SG1500 Soft Shell Soccer Shin Guards - Size M
-  image: "/2020-04-16 16.10.59.jpg"
-  price: 11
-  description: 1 available
-- title: Eletto GK0800 Soccer Goal Keeper Knee Pads - Size M
-  image: "/2020-04-16 16.08.01.jpg"
-  price: 9.5
-  description: 1 available
-- title: Diadora 152655 Xeres You Soccer Shin Guards - Size M
-  image: "/2020-04-16 16.06.08.jpg"
-  price: 9
-  description: 1 available
-- title: Uhlsport 100675901 T-Bone Pro Soccer Shin Guards - Size L
-  image: "/2020-04-16 16.04.39.jpg"
-  price: 18
-  description: 1 available
-- title: Uhlsport 6774 Pro Lite Soccer Shin Guards - Size M
-  image: "/2020-04-16 16.03.21.jpg"
-  price: 16
-  description: 1 available
-- title: 'Uhlsport 0150 Ergonomic Starter Graphit Soccer Goal Keeper Gloves - Size
-    7 '
-  image: "/2020-04-16 16.01.43.jpg"
-  price: 25
-  description: 1 available
-- title: Uhlsport 100022201 Cerberus Start Soccer Goal Keeper Gloves - Size 9
-  image: "/2020-04-16 15.59.31.jpg"
-  price: 30
-  description: 1 available
-- title: Uhlsport 100054801 Eliminator Soccer Goal Keeper Gloves - Size 9
-  image: "/2020-04-16 15.56.28.jpg"
-  price: 45
-  description: 1 available
-- title: Nike Phantom Venom Soccer Ball - Size 4 & 5
-  image: "/2020-04-14 16.27.21.jpg"
-  price: 27
-  description: |-
-    - Soft touch
-
-    3 available - Size 4
-    2 available - Size 5
-- title: Nike NKFC Total FC Soccer Ball - Size 4 & 5
-  image: "/2020-04-14 16.27.06.jpg"
-  price: 27
-  description: |-
-    - Soft touch
-
-    5 available - Size 4
-    2 available - Size 5
-- title: Nike Pitch Soccer Ball - Size 4
-  image: "/2020-04-14 16.26.42.jpg"
-  price: 24
-  description: |-
-    - Soft touch
-    - Size 4
-
-    1 available
-- title: Reflex Soccer Goal Keeper Training Ball
-  image: "/2020-04-14 16.25.49.jpg"
-  price: 32
-  description: |-
-    Does a ball have to be round? To be good with a round ball you have to start with the angled one. This is especially true for goalkeepers! As its name suggests, this ball is there to help goalies train their reflexes. It‘s made of tough TPU and comes in fluorescent yellow.
-
-    No Size
-
-    1 available
-- title: Inaria Liga 1000 Soccer Ball - Size 5
-  image: "/inaria liga 1000 soccer ball size 5.PNG"
-  price: 18
-  description: |-
-    - Recommended as a club-level training ball
-    - Soft touch and durable, bright and glossy finish
-    - Hand-sewn with 32 panels, a latex bladder and a butyl valve
-
-    1 available
-- title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
-  image: "/2020-04-14 16.23.55.jpg"
-  price: 29
-  description: |-
-    - Made with new abrasion resistant, environmentally friendly, kid grain PVC upper material
-    - Low rebound characteristic
-    - Butyl bladder for good air retention
-
-    3 available
 - title: Acacia Canada Soccer Ball 22-556 - Size 5
   image: "/canada-At-Acaciasports.jpg"
   price: 16
@@ -138,20 +147,17 @@ promotions:
     - Size 5
 
     1 available
-- title: Sporteck BOCA Soccer Ball - Size 4
-  image: "/BOCA-2.jpg"
-  price: 28
-  description: 1 available
-- title: Diadora Gara III 881810 Soccer Ball - Size 5
-  image: "/2020-04-14 16.26.09.jpg"
-  price: 29
+- title: Champion EX5PR Extreme Soccer Ball - Size 5
+  image: "/ex5pr-a-front_l.jpg"
+  price: 14
   description: |-
-    - Match quality ball
-    - Microfiber polyurethane cover
-    - High tenacity polyester filament stitching provides excellent durability
-    - Closed cell air mattress ensures soft touch under all temperature conditions
-    - Butyl bladder and valve
-    - Size 5
+    - Soft-touch TPU cover for added softness without compromising power and weight
+    - Butyl bladder for exceptional air retention and durability during intense play in all outdoor conditions
+    - Patented machine-stitched panels for added quality and durability
+    - All-weather ball: heat, cold, wind, rain
+    - Recommended for age 12 and up
+    - Size: 5
+    - Purple
 
     1 available
 - title: Diadora 881520 Magnifico Game Soccer Ball - Size 5
@@ -165,15 +171,35 @@ promotions:
     - Size 5
 
     1 available
-- title: 360 Screamer Soccer Ball - Size 4
-  image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
-  price: 12
+- title: Diadora Gara III 881810 Soccer Ball - Size 5
+  image: "/2020-04-14 16.26.09.jpg"
+  price: 29
   description: |-
-    - Ideal for beginner level players
-    - Designed for game play, practice or recreation
-    - Butyl bladder for maximum air retention to keep the ball's shape and stay inflated longer
-    - Durable 2.7mm PVC cover with a gloss finish
-    - 2 ply cloth backing
+    - Match quality ball
+    - Microfiber polyurethane cover
+    - High tenacity polyester filament stitching provides excellent durability
+    - Closed cell air mattress ensures soft touch under all temperature conditions
+    - Butyl bladder and valve
+    - Size 5
+
+    1 available
+- title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
+  image: "/Eletto LNA-350 soccer ball.jpg"
+  price: 22
+  description: ''
+- title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
+  image: "/2020-03-30 12.26.05.jpg"
+  price: 15
+  description: |-
+    Also available in sizes 3 & 4
+    2 available
+- title: Inaria Liga 1000 Soccer Ball - Size 5
+  image: "/inaria liga 1000 soccer ball size 5.PNG"
+  price: 18
+  description: |-
+    - Recommended as a club-level training ball
+    - Soft touch and durable, bright and glossy finish
+    - Hand-sewn with 32 panels, a latex bladder and a butyl valve
 
     1 available
 - title: Mikasa SS50 Varsity Series Cushioned Cover Soccer Ball - Size 5
@@ -217,66 +243,6 @@ promotions:
     - Size 5
 
     1 available
-- title: Champion SL10 Soccer Ball Trainer - Size 4
-  image: "/sl10-a-front_l.jpg"
-  price: 15
-  description: |-
-    - Soft, lightweight cover ideal for blocking shots or heading the ball
-    - 30% Lighter than traditional size 4 balls
-    - 32 Panels for added quality and durability
-    - Size 4
-    - Yellow/Black
-
-    2 available
-- title: Champion EX5PR Extreme Soccer Ball - Size 5
-  image: "/ex5pr-a-front_l.jpg"
-  price: 14
-  description: |-
-    - Soft-touch TPU cover for added softness without compromising power and weight
-    - Butyl bladder for exceptional air retention and durability during intense play in all outdoor conditions
-    - Patented machine-stitched panels for added quality and durability
-    - All-weather ball: heat, cold, wind, rain
-    - Recommended for age 12 and up
-    - Size: 5
-    - Purple
-
-    1 available
-- title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
-  image: "/2020-03-30 13.42.56.jpg"
-  price: 19
-  description: |-
-    - Soft touch
-    - Great bounce
-
-    7 available
-    - 6 black
-    - 1 yellow
-- title: Puma Trainer Soccer Ball - Size 4
-  image: "/2020-04-11 14.30.31.jpg"
-  price: 25
-  description: |-
-    - Soft touch
-    - Great bounce
-
-    3 available (colours shown)
-- title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
-  image: "/2020-03-30 12.26.05.jpg"
-  price: 15
-  description: |-
-    Also available in sizes 3 & 4
-    2 available
-- title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
-  image: "/Eletto LIGA comp soccer ball.jpg"
-  price: 29
-  description: ''
-- title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
-  image: "/Eletto LNA-350 soccer ball.jpg"
-  price: 22
-  description: ''
-- title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
-  image: "/Eletto LNA-290 soccer ball.jpg"
-  price: 
-  description: ''
 - title: Sporteck CAPO Soccer Ball - Size 5
   image: "/sporteck CAPO soccer ball.jpg"
   price: 30
@@ -299,26 +265,6 @@ promotions:
   description: |-
     Soft touch game or training ball
     1 available
-- title: Adidas Telstar 18 World Cup Replica Soccer Ball - Size 4
-  image: "/TELSTAR 18 Adidas World Cup SB.jpg"
-  price: 25
-  description: |-
-    Soft touch game or training ball.
-    1 available
-- title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
-  image: "/w1B3205-1BasicTrainingBall.jpg"
-  price: 19
-  description: |-
-    - A great ball for training and at home practice and comes in multiple sizes for different age groups.
-    - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
-    - 32 panel
-    - High gloss finish
-    - Available in White, Hi-Vis-Green or Hi-Vis Orange
-
-    Ball Size: Age
-    3 : 8 and Under
-    4 : 8-12
-    5 : 13 and Up
 - title: Nike Pitch Game Soccer Ball - Size 5
   image: "/PITCH Nike SB size 5.jpg"
   price: 30
@@ -336,6 +282,60 @@ promotions:
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 25
   description: Only 1 available
+- title: Reflex Soccer Goal Keeper Training Ball
+  image: "/2020-04-14 16.25.49.jpg"
+  price: 32
+  description: |-
+    Does a ball have to be round? To be good with a round ball you have to start with the angled one. This is especially true for goalkeepers! As its name suggests, this ball is there to help goalies train their reflexes. It‘s made of tough TPU and comes in fluorescent yellow.
+
+    No Size
+
+    1 available
+- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
+  image: "/2020-04-16 16.16.51.jpg"
+  price: 39
+  description: 1 available
+- title: 'Uhlsport 0150 Ergonomic Starter Graphit Soccer Goal Keeper Gloves - Size
+    7 '
+  image: "/2020-04-16 16.01.43.jpg"
+  price: 25
+  description: 1 available
+- title: Uhlsport 100022201 Cerberus Start Soccer Goal Keeper Gloves - Size 9
+  image: "/2020-04-16 15.59.31.jpg"
+  price: 30
+  description: 1 available
+- title: Uhlsport 100054801 Eliminator Soccer Goal Keeper Gloves - Size 9
+  image: "/2020-04-16 15.56.28.jpg"
+  price: 45
+  description: 1 available
+- title: Diadora 152655 Xeres You Soccer Shin Guards - Size M
+  image: "/2020-04-16 16.06.08.jpg"
+  price: 9
+  description: 1 available
+- title: Eletto SG1440 React Hard Shell Soccer Shin Guards - Size L
+  image: "/2020-04-16 16.15.34.jpg"
+  price: 8
+  description: 1 available
+- title: Eletto SG1202 Iron Soccer Shin Pads with Compression Sleeves - Size M
+  image: "/2020-04-16 16.13.19.jpg"
+  price: 14
+  description: 1 available
+- title: Eletto SG1500 Soft Shell Soccer Shin Guards - Size M
+  image: "/2020-04-16 16.10.59.jpg"
+  price: 11
+  description: 1 available
+- title: Uhlsport 6774 Pro Lite Soccer Shin Guards - Size M
+  image: "/2020-04-16 16.03.21.jpg"
+  price: 16
+  description: 1 available
+- title: Uhlsport 100675901 T-Bone Pro Soccer Shin Guards - Size L
+  image: "/2020-04-16 16.04.39.jpg"
+  price: 18
+  description: 1 available
+- title: Eletto GK0800 Soccer Goal Keeper Knee Pads - Size M
+  image: "/2020-04-16 16.08.01.jpg"
+  price: 9.5
+  description: 1 available
 - title: Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
   image: "/diadora finale sock.PNG"
   price: 6.5
