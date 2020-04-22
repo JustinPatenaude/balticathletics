@@ -9,12 +9,12 @@ categories:
 - products/football.md
 - products/nets.md
 - products/posts.md
+- products/protective-padding.md
 - products/scoreboards.md
 - products/seating.md
 - products/soccer.md
 - products/tennis.md
 - products/volleyball.md
-- products/wall-pads.md
 title: Forum
 logo: "/forum-logo.png"
 website: http://www.forumathletic.ca/
