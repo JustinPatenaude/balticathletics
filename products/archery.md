@@ -15,10 +15,14 @@ products:
 - Shooting Gear
 - Targets
 photos: []
+tags:
+- Bows
+- Arrows
+- Targets
 promotions:
 - title: Archery Paper Target ML-TA122 - 48" x 48"
   image: "/ML-TA122 48x48 10 ring 5 col paper target.jpg"
-  price: 7
+  price: "7"
   description: |-
     - 10 ring
     - 5 colour
@@ -26,7 +30,7 @@ promotions:
     24 available
 - title: Ragim RG-WC62 Wildcat Recurve Takedown Bow
   image: "/Wildcat Recurve Takedown Bow.png"
-  price: 150
+  price: "150"
   description: |-
     - Right hand
     - 26 lb draw weight
