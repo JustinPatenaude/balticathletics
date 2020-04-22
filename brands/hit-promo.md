@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/hit-promo/"
 categories:
-- products/auto.md
+- products/auto-and-travel.md
 - products/bags-totes-duffels.md
 - products/drinkware.md
 - products/eyewear.md
