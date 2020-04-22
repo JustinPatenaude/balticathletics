@@ -17,10 +17,6 @@ products:
 - Balls
 photos: []
 promotions:
-- title: Wiffle Ball CX040650-00 - 12" circ / 4" dia (softball size)
-  image: "/plsb-lifestyle-1_l.jpg"
-  price: 1.75
-  description: 35 available
 - title: Easton Incrediball Vinyl cover Softball - 11"
   image: "/2020-04-11 14.43.02.jpg"
   price: 8
@@ -45,6 +41,14 @@ promotions:
     - Optic yellow with red stitch
 
     3 available
+- title: Wiffle Ball CX040650-00 - 12" circ / 4" dia (softball size)
+  image: "/plsb-lifestyle-1_l.jpg"
+  price: 1.75
+  description: 35 available
+- title: Worth Mayhem Softball Bats
+  image: "/2020-03-07 11.21.13.jpg"
+  price: 49
+  description: 34" - 28 oz
 - title: Champion SM1 Softball Catcher's Mask
   image: "/sm1_n.jpg"
   price: 28
@@ -55,9 +59,5 @@ promotions:
     • Black
 
     1 available
-- title: Worth Mayhem Softball Bats
-  image: "/2020-03-07 11.21.13.jpg"
-  price: 49
-  description: 34" - 28 oz
 
 ---
