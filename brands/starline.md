@@ -2,10 +2,9 @@
 layout: brand
 permalink: "/brands/starline/"
 categories:
-- products/auto.md
+- products/auto-and-travel.md
 - products/bags-totes-duffels.md
 - products/blankets.md
-- products/made-in-canada.md
 - products/drinkware.md
 - products/first-aid.md
 - products/games.md
@@ -14,6 +13,7 @@ categories:
 - products/health-fitness.md
 - products/home.md
 - products/jackets.md
+- products/made-in-canada.md
 - products/notebooks.md
 - products/pants.md
 - products/pens.md
@@ -22,7 +22,6 @@ categories:
 - products/shirts.md
 - products/tech-items.md
 - products/tools-lights-keytags.md
-- products/travel.md
 - products/umbrellas.md
 title: Starline
 logo: "/starline-logo.png"
