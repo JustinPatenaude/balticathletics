@@ -6,7 +6,6 @@ categories:
 - products/baseball.md
 - products/basketball.md
 - products/beach-volleyball.md
-- products/made-in-canada.md
 - products/coaching.md
 - products/eyewear.md
 - products/field-marking.md
@@ -17,6 +16,7 @@ categories:
 - products/inflators.md
 - products/juggling.md
 - products/lacrosse.md
+- products/made-in-canada.md
 - products/nets.md
 - products/pe-equipment.md
 - products/pickleball.md
