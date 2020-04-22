@@ -2,6 +2,7 @@
 layout: brand
 permalink: "/brands/fiel/"
 categories:
+- products/auto-and-travel.md
 - products/aprons.md
 - products/bags-totes-duffels.md
 - products/blankets.md
@@ -9,7 +10,6 @@ categories:
 - products/sublimation.md
 - products/table-covers.md
 - products/towels.md
-- products/travel.md
 title: Fiel
 logo: "/fiel-logo.png"
 website: ''
