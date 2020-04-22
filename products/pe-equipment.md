@@ -209,6 +209,91 @@ promotions:
     - Nylon wound with 3-ply rubber cover for extra durability.
 
     1 available
+- title: Softex P60Y Playball - 6 inch
+  image: "/P60Y.jpg"
+  price: 3.5
+  description: |-
+    - Soft inflatable vinyl balls are extra thick
+    - best sellers for young school aged children
+    - Can be used for a variety of games and activities.
+
+    2 yellow available
+- title: Concorde GPG7 Grippy Playground Ball - 7 inch
+  image: "/2020-04-17 09.01.39.jpg"
+  price: 6.75
+  description: 1 available
+- title: Cosom CM741722-00 Gym Tennis Balls
+  image: "/2020-04-16 16.31.55.jpg"
+  price: 1.5
+  description: |-
+    - dense foam
+    - yellow
+
+    21 available
+- title: Plastic Segmented Skipping Rope PR8 - 8 ft
+  image: "/pr8_l.jpg"
+  price: 2.95
+  description: |-
+    - Plastic segmented
+    - 8 foot
+    - Yellow/White
+
+    6 available
+- title: Plastic Segmented Skipping Rope PR9 - 9 ft
+  image: "/pr9_l.jpg"
+  price: 3.35
+  description: |-
+    - Plastic segmented
+    - 9 foot
+    - Blue/White
+
+    6 available
+- title: Plastic Segmented Skipping Rope PR16 - 16 ft
+  image: "/pr16_l.jpg"
+  price: 5.75
+  description: |-
+    - Plastic segmented
+    - 16 foot
+    - Red/White/Blue
+
+    12 available
+- title: Bean Bag - Ultra-soft, 4" PX-501695
+  image: "/bean bags.jpg"
+  price: 1.75
+  description: 6 colours available (green, blue, yellow, red, purple, orange)
+- title: Scooter 12x12 square, no handles
+  image: "/cosom scooter no handles.jpg"
+  price: 18
+  description: 3 available
+- title: Scooter 12x12 square, w/handles
+  image: "/cosom 12x12 deluxe scooter.jpeg"
+  price: 22
+  description: |-
+    assorted colours
+    - 24 available
+- title: Scooter 16x16 square, no handles
+  image: "/cosom scooter no handles.jpg"
+  price: 24
+  description: ''
+- title: Scooter 16x16 square w/handles
+  image: "/cosom 16x16 deluxe scooter.jpeg"
+  price: 27
+  description: 25 available
+- title: Scooter 16x16 rounded w/handles
+  image: "/2020-03-07 10.51.40.jpg"
+  price: 30
+  description: |-
+    - connecting
+    - assorted colours
+    - 11 available
+- title: Scooter wheels - Sets of 4
+  image: "/2020-03-07 11.05.28.jpg"
+  price: 16
+  description: |-
+    Rollerblade ball-bearing scooter wheels
+    Sets of 4 wheels
+    - 10 grey sets available
+    - 9 red sets available
 date: '2019-03-29T23:08:03.000+00:00'
 
 ---

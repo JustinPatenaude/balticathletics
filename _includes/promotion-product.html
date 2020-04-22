@@ -1,0 +1,45 @@
+<a class="product-item" href="#{{ product.title | slugify }}">
+
+  <div class="product-item__image-wrapper">
+    <img class="product-item__image" src="{{ product.image | prepend: site.mediaUrl }}" />
+  </div>
+
+  <div class="product-item__content">
+    <h3 class="product-item__title">{{ product.title }}</h3>
+    <div class="grid-middle">
+      <div class="col-6">
+        {% if product.price %}
+          {% assign price_split = product.price | round: 2 | split: "." %}
+          {% assign integral = price_split[0] %}
+          {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+          <h4 class="product-item__price">${{ integral }}.{{ fractional }}</h4>
+        {% endif %}
+      </div>
+      <div class="col-6 text-right">
+        <div class="btn btn--small">More Info</div>
+      </div>
+    </div>
+  </div>
+
+</a>
+<div class="product-item__modal mfp-hide" id="{{ product.title | slugify }}">
+  <div class="grid">
+    <div class="col-6_xs-12">
+      <div class="product-item__image-wrapper">
+        <img class="product-item__image" src="{{ product.image | prepend: site.mediaUrl }}" />
+      </div>
+    </div>
+    <div class="col-6_xs-12">
+      <h3 class="product-item__title">{{ product.title }}</h3>
+      {% if product.price %}
+        {% assign price_split = product.price | round: 2 | split: "." %}
+        {% assign integral = price_split[0] %}
+        {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+        <h4 class="product-item__price">${{ integral }}.{{ fractional }}</h4>
+      {% endif %}
+      <div class="product-item__description rte">
+        {{ product.description | markdownify }}
+      </div>
+    </div>
+  </div>
+</div>

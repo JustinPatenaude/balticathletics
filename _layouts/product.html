@@ -69,10 +69,35 @@ layout: default
 
         <div class="grid">
           {% for photo in page.photos %}
-            <div class="col-3">
+            <div class="col-3_md-4_sm-6">
               <a href="{{ photo.photo | prepend: site.mediaUrl }}" class="category__photo-wrapper" title="{{ photo.title }}">
                 <img class="category__photo" src="{{ photo.photo | prepend: site.mediaUrl }}" />
               </a>
+            </div>
+          {% endfor %}
+        </div>
+
+      </div>
+      
+    </div>
+  </div>
+  {% endif %}
+  {% if page.promotions.size > 0 %}
+  <div class="container margin-60">
+    <div class="grid-center">
+      <div class="col-8_lg-10_md-12">
+
+        <div class="page__title-wrapper cf">
+          <div class="page__title-img-wrapper">
+            <img class="page__title-img" src="{{ '/assets/images/title-promotions.svg' | relative_url }}" />
+          </div>
+          <h2 class="page__title">Promotions</h2>
+        </div>
+
+        <div class="grid">
+          {% for product in page.promotions %}
+            <div class="col-3_md-4_sm-6_ty-12">
+              {% include promotion-product.html %}
             </div>
           {% endfor %}
         </div>
