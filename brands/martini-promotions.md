@@ -2,9 +2,8 @@
 layout: brand
 permalink: "/brands/martini-vispak"
 categories:
-- products/made-in-canada.md
 - products/aprons.md
-- products/auto.md
+- products/auto-and-travel.md
 - products/bags-totes-duffels.md
 - products/baseball.md
 - products/basketball.md
@@ -15,6 +14,7 @@ categories:
 - products/hockey.md
 - products/home.md
 - products/lanyards.md
+- products/made-in-canada.md
 - products/plush-novelties.md
 - products/pets.md
 - products/shirts.md
@@ -24,7 +24,6 @@ categories:
 - products/tissues.md
 - products/towels.md
 - products/travel.md
-- products/made-in-canada.md
 title: Martini Vispak
 logo: "/martini-logo.png"
 website: https://www.martinivispak.com/en_ca
