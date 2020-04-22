@@ -2,13 +2,12 @@
 layout: brand
 permalink: "/brands/qued"
 categories:
-- products/made-in-canada.md
 - products/dividers.md
+- products/made-in-canada.md
 - products/nets.md
 - products/pe-equipment.md
-- products/custom-mats.md
+- products/protective-padding.md
 - products/safety.md
-- products/wall-pads.md
 title: Qued
 logo: "/Qued Logo1.PNG"
 website: http://www.quedbrand.com/
