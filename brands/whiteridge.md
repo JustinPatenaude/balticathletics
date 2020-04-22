@@ -2,13 +2,14 @@
 layout: brand
 permalink: "/brands/whiteridge/"
 categories:
+- products/auto-and-travel.md
 - products/bags-totes-duffels.md
 - products/blankets.md
 - products/camouflage.md
-- products/made-in-canada.md
 - products/chairs.md
 - products/jackets.md
 - products/luggage.md
+- products/made-in-canada.md
 title: Whiteridge
 logo: "/whiteridge-logo.png"
 website: https://www.whiteridgeinc.com/home/
