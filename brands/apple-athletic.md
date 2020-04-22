@@ -3,10 +3,9 @@ layout: brand
 permalink: "/brands/apple-athletic"
 categories:
 - products/made-in-canada.md
-- products/custom-mats.md
+- products/protective-padding.md
 - products/safety.md
 - products/score-tables.md
-- products/wall-pads.md
 title: Apple Athletic
 logo: "/APPLE_logo.png"
 website: https://appleathletic.com/
