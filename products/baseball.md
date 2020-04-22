@@ -12,35 +12,6 @@ products:
 - Pants
 photos: []
 promotions:
-- title: Champion BP2040 Baseball Backpack
-  image: "/bp2040-front_l.jpg"
-  price: 39
-  description: |-
-    - Features two bat holders, glove and helmet pockets, drink sleeve and large main chamber
-    - Adjustable shoulder and back strap with shoe and cleat compartment
-    - Hooks onto fence
-    - 17"H x 14"W x 10"D
-    - Black
-
-    1 available
-- title: Base Spikes HDB-NN-RNAIL10 & HDB Super Anchorhead Clips HDB-BB-SASH
-  image: "/2020-04-14 09.55.03.jpg"
-  price: 5
-  description: |-
-    - Heavy duty steel 10" spike
-    - 1/4" dia heavy duty Clip for base strap
-    - Eliminates the wear on base straps from hammering spikes into the ground while attached to the base straps.
-    - Allows bases and straps to last longer.
-
-    TWO STEP PROCESS:
-    - Hammer spike with clip into ground
-    - Attach base straps onto clip
-
-    12 available.
-- title: Wiffle Ball CX040630-00 - 9" circ / 3" dia (baseball size)
-  image: "/plbb-enhanced-1_l.jpg"
-  price: 1.5
-  description: ''
 - title: Franklin FRK-BB-22612 Fieldmaster Glove - 11" YOUTH - Left hand catch
   image: "/2020-04-13 14.20.17.jpg"
   price: 24
@@ -74,6 +45,10 @@ promotions:
     Ready To Play (RTP)
 
     1 available
+- title: Franklin 22622 Fieldmaster Glove - 11" Left Hand Catch
+  image: "/Franklin fieldmaster.jpg"
+  price: 24
+  description: 1 available - Navy/Red/White
 - title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
   image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
   price: 40
@@ -125,6 +100,14 @@ promotions:
     soft supple
 
     1 available
+- title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
+  image: "/Rawlings HFP125BP Baseball Glove.jpg"
+  price: 38
+  description: |-
+    - All leather shell
+    - Soft & supple, very flexible (broken in feel)
+
+    13 available (black/purple)
 - title: Champion Sports CBG900 Glove - 13" Left hand catch
   image: "/Champion Sports CBG900 Glove.jpg"
   price: 30
@@ -140,10 +123,14 @@ promotions:
   image: "/Franklin FRK-BB-22601 Fieldmaster Glove a.jpg"
   price: 
   description: 1 available - Blonde/Black
-- title: Wilson A360 Glove - 13" RIGHT Hand Catch
-  image: "/A360 Wilson glove RHC.jpg"
-  price: 49
-  description: 2 Available
+- title: Franklin FRK-BB-22610 Fieldmaster Ball Glove - 13" Left hand catch
+  image: "/Franklin FRK-BB-22610 Fieldmaster Ball Glove.jpg"
+  price: 28
+  description: |
+    - Synthetic leather
+    - Soft feel
+
+    8 available  - Black
 - title: Wilson A800 Showtime Glove - 13" Left Hand Catch
   image: "/Wilson A800 Showtime glove a.jpg"
   price: 65
@@ -153,14 +140,33 @@ promotions:
     MSRP $120.00
 
     8 available
+- title: Wilson A360 Glove - 13" RIGHT Hand Catch
+  image: "/A360 Wilson glove RHC.jpg"
+  price: 49
+  description: 2 Available
 - title: Franklin FRK-BB-22600 Fieldmaster Glove - 14" Left hand catch
   image: "/2020-04-13 14.19.33.jpg"
   price: 28
   description: 8 available - Blonde/Black
+- title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
+  image: "/2020-04-11 14.51.18.jpg"
+  price: 60
+  description: "- All leather"
 - title: Spalding 100 Leather Baseball
   image: "/spalding 100 baseball.jpg"
   price: 5
   description: 3 single balls available
+- title: Spalding 41003 Official League Synthetic Cover Baseball (sold in case of
+    12)
+  image: "/2020-03-07 11.09.54.jpg"
+  price: 36
+  description: |-
+    stitched seams
+    5 dozen available
+- title: Wiffle Ball CX040630-00 - 9" circ / 3" dia (baseball size)
+  image: "/plbb-enhanced-1_l.jpg"
+  price: 1.5
+  description: ''
 - title: Easton Z5JR Batting Helmet - Junior
   image: "/2020-04-11 14.34.59.jpg"
   price: 39
@@ -169,13 +175,46 @@ promotions:
   image: "/2020-04-11 14.36.02.jpg"
   price: 39
   description: 1 available in BLACK
-- title: Champion M500A Pro Anchor Base Replacement Pin - Set of 3
-  image: "/m500a-enhanced-2-l.jpg"
-  price: 28.75
-  description: 1 set available
+- title: Champion BP2040 Baseball Backpack
+  image: "/bp2040-front_l.jpg"
+  price: 39
+  description: |-
+    - Features two bat holders, glove and helmet pockets, drink sleeve and large main chamber
+    - Adjustable shoulder and back strap with shoe and cleat compartment
+    - Hooks onto fence
+    - 17"H x 14"W x 10"D
+    - Black
+
+    1 available
+- title: Base Spikes HDB-NN-RNAIL10 & HDB Super Anchorhead Clips HDB-BB-SASH
+  image: "/2020-04-14 09.55.03.jpg"
+  price: 5
+  description: |-
+    - Heavy duty steel 10" spike
+    - 1/4" dia heavy duty Clip for base strap
+    - Eliminates the wear on base straps from hammering spikes into the ground while attached to the base straps.
+    - Allows bases and straps to last longer.
+
+    TWO STEP PROCESS:
+    - Hammer spike with clip into ground
+    - Attach base straps onto clip
+
+    12 available.
+- title: Full Size Double First Base M155 w/spikes
+  image: "/M155_double-base.png"
+  price: 58
+  description: 7 available
+- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
+  image: "/2020-04-13 10.34.14.jpg"
+  price: 10
+  description: 2 sets available
 - title: Champion M500P Molded Rubber Base Plug - Set of 3
   image: "/m500p-lifestyle1-l.jpg"
   price: 16.5
+  description: 1 set available
+- title: Champion M500A Pro Anchor Base Replacement Pin - Set of 3
+  image: "/m500a-enhanced-2-l.jpg"
+  price: 28.75
   description: 1 set available
 - title: Baseball Scorebook
   image: "/SC1 Baseball Scorebook.jpg"
@@ -184,45 +223,6 @@ promotions:
     Heavy cardboard back and spiral bound cover is durable enough to last all season
     \n- Includes batting average chart, roster, and line-up pages for quick access
     to statistics\n- Suitable for all baseball and softball games"
-- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
-  image: "/2020-04-13 10.34.14.jpg"
-  price: 10
-  description: 2 sets available
-- title: Franklin 22622 Fieldmaster Glove - 11" Left Hand Catch
-  image: "/Franklin fieldmaster.jpg"
-  price: 24
-  description: 1 available - Navy/Red/White
-- title: Franklin FRK-BB-22610 Fieldmaster Ball Glove - 13" Left hand catch
-  image: "/Franklin FRK-BB-22610 Fieldmaster Ball Glove.jpg"
-  price: 28
-  description: |
-    - Synthetic leather
-    - Soft feel
-
-    8 available  - Black
-- title: Spalding 41003 Official League Synthetic Cover Baseball (sold in case of
-    12)
-  image: "/2020-03-07 11.09.54.jpg"
-  price: 36
-  description: |-
-    stitched seams
-    5 dozen available
-- title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
-  image: "/2020-04-11 14.51.18.jpg"
-  price: 60
-  description: "- All leather"
-- title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
-  image: "/Rawlings HFP125BP Baseball Glove.jpg"
-  price: 38
-  description: |-
-    - All leather shell
-    - Soft & supple, very flexible (broken in feel)
-
-    13 available (black/purple)
-- title: Full Size Double First Base M155 w/spikes
-  image: "/M155_double-base.png"
-  price: 58
-  description: 7 available
 - title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
   image: "/234DBMK_GRAY.jpg"
   price: 22
