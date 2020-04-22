@@ -17,10 +17,6 @@ products:
 - Balls
 photos: []
 promotions:
-- title: Easton Incrediball Vinyl cover Softball - 11"
-  image: "/2020-04-11 14.43.02.jpg"
-  price: 8
-  description: 12 available
 - title: Dudley 4A135 Thunder Heat Leather COR40 Softball - 12"
   image: "/2020-04-11 14.41.37.jpg"
   price: 
@@ -45,6 +41,10 @@ promotions:
   image: "/plsb-lifestyle-1_l.jpg"
   price: 1.75
   description: 35 available
+- title: Easton Incrediball Vinyl cover Softball - 11"
+  image: "/2020-04-11 14.43.02.jpg"
+  price: 8
+  description: 12 available
 - title: Worth Mayhem Softball Bats
   image: "/2020-03-07 11.21.13.jpg"
   price: 49
