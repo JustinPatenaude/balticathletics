@@ -3,16 +3,16 @@ layout: product
 permalink: "/products/soccer/"
 title: Soccer
 products:
+- Balls
+- Flags
+- Goalkeeper Apparel
+- Goals
 - Linemarkers
 - Paint
-- Flags
-- Referee Apparel
-- Goalkeeper Apparel
 - Protective Equipment
+- Referee Apparel
 - Training Aids
-- Goals
 - Uniforms
-- Balls
 photos: []
 promotions:
 - title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
@@ -76,6 +76,35 @@ promotions:
   image: "/Eletto LNA-290 soccer ball.jpg"
   price: 
   description: ''
+- title: Nike Pitch Soccer Ball - Size 4
+  image: "/2020-04-14 16.26.42.jpg"
+  price: 24
+  description: |-
+    - Soft touch
+    - Size 4
+
+    1 available
+- title: Puma Trainer Soccer Ball - Size 4
+  image: "/2020-04-11 14.30.31.jpg"
+  price: 25
+  description: |-
+    - Soft touch
+    - Great bounce
+
+    3 available (colours shown)
+- title: Sporteck BOCA Soccer Ball - Size 4
+  image: "/BOCA-2.jpg"
+  price: 28
+  description: 1 available
+- title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
+  image: "/2020-04-14 16.23.55.jpg"
+  price: 29
+  description: |-
+    - Made with new abrasion resistant, environmentally friendly, kid grain PVC upper material
+    - Low rebound characteristic
+    - Butyl bladder for good air retention
+
+    3 available
 - title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
   image: "/w1B3205-1BasicTrainingBall.jpg"
   price: 19
@@ -106,44 +135,6 @@ promotions:
 
     3 available - Size 4
     2 available - Size 5
-- title: Nike Pitch Soccer Ball - Size 4
-  image: "/2020-04-14 16.26.42.jpg"
-  price: 24
-  description: |-
-    - Soft touch
-    - Size 4
-
-    1 available
-- title: Puma Trainer Soccer Ball - Size 4
-  image: "/2020-04-11 14.30.31.jpg"
-  price: 25
-  description: |-
-    - Soft touch
-    - Great bounce
-
-    3 available (colours shown)
-- title: Sporteck BOCA Soccer Ball - Size 4
-  image: "/BOCA-2.jpg"
-  price: 28
-  description: 1 available
-- title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
-  image: "/2020-04-14 16.23.55.jpg"
-  price: 29
-  description: |-
-    - Made with new abrasion resistant, environmentally friendly, kid grain PVC upper material
-    - Low rebound characteristic
-    - Butyl bladder for good air retention
-
-    3 available
-- title: Jeffix Street Resistant Rubber Soccer Ball - Size 5
-  image: "/2020-04-17 09.18.01.jpg"
-  price: 12.5
-  description: |-
-    - Recreational rubber made and highly resistant soccer ball
-    - 4 layer cover
-    - Ideal for the school yard
-
-    1 available
 - title: 360 PS5RB Diamond Tek Soccer Ball - Size 5
   image: "/PS5RBG_Green_Diamond_Dek_Soccer_Ball_13980_0231.jpg"
   price: 15
@@ -219,6 +210,15 @@ promotions:
     - Recommended as a club-level training ball
     - Soft touch and durable, bright and glossy finish
     - Hand-sewn with 32 panels, a latex bladder and a butyl valve
+
+    1 available
+- title: Jeffix Street Resistant Rubber Soccer Ball - Size 5
+  image: "/2020-04-17 09.18.01.jpg"
+  price: 12.5
+  description: |-
+    - Recreational rubber made and highly resistant soccer ball
+    - 4 layer cover
+    - Ideal for the school yard
 
     1 available
 - title: Mikasa SS50 Varsity Series Cushioned Cover Soccer Ball - Size 5
