@@ -3,13 +3,18 @@ layout: product
 permalink: "/products/training-supplies/"
 title: Training Supplies
 products:
-- Trainer Equipment
-- Replacement Parts for Kits
+- Air Blast Horns
 - Athletic Tape
 - First Aid Kits
-- Pylons
+- Fitness Balls
+- Fitness Monitors
+- Foam Rollers
+- Medicine Balls
 - Polydots
+- Pylons
 - Ladders
+- Replacement Parts for Kits
+- Trainer Equipment
 photos: []
 promotions:
 - title: Saucer Cone Set CM50P - 5 colour/50 pack
