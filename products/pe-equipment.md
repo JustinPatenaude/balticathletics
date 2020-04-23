@@ -144,7 +144,7 @@ promotions:
   price: 6.75
   description: 1 available
 - title: Rhino Skin RS7SET Medium Bounce Allround (Set of 6) - 7 inch
-  image: "/rs7set_l.jpg"
+  image: "/rs7set_la.jpg"
   price: 145
   description: "- Rhino Skin® coating for exceptional tear-resistance \n- Medium-density,
     medium-bounce foam core and soft exterior to prevent injury when hit with the
