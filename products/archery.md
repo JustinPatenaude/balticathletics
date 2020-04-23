@@ -6,6 +6,10 @@ suppliers:
 - suppliers/court-1.md
 - suppliers/monsens-sporting-goods-limited.md
 products:
+- title: Hunting Gear
+  image: ''
+  price: ''
+  description: ''
 - title: Bows
   image: ''
   price: ''
