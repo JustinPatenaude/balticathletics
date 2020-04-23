@@ -3,18 +3,22 @@ layout: product
 permalink: "/products/nets/"
 title: Nets
 products:
-- Futsal
-- Tennis
-- Beach Volleyball
 - Badminton
-- Volleyball
 - Basketball
-- Lacrosse
+- Beach Volleyball
 - Floor Hockey
+- Futsal
 - Hockey
+- Lacrosse
 - Soccer
+- Tennis
+- Volleyball
 photos: []
 promotions:
+- title: Promo Nets under each Sport
+  image: "/Nets sign.png"
+  price: 
+  description: ''
 - title: Tournament Volleyball Net - 32 ft
   image: "/VN8080-360_Tournament_Net.jpg"
   price: 75
