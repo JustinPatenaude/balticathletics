@@ -15,31 +15,6 @@ products:
 - Uniforms
 photos: []
 promotions:
-- title: Jeffix S4R Recreative Rubber Soccer Balls - Size 4
-  image: "/S4RKIT_1-Zc.jpg"
-  price: 8.5
-  description: |-
-    - Rubber
-    - 3 ply cover
-    - Durable butyl bladder
-
-    Available are:
-    - 1 Green
-    - 1 Orange
-- title: Jeffix S5R Rubber Recreative Soccer Ball - Size 5
-  image: "/S4RKIT_1-ZA.jpg"
-  price: 9
-  description: |-
-    - Rubber
-    - 3 ply cover
-    - Durable butyl bladder
-
-    Available are:
-    - 1 Red
-    - 1 Green
-    - 1 Yellow
-    - 1 Blue
-    - 2 Purple
 - title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
   image: "/Eletto LIGA comp soccer ball.jpg"
   price: 29
@@ -101,6 +76,17 @@ promotions:
   image: "/Eletto LNA-290 soccer ball.jpg"
   price: 
   description: ''
+- title: Jeffix S4R Recreative Rubber Soccer Balls - Size 4
+  image: "/S4RKIT_1-Zc.jpg"
+  price: 8.5
+  description: |-
+    - Rubber
+    - 3 ply cover
+    - Durable butyl bladder
+
+    Available are:
+    - 1 Green
+    - 1 Orange
 - title: Nike Pitch Soccer Ball - Size 4
   image: "/2020-04-14 16.26.42.jpg"
   price: 24
@@ -264,6 +250,20 @@ promotions:
     - Ideal for the school yard
 
     1 available
+- title: Jeffix S5R Rubber Recreative Soccer Ball - Size 5
+  image: "/S4RKIT_1-ZA.jpg"
+  price: 9
+  description: |-
+    - Rubber
+    - 3 ply cover
+    - Durable butyl bladder
+
+    Available are:
+    - 1 Red
+    - 1 Green
+    - 1 Yellow
+    - 1 Blue
+    - 2 Purple
 - title: Mikasa SS50 Varsity Series Cushioned Cover Soccer Ball - Size 5
   image: "/SS30-BK_1-Z a.jpg"
   price: 30
