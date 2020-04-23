@@ -19,6 +19,23 @@ products:
 - Balls
 photos: []
 promotions:
+- title: 360 SPG6Y Rubber Playground Balls - 6 inch
+  image: "/SPG6Y.jpg"
+  price: 5.75
+  description: |-
+    - Classic rubber play ball.
+    - Essential for classrooms, playgrounds and kickball.
+    - Nylon wound with 3-ply rubber cover for extra durability.
+
+    1 available
+- title: Cosom CM741722-00 Gym Tennis Balls
+  image: "/2020-04-16 16.31.55.jpg"
+  price: 1.5
+  description: |-
+    - dense foam
+    - yellow
+
+    21 available
 - title: Dimple-Tech DFPG7 Playground Ball - 7 inch
   image: "/2020-04-17 09.16.11.jpg"
   price: 12
@@ -76,27 +93,6 @@ promotions:
     - 1 Green
     - 1 Yellow
     - 1 Purple
-- title: Mikasa T8000 Rubber Cover Tetherball
-  image: "/T8000_1-Z.jpg"
-  price: 22
-  description: |-
-    - cushioned rubber cover
-    - competition rope included
-
-    1 yellow available
-- title: Mikasa T8000S Cushioned Cover Tetherball
-  image: "/T8000S_1-Z.jpg.png"
-  price: 25
-  description: |-
-    - Super stitched soft shell
-    - cushioned cover
-    - competition rope included
-
-    1 available
-- title: Mikasa T8000G Glow in the Dark Tetherball
-  image: "/T8000G_1-Z.jpg"
-  price: 30
-  description: 1 available
 - title: Mikasa P500 Playground Ball - 5 inch
   image: "/P500LIME_1-Z.jpg"
   price: 8
@@ -119,6 +115,34 @@ promotions:
     - Latex-free
 
     1 Pink available
+- title: Rhino Skin RS5 Micro Playball - 5 inch
+  image: "/rs5_l.jpg"
+  price: 14.5
+  description: |-
+    - Rhino Skin® coating for exceptional tear-resistance
+    - Low-density foam core and soft exterior to prevent injury when hit with the ball
+    - Size: 5" D
+    - Ball weight: 66 g
+    - Foam density: 65 kg/m3
+    - Recommended age: 10 years and up
+
+    1 Orange available
+- title: Rhino Skin RS65 Low Bounce Softi Foam Ball - 6 inch
+  image: "/rs65_l.jpg"
+  price: 15.5
+  description: |-
+    - Rhino Skin® coating for exceptional tear-resistance
+    - Low-density foam core and soft exterior to prevent injury when hit with the ball
+    - 6.3" D
+    - Ball weight: 83 g
+    - Foam density: 28 kg/m3
+    - Recommended age: 10 years and up
+
+    1 Royal Blue available
+- title: Concorde GPG7 Grippy Playground Ball - 7 inch
+  image: "/2020-04-17 09.01.39.jpg"
+  price: 6.75
+  description: 1 available
 - title: Rhino Skin RS7SET Medium Bounce Allround (Set of 6) - 7 inch
   image: "/rs7set_l.jpg"
   price: 145
@@ -138,18 +162,6 @@ promotions:
     - Recommended age: 10 years and up
 
     1 Yellow available
-- title: Rhino Skin RS5 Micro Playball - 5 inch
-  image: "/rs5_l.jpg"
-  price: 14.5
-  description: |-
-    - Rhino Skin® coating for exceptional tear-resistance
-    - Low-density foam core and soft exterior to prevent injury when hit with the ball
-    - Size: 5" D
-    - Ball weight: 66 g
-    - Foam density: 65 kg/m3
-    - Recommended age: 10 years and up
-
-    1 Orange available
 - title: Rhino Skin RS79 Softi Low Bounce Foam Ball - 7 inch
   image: "/rs79_l.jpg"
   price: 17
@@ -162,18 +174,6 @@ promotions:
     - Recommended age: 10 years and up
 
     1 Blue available
-- title: Rhino Skin RS65 Low Bounce Softi Foam Ball - 6 inch
-  image: "/rs65_l.jpg"
-  price: 15.5
-  description: |-
-    - Rhino Skin® coating for exceptional tear-resistance
-    - Low-density foam core and soft exterior to prevent injury when hit with the ball
-    - 6.3" D
-    - Ball weight: 83 g
-    - Foam density: 28 kg/m3
-    - Recommended age: 10 years and up
-
-    1 Royal Blue available
 - title: Rhino PG7RD Rubber Playground Ball - 7 inch
   image: "/pg7rd_l.jpg"
   price: 6.5
@@ -192,43 +192,6 @@ promotions:
     - durable 8.5” purple playground ball is always a popular choice!
 
     2 purple available
-- title: Swiftflyte 53118 Playground Ball - 8.5 inch
-  image: "/2020-04-17 08.49.47.jpg"
-  price: 6
-  description: 1 available
-- title: Trial TRHJ Super Soft and Safe Handball - 6.3 inch
-  image: "/TRHJ_-_Trial_Super_Soft_And_Safe_Handball.jpg"
-  price: 29
-  description: |
-    - Terrific grip
-    - For beginners.
-    - Junior size
-    - Non Sting!
-    - Non-toxic
-
-    1 available pink
-- title: 360 PGB6G Playground Series Rubber Basketball - Size 6
-  image: "/PGB6G-Playground_Series_Rubber_Basketball.jpg"
-  price: 9
-  description: |-
-    - Traditional 8 panel composition rubber cover ball.
-    - Nylon wound with 2-Ply butyl bladder for better air retention and consistent bounce.
-    - Heavy-duty construction.
-
-    1 available
-- title: 360 MR1K Rubber Medicine Ball - 1 kg
-  image: "/2020-04-17 14.51.41.jpg"
-  price: 19
-  description: 1 available
-- title: 360 SPG6Y Rubber Playground Balls - 6 inch
-  image: "/SPG6Y.jpg"
-  price: 5.75
-  description: |-
-    - Classic rubber play ball.
-    - Essential for classrooms, playgrounds and kickball.
-    - Nylon wound with 3-ply rubber cover for extra durability.
-
-    1 available
 - title: Softex P60Y Playball - 6 inch
   image: "/P60Y.jpg"
   price: 3.5
@@ -238,18 +201,31 @@ promotions:
     - Can be used for a variety of games and activities.
 
     2 yellow available
-- title: Concorde GPG7 Grippy Playground Ball - 7 inch
-  image: "/2020-04-17 09.01.39.jpg"
-  price: 6.75
+- title: Swiftflyte 53118 Playground Ball - 8.5 inch
+  image: "/2020-04-17 08.49.47.jpg"
+  price: 6
   description: 1 available
-- title: Cosom CM741722-00 Gym Tennis Balls
-  image: "/2020-04-16 16.31.55.jpg"
-  price: 1.5
+- title: Mikasa T8000 Rubber Cover Tetherball
+  image: "/T8000_1-Z.jpg"
+  price: 22
   description: |-
-    - dense foam
-    - yellow
+    - cushioned rubber cover
+    - competition rope included
 
-    21 available
+    1 yellow available
+- title: Mikasa T8000S Cushioned Cover Tetherball
+  image: "/T8000S_1-Z.jpg.png"
+  price: 25
+  description: |-
+    - Super stitched soft shell
+    - cushioned cover
+    - competition rope included
+
+    1 available
+- title: Mikasa T8000G Glow in the Dark Tetherball
+  image: "/T8000G_1-Z.jpg"
+  price: 30
+  description: 1 available
 - title: Plastic Segmented Skipping Rope PR8 - 8 ft
   image: "/pr8_l.jpg"
   price: 2.95
@@ -314,6 +290,30 @@ promotions:
     Sets of 4 wheels
     - 10 grey sets available
     - 9 red sets available
+- title: Trial TRHJ Super Soft and Safe Handball - 6.3 inch
+  image: "/TRHJ_-_Trial_Super_Soft_And_Safe_Handball.jpg"
+  price: 29
+  description: |
+    - Terrific grip
+    - For beginners.
+    - Junior size
+    - Non Sting!
+    - Non-toxic
+
+    1 available pink
+- title: 360 PGB6G Playground Series Rubber Basketball - Size 6
+  image: "/PGB6G-Playground_Series_Rubber_Basketball.jpg"
+  price: 9
+  description: |-
+    - Traditional 8 panel composition rubber cover ball.
+    - Nylon wound with 2-Ply butyl bladder for better air retention and consistent bounce.
+    - Heavy-duty construction.
+
+    1 available
+- title: 360 MR1K Rubber Medicine Ball - 1 kg
+  image: "/2020-04-17 14.51.41.jpg"
+  price: 19
+  description: 1 available
 date: '2019-03-29T23:08:03.000+00:00'
 
 ---
