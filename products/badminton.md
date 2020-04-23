@@ -10,6 +10,13 @@ products:
 - Shuttlecocks
 photos: []
 promotions:
+- title: Carlton ISO4.3 Maxi-Blade Badminton Racquet
+  image: "/2020-03-07 13.10.31.jpg"
+  price: 16
+  description: |-
+    - Titanium Alloy/Steel racquet
+
+    7 available
 - title: Black Knight Airstream 660 Badminton Racquet
   image: "/2020-03-09 11.50.18.jpg"
   price: 35
@@ -18,13 +25,6 @@ promotions:
     - Single piece racquet
 
     20 available
-- title: Carlton ISO4.3 Maxi-Blade Badminton Racquet
-  image: "/2020-03-07 13.10.31.jpg"
-  price: 16
-  description: |-
-    - Titanium Alloy/Steel racquet
-
-    7 available
 - title: Head Stream Badminton Racquet
   image: "/Head Stream Badminton Racquet.jpg"
   price: 39
