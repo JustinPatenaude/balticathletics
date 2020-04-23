@@ -157,6 +157,24 @@ promotions:
     - Size 5
 
     1 available
+- title: Adidas Juventus European Club Soccer Ball - Size 5
+  image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
+  price: 25
+  description: |-
+    Soft touch game or training ball
+    1 available
+- title: Adidas Krasava Soccer Ball - Size 5
+  image: "/KRASAVA Adidas SB size 5.jpg"
+  price: 45
+  description: |-
+    Match quality ball, superb bounce and feel
+    1 available
+- title: Adidas Pink/Blue Soccer Ball - Size 5
+  image: "/Adidas game ball size 5.jpg"
+  price: 25
+  description: |-
+    Soft touch ball for game or training.
+    12 available
 - title: Champion EX5PR Extreme Soccer Ball - Size 5
   image: "/ex5pr-a-front_l.jpg"
   price: 14
@@ -262,28 +280,6 @@ promotions:
     - Size 5
 
     1 available
-- title: Sporteck CAPO Soccer Ball - Size 5
-  image: "/sporteck CAPO soccer ball.jpg"
-  price: 30
-  description: ''
-- title: Adidas Krasava Soccer Ball - Size 5
-  image: "/KRASAVA Adidas SB size 5.jpg"
-  price: 45
-  description: |-
-    Match quality ball, superb bounce and feel
-    1 available
-- title: Adidas Pink/Blue Soccer Ball - Size 5
-  image: "/Adidas game ball size 5.jpg"
-  price: 25
-  description: |-
-    Soft touch ball for game or training.
-    12 available
-- title: Adidas Juventus European Club Soccer Ball - Size 5
-  image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
-  price: 25
-  description: |-
-    Soft touch game or training ball
-    1 available
 - title: Nike Pitch Game Soccer Ball - Size 5
   image: "/PITCH Nike SB size 5.jpg"
   price: 30
@@ -301,6 +297,10 @@ promotions:
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 25
   description: Only 1 available
+- title: Sporteck CAPO Soccer Ball - Size 5
+  image: "/sporteck CAPO soccer ball.jpg"
+  price: 30
+  description: ''
 - title: Reflex Soccer Goal Keeper Training Ball
   image: "/2020-04-14 16.25.49.jpg"
   price: 32
