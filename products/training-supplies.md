@@ -17,6 +17,16 @@ products:
 - Trainer Equipment
 photos: []
 promotions:
+- title: Cramer 950 Athletic Trainer's Tape - Box of 32 rolls
+  image: "/cramer 950 tape.jpg"
+  price: 95
+  description: |-
+    Designed from the ground up to meet the needs of athletic trainers. Quality adhesive, consistent unwind, easy tear...everything an athletic trainer needs 950 delivers.
+
+    • Zinc Oxide Tape provides excellent tensile strength and superior conformability
+    • Computer calibrated unwind for consistency and performance roll to roll
+    • Non-Latex adhesive
+    • A high-quality porous, 100% cotton tape at an affordable price
 - title: Saucer Cone Set CM50P - 5 colour/50 pack
   image: "/2020-04-09 19.13.46.jpg"
   price: 26
@@ -25,6 +35,19 @@ promotions:
     - 7.5" saucer cones
 
     8 available
+- title: Saucer Cone Set CM36P - 4 colour/36 pack
+  image: "/2020-04-09 19.14.58.jpg"
+  price: 18
+  description: |-
+    - includes carrying stacker
+
+     20 available
+- title: Inflatable Cones PP-508178/9-00  8" & 12" height
+  image: "/2020-03-07 12.25.41.jpg"
+  price: 15
+  description: |-
+    PP-508178-00  8" set of 6 - $15.00
+    PP-508179-00  12" set of 6 - $18.00
 - title: Acupoint L2489-6 Foam Roller - 5" dia x 12" high
   image: "/2020-03-07 12.33.42.jpg"
   price: 23
@@ -37,13 +60,6 @@ promotions:
     - 6" diameter
     - Made of expanded polypropylene (EPP)
     - Eco-friendly
-- title: Saucer Cone Set CM36P - 4 colour/36 pack
-  image: "/2020-04-09 19.14.58.jpg"
-  price: 18
-  description: |-
-    - includes carrying stacker
-
-     20 available
 - title: York 7852 All Person Fitness Glove - Size M
   image: "/2020-03-07 12.39.05.jpg"
   price: 12
@@ -167,12 +183,6 @@ promotions:
     - Made of lightweight aluminum and strong ABS plastic
 
     1 available
-- title: Inflatable Cones PP-508178/9-00  8" & 12" height
-  image: "/2020-03-07 12.25.41.jpg"
-  price: 15
-  description: |-
-    PP-508178-00  8" set of 6 - $15.00
-    PP-508179-00  12" set of 6 - $18.00
 - title: Exercise Station Activity Riser (Hoop holder) w/Base & Wand Posts
   image: ''
   price: 
@@ -198,15 +208,5 @@ promotions:
     zone alarm, calories burned counter, chronograph, exercise data recall, exercise
     timer, in-zone timer, % of maximum heart rate, maximum heart rate, EL backlight.\n\n1
     available"
-- title: Cramer 950 Athletic Trainer's Tape - Box of 32 rolls
-  image: "/cramer 950 tape.jpg"
-  price: 95
-  description: |-
-    Designed from the ground up to meet the needs of athletic trainers. Quality adhesive, consistent unwind, easy tear...everything an athletic trainer needs 950 delivers.
-
-    • Zinc Oxide Tape provides excellent tensile strength and superior conformability
-    • Computer calibrated unwind for consistency and performance roll to roll
-    • Non-Latex adhesive
-    • A high-quality porous, 100% cotton tape at an affordable price
 
 ---
