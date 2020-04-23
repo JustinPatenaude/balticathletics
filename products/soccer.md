@@ -16,7 +16,7 @@ products:
 photos: []
 promotions:
 - title: Jeffix S4R Rubber Recreative Soccer Ball - Size 5
-  image: "/S4RKIT_1-Z.jpg"
+  image: "/S4RKIT_1-ZA.jpg"
   price: 9
   description: |-
     - Rubber
