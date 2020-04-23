@@ -186,6 +186,10 @@ promotions:
     - Black
 
     1 available
+- title: Full Size Double First Base M155 w/spikes
+  image: "/M155_double-base.png"
+  price: 58
+  description: 7 available
 - title: Base Spikes HDB-NN-RNAIL10 & HDB Super Anchorhead Clips HDB-BB-SASH
   image: "/2020-04-14 09.55.03.jpg"
   price: 5
@@ -200,10 +204,6 @@ promotions:
     - Attach base straps onto clip
 
     12 available.
-- title: Full Size Double First Base M155 w/spikes
-  image: "/M155_double-base.png"
-  price: 58
-  description: 7 available
 - title: Baseball Base Spikes WCS w/strap attachments - Set of 3
   image: "/2020-04-13 10.34.14.jpg"
   price: 10
