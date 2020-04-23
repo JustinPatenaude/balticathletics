@@ -15,10 +15,17 @@ products:
 - Uniforms
 photos: []
 promotions:
-- title: ''
-  image: ''
-  price: 
-  description: ''
+- title: Jeffix S4R Recreative Rubber Soccer Balls - Size 4
+  image: "/S4RKIT_1-Zc.jpg"
+  price: 8.5
+  description: |-
+    - Rubber
+    - 3 ply cover
+    - Durable butyl bladder
+
+    Available are:
+    - 1 Green
+    - 1 Orange
 - title: Jeffix S5R Rubber Recreative Soccer Ball - Size 5
   image: "/S4RKIT_1-ZA.jpg"
   price: 9
