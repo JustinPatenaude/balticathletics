@@ -6,15 +6,7 @@ suppliers:
 - suppliers/court-1.md
 - suppliers/monsens-sporting-goods-limited.md
 products:
-- title: Targets
-  image: ''
-  price: ''
-  description: ''
-- title: Shafts
-  image: ''
-  price: ''
-  description: ''
-- title: Hunting Gear
+- title: Arrows
   image: ''
   price: ''
   description: ''
@@ -22,7 +14,11 @@ products:
   image: ''
   price: ''
   description: ''
-- title: Shooting Gear
+- title: Crossbows
+  image: ''
+  price: ''
+  description: ''
+- title: Hunting Gear
   image: ''
   price: ''
   description: ''
@@ -30,11 +26,15 @@ products:
   image: ''
   price: ''
   description: ''
-- title: Crossbows
+- title: Shafts
   image: ''
   price: ''
   description: ''
-- title: Arrows
+- title: Shooting Gear
+  image: ''
+  price: ''
+  description: ''
+- title: Targets
   image: ''
   price: ''
   description: ''
