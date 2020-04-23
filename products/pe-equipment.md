@@ -19,16 +19,6 @@ products:
 - Balls
 photos: []
 promotions:
-- title: Dimple-Tech DFPG8 Playground Ball - 8 inch
-  image: "/2020-04-17 09.17.16.jpg"
-  price: 15.25
-  description: |-
-    - made with cotton wrap conferring incredible flexibility
-    - coated with PVC foam for comfort and unmatched feel
-    - unique dimpled finish, eliminating pinching and producing a silent rebound and a reliable path.
-    - Size: 8" (21 cm)
-
-    1 blue available
 - title: Dimple-Tech DFPG7 Playground Ball - 7 inch
   image: "/2020-04-17 09.16.11.jpg"
   price: 12
@@ -39,6 +29,16 @@ promotions:
     - Size: 7" (18 cm)
 
     1 purple available
+- title: Dimple-Tech DFPG8 Playground Ball - 8 inch
+  image: "/2020-04-17 09.17.16.jpg"
+  price: 15.25
+  description: |-
+    - made with cotton wrap conferring incredible flexibility
+    - coated with PVC foam for comfort and unmatched feel
+    - unique dimpled finish, eliminating pinching and producing a silent rebound and a reliable path.
+    - Size: 8" (21 cm)
+
+    1 blue available
 - title: Jeffix PR600 Playground Rubber Ball - 6 inch
   image: "/PR600_1-Z.jpg"
   price: 5.75
