@@ -15,8 +15,8 @@ photos: []
 suppliers: []
 date: '2019-03-29T23:16:20.000+00:00'
 promotions:
-- title: Promo items under "Training"
-  image: "/Health and Fitness sign.png"
+- title: Promo product under "Training Supplies"
+  image: "/Health and Fitness sign a.png"
   price: 
   description: ''
 
