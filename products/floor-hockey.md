@@ -2,7 +2,12 @@
 layout: product
 permalink: "/products/floor-hockey/"
 title: Floor Hockey
-products: []
+products:
+- Balls
+- Goals
+- Goalie Protection
+- Goalie Sticks
+- Player Sticks
 photos: []
 promotions:
 - title: Accufli Floorball Sticks - 70 cm, 80cm, 90cm, 100cm
