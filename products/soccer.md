@@ -15,6 +15,24 @@ products:
 - Balls
 photos: []
 promotions:
+- title: Jeffix Resistant Rubber Soccer Ball - Size 5
+  image: "/2020-04-17 09.18.01.jpg"
+  price: 12.5
+  description: |-
+    - Recreational rubber made and highly resistant soccer ball
+    - 4 layer cover
+    - Ideal for the school yard
+
+    1 available
+- title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
+  image: "/Eletto LIGA comp soccer ball.jpg"
+  price: 29
+  description: ''
+- title: 360 PGS4B Playground Series Soccer Ball - Size 4
+  image: "/PGS4B-web.jpg"
+  price: 7.75
+  description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
+    for classroom use.\n\n5 available"
 - price: 48
   description: |-
     - Set of 6 soccer balls
@@ -25,15 +43,6 @@ promotions:
     1 set available
   title: Speedskin Soft Soccer Ball Set of 6 - Size 4
   image: "/SSSOCCERKIT_1-Z.jpg"
-- title: 360 PGS4B Playground Series Soccer Ball - Size 4
-  image: "/PGS4B-web.jpg"
-  price: 7.75
-  description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
-    for classroom use.\n\n5 available"
-- title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
-  image: "/Eletto LIGA comp soccer ball.jpg"
-  price: 29
-  description: ''
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
