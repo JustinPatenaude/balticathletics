@@ -15,15 +15,6 @@ products:
 - Balls
 photos: []
 promotions:
-- title: Jeffix Street Resistant Rubber Soccer Ball - Size 5
-  image: "/2020-04-17 09.18.01.jpg"
-  price: 12.5
-  description: |-
-    - Recreational rubber made and highly resistant soccer ball
-    - 4 layer cover
-    - Ideal for the school yard
-
-    1 available
 - title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
   image: "/Eletto LIGA comp soccer ball.jpg"
   price: 29
@@ -144,6 +135,15 @@ promotions:
     - Butyl bladder for good air retention
 
     3 available
+- title: Jeffix Street Resistant Rubber Soccer Ball - Size 5
+  image: "/2020-04-17 09.18.01.jpg"
+  price: 12.5
+  description: |-
+    - Recreational rubber made and highly resistant soccer ball
+    - 4 layer cover
+    - Ideal for the school yard
+
+    1 available
 - title: 360 PS5RB Diamond Tek Soccer Ball - Size 5
   image: "/PS5RBG_Green_Diamond_Dek_Soccer_Ball_13980_0231.jpg"
   price: 15
