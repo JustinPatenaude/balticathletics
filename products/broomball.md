@@ -2,7 +2,11 @@
 layout: product
 permalink: "/products/broomball/"
 title: Broomball
-products: []
+products:
+- Balls
+- Broomball Shoes
+- Broomball Sticks
 photos: []
+promotions: []
 
 ---
