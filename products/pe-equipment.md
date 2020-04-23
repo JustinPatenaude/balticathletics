@@ -19,6 +19,16 @@ products:
 - Balls
 photos: []
 promotions:
+- title: Dimple-Tech Playground Ball - 7 inch
+  image: "/2020-04-17 09.16.11.jpg"
+  price: 12
+  description: |-
+    - cotton wrap conferring incredible flexibility
+    - coated with PVC foam for comfort and unmatched feel
+    - a unique dimpled finish, eliminating pinching and producing a silent rebound and a reliable path.
+    - Size: 7" (18 cm)
+
+    1 purple available
 - title: Jeffix PR600 Playground Rubber Ball - 6 inch
   image: "/PR600_1-Z.jpg"
   price: 5.75
@@ -101,7 +111,7 @@ promotions:
     1 Pink available
 - title: Rhino Skin RS7SET Medium Bounce Allround (Set of 6) - 7 inch
   image: "/rs7set_l.jpg"
-  price: 145.0
+  price: 145
   description: "- Rhino Skin® coating for exceptional tear-resistance \n- Medium-density,
     medium-bounce foam core and soft exterior to prevent injury when hit with the
     ball \n- 7\" D\n- Ball Weight: 133 g\n- Foam density: 35 kg/m3\n- Set of 6 balls
