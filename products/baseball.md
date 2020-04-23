@@ -12,6 +12,12 @@ products:
 - Pants
 photos: []
 promotions:
+- title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
+  image: "/234DBMK_GRAY.jpg"
+  price: 22
+  description: |-
+    Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
+    Belt not included
 - title: Franklin FRK-BB-22612 Fieldmaster Glove - 11" YOUTH - Left hand catch
   image: "/2020-04-13 14.20.17.jpg"
   price: 24
@@ -223,12 +229,6 @@ promotions:
     Heavy cardboard back and spiral bound cover is durable enough to last all season
     \n- Includes batting average chart, roster, and line-up pages for quick access
     to statistics\n- Suitable for all baseball and softball games"
-- title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
-  image: "/234DBMK_GRAY.jpg"
-  price: 22
-  description: |-
-    Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
-    Belt not included
 date: '2019-03-29T22:54:55.000+00:00'
 
 ---
