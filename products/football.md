@@ -3,17 +3,17 @@ layout: product
 permalink: "/products/football/"
 title: Football
 products:
-- Helmet Decals
-- Endzone Pylons
-- Pylons
-- Yardage Markers
-- Linesman Marker Sets
-- Post Padding
-- Football Uprights
-- Uniforms
-- Mouthguards
 - Belts w/ Flags
+- Endzone Pylons
 - Footballs
+- Football Uprights
+- Helmet Decals
+- Linesman Marker Sets
+- Mouthguards
+- Post Padding
+- Pylons
+- Uniforms
+- Yardage Markers
 photos: []
 promotions:
 - title: Spalding Rookie Gear Composite Football - Size 6
