@@ -239,13 +239,6 @@ products:
   price: 7.75
   description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
     for classroom use.\n\n5 available"
-- title: Traditions 209 Starting Pistol
-  image: "/Traditions 209 starting pistol.jpg"
-  price: 245
-  description: |
-    uses 209 primers (100/box $12)
-    - includes carrying case and cleaning brush shown.
-    * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
 - title: Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
   image: "/diadora finale sock.PNG"
   price: 6.5
@@ -2052,6 +2045,15 @@ products:
   description: |-
     Advance Pro Soft Tack Varsity Size 9 Composite Football
     - 8 available
+- title: Wilson 84-7967 Prestige Indoor Volleyball
+  image: "/prestige red.white.jpg"
+  price: 27
+  description: |-
+    - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
+    - Wound, cloth-wrapped (CW) carcass construction for extended durability
+    - V-Tec seams
+    - Official size and weight
+    - 5 available
 - title: Spalding 72-6218C TF-COMP Football
   image: "/726218C TF-COMP Spalding FB.jpg"
   price: 30
@@ -2095,6 +2097,19 @@ products:
     support mechanism keeps the frame stable during play. 10 angle adjustments on bar. Net is held by 52 steel “S” hooks spread around the frame. Non-marking guards at the bottom. Frame size is 1 m x 1 m and features rust-proof steel net rings.
 
     FOB Winnipeg
+- title: Track & Field Measuring Tape MT100 - 30 metres
+  image: "/MT100 FT measuring tape.jpg"
+  price: 10
+  description: |-
+    Open reel
+    - 22 available
+- title: Traditions 209 Starting Pistol
+  image: "/Traditions 209 starting pistol.jpg"
+  price: 245
+  description: |
+    uses 209 primers (100/box $12)
+    - includes carrying case and cleaning brush shown.
+    * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
 - title: Traditions 209 Starting Pistol Blanks
   image: "/209 primer blanks.jpg"
   price: 12
@@ -2108,21 +2123,6 @@ products:
   description: |-
     - 100 blanks per container
     - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
-- title: Track & Field Measuring Tape MT100 - 30 metres
-  image: "/MT100 FT measuring tape.jpg"
-  price: 10
-  description: |-
-    Open reel
-    - 22 available
-- title: Wilson 84-7967 Prestige Indoor Volleyball
-  image: "/prestige red.white.jpg"
-  price: 27
-  description: |-
-    - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
-    - Wound, cloth-wrapped (CW) carcass construction for extended durability
-    - V-Tec seams
-    - Official size and weight
-    - 5 available
 
 ---
 Welcome to our promo page!!
