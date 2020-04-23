@@ -29,7 +29,7 @@ promotions:
     - Size: 8" (21 cm)
 
     1 blue available
-- title: Dimple-Tech Playground Ball - 7 inch
+- title: Dimple-Tech DFPG7 Playground Ball - 7 inch
   image: "/2020-04-17 09.16.11.jpg"
   price: 12
   description: |-
