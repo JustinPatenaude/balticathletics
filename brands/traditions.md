@@ -17,6 +17,6 @@ photos:
 info: |-
   Importing starter pistols involves a lot of government red tape, so we have connected with a supplier who is able to get **Traditions Starter Pistols and Blanks** in for us, taking care of that process.
 
-  We only get a limited number in each year. For current pricing and availability please check our [Promotions page](https://balticathletics.com/promotions/).
+  We only get a limited number in each year. For current pricing and availability please check our [Track & Field page](https://balticathletics.com/products/track-field/).
 
 ---
