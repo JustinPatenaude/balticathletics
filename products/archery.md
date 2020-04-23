@@ -6,6 +6,10 @@ suppliers:
 - suppliers/court-1.md
 - suppliers/monsens-sporting-goods-limited.md
 products:
+- title: Shafts
+  image: ''
+  price: ''
+  description: ''
 - title: Hunting Gear
   image: ''
   price: ''
