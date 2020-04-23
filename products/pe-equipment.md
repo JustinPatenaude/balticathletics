@@ -19,6 +19,16 @@ products:
 - Balls
 photos: []
 promotions:
+- title: Dimple-Tech DFPG8 Playground Ball - 8 inch
+  image: "/2020-04-17 09.17.16.jpg"
+  price: 15.25
+  description: |-
+    - made with cotton wrap conferring incredible flexibility
+    - coated with PVC foam for comfort and unmatched feel
+    - unique dimpled finish, eliminating pinching and producing a silent rebound and a reliable path.
+    - Size: 8" (21 cm)
+
+    1 blue available
 - title: Dimple-Tech Playground Ball - 7 inch
   image: "/2020-04-17 09.16.11.jpg"
   price: 12
