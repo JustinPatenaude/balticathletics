@@ -19,6 +19,14 @@ products:
 - Balls
 photos: []
 promotions:
+- title: Cosom CM741722-00 Gym Tennis Balls
+  image: "/2020-04-16 16.31.55.jpg"
+  price: 1.5
+  description: |-
+    - dense foam
+    - yellow
+
+    21 available
 - title: 360 SPG6Y Rubber Playground Balls - 6 inch
   image: "/SPG6Y.jpg"
   price: 5.75
@@ -28,14 +36,6 @@ promotions:
     - Nylon wound with 3-ply rubber cover for extra durability.
 
     1 available
-- title: Cosom CM741722-00 Gym Tennis Balls
-  image: "/2020-04-16 16.31.55.jpg"
-  price: 1.5
-  description: |-
-    - dense foam
-    - yellow
-
-    21 available
 - title: Dimple-Tech DFPG7 Playground Ball - 7 inch
   image: "/2020-04-17 09.16.11.jpg"
   price: 12
