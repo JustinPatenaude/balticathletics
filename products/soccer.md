@@ -15,6 +15,16 @@ products:
 - Balls
 photos: []
 promotions:
+- price: 48
+  description: |-
+    - Set of 6 soccer balls
+    - SPEEDSKIN polyurethane covered high density foam.
+    - Size: #4
+    - Assorted colors
+
+    1 set available
+  title: Speedskin Soft Soccer Ball Set of 6 - Size 4
+  image: "/SSSOCCERKIT_1-Z.jpg"
 - title: 360 PGS4B Playground Series Soccer Ball - Size 4
   image: "/PGS4B-web.jpg"
   price: 7.75
