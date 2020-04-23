@@ -3,20 +3,20 @@ layout: product
 permalink: "/products/pe-equipment/"
 title: PE Equipment
 products:
-- Balance & Movement
-- Parachute
-- Hoops & Rings
-- Bean Bags & Tossables
-- Paddles & Scoops
-- Ball kits
 - Active Play & Games
-- Dodgeballs
-- Outdoor Balls
-- Tether Balls
-- Team Games
-- Scooters
-- Games
+- Balance & Movement
 - Balls
+- Ball kits
+- Bean Bags & Tossables
+- Dodgeballs
+- Games
+- Hoops & Rings
+- Outdoor Balls
+- Paddles & Scoops
+- Parachute
+- Scooters
+- Team Games
+- Tether Balls
 photos: []
 promotions:
 - title: Cosom CM741722-00 Gym Tennis Balls
