@@ -26,7 +26,7 @@ sections:
   exclude: "**/index.md"
   new_doc_ext: md
   templates:
-  - category
+  - product
 - type: document
   path: promotions.md
   label: Promotions
