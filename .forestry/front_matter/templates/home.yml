@@ -35,5 +35,3 @@ fields:
     max: 
     labelField: 
   label: Slideshow
-pages:
-- index.md
