@@ -42,7 +42,7 @@ fields:
   - name: photo
     type: file
     config:
-      maxSize: 250
+      maxSize: 64
     label: Photo
   config:
     min: 
@@ -61,7 +61,7 @@ fields:
   - name: image
     type: file
     config:
-      maxSize: 250
+      maxSize: 64
     label: Image
     description: The image of the product
   - name: price
