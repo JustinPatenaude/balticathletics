@@ -312,6 +312,12 @@ products:
     Heavy cardboard back and spiral bound cover is durable enough to last all season
     \n- Includes batting average chart, roster, and line-up pages for quick access
     to statistics\n- Suitable for all baseball and softball games"
+- title: Spalding 71-0708C Rookie Basketball - size 27.5
+  image: "/710708C Spalding Rookie BB 27.5.jpg"
+  price: 11
+  description: |-
+    Armadillo graphics rubber ball (25% lighter weight)
+     - 20 available
 - title: Spalding 73-3038C NBA For Her Basketball - Size 28.5
   image: "/733038C Spalding NBA For Her BB size 6.jpg"
   price: 10
@@ -604,12 +610,6 @@ products:
     medium-bounce foam core and soft exterior to prevent injury when hit with the
     ball \n- 7\" D\n- Ball Weight: 133 g\n- Foam density: 35 kg/m3\n- Set of 6 balls
     (1 of each) Red, Orange, Yellow, Green, Blue & Purple \n\n1 set available"
-- title: Spalding 71-0708C Rookie Basketball - size 27.5
-  image: "/710708C Spalding Rookie BB 27.5.jpg"
-  price: 11
-  description: |-
-    Armadillo graphics rubber ball (25% lighter weight)
-     - 20 available
 - title: Jeffix PR700 Playground Rubber Ball - 7 inch
   image: "/PR700-R_1-Z.jpg.png"
   price: 6.5
