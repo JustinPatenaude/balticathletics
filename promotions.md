@@ -312,6 +312,18 @@ products:
     Heavy cardboard back and spiral bound cover is durable enough to last all season
     \n- Includes batting average chart, roster, and line-up pages for quick access
     to statistics\n- Suitable for all baseball and softball games"
+- title: Spalding 73-3038C NBA For Her Basketball - Size 28.5
+  image: "/733038C Spalding NBA For Her BB size 6.jpg"
+  price: 10
+  description: |-
+    - Rubber
+    - 12 available
+- title: Spalding 642478C NBA Outdoor Jr Basketball - size 28.5
+  image: "/642478C Spalding NBA Outdoor Jr BB 28.5.jpg"
+  price: 10
+  description: |-
+    rubber
+    - 14 available
 - title: 360 PGB5R Playground Series Rubber Basketball - Size 5
   image: "/PGB5R_Playground-Series-Basketballs-Size-5-Red-webjpg.jpg"
   price: 8.5
@@ -485,6 +497,18 @@ products:
 
     19 brown available 62-9888C
     8 red/blue available 62-9929C
+- title: Spalding 72-6218C TF-COMP Football
+  image: "/726218C TF-COMP Spalding FB.jpg"
+  price: 30
+  description: |-
+    Composite varsity size 9 football
+    - 10 available
+- title: Spalding 72-6548C Advance Pro Composite Football
+  image: "/726548C Advance Pro Spalding FB.jpg"
+  price: 30
+  description: |-
+    Advance Pro Soft Tack Varsity Size 9 Composite Football
+    - 8 available
 - title: Spalding 727018C Alpha Composite Leather Youth Football - Size 7
   image: "/2020-04-11 12.05.21.jpg"
   price: 28
@@ -592,6 +616,12 @@ products:
     medium-bounce foam core and soft exterior to prevent injury when hit with the
     ball \n- 7\" D\n- Ball Weight: 133 g\n- Foam density: 35 kg/m3\n- Set of 6 balls
     (1 of each) Red, Orange, Yellow, Green, Blue & Purple \n\n1 set available"
+- title: Spalding 71-0708C Rookie Basketball - size 27.5
+  image: "/710708C Spalding Rookie BB 27.5.jpg"
+  price: 11
+  description: |-
+    Armadillo graphics rubber ball (25% lighter weight)
+     - 20 available
 - title: Jeffix PR700 Playground Rubber Ball - 7 inch
   image: "/PR700-R_1-Z.jpg.png"
   price: 6.5
@@ -754,6 +784,10 @@ products:
   image: "/2020-04-17 14.51.41.jpg"
   price: 19
   description: 1 available
+- title: Bean Bag - Ultra-soft, 4" PX-501695
+  image: "/bean bags.jpg"
+  price: 1.75
+  description: 6 colours available (green, blue, yellow, red, purple, orange)
 - title: Crocheted Hackey Sack
   image: "/hackysack2.jpg"
   price: 3
@@ -776,10 +810,6 @@ products:
   image: "/2020-04-16 16.40.35.jpg"
   price: 12
   description: 1 set available
-- title: Bean Bag - Ultra-soft, 4" PX-501695
-  image: "/bean bags.jpg"
-  price: 1.75
-  description: 6 colours available (green, blue, yellow, red, purple, orange)
 - title: Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
   image: "/2020-03-07 12.12.53.jpg"
   price: 35
@@ -788,6 +818,39 @@ products:
   image: "/PX-501332-00 Sponge Dice (colour dot sides).jpg"
   price: 4.5
   description: 5 available
+- title: Scooter 12x12 square, no handles
+  image: "/cosom scooter no handles.jpg"
+  price: 18
+  description: 3 available
+- title: Scooter 16x16 square, no handles
+  image: "/cosom scooter no handles.jpg"
+  price: 24
+  description: ''
+- title: Scooter 12x12 square, w/handles
+  image: "/cosom 12x12 deluxe scooter.jpeg"
+  price: 22
+  description: |-
+    assorted colours
+    - 24 available
+- title: Scooter 16x16 square w/handles
+  image: "/cosom 16x16 deluxe scooter.jpeg"
+  price: 27
+  description: 25 available
+- title: Scooter 16x16 rounded w/handles
+  image: "/2020-03-07 10.51.40.jpg"
+  price: 30
+  description: |-
+    - connecting
+    - assorted colours
+    - 11 available
+- title: Scooter wheels - Sets of 4
+  image: "/2020-03-07 11.05.28.jpg"
+  price: 16
+  description: |-
+    Rollerblade ball-bearing scooter wheels
+    Sets of 4 wheels
+    - 10 grey sets available
+    - 9 red sets available
 - title: Franklin FRK-PIC-52710 Pickleball-X Volt Set
   image: "/2020-04-13 10.31.20.jpg"
   price: 40
@@ -1222,6 +1285,57 @@ products:
     - yellow
 
     21 available
+- title: Tchoukball TRN2 Frames (Red) - Sold as set of 2
+  image: "/TRN2-rebounder-360athl.jpg"
+  price: 350
+  description: |-
+    Includes:
+    - 2 frames
+    - 2 balls (sizes 0, 1, 2 or 3)
+    - Game instructions (in English or French)
+
+    FITB approved! Drawn steel tube with rounded corners and a strong foldable
+    support mechanism keeps the frame stable during play. 10 angle adjustments on bar. Net is held by 52 steel “S” hooks spread around the frame. Non-marking guards at the bottom. Frame size is 1 m x 1 m and features rust-proof steel net rings.
+
+    FOB Winnipeg
+- title: Table Tennis Set TT3S
+  image: "/TT3S Table Tennis set.jpg"
+  price: 22
+  description: |-
+    2 player set with paddles, balls, net and clamps
+    - 8 available
+- title: Table Tennis Paddle Kit TT2P
+  image: "/TT2P Table Tennis Paddle Kit.jpg"
+  price: 14
+  description: |-
+    Set of 2 paddles with balls and carrying bag
+    - 20 sets available
+- title: Traditions 209 Starting Pistol
+  image: "/Traditions 209 starting pistol.jpg"
+  price: 245
+  description: |
+    uses 209 primers (100/box $12)
+    - includes carrying case and cleaning brush shown.
+    * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
+- title: Traditions 209 Starting Pistol Blanks
+  image: "/209 primer blanks.jpg"
+  price: 12
+  description: |-
+    - 100 blanks per box
+    - To be used with Traditions 209 starting pistol
+    - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
+- title: 22 Caliber 6mm Acorn Starting Blanks
+  image: "/22 Cal blanks.jpg"
+  price: 30
+  description: |-
+    - 100 blanks per container
+    - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
+- title: Track & Field Measuring Tape MT100 - 30 metres
+  image: "/MT100 FT measuring tape.jpg"
+  price: 10
+  description: |-
+    Open reel
+    - 22 available
 - title: Professional High Jump Standards (HJSP)
   image: "/HJSP.JPG"
   price: 995
@@ -1356,17 +1470,6 @@ products:
   image: "/training hurdles.jpg"
   price: 9
   description: 3 available
-- title: Champion VB5 Synthetic Leather Volleyball
-  image: "/vb5-front-l.jpg"
-  price: 17
-  description: |-
-    - Official size and weight volleyball
-    - Deluxe synthetic leather cover for comfort and durability
-    - Nylon wound 2-ply butyl bladder for exceptional air retention
-    - Designed for indoor and outdoor use
-    - White
-
-    6 available
 - title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
@@ -1382,6 +1485,17 @@ products:
     - Ideal for new, recreational, or younger players.
 
     1 blue available
+- title: Champion VB5 Synthetic Leather Volleyball
+  image: "/vb5-front-l.jpg"
+  price: 17
+  description: |-
+    - Official size and weight volleyball
+    - Deluxe synthetic leather cover for comfort and durability
+    - Nylon wound 2-ply butyl bladder for exceptional air retention
+    - Designed for indoor and outdoor use
+    - White
+
+    6 available
 - title: ChampionVB2GB Composite Volleyball
   image: "/vb2gb-front-l.jpg"
   price: 20
@@ -1404,15 +1518,17 @@ products:
     - White
 
     4 available
-- title: Wilson I-COR Power Touch Volleyball
-  image: "/I Cor Power touch volleyball.jpg"
-  price: 42
+- title: Champion VL20 Volleyball Trainer - Size 8
+  image: "/vl20-front-l.jpg"
+  price: 15
   description: |-
-    - Microfibre composite Leather cover
-    - Latex power lining creates a trampoline effect so the ball explodes off a player's hands at impact for maximum speed
-    - Butyl rubber bladder
+    - Same size as a traditional volleyball but 20% lighter for training and accuracy practice
+    - 18 Soft, hand-sewn vinyl-covered nylon panels
+    - Tough rubber bladder for exceptional air retention
+    - Size 8
+    - Yellow (not exact ball shown-graphics on ball different)
 
-    14 available (assorted colours)
+    2 available
 - title: Mikasa VSL215PNK Indoor/Outdoor Volleyball
   image: "/VSL215PNK_1-Z.jpg"
   price: 26
@@ -1441,17 +1557,24 @@ products:
     - Builds strength in the back, shoulder, arm and wrists
 
     1 available
-- title: Champion VL20 Volleyball Trainer - Size 8
-  image: "/vl20-front-l.jpg"
-  price: 15
+- title: Wilson I-COR Power Touch Volleyball
+  image: "/I Cor Power touch volleyball.jpg"
+  price: 42
   description: |-
-    - Same size as a traditional volleyball but 20% lighter for training and accuracy practice
-    - 18 Soft, hand-sewn vinyl-covered nylon panels
-    - Tough rubber bladder for exceptional air retention
-    - Size 8
-    - Yellow (not exact ball shown-graphics on ball different)
+    - Microfibre composite Leather cover
+    - Latex power lining creates a trampoline effect so the ball explodes off a player's hands at impact for maximum speed
+    - Butyl rubber bladder
 
-    2 available
+    14 available (assorted colours)
+- title: Wilson 84-7967 Prestige Indoor Volleyball
+  image: "/prestige red.white.jpg"
+  price: 27
+  description: |-
+    - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
+    - Wound, cloth-wrapped (CW) carcass construction for extended durability
+    - V-Tec seams
+    - Official size and weight
+    - 5 available
 - title: Mikasa VXL30 Official 2016 Olympics Beach Volleyball Replica
   image: "/VXL30_1-Z.jpg"
   price: 23
@@ -1500,6 +1623,21 @@ products:
     - Inserts into the top of 2" badminton posts for mini-volleyball play
     - 4 easy height adjustments
     - 2 eyelets for side by side courts
+- title: Spalding 3" Aluminum Slide Multi-Sport System
+  image: "/spalding system.png"
+  price: 2950
+  description: |-
+    Lightweight and easy to set up
+    Height strength upright made of 3" (76mm) O.D. extruded aluminum
+    Navy blue powder coated upright with silver powder coated sliders
+    Easy adjustment regardless of competitive height
+    Use at all levels of volleyball, tennis and badminton
+    Requires 3" floor sleeves - sold separately
+
+    SS110 One-Court Slide Multi-Sport System, includes:
+    - Slide Multi-Sport Upright Package
+    - Kevlar Net, Antennas, Pockets
+    - Upright End Pads - Pair (choice of colour)
 - title: Tournament Volleyball Net - 32 ft
   image: "/VN8080-360_Tournament_Net.jpg"
   price: 75
@@ -1985,144 +2123,6 @@ products:
     - This water resistant nylon pinnie has elastic stretch webbing on one side and velcro on the other.
     - One size
     - 10 available
-- title: Scooter 12x12 square, no handles
-  image: "/cosom scooter no handles.jpg"
-  price: 18
-  description: 3 available
-- title: Scooter 12x12 square, w/handles
-  image: "/cosom 12x12 deluxe scooter.jpeg"
-  price: 22
-  description: |-
-    assorted colours
-    - 24 available
-- title: Scooter 16x16 square, no handles
-  image: "/cosom scooter no handles.jpg"
-  price: 24
-  description: ''
-- title: Scooter 16x16 square w/handles
-  image: "/cosom 16x16 deluxe scooter.jpeg"
-  price: 27
-  description: 25 available
-- title: Scooter 16x16 rounded w/handles
-  image: "/2020-03-07 10.51.40.jpg"
-  price: 30
-  description: |-
-    - connecting
-    - assorted colours
-    - 11 available
-- title: Scooter wheels - Sets of 4
-  image: "/2020-03-07 11.05.28.jpg"
-  price: 16
-  description: |-
-    Rollerblade ball-bearing scooter wheels
-    Sets of 4 wheels
-    - 10 grey sets available
-    - 9 red sets available
-- title: Spalding 3" Aluminum Slide Multi-Sport System
-  image: "/spalding system.png"
-  price: 2950
-  description: |-
-    Lightweight and easy to set up
-    Height strength upright made of 3" (76mm) O.D. extruded aluminum
-    Navy blue powder coated upright with silver powder coated sliders
-    Easy adjustment regardless of competitive height
-    Use at all levels of volleyball, tennis and badminton
-    Requires 3" floor sleeves - sold separately
-
-    SS110 One-Court Slide Multi-Sport System, includes:
-    - Slide Multi-Sport Upright Package
-    - Kevlar Net, Antennas, Pockets
-    - Upright End Pads - Pair (choice of colour)
-- title: Spalding 73-3038C NBA For Her Basketball - Size 28.5
-  image: "/733038C Spalding NBA For Her BB size 6.jpg"
-  price: 10
-  description: |-
-    - Rubber
-    - 12 available
-- title: Spalding 72-6548C Advance Pro Composite Football
-  image: "/726548C Advance Pro Spalding FB.jpg"
-  price: 30
-  description: |-
-    Advance Pro Soft Tack Varsity Size 9 Composite Football
-    - 8 available
-- title: Wilson 84-7967 Prestige Indoor Volleyball
-  image: "/prestige red.white.jpg"
-  price: 27
-  description: |-
-    - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
-    - Wound, cloth-wrapped (CW) carcass construction for extended durability
-    - V-Tec seams
-    - Official size and weight
-    - 5 available
-- title: Spalding 72-6218C TF-COMP Football
-  image: "/726218C TF-COMP Spalding FB.jpg"
-  price: 30
-  description: |-
-    Composite varsity size 9 football
-    - 10 available
-- title: Spalding 71-0708C Rookie Basketball - size 27.5
-  image: "/710708C Spalding Rookie BB 27.5.jpg"
-  price: 11
-  description: |-
-    Armadillo graphics rubber ball (25% lighter weight)
-     - 20 available
-- title: Spalding 642478C NBA Outdoor Jr Basketball - size 28.5
-  image: "/642478C Spalding NBA Outdoor Jr BB 28.5.jpg"
-  price: 10
-  description: |-
-    rubber
-    - 14 available
-- title: Table Tennis Paddle Kit TT2P
-  image: "/TT2P Table Tennis Paddle Kit.jpg"
-  price: 14
-  description: |-
-    Set of 2 paddles with balls and carrying bag
-    - 20 sets available
-- title: Table Tennis Set TT3S
-  image: "/TT3S Table Tennis set.jpg"
-  price: 22
-  description: |-
-    2 player set with paddles, balls, net and clamps
-    - 8 available
-- title: Tchoukball TRN2 Frames (Red) - Sold as set of 2
-  image: "/TRN2-rebounder-360athl.jpg"
-  price: 350
-  description: |-
-    Includes:
-    - 2 frames
-    - 2 balls (sizes 0, 1, 2 or 3)
-    - Game instructions (in English or French)
-
-    FITB approved! Drawn steel tube with rounded corners and a strong foldable
-    support mechanism keeps the frame stable during play. 10 angle adjustments on bar. Net is held by 52 steel “S” hooks spread around the frame. Non-marking guards at the bottom. Frame size is 1 m x 1 m and features rust-proof steel net rings.
-
-    FOB Winnipeg
-- title: Track & Field Measuring Tape MT100 - 30 metres
-  image: "/MT100 FT measuring tape.jpg"
-  price: 10
-  description: |-
-    Open reel
-    - 22 available
-- title: Traditions 209 Starting Pistol
-  image: "/Traditions 209 starting pistol.jpg"
-  price: 245
-  description: |
-    uses 209 primers (100/box $12)
-    - includes carrying case and cleaning brush shown.
-    * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
-- title: Traditions 209 Starting Pistol Blanks
-  image: "/209 primer blanks.jpg"
-  price: 12
-  description: |-
-    - 100 blanks per box
-    - To be used with Traditions 209 starting pistol
-    - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
-- title: 22 Caliber 6mm Acorn Starting Blanks
-  image: "/22 Cal blanks.jpg"
-  price: 30
-  description: |-
-    - 100 blanks per container
-    - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
 
 ---
 Welcome to our promo page!!
