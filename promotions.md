@@ -327,6 +327,12 @@ products:
     - Soft hardness  -5 to -10 degrees Celsius
 
     1 set available
+- title: High Density Mini Hockey Balls FI1017 - 2 inch
+  image: "/2020-03-07 12.21.31.jpg"
+  price: ".90"
+  description: |-
+    Blue only
+    26 available
 - title: Puma Futsal Ball - Size 4
   image: "/2020-04-14 16.23.25.jpg"
   price: 27
@@ -380,37 +386,6 @@ products:
     - 6 colours - Red, Orange, Yellow, Green, Blue, and Purple
 
     1 available
-- title: Softex P60Y Playball - 6 inch
-  image: "/P60Y.jpg"
-  price: 3.5
-  description: |-
-    - Soft inflatable vinyl balls are extra thick
-    - best sellers for young school aged children
-    - Can be used for a variety of games and activities.
-
-    2 yellow available
-- title: Jeffix PR700 Playground Rubber Ball - 7 inch
-  image: "/PR700-R_1-Z.jpg.png"
-  price: 6.5
-  description: |-
-    - Deluxe playground ball
-    - 4 ply Nylon winding under tough rubber cover
-    - Softer, better bounce and durability!
-    - Size: 7” (18 cm)
-
-    Available:
-    - 1 Blue
-    - 1 Green
-    - 1 Red
-- title: 360 SPG6Y Rubber Playground Balls - 6 inch
-  image: "/SPG6Y.jpg"
-  price: 5.75
-  description: |-
-    - Classic rubber play ball.
-    - Essential for classrooms, playgrounds and kickball.
-    - Nylon wound with 3-ply rubber cover for extra durability.
-
-    1 available
 - title: Trial TRHJ Super Soft and Safe Handball - 6.3 inch
   image: "/TRHJ_-_Trial_Super_Soft_And_Safe_Handball.jpg"
   price: 29
@@ -422,39 +397,24 @@ products:
     - Non-toxic
 
     1 available pink
-- title: Jeffix PR600 Playground Rubber Ball - 6 inch
-  image: "/PR600_1-Z.jpg"
+- title: 360 SPG6Y Rubber Playground Balls - 6 inch
+  image: "/SPG6Y.jpg"
   price: 5.75
   description: |-
-    - Deluxe playground ball
-    - 4 ply. Nylon winding under tough rubber cover
-    - Softer, better bounce and durability!
-    - 6" (15 cm)
-    - Available in orange color only
+    - Classic rubber play ball.
+    - Essential for classrooms, playgrounds and kickball.
+    - Nylon wound with 3-ply rubber cover for extra durability.
 
-    5 available
-- title: Rhino Skin RS7SET Medium Bounce Allround (Set of 6) - 7 inch
-  image: "/rs7set_l.jpg"
-  price: 145
-  description: "- Rhino Skin® coating for exceptional tear-resistance \n- Medium-density,
-    medium-bounce foam core and soft exterior to prevent injury when hit with the
-    ball \n- 7\" D\n- Ball Weight: 133 g\n- Foam density: 35 kg/m3\n- Set of 6 balls
-    (1 of each) Red, Orange, Yellow, Green, Blue & Purple \n\n1 set available"
-- title: Rhino PG7RD Rubber Playground Ball - 7 inch
-  image: "/pg7rd_l.jpg"
-  price: 6.5
+    1 available
+- title: Softex P60Y Playball - 6 inch
+  image: "/P60Y.jpg"
+  price: 3.5
   description: |-
-    - high bouncing 2-ply balls are nylon wound
-    - feature an easy grip textured surface
-    - durable 7" diameter red playground ball is always a popular choice!
+    - Soft inflatable vinyl balls are extra thick
+    - best sellers for young school aged children
+    - Can be used for a variety of games and activities.
 
-    4 red available
-- title: High Density Mini Hockey Balls FI1017 - 2 inch
-  image: "/2020-03-07 12.21.31.jpg"
-  price: ".90"
-  description: |-
-    Blue only
-    26 available
+    2 yellow available
 - title: Rhino Skin RS5 Micro Playball - 5 inch
   image: "/rs5_l.jpg"
   price: 14.5
@@ -478,6 +438,17 @@ products:
     - Latex-free
 
     1 Lime Green available
+- title: Jeffix PR600 Playground Rubber Ball - 6 inch
+  image: "/PR600_1-Z.jpg"
+  price: 5.75
+  description: |-
+    - Deluxe playground ball
+    - 4 ply. Nylon winding under tough rubber cover
+    - Softer, better bounce and durability!
+    - 6" (15 cm)
+    - Available in orange color only
+
+    5 available
 - title: Rhino Skin RS65 Low Bounce Softi Foam Ball - 6 inch
   image: "/rs65_l.jpg"
   price: 15.5
@@ -490,6 +461,35 @@ products:
     - Recommended age: 10 years and up
 
     1 Royal Blue available
+- title: Rhino Skin RS7SET Medium Bounce Allround (Set of 6) - 7 inch
+  image: "/rs7set_l.jpg"
+  price: 145
+  description: "- Rhino Skin® coating for exceptional tear-resistance \n- Medium-density,
+    medium-bounce foam core and soft exterior to prevent injury when hit with the
+    ball \n- 7\" D\n- Ball Weight: 133 g\n- Foam density: 35 kg/m3\n- Set of 6 balls
+    (1 of each) Red, Orange, Yellow, Green, Blue & Purple \n\n1 set available"
+- title: Jeffix PR700 Playground Rubber Ball - 7 inch
+  image: "/PR700-R_1-Z.jpg.png"
+  price: 6.5
+  description: |-
+    - Deluxe playground ball
+    - 4 ply Nylon winding under tough rubber cover
+    - Softer, better bounce and durability!
+    - Size: 7” (18 cm)
+
+    Available:
+    - 1 Blue
+    - 1 Green
+    - 1 Red
+- title: Rhino PG7RD Rubber Playground Ball - 7 inch
+  image: "/pg7rd_l.jpg"
+  price: 6.5
+  description: |-
+    - high bouncing 2-ply balls are nylon wound
+    - feature an easy grip textured surface
+    - durable 7" diameter red playground ball is always a popular choice!
+
+    4 red available
 - title: Concorde GPG7 Grippy Playground Ball - 7 inch
   image: "/2020-04-17 09.01.39.jpg"
   price: 6.75
