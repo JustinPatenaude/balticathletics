@@ -342,18 +342,6 @@ products:
     - Heavy-duty construction.
 
     1 available
-- title: Penguin Bowling Ball Set PENBBS
-  image: "/PENBBS_-_Penguin_Bowling_Ball_Set.jpg"
-  price: 80
-  description: |-
-    - Hand painted, this numbered latex construction penguin bowling ball set includes 10 x 9" H free standing penguins and 1 x 8.25" diameter
-    - PU foam bowling ball (Available in BLUE, not orange as shown)
-    - Includes retail clear carry bag for easy storage
-    - Safe for children
-    - CPSIA tested.
-    - MSRP $169.99
-
-    1 available
 - title: Accufli Floorball Sticks - 70 cm, 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 27
@@ -810,6 +798,18 @@ products:
   image: "/2020-04-16 16.40.35.jpg"
   price: 12
   description: 1 set available
+- title: Penguin Bowling Ball Set PENBBS
+  image: "/PENBBS_-_Penguin_Bowling_Ball_Set.jpg"
+  price: 80
+  description: |-
+    - Hand painted, this numbered latex construction penguin bowling ball set includes 10 x 9" H free standing penguins and 1 x 8.25" diameter
+    - PU foam bowling ball (Available in BLUE, not orange as shown)
+    - Includes retail clear carry bag for easy storage
+    - Safe for children
+    - CPSIA tested.
+    - MSRP $169.99
+
+    1 available
 - title: Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
   image: "/2020-03-07 12.12.53.jpg"
   price: 35
