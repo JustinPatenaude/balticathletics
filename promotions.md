@@ -337,16 +337,33 @@ products:
     - comes with net
 
     8 available
-- title: Replacement Street/Floor Hockey Net - Black - 4' x 6'
-  image: "/NET46_1-Z.jpg"
-  price: 48
+- title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
+  image: "/Rawlings HFP125BP Baseball Glove.jpg"
+  price: 38
   description: |-
-    - Dimensions: 4’ x 6’ (1.2 m x 1.8 m)
-    - heavy duty mesh
-    - black only
-    - sold as pair
+    - All leather shell
+    - Soft & supple, very flexible (broken in feel)
 
-    1 pair available
+    13 available (black/purple)
+- image: "/234DBMK_GRAY.jpg"
+  price: 22
+  description: |-
+    Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
+    Belt not included
+  title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
+- title: Badminton Centre Posts LO-B733
+  image: "/LO-Bad Center.jpg"
+  price: 57
+  description: |-
+    48mm[1-7/8"] dia. Steel Badminton Center Post
+
+    Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
+
+    8 available
+- title: Full Size Double First Base M155 w/spikes
+  image: "/M155_double-base.png"
+  price: 58
+  description: 7 available
 - title: Accufli Floorball Sticks - 70 cm, 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 27
@@ -358,6 +375,16 @@ products:
     with shaft 80cm flex 32mm\n* A90 model weight 240g,  with shaft  90cm Flex 28mm
     is suggested for player’s height from 5’1” to 5’8”\n* A100 model weight 260g,
     \ with shaft 100cm Flex 26mm is suggested for player’s height 5’8” and above"
+- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
+  image: "/CosomPowerShaftHockeyStick 42.jpg"
+  price: 9.5
+  description: Black shaft with Green or Orange blades
+- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 47"
+  image: "/CosomPowerShaftHockeyStick.jpg"
+  price: 13
+  description: |-
+    Black shaft with Green or Orange blades
+    75 available
 - title: D-Gel 385 Street Hockey Ball - Pink (set of 2)
   image: "/2020-04-16 17.05.19.jpg"
   price: 7
@@ -365,6 +392,10 @@ products:
     - Medium hardness - 0-15 degrees Celsius
 
     1 pair available
+- title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
+  image: "/2020-04-11 14.51.18.jpg"
+  price: 60
+  description: "- All leather"
 - title: D-Gel 350P Street Hockey Ball - Orange (set of 2)
   image: "/2020-04-16 17.08.39.jpg"
   price: 8
@@ -379,12 +410,22 @@ products:
     - Soft hardness  -5 to -10 degrees Celsius
 
     1 set available
-- title: High Density Mini Hockey Balls FI1017 - 2 inch
+- title: High Density Mini Hockey Ball FI1017 - 2 inch
   image: "/2020-03-07 12.21.31.jpg"
   price: ".90"
   description: |-
     Blue only
     26 available
+- title: Replacement Street/Floor Hockey Net - Black - 4' x 6'
+  image: "/NET46_1-Z.jpg"
+  price: 48
+  description: |-
+    - Dimensions: 4’ x 6’ (1.2 m x 1.8 m)
+    - heavy duty mesh
+    - black only
+    - sold as pair
+
+    1 pair available
 - title: Eletto CINCO Futsal Ball
   image: "/2020-03-30 12.15.56.jpg"
   price: 23
@@ -735,18 +776,10 @@ products:
   image: "/2020-04-16 16.40.35.jpg"
   price: 12
   description: 1 set available
-- title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
-  image: "/Rawlings HFP125BP Baseball Glove.jpg"
-  price: 38
-  description: |-
-    - All leather shell
-    - Soft & supple, very flexible (broken in feel)
-
-    13 available (black/purple)
-- title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
-  image: "/2020-04-11 14.51.18.jpg"
-  price: 60
-  description: "- All leather"
+- title: Bean Bag - Ultra-soft, 4" PX-501695
+  image: "/bean bags.jpg"
+  price: 1.75
+  description: 6 colours available (green, blue, yellow, red, purple, orange)
 - title: Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
   image: "/2020-03-07 12.12.53.jpg"
   price: 35
@@ -763,6 +796,10 @@ products:
     - includes 2 balls
 
     3 sets available
+- title: Dunlop 762034 Pro Racquetball Balls (3 pk)
+  image: "/dunlop-pro-racketball-ball-3-pack-box-3.jpg"
+  price: 6
+  description: 18 available
 - title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
   image: "/Eletto LIGA comp soccer ball.jpg"
   price: 29
@@ -812,6 +849,24 @@ products:
     - Size 4
 
     1 available
+- title: Adidas Telstar 18 World Cup Replica Soccer Ball - Size 4
+  image: "/TELSTAR 18 Adidas World Cup SB.jpg"
+  price: 25
+  description: |-
+    Soft touch game or training ball.
+    1 available
+- title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
+  image: "/Eletto LNA-290 soccer ball.jpg"
+  price: 
+  description: ''
+- title: Puma Trainer Soccer Ball - Size 4
+  image: "/2020-04-11 14.30.31.jpg"
+  price: 25
+  description: |-
+    - Soft touch
+    - Great bounce
+
+    3 available (colours shown)
 - title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
   image: "/2020-04-14 16.23.55.jpg"
   price: 29
@@ -825,18 +880,20 @@ products:
   image: "/BOCA-2.jpg"
   price: 28
   description: 1 available
-- title: Puma Trainer Soccer Ball - Size 4
-  image: "/2020-04-11 14.30.31.jpg"
-  price: 25
+- title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
+  image: "/w1B3205-1BasicTrainingBall.jpg"
+  price: 19
   description: |-
-    - Soft touch
-    - Great bounce
+    - A great ball for training and at home practice and comes in multiple sizes for different age groups.
+    - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
+    - 32 panel
+    - High gloss finish
+    - Available in White, Hi-Vis-Green or Hi-Vis Orange
 
-    3 available (colours shown)
-- title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
-  image: "/Eletto LNA-290 soccer ball.jpg"
-  price: 
-  description: ''
+    Ball Size: Age
+    3 : 8 and Under
+    4 : 8-12
+    5 : 13 and Up
 - title: Nike Phantom Venom Soccer Ball - Size 4 & 5
   image: "/2020-04-14 16.27.21.jpg"
   price: 27
@@ -881,6 +938,18 @@ products:
   description: |-
     Match quality ball, superb bounce and feel
     1 available
+- title: Adidas Juventus European Club Soccer Ball - Size 5
+  image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
+  price: 25
+  description: |-
+    Soft touch game or training ball
+    1 available
+- title: Adidas Pink/Blue Soccer Ball - Size 5
+  image: "/Adidas game ball size 5.jpg"
+  price: 25
+  description: |-
+    Soft touch ball for game or training.
+    12 available
 - title: Champion EX5PR Extreme Soccer Ball - Size 5
   image: "/ex5pr-a-front_l.jpg"
   price: 14
@@ -917,6 +986,16 @@ products:
     - Size 5
 
     1 available
+- title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
+  image: "/2020-03-30 12.26.05.jpg"
+  price: 15
+  description: |-
+    Also available in sizes 3 & 4
+    2 available
+- title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
+  image: "/Eletto LNA-350 soccer ball.jpg"
+  price: 22
+  description: ''
 - title: Inaria Liga 1000 Soccer Ball - Size 5
   image: "/inaria liga 1000 soccer ball size 5.PNG"
   price: 18
@@ -936,20 +1015,6 @@ products:
     - Size 5
 
     1 available
-- title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
-  image: "/2020-03-30 12.26.05.jpg"
-  price: 15
-  description: |-
-    Also available in sizes 3 & 4
-    2 available
-- title: Sporteck CAPO Soccer Ball - Size 5
-  image: "/sporteck CAPO soccer ball.jpg"
-  price: 30
-  description: ''
-- title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
-  image: "/Eletto LNA-350 soccer ball.jpg"
-  price: 22
-  description: ''
 - title: Mikasa MCS50 Orbite Design Soccer Ball - Size 5
   image: "/MCS50-WO_1-Z.jpg"
   price: 30
@@ -981,6 +1046,27 @@ products:
     - Black/White
 
     1 available
+- title: Nike Pitch Training Soccer Ball - Size 5
+  image: "/Nike Training SB size 5.jpg"
+  price: 25
+  description: |-
+    Soft touch, training ball
+    40 available
+- title: Nike Pitch Game Soccer Ball - Size 5
+  image: "/PITCH Nike SB size 5.jpg"
+  price: 30
+  description: |-
+    Soft touch, game quality
+    1 - Size 4 available
+    1 - Size 5 available
+- title: Puma Arsenal Soccer Ball - Size 5
+  image: "/ARSENAL Puma SB size 5.jpg"
+  price: 25
+  description: Only 1 available
+- title: Sporteck CAPO Soccer Ball - Size 5
+  image: "/sporteck CAPO soccer ball.jpg"
+  price: 30
+  description: ''
 - title: Reflex Soccer Goal Keeper Training Ball
   image: "/2020-04-14 16.25.49.jpg"
   price: 32
@@ -1019,10 +1105,6 @@ products:
   image: "/2020-04-16 16.06.08.jpg"
   price: 9
   description: 1 available
-- title: Eletto SG1202 Iron Soccer Shin Pads with Compression Sleeves - Size M
-  image: "/2020-04-16 16.13.19.jpg"
-  price: 14
-  description: 1 available
 - title: Eletto SG1440 React Hard Shell Soccer Shin Guards - Size L
   image: "/2020-04-16 16.15.34.jpg"
   price: 8
@@ -1031,10 +1113,21 @@ products:
   image: "/2020-04-16 16.04.39.jpg"
   price: 18
   description: 1 available
+- title: Eletto SG1202 Iron Soccer Shin Pads with Compression Sleeves - Size M
+  image: "/2020-04-16 16.13.19.jpg"
+  price: 14
+  description: 1 available
 - title: Eletto GK0800 Soccer Goal Keeper Knee Pads - Size M
   image: "/2020-04-16 16.08.01.jpg"
   price: 9.5
   description: 1 available
+- title: Admiral Pro Soccer Socks - colour GOLD only
+  image: "/admiral gold soccer sock.jpg"
+  price: 8
+  description: |-
+    - Adult size 10-13
+    - High quality sock, padded foot, ribbed articulated ankle, arch support
+    - 14 pairs available
 - title: Eletto SC-1100 Classic Pro Soccer Socks - WHITE - Size 7-9
   image: "/Eletto Classic Pro SC1100 sock.PNG"
   price: 8
@@ -1162,6 +1255,16 @@ products:
     3 - NB
     1 - Adidas (blue left)
     1 - Saucony
+- title: Cramer 950 Athletic Trainer's Tape - Box of 32 rolls
+  image: "/cramer 950 tape.jpg"
+  price: 95
+  description: |-
+    Designed from the ground up to meet the needs of athletic trainers. Quality adhesive, consistent unwind, easy tear...everything an athletic trainer needs 950 delivers.
+
+    • Zinc Oxide Tape provides excellent tensile strength and superior conformability
+    • Computer calibrated unwind for consistency and performance roll to roll
+    • Non-Latex adhesive
+    • A high-quality porous, 100% cotton tape at an affordable price
 - title: BY Group Classic Fitness Ball 92139
   image: "/2020-03-07 12.43.06.jpg"
   price: 15
@@ -1438,6 +1541,15 @@ products:
     This is a great economical storage and transporting solution for balls.
 
     9 available
+- title: Volleyball Carrying Bag (L6V)
+  image: "/l6v.jpg"
+  price: 15
+  description: |-
+    - Nylon tube bag with an adjustable shoulder strap.
+    - Holds 6 inflated volleyballs.
+    - 47” x 8.5” x 6.5”
+
+    6 available
 - title: Champion BK25BK Deluxe Basketball Carry Bag
   image: "/bk25bk_n.jpg"
   price: 26
@@ -1449,15 +1561,6 @@ products:
     - 29"x 20"x 11"
 
     8 available
-- title: Volleyball Carrying Bag (L6V)
-  image: "/l6v.jpg"
-  price: 15
-  description: |-
-    - Nylon tube bag with an adjustable shoulder strap.
-    - Holds 6 inflated volleyballs.
-    - 47” x 8.5” x 6.5”
-
-    6 available
 - title: Mesh Ball Bag / Laundry Bag L40
   image: "/L40_-_Laundry_Bags.jpg"
   price: 7.5
@@ -1508,6 +1611,17 @@ products:
     - Black
 
     5 available
+- title: Deluxe Outdoor Ball Locker BC44
+  image: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
+  price: 295
+  description: |-
+    -This powder coated all-steel construction ball locker has lockable hinge cover
+    -Holds up to 24 basketballs, soccer balls or Playground balls
+    - Large wheels for indoor and outdoor use
+    - Size: 42” L x 24” W x 36” H
+    - MRSP $517.99
+
+    7 available
 - title: Champion VC500PRO Mammoth Volleyball Cart
   image: "/vc500pro_l.jpg"
   price: 170
@@ -1755,120 +1869,16 @@ products:
     2 - black
     1 - red
     1 - blue
-- title: Adidas Juventus European Club Soccer Ball - Size 5
-  image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
-  price: 25
-  description: |-
-    Soft touch game or training ball
-    1 available
-- title: Adidas Pink/Blue Soccer Ball - Size 5
-  image: "/Adidas game ball size 5.jpg"
-  price: 25
-  description: |-
-    Soft touch ball for game or training.
-    12 available
-- title: Admiral Pro Soccer Socks - colour GOLD only
-  image: "/admiral gold soccer sock.jpg"
-  price: 8
-  description: |-
-    - Adult size 10-13
-    - High quality sock, padded foot, ribbed articulated ankle, arch support
-    - 14 pairs available
-- title: Badminton Centre Posts LO-B733
-  image: "/LO-Bad Center.jpg"
-  price: 57
-  description: |-
-    48mm[1-7/8"] dia. Steel Badminton Center Post
-
-    Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
-
-    8 available
-- title: Bean Bag - Ultra-soft, 4" PX-501695
-  image: "/bean bags.jpg"
-  price: 1.75
-  description: 6 colours available (green, blue, yellow, red, purple, orange)
-- title: Adidas Telstar 18 World Cup Replica Soccer Ball - Size 4
-  image: "/TELSTAR 18 Adidas World Cup SB.jpg"
-  price: 25
-  description: |-
-    Soft touch game or training ball.
-    1 available
-- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 47"
-  image: "/CosomPowerShaftHockeyStick.jpg"
-  price: 13
-  description: |-
-    Black shaft with Green or Orange blades
-    75 available
-- title: Cramer 950 Athletic Trainer's Tape - Box of 32 rolls
-  image: "/cramer 950 tape.jpg"
-  price: 95
-  description: |-
-    Designed from the ground up to meet the needs of athletic trainers. Quality adhesive, consistent unwind, easy tear...everything an athletic trainer needs 950 delivers.
-
-    • Zinc Oxide Tape provides excellent tensile strength and superior conformability
-    • Computer calibrated unwind for consistency and performance roll to roll
-    • Non-Latex adhesive
-    • A high-quality porous, 100% cotton tape at an affordable price
-- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
-  image: "/CosomPowerShaftHockeyStick 42.jpg"
-  price: 9.5
-  description: Black shaft with Green or Orange blades
-- title: Deluxe Outdoor Ball Locker BC44
-  image: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
-  price: 295
-  description: |-
-    -This powder coated all-steel construction ball locker has lockable hinge cover
-    -Holds up to 24 basketballs, soccer balls or Playground balls
-    - Large wheels for indoor and outdoor use
-    - Size: 42” L x 24” W x 36” H
-    - MRSP $517.99
-
-    7 available
 - title: Diadora 880200 Aluminum Water Bottle
   image: "/880200 Diadora Alum water bottle.jpg"
   price: 5
   description: |-
     with carabiner
     11 available
-- title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
-  image: "/w1B3205-1BasicTrainingBall.jpg"
-  price: 19
-  description: |-
-    - A great ball for training and at home practice and comes in multiple sizes for different age groups.
-    - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
-    - 32 panel
-    - High gloss finish
-    - Available in White, Hi-Vis-Green or Hi-Vis Orange
-
-    Ball Size: Age
-    3 : 8 and Under
-    4 : 8-12
-    5 : 13 and Up
 - title: 'Lowry #264 - 6 - 1L Waterbottles with Case'
   image: "/2020-04-16 14.24.44.jpg"
   price: 30
   description: 1 available
-- title: Nike Pitch Game Soccer Ball - Size 5
-  image: "/PITCH Nike SB size 5.jpg"
-  price: 30
-  description: |-
-    Soft touch, game quality
-    1 - Size 4 available
-    1 - Size 5 available
-- title: Dunlop 762034 Pro Racquetball Balls (3 pk)
-  image: "/dunlop-pro-racketball-ball-3-pack-box-3.jpg"
-  price: 6
-  description: 18 available
-- title: Nike Pitch Training Soccer Ball - Size 5
-  image: "/Nike Training SB size 5.jpg"
-  price: 25
-  description: |-
-    Soft touch, training ball
-    40 available
-- title: Full Size Double First Base M155 w/spikes
-  image: "/M155_double-base.png"
-  price: 58
-  description: 7 available
 - title: Rubbermaid Drink Station
   image: "/2020-04-11 14.32.44.jpg"
   price: 40
@@ -1968,10 +1978,6 @@ products:
     - holds 660 lbs
 
     2 available
-- title: Puma Arsenal Soccer Ball - Size 5
-  image: "/ARSENAL Puma SB size 5.jpg"
-  price: 25
-  description: Only 1 available
 - title: Referee Pinnie SKP67A
   image: "/SKP67_-_Referee_Pinnie.jpg"
   price: 3.5
@@ -1979,12 +1985,6 @@ products:
     - This water resistant nylon pinnie has elastic stretch webbing on one side and velcro on the other.
     - One size
     - 10 available
-- image: "/234DBMK_GRAY.jpg"
-  price: 22
-  description: |-
-    Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
-    Belt not included
-  title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
 - title: Scooter 12x12 square, no handles
   image: "/cosom scooter no handles.jpg"
   price: 18
