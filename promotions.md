@@ -1755,10 +1755,120 @@ products:
     2 - black
     1 - red
     1 - blue
+- title: Adidas Juventus European Club Soccer Ball - Size 5
+  image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
+  price: 25
+  description: |-
+    Soft touch game or training ball
+    1 available
+- title: Adidas Pink/Blue Soccer Ball - Size 5
+  image: "/Adidas game ball size 5.jpg"
+  price: 25
+  description: |-
+    Soft touch ball for game or training.
+    12 available
+- title: Admiral Pro Soccer Socks - colour GOLD only
+  image: "/admiral gold soccer sock.jpg"
+  price: 8
+  description: |-
+    - Adult size 10-13
+    - High quality sock, padded foot, ribbed articulated ankle, arch support
+    - 14 pairs available
+- title: Badminton Centre Posts LO-B733
+  image: "/LO-Bad Center.jpg"
+  price: 57
+  description: |-
+    48mm[1-7/8"] dia. Steel Badminton Center Post
+
+    Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
+
+    8 available
+- title: Bean Bag - Ultra-soft, 4" PX-501695
+  image: "/bean bags.jpg"
+  price: 1.75
+  description: 6 colours available (green, blue, yellow, red, purple, orange)
+- title: Adidas Telstar 18 World Cup Replica Soccer Ball - Size 4
+  image: "/TELSTAR 18 Adidas World Cup SB.jpg"
+  price: 25
+  description: |-
+    Soft touch game or training ball.
+    1 available
+- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 47"
+  image: "/CosomPowerShaftHockeyStick.jpg"
+  price: 13
+  description: |-
+    Black shaft with Green or Orange blades
+    75 available
+- title: Cramer 950 Athletic Trainer's Tape - Box of 32 rolls
+  image: "/cramer 950 tape.jpg"
+  price: 95
+  description: |-
+    Designed from the ground up to meet the needs of athletic trainers. Quality adhesive, consistent unwind, easy tear...everything an athletic trainer needs 950 delivers.
+
+    • Zinc Oxide Tape provides excellent tensile strength and superior conformability
+    • Computer calibrated unwind for consistency and performance roll to roll
+    • Non-Latex adhesive
+    • A high-quality porous, 100% cotton tape at an affordable price
+- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
+  image: "/CosomPowerShaftHockeyStick 42.jpg"
+  price: 9.5
+  description: Black shaft with Green or Orange blades
+- title: Deluxe Outdoor Ball Locker BC44
+  image: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
+  price: 295
+  description: |-
+    -This powder coated all-steel construction ball locker has lockable hinge cover
+    -Holds up to 24 basketballs, soccer balls or Playground balls
+    - Large wheels for indoor and outdoor use
+    - Size: 42” L x 24” W x 36” H
+    - MRSP $517.99
+
+    7 available
+- title: Diadora 880200 Aluminum Water Bottle
+  image: "/880200 Diadora Alum water bottle.jpg"
+  price: 5
+  description: |-
+    with carabiner
+    11 available
+- title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
+  image: "/w1B3205-1BasicTrainingBall.jpg"
+  price: 19
+  description: |-
+    - A great ball for training and at home practice and comes in multiple sizes for different age groups.
+    - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
+    - 32 panel
+    - High gloss finish
+    - Available in White, Hi-Vis-Green or Hi-Vis Orange
+
+    Ball Size: Age
+    3 : 8 and Under
+    4 : 8-12
+    5 : 13 and Up
 - title: 'Lowry #264 - 6 - 1L Waterbottles with Case'
   image: "/2020-04-16 14.24.44.jpg"
   price: 30
   description: 1 available
+- title: Nike Pitch Game Soccer Ball - Size 5
+  image: "/PITCH Nike SB size 5.jpg"
+  price: 30
+  description: |-
+    Soft touch, game quality
+    1 - Size 4 available
+    1 - Size 5 available
+- title: Dunlop 762034 Pro Racquetball Balls (3 pk)
+  image: "/dunlop-pro-racketball-ball-3-pack-box-3.jpg"
+  price: 6
+  description: 18 available
+- title: Nike Pitch Training Soccer Ball - Size 5
+  image: "/Nike Training SB size 5.jpg"
+  price: 25
+  description: |-
+    Soft touch, training ball
+    40 available
+- title: Full Size Double First Base M155 w/spikes
+  image: "/M155_double-base.png"
+  price: 58
+  description: 7 available
 - title: Rubbermaid Drink Station
   image: "/2020-04-11 14.32.44.jpg"
   price: 40
@@ -1778,10 +1888,6 @@ products:
     - For dry line marker machines
 
     4 available
-- title: York 7852 All Person Fitness Glove - Size M
-  image: "/2020-03-07 12.39.05.jpg"
-  price: 12
-  description: 1 available
 - title: Champion RT610 All Purpose Resistance Belt Set
   image: "/RT610 All purpose resistance belt set.jpg"
   price: 55
@@ -1796,6 +1902,10 @@ products:
     • One locking snap link
 
     • 1 available in Royal Blue
+- title: York 7852 All Person Fitness Glove - Size M
+  image: "/2020-03-07 12.39.05.jpg"
+  price: 12
+  description: 1 available
 - title: York 7822 Firm Fit Weight Lifting Glove - Size M
   image: "/2020-03-07 12.39.15.jpg"
   price: 10
@@ -1858,116 +1968,6 @@ products:
     - holds 660 lbs
 
     2 available
-- title: Adidas Pink/Blue Soccer Ball - Size 5
-  image: "/Adidas game ball size 5.jpg"
-  price: 25
-  description: |-
-    Soft touch ball for game or training.
-    12 available
-- title: Adidas Juventus European Club Soccer Ball - Size 5
-  image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
-  price: 25
-  description: |-
-    Soft touch game or training ball
-    1 available
-- title: Adidas Telstar 18 World Cup Replica Soccer Ball - Size 4
-  image: "/TELSTAR 18 Adidas World Cup SB.jpg"
-  price: 25
-  description: |-
-    Soft touch game or training ball.
-    1 available
-- title: Admiral Pro Soccer Socks - colour GOLD only
-  image: "/admiral gold soccer sock.jpg"
-  price: 8
-  description: |-
-    - Adult size 10-13
-    - High quality sock, padded foot, ribbed articulated ankle, arch support
-    - 14 pairs available
-- title: Badminton Centre Posts LO-B733
-  image: "/LO-Bad Center.jpg"
-  price: 57
-  description: |-
-    48mm[1-7/8"] dia. Steel Badminton Center Post
-
-    Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
-
-    8 available
-- title: Bean Bag - Ultra-soft, 4" PX-501695
-  image: "/bean bags.jpg"
-  price: 1.75
-  description: 6 colours available (green, blue, yellow, red, purple, orange)
-- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
-  image: "/CosomPowerShaftHockeyStick 42.jpg"
-  price: 9.5
-  description: Black shaft with Green or Orange blades
-- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 47"
-  image: "/CosomPowerShaftHockeyStick.jpg"
-  price: 13
-  description: |-
-    Black shaft with Green or Orange blades
-    75 available
-- title: Cramer 950 Athletic Trainer's Tape - Box of 32 rolls
-  image: "/cramer 950 tape.jpg"
-  price: 95
-  description: |-
-    Designed from the ground up to meet the needs of athletic trainers. Quality adhesive, consistent unwind, easy tear...everything an athletic trainer needs 950 delivers.
-
-    • Zinc Oxide Tape provides excellent tensile strength and superior conformability
-    • Computer calibrated unwind for consistency and performance roll to roll
-    • Non-Latex adhesive
-    • A high-quality porous, 100% cotton tape at an affordable price
-- title: Deluxe Outdoor Ball Locker BC44
-  image: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
-  price: 295
-  description: |-
-    -This powder coated all-steel construction ball locker has lockable hinge cover
-    -Holds up to 24 basketballs, soccer balls or Playground balls
-    - Large wheels for indoor and outdoor use
-    - Size: 42” L x 24” W x 36” H
-    - MRSP $517.99
-
-    7 available
-- title: Diadora 880200 Aluminum Water Bottle
-  image: "/880200 Diadora Alum water bottle.jpg"
-  price: 5
-  description: |-
-    with carabiner
-    11 available
-- title: Dunlop 762034 Pro Racquetball Balls (3 pk)
-  image: "/dunlop-pro-racketball-ball-3-pack-box-3.jpg"
-  price: 6
-  description: 18 available
-- title: Full Size Double First Base M155 w/spikes
-  image: "/M155_double-base.png"
-  price: 58
-  description: 7 available
-- title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
-  image: "/w1B3205-1BasicTrainingBall.jpg"
-  price: 19
-  description: |-
-    - A great ball for training and at home practice and comes in multiple sizes for different age groups.
-    - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
-    - 32 panel
-    - High gloss finish
-    - Available in White, Hi-Vis-Green or Hi-Vis Orange
-
-    Ball Size: Age
-    3 : 8 and Under
-    4 : 8-12
-    5 : 13 and Up
-- title: Nike Pitch Game Soccer Ball - Size 5
-  image: "/PITCH Nike SB size 5.jpg"
-  price: 30
-  description: |-
-    Soft touch, game quality
-    1 - Size 4 available
-    1 - Size 5 available
-- title: Nike Pitch Training Ball - Size 5
-  image: "/Nike Training SB size 5.jpg"
-  price: 25
-  description: |-
-    Soft touch, training ball
-    40 available
 - title: Puma Arsenal Soccer Ball - Size 5
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 25
