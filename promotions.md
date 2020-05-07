@@ -198,6 +198,10 @@ products:
     • Black
 
     1 available
+- title: Worth Mayhem Softball Bats
+  image: "/2020-03-07 11.21.13.jpg"
+  price: 49
+  description: 34" - 28 oz
 - title: Spalding 100 Leather Baseball
   image: "/spalding 100 baseball.jpg"
   price: 5
@@ -233,10 +237,6 @@ products:
     - 12" synthetic cover
 
     7 dozen available
-- title: Worth Mayhem Softball Bats
-  image: "/2020-03-07 11.21.13.jpg"
-  price: 49
-  description: 34" - 28 oz
 - title: Champion M500P Molded Rubber Base Plug - Set of 3
   image: "/m500p-lifestyle1-l.jpg"
   price: 16.5
