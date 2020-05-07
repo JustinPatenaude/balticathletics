@@ -144,10 +144,27 @@ products:
   image: "/A360 Wilson glove RHC.jpg"
   price: 49
   description: 2 Available
+- title: Badminton Centre Posts LO-B733
+  image: "/LO-Bad Center.jpg"
+  price: 57
+  description: |-
+    48mm[1-7/8"] dia. Steel Badminton Center Post
+
+    Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
+
+    8 available
 - title: Champion Sports CBG900 Glove - 13" Left hand catch
   image: "/Champion Sports CBG900 Glove.jpg"
   price: 30
   description: 1 available
+- title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
+  image: "/Rawlings HFP125BP Baseball Glove.jpg"
+  price: 38
+  description: |-
+    - All leather shell
+    - Soft & supple, very flexible (broken in feel)
+
+    13 available (black/purple)
 - title: Easton BMG13 Glove - 13" Left hand catch
   image: "/2020-03-07 11.14.30.jpg"
   price: 35
@@ -159,6 +176,10 @@ products:
   image: "/Franklin FRK-BB-22601 Fieldmaster Glove a.jpg"
   price: 
   description: 1 available - Blonde/Black
+- title: Louisville Fastpitch CATCHER'S Glove CM1 - Left hand catch
+  image: "/2020-04-11 14.51.18.jpg"
+  price: 60
+  description: "- All leather"
 - title: Franklin FRK-BB-22610 Fieldmaster Ball Glove - 13" Left hand catch
   image: "/Franklin FRK-BB-22610 Fieldmaster Ball Glove.jpg"
   price: 28
@@ -245,6 +266,14 @@ products:
   image: "/m500a-enhanced-2-l.jpg"
   price: 28.75
   description: 1 set available
+- title: Full Size Double First Base M155 w/spikes
+  image: "/M155_double-base.png"
+  price: 58
+  description: 7 available
+- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
+  image: "/2020-04-13 10.34.14.jpg"
+  price: 10
+  description: 2 sets available
 - title: Base Spikes HDB-NN-RNAIL10 & HDB Super Anchorhead Clips HDB-BB-SASH
   image: "/2020-04-14 09.55.03.jpg"
   price: 5
@@ -259,10 +288,12 @@ products:
     - Attach base straps onto clip
 
     12 available.
-- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
-  image: "/2020-04-13 10.34.14.jpg"
-  price: 10
-  description: 2 sets available
+- image: "/234DBMK_GRAY.jpg"
+  price: 22
+  description: |-
+    Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
+    Belt not included
+  title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
 - title: Champion BP2040 Baseball Backpack
   image: "/bp2040-front_l.jpg"
   price: 39
@@ -311,59 +342,6 @@ products:
     - MSRP $169.99
 
     1 available
-- title: Cosom Floor Hockey Goalie Stick CH-700845-00
-  image: "/2020-04-14 12.23.00.jpg"
-  price: 10
-  description: |-
-    - 21" tall black plastic blade
-    - laminated oak wood shaft 48" (that can be cut to desired length)
-    - plastic butt end
-
-    6 available
-- title: Bauer Floor Hockey Goal Pads - 27"
-  image: "/2020-03-07 12.05.49.jpg"
-  price: 60
-  description: |-
-    - 4 Snap straps
-    - Deep leg channel
-
-    1 - Blue/White/Red pairs available
-    2 - Black/White/Grey pairs available
-- title: Road Warrior ROA-HOC-RWSG54 Floor Hockey Goal - 54"
-  image: "/ROA-HOC-RWSG54-2.jpg"
-  price: 65
-  description: |-
-    - steel frame
-    - comes with net
-
-    8 available
-- title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
-  image: "/Rawlings HFP125BP Baseball Glove.jpg"
-  price: 38
-  description: |-
-    - All leather shell
-    - Soft & supple, very flexible (broken in feel)
-
-    13 available (black/purple)
-- image: "/234DBMK_GRAY.jpg"
-  price: 22
-  description: |-
-    Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
-    Belt not included
-  title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
-- title: Badminton Centre Posts LO-B733
-  image: "/LO-Bad Center.jpg"
-  price: 57
-  description: |-
-    48mm[1-7/8"] dia. Steel Badminton Center Post
-
-    Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
-
-    8 available
-- title: Full Size Double First Base M155 w/spikes
-  image: "/M155_double-base.png"
-  price: 58
-  description: 7 available
 - title: Accufli Floorball Sticks - 70 cm, 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 27
@@ -392,10 +370,6 @@ products:
     - Medium hardness - 0-15 degrees Celsius
 
     1 pair available
-- title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
-  image: "/2020-04-11 14.51.18.jpg"
-  price: 60
-  description: "- All leather"
 - title: D-Gel 350P Street Hockey Ball - Orange (set of 2)
   image: "/2020-04-16 17.08.39.jpg"
   price: 8
@@ -416,6 +390,32 @@ products:
   description: |-
     Blue only
     26 available
+- title: Cosom Floor Hockey Goalie Stick CH-700845-00
+  image: "/2020-04-14 12.23.00.jpg"
+  price: 10
+  description: |-
+    - 21" tall black plastic blade
+    - laminated oak wood shaft 48" (that can be cut to desired length)
+    - plastic butt end
+
+    6 available
+- title: Bauer Floor Hockey Goal Pads - 27"
+  image: "/2020-03-07 12.05.49.jpg"
+  price: 60
+  description: |-
+    - 4 Snap straps
+    - Deep leg channel
+
+    1 - Blue/White/Red pairs available
+    2 - Black/White/Grey pairs available
+- title: Road Warrior ROA-HOC-RWSG54 Floor Hockey Goal - 54"
+  image: "/ROA-HOC-RWSG54-2.jpg"
+  price: 65
+  description: |-
+    - steel frame
+    - comes with net
+
+    8 available
 - title: Replacement Street/Floor Hockey Net - Black - 4' x 6'
   image: "/NET46_1-Z.jpg"
   price: 48
