@@ -43,6 +43,15 @@ products:
     - Titanium Alloy/Steel racquet
 
     7 available
+- title: Head Stream Badminton Racquet
+  image: "/Head Stream Badminton Racquet.jpg"
+  price: 39
+  description: |-
+    - Graphite shaft
+    - Aluminum Head
+    - Power Helix shaft structure for improved strength & flexibility generating a more powerful shot
+
+    12 available
 - title: Franklin FRK-BB-22604 Fieldmaster Glove - 11" YOUTH - Left hand catch
   image: "/2020-04-13 14.19.51.jpg"
   price: 24
@@ -76,6 +85,10 @@ products:
     - High density cushioned palm and finger back linings for added comfort
 
     1 available
+- title: Franklin 22622 Fieldmaster Glove - 11" Left Hand Catch
+  image: "/Franklin fieldmaster.jpg"
+  price: 24
+  description: 1 available - Navy/Red/White
 - title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
   image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
   price: 40
@@ -146,6 +159,14 @@ products:
   image: "/Franklin FRK-BB-22601 Fieldmaster Glove a.jpg"
   price: 
   description: 1 available - Blonde/Black
+- title: Franklin FRK-BB-22610 Fieldmaster Ball Glove - 13" Left hand catch
+  image: "/Franklin FRK-BB-22610 Fieldmaster Ball Glove.jpg"
+  price: 28
+  description: |
+    - Synthetic leather
+    - Soft feel
+
+    8 available  - Black
 - title: Wilson A800 Showtime Glove - 13" Left Hand Catch
   image: "/Wilson A800 Showtime glove a.jpg"
   price: 65
@@ -181,6 +202,13 @@ products:
   image: "/spalding 100 baseball.jpg"
   price: 5
   description: 3 single balls available
+- title: Spalding 41003 Official League Synthetic Cover Baseball (sold in case of
+    12)
+  image: "/2020-03-07 11.09.54.jpg"
+  price: 36
+  description: |-
+    stitched seams
+    5 dozen available
 - title: Easton Incrediball Vinyl cover Softball - 11"
   image: "/2020-04-11 14.43.02.jpg"
   price: 8
@@ -205,6 +233,10 @@ products:
     - 12" synthetic cover
 
     7 dozen available
+- title: Worth Mayhem Softball Bats
+  image: "/2020-03-07 11.21.13.jpg"
+  price: 49
+  description: 34" - 28 oz
 - title: Champion M500P Molded Rubber Base Plug - Set of 3
   image: "/m500p-lifestyle1-l.jpg"
   price: 16.5
@@ -249,7 +281,7 @@ products:
     Heavy cardboard back and spiral bound cover is durable enough to last all season
     \n- Includes batting average chart, roster, and line-up pages for quick access
     to statistics\n- Suitable for all baseball and softball games"
-- title: 360 PGB5R Playground Series Rubber Basketballs - Size 5
+- title: 360 PGB5R Playground Series Rubber Basketball - Size 5
   image: "/PGB5R_Playground-Series-Basketballs-Size-5-Red-webjpg.jpg"
   price: 8.5
   description: |-
@@ -288,6 +320,23 @@ products:
     - plastic butt end
 
     6 available
+- title: Bauer Floor Hockey Goal Pads - 27"
+  image: "/2020-03-07 12.05.49.jpg"
+  price: 60
+  description: |-
+    - 4 Snap straps
+    - Deep leg channel
+
+    1 - Blue/White/Red pairs available
+    2 - Black/White/Grey pairs available
+- title: Road Warrior ROA-HOC-RWSG54 Floor Hockey Goal - 54"
+  image: "/ROA-HOC-RWSG54-2.jpg"
+  price: 65
+  description: |-
+    - steel frame
+    - comes with net
+
+    8 available
 - title: Replacement Street/Floor Hockey Net - Black - 4' x 6'
   image: "/NET46_1-Z.jpg"
   price: 48
@@ -298,14 +347,17 @@ products:
     - sold as pair
 
     1 pair available
-- title: Road Warrior ROA-HOC-RWSG54 Floor Hockey Goal - 54"
-  image: "/ROA-HOC-RWSG54-2.jpg"
-  price: 65
-  description: |-
-    - steel frame
-    - comes with net
-
-    8 available
+- title: Accufli Floorball Sticks - 70 cm, 80cm, 90cm, 100cm
+  image: "/A90 LH Black.jpg"
+  price: 27
+  description: "Features:\nAvailable in 6 colours and both left & right handed.\nLightweight
+    premium composite shafts for consistent and power shooting.\nPre-hook curved blade
+    for accurate shots and ball handling.\nTwo-tone soft PU grip for comfortable and
+    griping power\nFor both indoor and outdoor use, Plus it is an ideal for playing
+    ball hockey and  practicing hockey skill and trick      \n\n* A80 model 220g,
+    with shaft 80cm flex 32mm\n* A90 model weight 240g,  with shaft  90cm Flex 28mm
+    is suggested for player’s height from 5’1” to 5’8”\n* A100 model weight 260g,
+    \ with shaft 100cm Flex 26mm is suggested for player’s height 5’8” and above"
 - title: D-Gel 385 Street Hockey Ball - Pink (set of 2)
   image: "/2020-04-16 17.05.19.jpg"
   price: 7
@@ -333,6 +385,10 @@ products:
   description: |-
     Blue only
     26 available
+- title: Eletto CINCO Futsal Ball
+  image: "/2020-03-30 12.15.56.jpg"
+  price: 23
+  description: 1 available
 - title: Puma Futsal Ball - Size 4
   image: "/2020-04-14 16.23.25.jpg"
   price: 27
@@ -341,6 +397,16 @@ products:
     - Low rebound
 
     6 available
+- title: Uhlsport Elysia Sala Ligue 1 2017 Futsal Ball - Size 4
+  image: "/2020-04-14 16.24.25.jpg"
+  price: 38
+  description: |-
+    - Hand stitched ball in 32 panel construction
+    - Low rebound characteristics
+    - Butyl bladder for better air retention
+    - Size 4
+
+    3 available
 - title: Diadora Futsala ID II 881701 Futsal Ball - Size 4
   image: "/2020-04-14 16.25.24.jpg"
   price: 38
@@ -363,16 +429,33 @@ products:
     - IMS (INTERNATIONAL MATCHBALL STANDARD)
 
     1 available
-- title: Uhlsport Elysia Sala Ligue 1 2017 Futsal Ball - Size 4
-  image: "/2020-04-14 16.24.25.jpg"
-  price: 38
+- title: Adams AFFB Flag Football Belt w/flags
+  image: "/AFFB Adams Flag Football belt.flags.jpg"
+  price: 3
   description: |-
-    - Hand stitched ball in 32 panel construction
-    - Low rebound characteristics
-    - Butyl bladder for better air retention
-    - Size 4
+    Flag football web belt (metal D-rings) with flags
+    - available with red, blue, green or yellow flags
+- title: Spalding Rookie Gear Composite Football - Size 6
+  image: "/spalding rookie gear footballs.jpg"
+  price: 16
+  description: |-
+    - raised tacky laces
+    - 25% lighter
 
-    3 available
+    19 brown available 62-9888C
+    8 red/blue available 62-9929C
+- title: Spalding 727018C Alpha Composite Leather Youth Football - Size 7
+  image: "/2020-04-11 12.05.21.jpg"
+  price: 28
+  description: |-
+    Pebbled tacky laces
+    12 available
+- title: Spalding 72702CA Alpha Composite Leather Varsity Football - Size 9
+  image: "/alpha varsity 72-702CA.jpg"
+  price: 30
+  description: |-
+    Pebbled tacky laces
+    7 available
 - title: Champion MGSET Mini Golf Set
   image: "/mgset-a-main_l.jpg"
   price: 75
@@ -397,24 +480,6 @@ products:
     - Non-toxic
 
     1 available pink
-- title: 360 SPG6Y Rubber Playground Balls - 6 inch
-  image: "/SPG6Y.jpg"
-  price: 5.75
-  description: |-
-    - Classic rubber play ball.
-    - Essential for classrooms, playgrounds and kickball.
-    - Nylon wound with 3-ply rubber cover for extra durability.
-
-    1 available
-- title: Softex P60Y Playball - 6 inch
-  image: "/P60Y.jpg"
-  price: 3.5
-  description: |-
-    - Soft inflatable vinyl balls are extra thick
-    - best sellers for young school aged children
-    - Can be used for a variety of games and activities.
-
-    2 yellow available
 - title: Rhino Skin RS5 Micro Playball - 5 inch
   image: "/rs5_l.jpg"
   price: 14.5
@@ -438,6 +503,24 @@ products:
     - Latex-free
 
     1 Lime Green available
+- title: 360 SPG6Y Rubber Playground Balls - 6 inch
+  image: "/SPG6Y.jpg"
+  price: 5.75
+  description: |-
+    - Classic rubber play ball.
+    - Essential for classrooms, playgrounds and kickball.
+    - Nylon wound with 3-ply rubber cover for extra durability.
+
+    1 available
+- title: Softex P60Y Playball - 6 inch
+  image: "/P60Y.jpg"
+  price: 3.5
+  description: |-
+    - Soft inflatable vinyl balls are extra thick
+    - best sellers for young school aged children
+    - Can be used for a variety of games and activities.
+
+    2 yellow available
 - title: Jeffix PR600 Playground Rubber Ball - 6 inch
   image: "/PR600_1-Z.jpg"
   price: 5.75
@@ -630,14 +713,48 @@ products:
   image: "/2020-04-17 14.51.41.jpg"
   price: 19
   description: 1 available
-- title: Juggling Flower Stick JFS
-  image: "/2020-04-16 16.40.35.jpg"
-  price: 12
-  description: 1 set available
 - title: Crocheted Hackey Sack
   image: "/hackysack2.jpg"
   price: 3
   description: 12 available in assorted colours
+- title: Exercise Station Activity Riser (Hoop holder) w/Base & Wand Posts
+  image: ''
+  price: 
+  description: |-
+    - Can be used for multiple activities
+    - Obstacle course, high jump, target etc
+
+    5 available
+- title: Inflatable Cones PP-508178/9-00  8" & 12" height
+  image: "/2020-03-07 12.25.41.jpg"
+  price: 15
+  description: |-
+    PP-508178-00  8" set of 6 - $15.00
+    PP-508179-00  12" set of 6 - $18.00
+- title: Juggling Flower Stick JFS
+  image: "/2020-04-16 16.40.35.jpg"
+  price: 12
+  description: 1 set available
+- title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
+  image: "/Rawlings HFP125BP Baseball Glove.jpg"
+  price: 38
+  description: |-
+    - All leather shell
+    - Soft & supple, very flexible (broken in feel)
+
+    13 available (black/purple)
+- title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
+  image: "/2020-04-11 14.51.18.jpg"
+  price: 60
+  description: "- All leather"
+- title: Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
+  image: "/2020-03-07 12.12.53.jpg"
+  price: 35
+  description: Sold in sets of 6
+- title: Sponge Dice PX-501332-00 (Colour dot sides)
+  image: "/PX-501332-00 Sponge Dice (colour dot sides).jpg"
+  price: 4.5
+  description: 5 available
 - title: Franklin FRK-PIC-52710 Pickleball-X Volt Set
   image: "/2020-04-13 10.31.20.jpg"
   price: 40
@@ -646,6 +763,10 @@ products:
     - includes 2 balls
 
     3 sets available
+- title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
+  image: "/Eletto LIGA comp soccer ball.jpg"
+  price: 29
+  description: ''
 - title: Champion SL10 Soccer Ball Trainer - Size 4
   image: "/sl10-a-front_l.jpg"
   price: 15
@@ -712,6 +833,10 @@ products:
     - Great bounce
 
     3 available (colours shown)
+- title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
+  image: "/Eletto LNA-290 soccer ball.jpg"
+  price: 
+  description: ''
 - title: Nike Phantom Venom Soccer Ball - Size 4 & 5
   image: "/2020-04-14 16.27.21.jpg"
   price: 27
@@ -749,6 +874,12 @@ products:
     - Excellent in all weather conditions
     - Size 5
 
+    1 available
+- title: Adidas Krasava Soccer Ball - Size 5
+  image: "/KRASAVA Adidas SB size 5.jpg"
+  price: 45
+  description: |-
+    Match quality ball, superb bounce and feel
     1 available
 - title: Champion EX5PR Extreme Soccer Ball - Size 5
   image: "/ex5pr-a-front_l.jpg"
@@ -805,6 +936,20 @@ products:
     - Size 5
 
     1 available
+- title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
+  image: "/2020-03-30 12.26.05.jpg"
+  price: 15
+  description: |-
+    Also available in sizes 3 & 4
+    2 available
+- title: Sporteck CAPO Soccer Ball - Size 5
+  image: "/sporteck CAPO soccer ball.jpg"
+  price: 30
+  description: ''
+- title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
+  image: "/Eletto LNA-350 soccer ball.jpg"
+  price: 22
+  description: ''
 - title: Mikasa MCS50 Orbite Design Soccer Ball - Size 5
   image: "/MCS50-WO_1-Z.jpg"
   price: 30
@@ -984,6 +1129,19 @@ products:
     - yellow
 
     21 available
+- title: Professional High Jump Standards (HJSP)
+  image: "/HJSP.JPG"
+  price: 995
+  description: |
+    - INCLUDES: competition level fiberglass 13.1' crossbar (not shown)
+    - Height range-69-250cm
+    - 75mm aluminum pole with 59x53cm “T” shape laser cut base, casting alum.
+    - Crossbar platform and top cap.
+    - Extra weighted base for stability.
+    - Red only
+    - IAAF Certified.
+
+    2 available
 - title: Track Spikes - 7 mm Ceramic (set of 10)
   image: "/2020-04-16 15.03.37.jpg"
   price: 5
@@ -1004,10 +1162,65 @@ products:
     3 - NB
     1 - Adidas (blue left)
     1 - Saucony
-- title: Training Hurdles SH9 - 9" Orange
-  image: "/training hurdles.jpg"
-  price: 9
-  description: 3 available
+- title: BY Group Classic Fitness Ball 92139
+  image: "/2020-03-07 12.43.06.jpg"
+  price: 15
+  description: |-
+    - Great for all fitness levels
+    - Increases muscle flexibility and strength
+    - Strengthens and tones your body
+    - Will not burst if punctured
+- title: BY Group Classic Fitness Ball 92141
+  image: "/BY Group fitness ball 92141.jpg"
+  price: 18
+  description: |-
+    - Diameter 55 cm
+    - Great for all fitness levels
+    - Increases muscle flexibility and strength
+    - Strengthens and tones your body
+    - Gain coordination with each workout
+    - With anti-burst strength of 1000 lbs
+    - Dual action pump INCLUDED
+
+    1 available at this price
+- title: ATF Fitness Ball A4460R/55 - 55 cm (22")
+  image: "/ATF A4460.55 fitness ball a.jpg"
+  price: 18
+  description: |-
+    Includes:
+    - 55 cm RED Ball
+    - Pump
+    - Program
+
+    1 available
+- title: ATF Fitness Ball A4460R/65 - 65 cm (26")
+  image: "/ATF fitness ball A4460.65.jpg"
+  price: 23
+  description: |-
+    Includes:
+    - 65 cm BLUE Ball
+    - Pump
+    - Program
+
+    1 available at this price
+- title: ATF Fitness Ball A4460R/75 - 75 cm (30")
+  image: "/ATF fitness ball A4460.75.jpg"
+  price: 26
+  description: |-
+    Includes:
+    - 75 cm SILVER Ball
+    - Pump
+    - Program
+
+    1 available at this price
+- title: Chin Up Bar, Wall Mounted (WMCUB)
+  image: "/WMCUB.JPG"
+  price: 95
+  description: |-
+    - Made of industrial strength, heavy steel, featuring 4 different grip positions.
+    - 44" wide (end to end), 23" deep (from base of wall bracket).
+
+    2 available
 - title: Firm Foam Roller EPPFR36  - 6" dia x 36" high
   image: "/Firm Foam Roller EPPFR36 a.jpg"
   price: 35
@@ -1020,12 +1233,26 @@ products:
   image: "/2020-03-07 12.33.42.jpg"
   price: 23
   description: ''
+- title: York 76000 High-Density Roll Mat - 24" x 72"
+  image: "/2020-03-07 12.30.18.jpg"
+  price: 18
+  description: |-
+    - Extra-thick foam for a safe and comfortable workout
+    - Heavy-duty vinyl makes cleaning and sanitizing easy
+    - Thick, nylon handles make it easy to transport
+    - Rolls up for convenient storage
+    - Perfect for any type of floor exercises
+    - Reduces pressure on the back during exercise and is excellent for physical therapy
 - title: SKLZ Speed Chute SAQ
   image: "/sklz speed chute.jpg"
   price: 57
   description: |-
     54 inches
     Professional quality resistance sprint trainer
+- title: Training Hurdles SH9 - 9" Orange
+  image: "/training hurdles.jpg"
+  price: 9
+  description: 3 available
 - title: Champion VB5 Synthetic Leather Volleyball
   image: "/vb5-front-l.jpg"
   price: 17
@@ -1037,6 +1264,13 @@ products:
     - White
 
     6 available
+- title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
+  image: "/2020-03-30 11.33.27.jpg"
+  price: 4
+  description: |-
+    Only white as shown
+
+    15 available
 - title: Concorde VB88B Super Soft Volleyballs - 8 inch
   image: "/VB88.jpg"
   price: 6.5
@@ -1045,13 +1279,6 @@ products:
     - Ideal for new, recreational, or younger players.
 
     1 blue available
-- title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
-  image: "/2020-03-30 11.33.27.jpg"
-  price: 4
-  description: |-
-    Only white as shown
-
-    15 available
 - title: ChampionVB2GB Composite Volleyball
   image: "/vb2gb-front-l.jpg"
   price: 20
@@ -1222,6 +1449,15 @@ products:
     - 29"x 20"x 11"
 
     8 available
+- title: Volleyball Carrying Bag (L6V)
+  image: "/l6v.jpg"
+  price: 15
+  description: |-
+    - Nylon tube bag with an adjustable shoulder strap.
+    - Holds 6 inflated volleyballs.
+    - 47” x 8.5” x 6.5”
+
+    6 available
 - title: Mesh Ball Bag / Laundry Bag L40
   image: "/L40_-_Laundry_Bags.jpg"
   price: 7.5
@@ -1343,10 +1579,10 @@ products:
     - Set of 6 (1 of each):Blue, Green, Orange, Purple, Red & Yellow
 
     2 available
-- title: Omnikin 30191-700 Hand/Foot Ball Pump w/attachments
-  image: "/2020-04-16 16.45.55.jpg"
-  price: 10
-  description: 2 available
+- title: CCM Hand/Foot Pump
+  image: "/2020-03-07 12.26.20.jpg"
+  price: 24
+  description: 3 available
 - title: Fox40 Digital Ball Gauge 6916-0200
   image: "/Fox40 digital ball gauge.PNG"
   price: 24
@@ -1358,6 +1594,48 @@ products:
     - Have on hand at any sports facility
 
     4 available
+- title: Omnikin 30191-700 Hand/Foot Ball Pump w/attachments
+  image: "/2020-04-16 16.45.55.jpg"
+  price: 10
+  description: 2 available
+- title: Fox40 Ecoblast Rechargeable Air Horn & Air Pump 9509AZ
+  image: "/Fox40 9509AZ ecoblast horn.jpg"
+  price: 28
+  description: |-
+    - Great alternative to traditional starter pistol, as they can be used to initiate the start of track & field or swimming events
+    - The non-toxic, 100% ozone safe EcoBlast™
+    - Rechargeable safety signal air horn can be refilled quickly and easily with mini
+    air pump
+    - Powerful 120 dB sound power
+    - Can be stored indoors and outdoors
+    - Reliable in all weather conditions
+    - Made of lightweight aluminum and strong ABS plastic
+
+    1 available
+- price: 24
+  description: |-
+    8 oz
+    Ozone friendly
+
+    Used in all sports:
+    - soccer
+    - basketball
+    - field hockey
+    - wrestling
+    - lacrosse
+
+    1 available
+  title: Kwikgoal Blast Air Horn 9A1
+  image: "/2020-04-10 16.39.19.jpg"
+- title: Fox40 Whistle+Ball Pump 6906-0000
+  image: "/Fox40 6906-0000 whistle ball pump.jpg"
+  price: 10
+  description: |-
+    - Dual Action Ball Pump
+    - 3 ball pump pins
+    - Sonik Blast CMG Pealess Whistle
+
+    2 available
 - title: 360 Electronic Whistle WE1
   image: "/WE1_-_Electronic_Whistle.jpg"
   price: 16
@@ -1413,6 +1691,18 @@ products:
     - Sonik Blast Cushion Mouth Guard (CMG) Pealess Whistle
 
     1 available
+- title: Fox40 Classic Whistle & T-Reign Clip 7930-0000
+  image: "/Fox40 T-Reign & whistle 7930-0000.jpg"
+  price: 17
+  description: |-
+    FOX40 CLASSIC WHISTLE FEATURES:
+    -The Fox 40® Classic® whistle is the standard choice referees and coaches at all levels, rescue professionals and general safety worldwide
+    - Flawless, consistent and reliable
+    - Easy to blow and cannot be overblown
+    - Will be heard above ambient noise, loud crowds, the roar of engines, breaking waves and thundering gale-force winds
+    - Sound will be heard up to a mile away
+
+    6 available
 - title: Fox40 LED Flashlight 7914-0105
   image: "/Fox40 LED flashlight.PNG"
   price: 10
@@ -1425,6 +1715,28 @@ products:
     - Great for boating, fishing or outdoor excursions
 
     1 available
+- title: Fox40 Water Rescue Throw Ring 7928-0700
+  image: "/2020-04-10 16.34.39.jpg"
+  price: 25
+  description: |-
+    From the Fox 40 Outdoor Marine safety line
+
+    - lightweight and floats; easy to use
+    - textured grip with directions for use
+    - brightly coloured for day or night visibility
+    - easily stored in watercraft, by pool or on lifeguard stand
+    - 50 ft (15 m)
+
+    1 available
+- title: Heart Rate Monitor (HRM1)
+  image: "/HRM1 Heart Rate Monitor.jpg"
+  price: 49
+  description: "Let this Heart Rate Monitor guide your intensity and take the guess
+    work out of your training sessions! \nFeatures: 3 selectable heart rate zones,
+    average heart rate, audio & visual alarm in target zone, upper & lower heart rate
+    zone alarm, calories burned counter, chronograph, exercise data recall, exercise
+    timer, in-zone timer, % of maximum heart rate, maximum heart rate, EL backlight.\n\n1
+    available"
 - title: Fox40 Telescopic Paddle 7928-0206
   image: "/Fox40 Telescoping Paddle 7928-0206.PNG"
   price: 16
@@ -1488,200 +1800,6 @@ products:
   image: "/2020-03-07 12.39.15.jpg"
   price: 10
   description: 1 pair available
-- title: York 76000 High-Density Roll Mat - 24" x 72"
-  image: "/2020-03-07 12.30.18.jpg"
-  price: 18
-  description: |-
-    - Extra-thick foam for a safe and comfortable workout
-    - Heavy-duty vinyl makes cleaning and sanitizing easy
-    - Thick, nylon handles make it easy to transport
-    - Rolls up for convenient storage
-    - Perfect for any type of floor exercises
-    - Reduces pressure on the back during exercise and is excellent for physical therapy
-- title: BY Group Classic Fitness Ball 92141
-  image: "/BY Group fitness ball 92141.jpg"
-  price: 18
-  description: |-
-    - Diameter 55 cm
-    - Great for all fitness levels
-    - Increases muscle flexibility and strength
-    - Strengthens and tones your body
-    - Gain coordination with each workout
-    - With anti-burst strength of 1000 lbs
-    - Dual action pump INCLUDED
-
-    1 available at this price
-- title: BY Group Classic Fitness Ball 92139
-  image: "/2020-03-07 12.43.06.jpg"
-  price: 15
-  description: |-
-    - Great for all fitness levels
-    - Increases muscle flexibility and strength
-    - Strengthens and tones your body
-    - Will not burst if punctured
-- title: ATF Fitness Ball A4460R/75 - 75 cm (30")
-  image: "/ATF fitness ball A4460.75.jpg"
-  price: 26
-  description: |-
-    Includes:
-    - 75 cm SILVER Ball
-    - Pump
-    - Program
-
-    1 available at this price
-- title: ATF Fitness Ball A4460R/65 - 65 cm (26")
-  image: "/ATF fitness ball A4460.65.jpg"
-  price: 23
-  description: |-
-    Includes:
-    - 65 cm BLUE Ball
-    - Pump
-    - Program
-
-    1 available at this price
-- title: ATF Fitness Ball A4460R/55 - 55 cm (22")
-  image: "/ATF A4460.55 fitness ball a.jpg"
-  price: 18
-  description: |-
-    Includes:
-    - 55 cm RED Ball
-    - Pump
-    - Program
-
-    1 available
-- title: Franklin 22622 Fieldmaster Glove - 11" Left Hand Catch
-  image: "/Franklin fieldmaster.jpg"
-  price: 24
-  description: 1 available - Navy/Red/White
-- title: Franklin FRK-BB-22610 Fieldmaster Ball Glove - 13" Left hand catch
-  image: "/Franklin FRK-BB-22610 Fieldmaster Ball Glove.jpg"
-  price: 28
-  description: |
-    - Synthetic leather
-    - Soft feel
-
-    8 available  - Black
-- title: Spalding 41003 Official League Synthetic Cover Baseball (sold in case of
-    12)
-  image: "/2020-03-07 11.09.54.jpg"
-  price: 36
-  description: |-
-    stitched seams
-    5 dozen available
-- title: Head Stream Badminton Racquet
-  image: "/Head Stream Badminton Racquet.jpg"
-  price: 39
-  description: |-
-    - Graphite shaft
-    - Aluminum Head
-    - Power Helix shaft structure for improved strength & flexibility generating a more powerful shot
-
-    12 available
-- title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
-  image: "/2020-03-30 12.26.05.jpg"
-  price: 15
-  description: |-
-    Also available in sizes 3 & 4
-    2 available
-- title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
-  image: "/Eletto LIGA comp soccer ball.jpg"
-  price: 29
-  description: ''
-- title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
-  image: "/Eletto LNA-350 soccer ball.jpg"
-  price: 22
-  description: ''
-- title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
-  image: "/Eletto LNA-290 soccer ball.jpg"
-  price: 
-  description: ''
-- title: Sporteck CAPO Soccer Ball - Size 5
-  image: "/sporteck CAPO soccer ball.jpg"
-  price: 30
-  description: ''
-- title: Eletto CINCO Futsal Ball
-  image: "/2020-03-30 12.15.56.jpg"
-  price: 23
-  description: 1 available
-- title: Fox40 Water Rescue Throw Ring 7928-0700
-  image: "/2020-04-10 16.34.39.jpg"
-  price: 25
-  description: |-
-    From the Fox 40 Outdoor Marine safety line
-
-    - lightweight and floats; easy to use
-    - textured grip with directions for use
-    - brightly coloured for day or night visibility
-    - easily stored in watercraft, by pool or on lifeguard stand
-    - 50 ft (15 m)
-
-    1 available
-- price: 24
-  description: |-
-    8 oz
-    Ozone friendly
-
-    Used in all sports:
-    - soccer
-    - basketball
-    - field hockey
-    - wrestling
-    - lacrosse
-
-    1 available
-  title: Kwikgoal Blast Air Horn 9A1
-  image: "/2020-04-10 16.39.19.jpg"
-- title: Fox40 Ecoblast Rechargeable Air Horn & Air Pump 9509AZ
-  image: "/Fox40 9509AZ ecoblast horn.jpg"
-  price: 28
-  description: |-
-    - Great alternative to traditional starter pistol, as they can be used to initiate the start of track & field or swimming events
-    - The non-toxic, 100% ozone safe EcoBlast™
-    - Rechargeable safety signal air horn can be refilled quickly and easily with mini
-    air pump
-    - Powerful 120 dB sound power
-    - Can be stored indoors and outdoors
-    - Reliable in all weather conditions
-    - Made of lightweight aluminum and strong ABS plastic
-
-    1 available
-- title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
-  image: "/2020-04-11 14.51.18.jpg"
-  price: 60
-  description: "- All leather"
-- title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
-  image: "/Rawlings HFP125BP Baseball Glove.jpg"
-  price: 38
-  description: |-
-    - All leather shell
-    - Soft & supple, very flexible (broken in feel)
-
-    13 available (black/purple)
-- title: Fox40 Classic Whistle & T-Reign Clip 7930-0000
-  image: "/Fox40 T-Reign & whistle 7930-0000.jpg"
-  price: 17
-  description: |-
-    FOX40 CLASSIC WHISTLE FEATURES:
-    -The Fox 40® Classic® whistle is the standard choice referees and coaches at all levels, rescue professionals and general safety worldwide
-    - Flawless, consistent and reliable
-    - Easy to blow and cannot be overblown
-    - Will be heard above ambient noise, loud crowds, the roar of engines, breaking waves and thundering gale-force winds
-    - Sound will be heard up to a mile away
-
-    6 available
-- title: Fox40 Whistle+Ball Pump 6906-0000
-  image: "/Fox40 6906-0000 whistle ball pump.jpg"
-  price: 10
-  description: |-
-    - Dual Action Ball Pump
-    - 3 ball pump pins
-    - Sonik Blast CMG Pealess Whistle
-
-    2 available
-- title: CCM Hand/Foot Pump
-  image: "/2020-03-07 12.26.20.jpg"
-  price: 24
-  description: 3 available
 - title: BacPacJac Backpack Shock Absorbers - Light (3 - 25 lbs)
   image: "/2020-04-10 16.59.04.jpg"
   price: 12
@@ -1710,86 +1828,6 @@ products:
     Easily installs on any backpack
 
     https://bacpacjac.com/
-- title: Inflatable Cones PP-508178/9-00  8" & 12" height
-  image: "/2020-03-07 12.25.41.jpg"
-  price: 15
-  description: |-
-    PP-508178-00  8" set of 6 - $15.00
-    PP-508179-00  12" set of 6 - $18.00
-- title: Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
-  image: "/2020-03-07 12.12.53.jpg"
-  price: 35
-  description: Sold in sets of 6
-- title: Exercise Station Activity Riser (Hoop holder) w/Base & Wand Posts
-  image: ''
-  price: 
-  description: |-
-    - Can be used for multiple activities
-    - Obstacle course, high jump, target etc
-
-    5 available
-- title: Sponge Dice PX-501332-00 (Colour dot sides)
-  image: "/PX-501332-00 Sponge Dice (colour dot sides).jpg"
-  price: 4.5
-  description: 5 available
-- title: Worth Mayhem Softball Bats
-  image: "/2020-03-07 11.21.13.jpg"
-  price: 49
-  description: 34" - 28 oz
-- title: Bauer Floor Hockey Goal Pads - 27"
-  image: "/2020-03-07 12.05.49.jpg"
-  price: 60
-  description: |-
-    - 4 Snap straps
-    - Deep leg channel
-
-    1 - Blue/White/Red pairs available
-    2 - Black/White/Grey pairs available
-- title: Volleyball Carrying Bag (L6V)
-  image: "/l6v.jpg"
-  price: 15
-  description: |-
-    - Nylon tube bag with an adjustable shoulder strap.
-    - Holds 6 inflated volleyballs.
-    - 47” x 8.5” x 6.5”
-
-    6 available
-- title: Chin Up Bar, Wall Mounted (WMCUB)
-  image: "/WMCUB.JPG"
-  price: 95
-  description: |-
-    - Made of industrial strength, heavy steel, featuring 4 different grip positions.
-    - 44" wide (end to end), 23" deep (from base of wall bracket).
-
-    2 available
-- title: Heart Rate Monitor (HRM1)
-  image: "/HRM1 Heart Rate Monitor.jpg"
-  price: 49
-  description: "Let this Heart Rate Monitor guide your intensity and take the guess
-    work out of your training sessions! \nFeatures: 3 selectable heart rate zones,
-    average heart rate, audio & visual alarm in target zone, upper & lower heart rate
-    zone alarm, calories burned counter, chronograph, exercise data recall, exercise
-    timer, in-zone timer, % of maximum heart rate, maximum heart rate, EL backlight.\n\n1
-    available"
-- title: Spalding 72702CA Alpha Composite Leather Varsity Football - Size 9
-  image: "/alpha varsity 72-702CA.jpg"
-  price: 30
-  description: |-
-    Pebbled tacky laces
-    7 available
-- title: Professional High Jump Standards (HJSP)
-  image: "/HJSP.JPG"
-  price: 995
-  description: |
-    - INCLUDES: competition level fiberglass 13.1' crossbar (not shown)
-    - Height range-69-250cm
-    - 75mm aluminum pole with 59x53cm “T” shape laser cut base, casting alum.
-    - Crossbar platform and top cap.
-    - Extra weighted base for stability.
-    - Red only
-    - IAAF Certified.
-
-    2 available
 - title: Mat Cart - Pneumatic Wheels (8715302)
   image: "/8715302 Mat Cart pneumatic a.jpg"
   price: 195
@@ -1820,44 +1858,6 @@ products:
     - holds 660 lbs
 
     2 available
-- title: Spalding 727018C Alpha Composite Leather Youth Football - Size 7
-  image: "/2020-04-11 12.05.21.jpg"
-  price: 28
-  description: |-
-    Pebbled tacky laces
-    12 available
-- title: Spalding Rookie Gear Composite Football - Size 6
-  image: "/spalding rookie gear footballs.jpg"
-  price: 16
-  description: |-
-    - raised tacky laces
-    - 25% lighter
-
-    19 brown available 62-9888C
-    8 red/blue available 62-9929C
-- title: Accufli Floorball Sticks - 70 cm, 80cm, 90cm, 100cm
-  image: "/A90 LH Black.jpg"
-  price: 27
-  description: "Features:\nAvailable in 6 colours and both left & right handed.\nLightweight
-    premium composite shafts for consistent and power shooting.\nPre-hook curved blade
-    for accurate shots and ball handling.\nTwo-tone soft PU grip for comfortable and
-    griping power\nFor both indoor and outdoor use, Plus it is an ideal for playing
-    ball hockey and  practicing hockey skill and trick      \n\n* A80 model 220g,
-    with shaft 80cm flex 32mm\n* A90 model weight 240g,  with shaft  90cm Flex 28mm
-    is suggested for player’s height from 5’1” to 5’8”\n* A100 model weight 260g,
-    \ with shaft 100cm Flex 26mm is suggested for player’s height 5’8” and above"
-- title: Adams AFFB Flag Football Belt w/flags
-  image: "/AFFB Adams Flag Football belt.flags.jpg"
-  price: 3
-  description: |-
-    Flag football web belt (metal D-rings) with flags
-    - available with red, blue, green or yellow flags
-- title: Adidas Krasava Soccer Ball - Size 5
-  image: "/KRASAVA Adidas SB size 5.jpg"
-  price: 45
-  description: |-
-    Match quality ball, superb bounce and feel
-    1 available
 - title: Adidas Pink/Blue Soccer Ball - Size 5
   image: "/Adidas game ball size 5.jpg"
   price: 25
