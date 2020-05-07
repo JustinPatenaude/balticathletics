@@ -52,6 +52,15 @@ products:
     - Power Helix shaft structure for improved strength & flexibility generating a more powerful shot
 
     12 available
+- title: Badminton Centre Posts LO-B733
+  image: "/LO-Bad Center.jpg"
+  price: 57
+  description: |-
+    48mm[1-7/8"] dia. Steel Badminton Center Post
+
+    Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
+
+    8 available
 - title: Franklin FRK-BB-22604 Fieldmaster Glove - 11" YOUTH - Left hand catch
   image: "/2020-04-13 14.19.51.jpg"
   price: 24
@@ -140,23 +149,6 @@ products:
     2 available
     - 1 black
     - 1 tan
-- title: Wilson A360 Glove - 13" RIGHT Hand Catch
-  image: "/A360 Wilson glove RHC.jpg"
-  price: 49
-  description: 2 Available
-- title: Badminton Centre Posts LO-B733
-  image: "/LO-Bad Center.jpg"
-  price: 57
-  description: |-
-    48mm[1-7/8"] dia. Steel Badminton Center Post
-
-    Designed to be mounted in a single socket between two courts. Badminton center post are light weight and easily set-up. Two Eyes welded to adjustable collars allow precise net height adjustment. Powder coated red finish.
-
-    8 available
-- title: Champion Sports CBG900 Glove - 13" Left hand catch
-  image: "/Champion Sports CBG900 Glove.jpg"
-  price: 30
-  description: 1 available
 - title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
   image: "/Rawlings HFP125BP Baseball Glove.jpg"
   price: 38
@@ -165,6 +157,14 @@ products:
     - Soft & supple, very flexible (broken in feel)
 
     13 available (black/purple)
+- title: Wilson A360 Glove - 13" RIGHT Hand Catch
+  image: "/A360 Wilson glove RHC.jpg"
+  price: 49
+  description: 2 Available
+- title: Champion Sports CBG900 Glove - 13" Left hand catch
+  image: "/Champion Sports CBG900 Glove.jpg"
+  price: 30
+  description: 1 available
 - title: Easton BMG13 Glove - 13" Left hand catch
   image: "/2020-03-07 11.14.30.jpg"
   price: 35
@@ -176,10 +176,6 @@ products:
   image: "/Franklin FRK-BB-22601 Fieldmaster Glove a.jpg"
   price: 
   description: 1 available - Blonde/Black
-- title: Louisville Fastpitch CATCHER'S Glove CM1 - Left hand catch
-  image: "/2020-04-11 14.51.18.jpg"
-  price: 60
-  description: "- All leather"
 - title: Franklin FRK-BB-22610 Fieldmaster Ball Glove - 13" Left hand catch
   image: "/Franklin FRK-BB-22610 Fieldmaster Ball Glove.jpg"
   price: 28
@@ -201,6 +197,10 @@ products:
   image: "/2020-04-13 14.19.33.jpg"
   price: 28
   description: 8 available - Blonde/Black
+- title: Louisville Fastpitch CATCHER'S Glove CM1 - Left hand catch
+  image: "/2020-04-11 14.51.18.jpg"
+  price: 60
+  description: "- All leather"
 - title: Easton Z5JR Batting Helmet - Junior
   image: "/2020-04-11 14.34.59.jpg"
   price: 39
