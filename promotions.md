@@ -2127,6 +2127,8 @@ products:
 ---
 Welcome to our promo page!!
 
-All products are also sorted by [product category](https://balticathletics.com/products/) in addition to this master list. If you are looking for a particular sport this is the best way to look.
+You are looking at the promo master list. It is sorted alphabetically by sport with the miscellaneous stuff at the bottom.
+
+The promo products are also sorted by [product category](https://balticathletics.com/products/). If you are looking for a particular sport this is the best way to look.
 
 These products have no additional shipping charges and are in stock in our warehouse.
