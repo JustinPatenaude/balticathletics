@@ -12,12 +12,6 @@ products:
 - Pants
 photos: []
 promotions:
-- title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
-  image: "/234DBMK_GRAY.jpg"
-  price: 22
-  description: |-
-    Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
-    Belt not included
 - title: Franklin FRK-BB-22612 Fieldmaster Glove - 11" YOUTH - Left hand catch
   image: "/2020-04-13 14.20.17.jpg"
   price: 24
@@ -80,6 +74,14 @@ promotions:
   image: "/2020-04-13 15.45.10.jpg"
   price: 28
   description: 6 available - Black
+- title: Franklin RTP Fielding Glove FRK-BB-22552 - 12" Left Hand Catch
+  image: "/Franklin RTP Fielding Glove FRK-BB-22552.jpg"
+  price: 28
+  description: |-
+    Ready to Play (RTP)
+    soft supple
+
+    1 available
 - title: Rawlings PM120TBJB Leather Palm Glove - 12" Left Hand Catch
   image: "/Rawlings PM120TBJB Leather Palm Glove.jpg"
   price: 35
@@ -98,14 +100,6 @@ promotions:
     2 available
     - 1 black
     - 1 tan
-- title: Franklin RTP Fielding Glove FRK-BB-22552 - 12" Left Hand Catch
-  image: "/Franklin RTP Fielding Glove FRK-BB-22552.jpg"
-  price: 28
-  description: |-
-    Ready to Play (RTP)
-    soft supple
-
-    1 available
 - title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
   image: "/Rawlings HFP125BP Baseball Glove.jpg"
   price: 38
@@ -158,6 +152,14 @@ promotions:
   image: "/2020-04-11 14.51.18.jpg"
   price: 60
   description: "- All leather"
+- title: Easton Z5JR Batting Helmet - Junior
+  image: "/2020-04-11 14.34.59.jpg"
+  price: 39
+  description: 1 available in RED
+- title: Easton Z5 Batting Helmet - Senior
+  image: "/2020-04-11 14.36.02.jpg"
+  price: 39
+  description: 1 available in BLACK
 - title: Spalding 100 Leather Baseball
   image: "/spalding 100 baseball.jpg"
   price: 5
@@ -173,29 +175,22 @@ promotions:
   image: "/plbb-enhanced-1_l.jpg"
   price: 1.5
   description: ''
-- title: Easton Z5JR Batting Helmet - Junior
-  image: "/2020-04-11 14.34.59.jpg"
-  price: 39
-  description: 1 available in RED
-- title: Easton Z5 Batting Helmet - Senior
-  image: "/2020-04-11 14.36.02.jpg"
-  price: 39
-  description: 1 available in BLACK
-- title: Champion BP2040 Baseball Backpack
-  image: "/bp2040-front_l.jpg"
-  price: 39
-  description: |-
-    - Features two bat holders, glove and helmet pockets, drink sleeve and large main chamber
-    - Adjustable shoulder and back strap with shoe and cleat compartment
-    - Hooks onto fence
-    - 17"H x 14"W x 10"D
-    - Black
-
-    1 available
 - title: Full Size Double First Base M155 w/spikes
   image: "/M155_double-base.png"
   price: 58
   description: 7 available
+- title: Champion M500P Molded Rubber Base Plug - Set of 3
+  image: "/m500p-lifestyle1-l.jpg"
+  price: 16.5
+  description: 1 set available
+- title: Champion M500A Pro Anchor Base Replacement Pin - Set of 3
+  image: "/m500a-enhanced-2-l.jpg"
+  price: 28.75
+  description: 1 set available
+- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
+  image: "/2020-04-13 10.34.14.jpg"
+  price: 10
+  description: 2 sets available
 - title: Base Spikes HDB-NN-RNAIL10 & HDB Super Anchorhead Clips HDB-BB-SASH
   image: "/2020-04-14 09.55.03.jpg"
   price: 5
@@ -210,18 +205,23 @@ promotions:
     - Attach base straps onto clip
 
     12 available.
-- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
-  image: "/2020-04-13 10.34.14.jpg"
-  price: 10
-  description: 2 sets available
-- title: Champion M500P Molded Rubber Base Plug - Set of 3
-  image: "/m500p-lifestyle1-l.jpg"
-  price: 16.5
-  description: 1 set available
-- title: Champion M500A Pro Anchor Base Replacement Pin - Set of 3
-  image: "/m500a-enhanced-2-l.jpg"
-  price: 28.75
-  description: 1 set available
+- title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
+  image: "/234DBMK_GRAY.jpg"
+  price: 22
+  description: |-
+    Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
+    Belt not included
+- title: Champion BP2040 Baseball Backpack
+  image: "/bp2040-front_l.jpg"
+  price: 39
+  description: |-
+    - Features two bat holders, glove and helmet pockets, drink sleeve and large main chamber
+    - Adjustable shoulder and back strap with shoe and cleat compartment
+    - Hooks onto fence
+    - 17"H x 14"W x 10"D
+    - Black
+
+    1 available
 - title: Baseball Scorebook
   image: "/SC1 Baseball Scorebook.jpg"
   price: 6
