@@ -9,10 +9,10 @@ products:
 - Fitness Balls
 - Fitness Monitors
 - Foam Rollers
+- Ladders
 - Medicine Balls
 - Polydots
 - Pylons
-- Ladders
 - Replacement Parts for Kits
 - Trainer Equipment
 photos: []
