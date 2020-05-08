@@ -17,6 +17,23 @@ products:
 - Trainer Equipment
 photos: []
 promotions:
+- title: Champion Stopwatches 910N
+  image: "/910neonset_l.jpg.png"
+  price: 10
+  description: |-
+    - 1/100 Second precision with lap counter (first 30 minutes)
+    - 12/24 hr format with calendar & time
+    - Daily alarm
+    - Hourly chime
+    - Big digit display
+    - Water & shock resistant structure
+
+    5 available:
+    - 1 blue
+    - 1 yellow
+    - 1 orange
+    - 1 pink
+    - 1 green
 - title: Cramer 950 Athletic Trainer's Tape - Box of 32 rolls
   image: "/cramer 950 tape.jpg"
   price: 95
