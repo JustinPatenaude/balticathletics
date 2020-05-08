@@ -59,7 +59,7 @@ promotions:
   description: |-
     rubber
     - 14 available
-- title: Spalding 73-3038C NBA For Her Basketball - Size 28.5
+- title: Spalding 73-3038C NBA For Her Basketball - Size 6 (28.5")
   image: "/733038C Spalding NBA For Her BB size 6.jpg"
   price: 10
   description: |-
