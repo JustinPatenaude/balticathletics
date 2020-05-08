@@ -25,17 +25,12 @@ promotions:
     - Heavy-duty construction.
 
     1 available
-- title: 360 Cellular Composite Basketball - Size 7 (29.5")
-  image: "/TXB7-Cellular_Composite_Basketball.jpg"
-  price: 15
-  description: |2-
-     - 360's #1 selling basketball!
-    - Cellular™ composite indoor/outdoor balls are 5x more durable than traditional rubber balls.
-    - The tacky rubber feel is ideal for players new to the game.
-    - These balls are rotationally wound and built with a butyl bladder for consistent bounce and air retention.
-    - Official size and weight.
-
-    12 available - BLACK only
+- title: Spalding 71-0708C Rookie Basketball - Size 5 (27.5")
+  image: "/710708C Spalding Rookie BB 27.5.jpg"
+  price: 11
+  description: |-
+    Armadillo graphics rubber ball (25% lighter weight)
+     - 20 available
 - title: 360 Cellular Composite Basketball - Size 6 (28.5")
   image: "/TXB7-Cellular_Composite_Basketball.jpg"
   price: 15
@@ -47,12 +42,6 @@ promotions:
     - Official size and weight.
 
     10 available - BLACK only
-- title: Spalding 71-0708C Rookie Basketball - Size 5 (27.5")
-  image: "/710708C Spalding Rookie BB 27.5.jpg"
-  price: 11
-  description: |-
-    Armadillo graphics rubber ball (25% lighter weight)
-     - 20 available
 - title: Spalding 642478C NBA Outdoor Jr Basketball - Size 6 (28.5")
   image: "/642478C Spalding NBA Outdoor Jr BB 28.5.jpg"
   price: 10
@@ -65,6 +54,17 @@ promotions:
   description: |-
     - Rubber
     - 12 available
+- title: 360 Cellular Composite Basketball - Size 7 (29.5")
+  image: "/TXB7-Cellular_Composite_Basketball.jpg"
+  price: 15
+  description: |2-
+     - 360's #1 selling basketball!
+    - Cellular™ composite indoor/outdoor balls are 5x more durable than traditional rubber balls.
+    - The tacky rubber feel is ideal for players new to the game.
+    - These balls are rotationally wound and built with a butyl bladder for consistent bounce and air retention.
+    - Official size and weight.
+
+    12 available - BLACK only
 date: '2019-03-29T22:55:10.000+00:00'
 
 ---
