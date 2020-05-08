@@ -40,23 +40,6 @@ promotions:
     - plastic butt end
 
     6 available
-- title: Bauer Floor Hockey Goal Pads - 27"
-  image: "/2020-03-07 12.05.49.jpg"
-  price: 60
-  description: |-
-    - 4 Snap straps
-    - Deep leg channel
-
-    1 - Blue/White/Red pairs available
-    2 - Black/White/Grey pairs available
-- title: Road Warrior ROA-HOC-RWSG54 Floor Hockey Goal - 54"
-  image: "/ROA-HOC-RWSG54-2.jpg"
-  price: 65
-  description: |-
-    - steel frame
-    - comes with net
-
-    8 available
 - title: High Density Mini Hockey Balls FI1017 - 2"
   image: "/2020-03-07 12.21.31.jpg"
   price: ".90"
@@ -84,6 +67,23 @@ promotions:
     - Medium hardness - 0-15 degrees Celsius
 
     1 pair available
+- title: Road Warrior ROA-HOC-RWSG54 Floor Hockey Goal - 54"
+  image: "/ROA-HOC-RWSG54-2.jpg"
+  price: 65
+  description: |-
+    - steel frame
+    - comes with net
+
+    8 available
+- title: Bauer Floor Hockey Goal Pads - 27"
+  image: "/2020-03-07 12.05.49.jpg"
+  price: 60
+  description: |-
+    - 4 Snap straps
+    - Deep leg channel
+
+    1 - Blue/White/Red pairs available
+    2 - Black/White/Grey pairs available
 date: '2019-03-29T22:59:48.000+00:00'
 
 ---
