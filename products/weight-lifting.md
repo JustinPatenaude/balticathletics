@@ -3,14 +3,14 @@ layout: product
 permalink: "/products/weight-lifting/"
 title: Weight Lifting
 products:
-- Rubber Flooring
-- Weight Lifting Plates
+- Barbells
 - Bars
-- Kettlebells
 - Belts
 - Chalk
-- Barbells
 - Dumbells
+- Kettlebells
+- Rubber Flooring
+- Weight Lifting Plates
 photos: []
 promotions:
 - title: York 7822 Firm Fit Weight Lifting Glove - Size M
