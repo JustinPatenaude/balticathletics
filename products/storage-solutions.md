@@ -21,6 +21,40 @@ promotions:
     - 29"x 20"x 11"
 
     8 available
+- title: Mesh Ball Bag / Laundry Bag L40
+  image: "/L40_-_Laundry_Bags.jpg"
+  price: 7.5
+  description: |-
+    - Large maroon nylon mesh bag
+    - With drawstring closure and barrel lock
+    - 42” x 34”
+    - Holds 10-12 size 7 basketballs
+    - Can be used for laundry or for storage
+    - Balls not included
+
+    12 available
+- title: Volleyball Carrying Bag (L6V)
+  image: "/l6v.jpg"
+  price: 15
+  description: |-
+    - Nylon tube bag with an adjustable shoulder strap.
+    - Holds 6 inflated volleyballs.
+    - 47” x 8.5” x 6.5”
+
+    6 available
+- title: Ball Carrying Net L16
+  image: "/L16_-_Net_Carry_Bag-WEB.jpg"
+  price: 6.75
+  description: |-
+    - Large weave, soft braided nylon bag
+    - Drawstring closure
+    - 48” in size with 4” square mesh
+    - Holds 12 size 5 soccer balls or 10 basketballs
+    - Balls not included
+
+    This is a great economical storage and transporting solution for balls.
+
+    9 available
 - title: Jaypro TE-PE01 Totemaster Open Top Multipurpose Ball Cart
   image: "/Capture.PNG"
   price: 450
@@ -46,19 +80,6 @@ promotions:
     - Black
 
     5 available
-- title: Custom Steel Racquet Cart
-  image: "/2020-03-07 13.03.06.jpg"
-  price: 460
-  description: |
-    - 44"L  X 20" W X 42" T
-    - Holds approx 100 racquets
-    - swivel & fixed casters
-    - plastic bin included on bottom shelf
-    - welded steel - much stronger and more durable than PVC plastic
-    - black
-    - racquets & shuttles in photo not included
-
-    CUSTOM ITEM (allow 2-3 weeks for manufacturing)
 - title: Champion VC500PRO Mammoth Volleyball Cart
   image: "/vc500pro_l.jpg"
   price: 170
@@ -73,44 +94,30 @@ promotions:
     - Black
 
     3 available
-- title: Volleyball Carrying Bag (L6V)
-  image: "/l6v.jpg"
-  price: 15
+- title: Deluxe Outdoor Ball Locker BC44
+  image: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
+  price: 295
   description: |-
-    - Nylon tube bag with an adjustable shoulder strap.
-    - Holds 6 inflated volleyballs.
-    - 47” x 8.5” x 6.5”
+    -This powder coated all-steel construction ball locker has lockable hinge cover
+    -Holds up to 24 basketballs, soccer balls or Playground balls
+    - Large wheels for indoor and outdoor use
+    - Size: 42” L x 24” W x 36” H
+    - MRSP $517.99
 
-    6 available
-- title: Ball Carrying Net L16
-  image: "/L16_-_Net_Carry_Bag-WEB.jpg"
-  price: 6.75
-  description: |-
-    - Large weave, soft braided nylon bag
-    - Drawstring closure
-    - 48” in size with 4” square mesh
-    - Holds 12 size 5 soccer balls or 10 basketballs
-    - Balls not included
+    7 available
+- title: Custom Steel Racquet Cart
+  image: "/2020-03-07 13.03.06.jpg"
+  price: 460
+  description: |
+    - 44"L  X 20" W X 42" T
+    - Holds approx 100 racquets
+    - swivel & fixed casters
+    - plastic bin included on bottom shelf
+    - welded steel - much stronger and more durable than PVC plastic
+    - black
+    - racquets & shuttles in photo not included
 
-    This is a great economical storage and transporting solution for balls.
-
-    9 available
-- title: Mesh Ball Bag / Laundry Bag L40
-  image: "/L40_-_Laundry_Bags.jpg"
-  price: 7.5
-  description: |-
-    - Large maroon nylon mesh bag
-    - With drawstring closure and barrel lock
-    - 42” x 34”
-    - Holds 10-12 size 7 basketballs
-    - Can be used for laundry or for storage
-    - Balls not included
-
-    12 available
-- title: Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
-  image: "/2020-03-07 12.12.53.jpg"
-  price: 35
-  description: Sold in sets of 6
+    CUSTOM ITEM (allow 2-3 weeks for manufacturing)
 - title: Mat Cart - Pneumatic Wheels (8715302)
   image: "/8715302 Mat Cart pneumatic a.jpg"
   price: 195
@@ -141,16 +148,9 @@ promotions:
     - holds 660 lbs
 
     2 available
-- title: Deluxe Outdoor Ball Locker BC44
-  image: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
-  price: 295
-  description: |-
-    -This powder coated all-steel construction ball locker has lockable hinge cover
-    -Holds up to 24 basketballs, soccer balls or Playground balls
-    - Large wheels for indoor and outdoor use
-    - Size: 42” L x 24” W x 36” H
-    - MRSP $517.99
-
-    7 available
+- title: Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
+  image: "/2020-03-07 12.12.53.jpg"
+  price: 35
+  description: Sold in sets of 6
 
 ---
