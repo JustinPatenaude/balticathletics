@@ -16,7 +16,7 @@ photos:
 - title: Basketball Sizing Chart
   photo: "/Basketball Sizing Chart.PNG"
 promotions:
-- title: 360 PGB5R Playground Series Rubber Basketballs - Size 5
+- title: 360 PGB5R Playground Series Rubber Basketballs - Size 5 (27.5")
   image: "/PGB5R_Playground-Series-Basketballs-Size-5-Red-webjpg.jpg"
   price: 8.5
   description: |-
