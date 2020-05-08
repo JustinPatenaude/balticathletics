@@ -10,13 +10,13 @@ products:
 - Shuttlecocks
 photos: []
 promotions:
-- title: Carlton ISO4.3 Maxi-Blade Badminton Racquet
-  image: "/Carlton ISO4.3 Maxi-Blade Badminton Racquet.jpg"
-  price: 16
+- title: Carlton ISO4.3 Midi-Blade Badminton Racquet
+  image: "/Carlton ISO4.3 Midi-Blade Badminton Racquet.jpg"
+  price: 15
   description: |-
     - Titanium Alloy/Steel Racquet
 
-    7 available
+    1 available
 - title: Carlton ISO4.3 Maxi-Blade Badminton Racquet
   image: "/2020-03-07 13.10.31.jpg"
   price: 16
