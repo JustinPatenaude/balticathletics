@@ -47,7 +47,7 @@ promotions:
     - Official size and weight.
 
     10 available - BLACK only
-- title: Spalding 71-0708C Rookie Basketball - size 27.5
+- title: Spalding 71-0708C Rookie Basketball - Size 5 (27.5")
   image: "/710708C Spalding Rookie BB 27.5.jpg"
   price: 11
   description: |-
