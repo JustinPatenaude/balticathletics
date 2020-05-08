@@ -48,10 +48,12 @@ promotions:
   description: |-
     PP-508178-00  8" set of 6 - $15.00
     PP-508179-00  12" set of 6 - $18.00
-- title: Acupoint L2489-6 Foam Roller - 5" dia x 12" high
-  image: "/2020-03-07 12.33.42.jpg"
-  price: 23
-  description: ''
+- title: SKLZ Speed Chute SAQ
+  image: "/sklz speed chute.jpg"
+  price: 57
+  description: |-
+    54 inches
+    Professional quality resistance sprint trainer
 - title: Firm Foam Roller EPPFR36  - 6" dia x 36" high
   image: "/Firm Foam Roller EPPFR36 a.jpg"
   price: 35
@@ -60,39 +62,10 @@ promotions:
     - 6" diameter
     - Made of expanded polypropylene (EPP)
     - Eco-friendly
-- title: York 7852 All Person Fitness Glove - Size M
-  image: "/2020-03-07 12.39.05.jpg"
-  price: 12
-  description: 1 available
-- title: Champion RT610 All Purpose Resistance Belt Set
-  image: "/RT610 All purpose resistance belt set.jpg"
-  price: 55
-  description: |-
-    • Great for athletic partner training
-    • Uses include speed, reaction and competition drills
-    • 1 waist belt
-    • 1-8.5' high elastic tubing with a nylon covering
-    • 2 locking snap links
-    • 1 red handle strap
-    • 2 d-rings
-    • One locking snap link
-
-    • 1 available in Royal Blue
-- title: SKLZ Speed Chute SAQ
-  image: "/sklz speed chute.jpg"
-  price: 57
-  description: |-
-    54 inches
-    Professional quality resistance sprint trainer
-- title: Rubbermaid Drink Station
-  image: "/2020-04-11 14.32.44.jpg"
-  price: 40
-  description: |-
-    - 18.9 L
-    - Insulated
-    - Spigot on bottom
-
-    1 available
+- title: Acupoint L2489-6 Foam Roller - 5" dia x 12" high
+  image: "/2020-03-07 12.33.42.jpg"
+  price: 23
+  description: ''
 - title: York 76000 High-Density Roll Mat - 24" x 72"
   image: "/2020-03-07 12.30.18.jpg"
   price: 18
@@ -154,6 +127,14 @@ promotions:
     - Program
 
     1 available
+- title: Chin Up Bar, Wall Mounted (WMCUB)
+  image: "/WMCUB.JPG"
+  price: 95
+  description: |-
+    - Made of industrial strength, heavy steel, featuring 4 different grip positions.
+    - 44" wide (end to end), 23" deep (from base of wall bracket).
+
+    2 available
 - title: Kwikgoal Blast Air Horn 9A1
   image: "/2020-04-10 16.39.19.jpg"
   price: 24
@@ -191,14 +172,15 @@ promotions:
     - Obstacle course, high jump, target etc
 
     5 available
-- title: Chin Up Bar, Wall Mounted (WMCUB)
-  image: "/WMCUB.JPG"
-  price: 95
+- title: Rubbermaid Drink Station
+  image: "/2020-04-11 14.32.44.jpg"
+  price: 40
   description: |-
-    - Made of industrial strength, heavy steel, featuring 4 different grip positions.
-    - 44" wide (end to end), 23" deep (from base of wall bracket).
+    - 18.9 L
+    - Insulated
+    - Spigot on bottom
 
-    2 available
+    1 available
 - title: Heart Rate Monitor (HRM1)
   image: "/HRM1 Heart Rate Monitor.jpg"
   price: 49
@@ -208,5 +190,23 @@ promotions:
     zone alarm, calories burned counter, chronograph, exercise data recall, exercise
     timer, in-zone timer, % of maximum heart rate, maximum heart rate, EL backlight.\n\n1
     available"
+- title: Champion RT610 All Purpose Resistance Belt Set
+  image: "/RT610 All purpose resistance belt set.jpg"
+  price: 55
+  description: |-
+    • Great for athletic partner training
+    • Uses include speed, reaction and competition drills
+    • 1 waist belt
+    • 1-8.5' high elastic tubing with a nylon covering
+    • 2 locking snap links
+    • 1 red handle strap
+    • 2 d-rings
+    • One locking snap link
+
+    • 1 available in Royal Blue
+- title: York 7852 All Person Fitness Glove - Size M
+  image: "/2020-03-07 12.39.05.jpg"
+  price: 12
+  description: 1 available
 
 ---
