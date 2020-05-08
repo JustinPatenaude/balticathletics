@@ -3,23 +3,23 @@ layout: product
 permalink: "/products/track-field/"
 title: Track & Field
 products:
-- Blanks
-- Starter Pistols
-- Banners
 - Awards
-- Ribbons
-- Custom ribbons
+- Banners
+- Blanks
 - Clothing
-- Uniforms
-- Pole Vault Standards
-- Stopwatches
-- Field Equipment
 - Crossbars
-- Highjump Standards
-- Relay Batons
-- Shotputs
-- Javelins
+- Custom ribbons
 - Discs
+- Field Equipment
+- High Jump Standards
+- Javelins
+- Pole Vault Standards
+- Relay Batons
+- Ribbons
+- Shotputs
+- Starter Pistols
+- Stopwatches
+- Uniforms
 photos: []
 promotions:
 - title: Traditions 209 Starting Pistol
