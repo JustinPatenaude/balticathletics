@@ -14,6 +14,17 @@ products:
 - Towels
 photos: []
 promotions:
+- title: 360 Cellular Composite Basketball - Size 6
+  image: "/TXB7-Cellular_Composite_Basketball.jpg"
+  price: 15
+  description: |-
+    - 360's #1 selling basketball!
+    - Cellular™ composite indoor/outdoor balls are 5x more durable than traditional rubber balls.
+    - The tacky rubber feel is ideal for players new to the game.
+    - These balls are rotationally wound and built with a butyl bladder for consistent bounce and air retention.
+    - Official size and weight.
+
+    10 available - BLACK only
 - title: 360 PGB5R Playground Series Rubber Basketballs - Size 5
   image: "/PGB5R_Playground-Series-Basketballs-Size-5-Red-webjpg.jpg"
   price: 8.5
