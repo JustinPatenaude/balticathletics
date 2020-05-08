@@ -12,8 +12,19 @@ products:
 - Shorts
 - Sublimated Uniforms
 - Towels
-photos: []
+photos:
+- title: Basketball Sizing Chart
+  photo: "/Basketball Sizing Chart.PNG"
 promotions:
+- title: 360 PGB5R Playground Series Rubber Basketballs - Size 5
+  image: "/PGB5R_Playground-Series-Basketballs-Size-5-Red-webjpg.jpg"
+  price: 8.5
+  description: |-
+    - Traditional 8 panel composition rubber cover ball
+    - Nylon wound with 2-Ply butyl bladder for better air retention and consistent bounce
+    - Heavy-duty construction.
+
+    1 available
 - title: 360 Cellular Composite Basketball - Size 7
   image: "/TXB7-Cellular_Composite_Basketball.jpg"
   price: 15
@@ -36,15 +47,6 @@ promotions:
     - Official size and weight.
 
     10 available - BLACK only
-- title: 360 PGB5R Playground Series Rubber Basketballs - Size 5
-  image: "/PGB5R_Playground-Series-Basketballs-Size-5-Red-webjpg.jpg"
-  price: 8.5
-  description: |-
-    - Traditional 8 panel composition rubber cover ball
-    - Nylon wound with 2-Ply butyl bladder for better air retention and consistent bounce
-    - Heavy-duty construction.
-
-    1 available
 - title: Spalding 71-0708C Rookie Basketball - size 27.5
   image: "/710708C Spalding Rookie BB 27.5.jpg"
   price: 11
