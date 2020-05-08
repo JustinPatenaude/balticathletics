@@ -7,9 +7,12 @@ categories:
 - products/safety.md
 - products/score-tables.md
 title: Apple Athletic
-logo: "/APPLE_logo.png"
+logo: "/Apple logo.png"
 website: https://appleathletic.com/
-catalogues: []
+catalogues:
+- year: 2020
+  pdf: "/Colour Options for Vinyl.pdf"
+  title: Colour Options
 photos:
 - title: Custom Permanent Wall Padding - Amber Trailblazers
   photo: "/20151221_162831.jpg"
