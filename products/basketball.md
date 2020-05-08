@@ -36,7 +36,7 @@ promotions:
     - Official size and weight.
 
     12 available - BLACK only
-- title: 360 Cellular Composite Basketball - Size 6
+- title: 360 Cellular Composite Basketball - Size 6 (28.5")
   image: "/TXB7-Cellular_Composite_Basketball.jpg"
   price: 15
   description: |-
