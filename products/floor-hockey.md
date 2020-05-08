@@ -57,6 +57,12 @@ promotions:
     - comes with net
 
     8 available
+- title: High Density Mini Hockey Balls FI1017 - 2"
+  image: "/2020-03-07 12.21.31.jpg"
+  price: ".90"
+  description: |-
+    Blue only
+    26 available
 - title: D-Gel 350P Street Hockey Ball - Orange (set of 2)
   image: "/2020-04-16 17.08.39.jpg"
   price: 8
@@ -78,12 +84,6 @@ promotions:
     - Medium hardness - 0-15 degrees Celsius
 
     1 pair available
-- title: High Density Mini Hockey Balls FI1017 - 2"
-  image: "/2020-03-07 12.21.31.jpg"
-  price: ".90"
-  description: |-
-    Blue only
-    26 available
 date: '2019-03-29T22:59:48.000+00:00'
 
 ---
