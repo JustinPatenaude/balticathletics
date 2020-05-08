@@ -25,7 +25,7 @@ promotions:
     - Heavy-duty construction.
 
     1 available
-- title: 360 Cellular Composite Basketball - Size 7
+- title: 360 Cellular Composite Basketball - Size 7 (29.5")
   image: "/TXB7-Cellular_Composite_Basketball.jpg"
   price: 15
   description: |2-
