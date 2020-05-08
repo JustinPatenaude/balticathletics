@@ -17,8 +17,8 @@ products:
 - Balls
 photos: []
 promotions:
-- title: Gloves shown under "Baseball"
-  image: "/Glove promo sign.png"
+- title: Softball Promo Items listed under "Baseball"
+  image: "/Softball sign.png"
   price: 
   description: ''
 - title: Dudley 4A135 Thunder Heat Leather COR40 Softball - 12"
