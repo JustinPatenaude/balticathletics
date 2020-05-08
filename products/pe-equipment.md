@@ -19,6 +19,15 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: AP1 Latex Pig
+  image: "/AP1_Rubber_Pig_DSF7529.jpg"
+  price: 9.5
+  description: |-
+    - This latex constructed pig is perfect for cooperative games
+    - Latex pig 17" in length
+    - Squeaks when it is squeezed
+
+    9 available
 - title: Cosom CM741722-00 Gym Tennis Balls
   image: "/2020-04-16 16.31.55.jpg"
   price: 1.5
