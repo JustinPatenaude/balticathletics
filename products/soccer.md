@@ -24,16 +24,6 @@ promotions:
   price: 7.75
   description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
     for classroom use.\n\n5 available"
-- price: 48
-  description: |-
-    - Set of 6 soccer balls
-    - SPEEDSKIN polyurethane covered high density foam.
-    - Size: #4
-    - Assorted colors
-
-    1 set available
-  title: Speedskin Soft Soccer Ball Set of 6 - Size 4
-  image: "/SSSOCCERKIT_1-Z.jpg"
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -103,6 +93,16 @@ promotions:
     - Great bounce
 
     3 available (colours shown)
+- price: 48
+  description: |-
+    - Set of 6 soccer balls
+    - SPEEDSKIN polyurethane covered high density foam.
+    - Size: #4
+    - Assorted colors
+
+    1 set available
+  title: Speedskin Soft Soccer Ball Set of 6 - Size 4
+  image: "/SSSOCCERKIT_1-Z.jpg"
 - title: Sporteck BOCA Soccer Ball - Size 4
   image: "/BOCA-2.jpg"
   price: 28
@@ -380,6 +380,13 @@ promotions:
   image: "/2020-04-16 16.08.01.jpg"
   price: 9.5
   description: 1 available
+- title: Admiral Pro Soccer Socks - colour GOLD only
+  image: "/admiral gold soccer sock.jpg"
+  price: 8
+  description: |-
+    - Adult size 10-13
+    - High quality sock, padded foot, ribbed articulated ankle, arch support
+    - 14 pairs available
 - title: Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
   image: "/diadora finale sock.PNG"
   price: 6.5
@@ -397,13 +404,6 @@ promotions:
     - DryForm Technology for wicking away sweat.
 
     9 pairs available
-- title: Admiral Pro Soccer Socks - colour GOLD only
-  image: "/admiral gold soccer sock.jpg"
-  price: 8
-  description: |-
-    - Adult size 10-13
-    - High quality sock, padded foot, ribbed articulated ankle, arch support
-    - 14 pairs available
 date: '2019-03-29T23:03:26.000+00:00'
 
 ---
