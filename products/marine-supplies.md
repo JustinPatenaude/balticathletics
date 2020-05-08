@@ -3,9 +3,9 @@ layout: product
 permalink: "/products/marine-supplies/"
 title: Marine Supplies
 products:
-- Lifesaving Equipment
-- Horns
 - First Aid Kits
+- Horns
+- Lifesaving Equipment
 - Whistles
 photos: []
 promotions:
