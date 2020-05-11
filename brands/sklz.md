@@ -4,16 +4,16 @@ permalink: "/brands/sklz/"
 categories:
 - products/baseball.md
 - products/basketball.md
-- products/made-in-canada.md
 - products/chairs.md
 - products/football.md
 - products/golf.md
 - products/health-fitness.md
+- products/made-in-canada.md
 - products/soccer.md
 - products/softball.md
 - products/training-supplies.md
 - products/umbrellas.md
-title: Sklz
+title: SKLZ
 logo: "/sklz-logo.png"
 website: ''
 catalogues: []
@@ -32,7 +32,5 @@ photos:
   photo: "/d-man_640x640.jpg"
 - title: Speed shute
   photo: "/0125_640x640.webp"
-- title: Proudly Canadian
-  photo: "/proudly canadian.jpg"
 
 ---
