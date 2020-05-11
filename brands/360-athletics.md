@@ -44,10 +44,10 @@ catalogues:
   year: 2020
   pdf: "/2020 360 Athletics Catalogue.pdf"
 photos:
-- title: Playground Rubber Ball Kit
-  photo: "/RBJKIT-WEB.jpg"
 - title: Ultraskin Balls are fabulous! Value & Quality!
   photo: "/ultraskin dodgeballs.jpg"
+- title: Playground Rubber Ball Kit
+  photo: "/RBJKIT-WEB.jpg"
 - title: All types of cones
   photo: "/c12 cone 360.jpg"
 - title: Scooters
