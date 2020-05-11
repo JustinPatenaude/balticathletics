@@ -9,7 +9,13 @@ title: Ulhsport
 logo: "/uhlsport-logo.jpg"
 website: https://www.uhlsport.com/en/
 pdfs: []
-info: ''
+info: |-
+  Professional quality, great value and selection
+
+  ***
+
+  * In 1948, the uhlsport history began in the small town Balingen in the Southwest of Germany, when the uhlsport founder Karl Uhl cobbled his first leather studs.
+  * [History of uhlsport](https://www.uhlsport.com/goalkeeper/en/history)
 date: '2019-03-29T22:38:27.000+00:00'
 photos:
 - title: Elysia Pro Training 2.0
