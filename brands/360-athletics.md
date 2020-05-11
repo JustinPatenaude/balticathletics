@@ -35,9 +35,12 @@ categories:
 title: 360 Athletics
 logo: "/360-athletics-logo.jpg"
 website: https://www.360athletics.com/
-info: "360 is a Canadian company in business for over 40 years. \n\nA great supplier
-  for phys-ed general equipment - balls, hoops, ropes etc\n\nCheck out the website
-  or their catalogue to see the other thousands of products available."
+info: |-
+  360 is a Canadian company in business for over 40 years.
+
+  A great supplier for general phys-ed equipment - balls, hoops, ropes etc
+
+  Check out the website or their catalogue to see the other thousands of products available.
 date: '2019-03-29T22:13:46.000+00:00'
 catalogues:
 - title: 360 Athletics Catalogue
