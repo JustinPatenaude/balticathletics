@@ -62,13 +62,14 @@ promotions:
     - IAAF Certified.
 
     2 available
-- title: Stackhouse Official Fiberglass Crossbar - Competition
+- title: Stackhouse TFG13-1 Official Fiberglass Crossbar - Competition
   image: "/crossbar-sh-offcl-comp-z.jpg"
   price: 265
   description: |-
     - 13' 1.5" length
     - Competition Fiberglass
     - One piece
+    - ORANGE (not shown)
 
     **PLEASE NOTE**
     This item is subject to higher shipping costs due to length. This item needs to be trucked. Item price shown is FOB Winnipeg and pick up in Winnipeg is recommended to avoid extra shipping charges.
