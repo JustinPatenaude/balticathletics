@@ -11,6 +11,7 @@ categories:
 - products/hockey.md
 - products/jerseys.md
 - products/lacrosse.md
+- products/made-in-canada.md
 - products/pants.md
 - products/ringette.md
 - products/shirts.md
