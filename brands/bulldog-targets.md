@@ -12,7 +12,7 @@ catalogues:
   title: Bulldog Brochure
   pdf: "/2018brochure.pdf"
 info: |-
-  Bulldog is a Canadian company that started over 30 years ago as a archery pro-shop. They designed their own target which is the first one in the world to feature a guaranteed lifetime warranty.
+  Bulldog is a Canadian company that started over 30 years ago as an archery pro-shop. They designed their own target which is the first one in the world to feature a guaranteed lifetime warranty.
 
   About Bulldog Lifetime Warranty Archery Targets [https://youtu.be/ot4HL9TbuIU](https://youtu.be/ot4HL9TbuIU "https://youtu.be/ot4HL9TbuIU")
 photos:
