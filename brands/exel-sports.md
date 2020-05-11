@@ -13,6 +13,10 @@ info: |-
   ***
 
   [Floorball in a Nutshell ](https://floorball.sport/this-is-floorball/floorball-in-a-nutshell/)- International Floorball Federation
+
+  [What is Floorball? ](https://playfloorball.ca/about/what-is-floorball/)- Premier Floorball
+
+  [Floorball Rules - Quick Overview](http://www.usafloorball.org/about-floorball/what-is-floorball/floorball-rules-quick-overview/) - USA Floorball Association
 date: '2019-03-29T22:25:40.000+00:00'
 photos:
 - photo: "/UNIV-BK-RD-65-L_1-Z.jpg"
