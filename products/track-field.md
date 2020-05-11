@@ -22,14 +22,6 @@ products:
 - Uniforms
 photos: []
 promotions:
-- title: High Jump Crossbar RUBBER END (sold as a pair)
-  image: "/crossbar-sh-offcl-comp-z end.jpg"
-  price: 10
-  description: |-
-    - blue rubber ends only
-    - for use with high jump cross bar
-
-    1 pair available
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 245
@@ -88,6 +80,14 @@ promotions:
 
     **PLEASE NOTE**
     This item is subject to higher shipping costs due to length. This item needs to be trucked. Item price shown is FOB Winnipeg and pick up in Winnipeg is recommended to avoid extra shipping charges.
+- title: High Jump Crossbar RUBBER END (sold as a pair)
+  image: "/crossbar-sh-offcl-comp-z end.jpg"
+  price: 10
+  description: |-
+    - blue rubber ends only
+    - for use with high jump cross bar
+
+    1 pair available
 - title: Training Hurdles SH9 - 9" Orange
   image: "/training hurdles.jpg"
   price: 9
