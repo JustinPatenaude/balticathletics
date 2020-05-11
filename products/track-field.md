@@ -22,16 +22,6 @@ products:
 - Uniforms
 photos: []
 promotions:
-- title: Stackhouse TFP-13 Official Fiberglass Crossbar - Practice
-  image: "/crossbar-sh-offcl-comp-z.jpg"
-  price: 240
-  description: |-
-    - 13' 1.5" length
-    - Practice fiberglass one piece
-    - Yellow
-
-    **PLEASE NOTE**
-    This item is subject to higher shipping costs due to length. This item needs to be trucked. Item price shown is FOB Winnipeg and pick up in Winnipeg is recommended to avoid extra shipping charges.
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 245
@@ -73,6 +63,16 @@ promotions:
     - Competition Fiberglass
     - One piece
     - ORANGE (not shown)
+
+    **PLEASE NOTE**
+    This item is subject to higher shipping costs due to length. This item needs to be trucked. Item price shown is FOB Winnipeg and pick up in Winnipeg is recommended to avoid extra shipping charges.
+- title: Stackhouse TFP-13 Official Fiberglass Crossbar - Practice
+  image: "/crossbar-sh-offcl-comp-z.jpg"
+  price: 240
+  description: |-
+    - 13' 1.5" length
+    - Practice fiberglass one piece
+    - Yellow
 
     **PLEASE NOTE**
     This item is subject to higher shipping costs due to length. This item needs to be trucked. Item price shown is FOB Winnipeg and pick up in Winnipeg is recommended to avoid extra shipping charges.
