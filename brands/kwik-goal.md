@@ -22,8 +22,6 @@ info: |-
 
   **Kwik Goal** was founded on the revolutionary concept of providing transportable goals. Kwik Goal has been supplying high quality soccer goals, field equipment, training equipment and seating for thirty-five plus years to the domestic and international market.
 
-  All prices on website are in US dollars.
-
   Kwik Goal products only available in Canada through dealers.
 
   ***
