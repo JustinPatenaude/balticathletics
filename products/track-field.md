@@ -31,7 +31,7 @@ promotions:
     - One piece
 
     **PLEASE NOTE**
-    This item is subject to higher shipping costs due to length. This item needs to be trucked. Item price is FOB Winnipeg and pick up in Winnipeg is recommended to avoid extra shipping charges.
+    This item is subject to higher shipping costs due to length. This item needs to be trucked. Item price shown is FOB Winnipeg and pick up in Winnipeg is recommended to avoid extra shipping charges.
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 245
