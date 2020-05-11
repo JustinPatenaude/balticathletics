@@ -44,6 +44,8 @@ photos:
 - title: Competition Style Warm Up Jacket
   photo: "/Competition Style Warm Up Jacket.png"
 info: |-
+  "WE'VE GOT YOUR UNIFORMS \~ YOU BRING YOUR GAME"
+
   Baltic Performance Wear (BPW) is our own sublimation label and another great option that we offer in sublimated clothing.
 
   Samples & sizers are available on select garments.
