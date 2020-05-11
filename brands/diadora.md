@@ -15,9 +15,9 @@ website: ''
 pdfs:
 - "/diadora-soccer-spring-2016.pdf"
 info: |-
-  Diadora is an Italian company founded in 1948. They started off making mountain boots and have made a big name in the soccer industry.
+  Diadora is an Italian company founded in 1948. They started off making mountain boots and have become a worldwide success story within the soccer industry.
 
-  Diadora has great selection for all your soccer needs.
+  Diadora has a great selection for all your soccer needs.
 
   Brand name clothing without busting the bank!
 date: '2019-03-29T22:24:20.000+00:00'
