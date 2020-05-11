@@ -5,7 +5,7 @@ permalink: "/meet-the-team/"
 team-members:
 - name: Jeffrey Ruus
   bio: |-
-    Jeffrey assists with the equipment side of the business. He inflates a ton of balls and is our go-to heavy lifter.
+    Jeffrey assists with the equipment side of the business. He inflates hundreds of balls and is our go-to heavy lifter.
 
     He enjoys gaming, reading books and playing the piano.
   photo: "/jeffrey.jpg"
