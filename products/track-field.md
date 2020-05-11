@@ -22,6 +22,16 @@ products:
 - Uniforms
 photos: []
 promotions:
+- title: Stackhouse Official Fiberglass Crossbar - Competition
+  image: "/crossbar-sh-offcl-comp-z.jpg"
+  price: 265
+  description: |-
+    - 13' 1.5" length
+    - Competition Fiberglass
+    - One piece
+
+    **PLEASE NOTE**
+    This item is subject to higher shipping costs due to length. This item needs to be trucked. Item price is FOB Winnipeg and pick up in Winnipeg is recommended to avoid extra shipping charges.
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 245
