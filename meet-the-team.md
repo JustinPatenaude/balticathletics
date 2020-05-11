@@ -45,7 +45,7 @@ team-members:
 
     He’s been in the sporting good business for almost 40 years and loves every minute of it! If you need any sporting equipment, team uniforms, clothing or wall padding, Rauno is the guy to talk to.
 
-    Outside of work, Rauno is a Hockey referee, and a Slowpitch umpire. He loves being outside in the Summer doing almost anything from yard work, tenting, fishing, kayaking.
+    Outside of work, Rauno is a Hockey referee, and a Slowpitch umpire. He loves being outside in the Summer doing almost anything from yard work, biking, tenting, fishing, kayaking.
   photo: "/rauno.jpg"
 
 ---
