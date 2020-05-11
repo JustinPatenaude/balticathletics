@@ -25,6 +25,6 @@ photos:
   photo: "/5905_fl.jpg"
 - title: "6423"
   photo: "/6423_fl.jpg"
-info: "**Richardson Sports** started in 1970 in Oregon. A old name in headwear."
+info: "**Richardson Sports** started in 1970 in Oregon. An old name in headwear."
 
 ---
