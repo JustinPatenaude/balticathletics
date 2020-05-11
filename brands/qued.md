@@ -6,8 +6,8 @@ categories:
 - products/made-in-canada.md
 - products/nets.md
 - products/pe-equipment.md
-- products/protective-padding.md
 - products/safety.md
+- products/wall-pads.md
 title: Qued
 logo: "/Qued Logo1.PNG"
 website: http://www.quedbrand.com/
@@ -20,7 +20,7 @@ photos:
 - title: Proudly Canadian
   photo: "/proudly canadian.jpg"
 info: |-
-  Roy S. Hamilton founded Seaway Plastics Ltd in 1964 to become the sole Canadian manufacturer of the unique classic wrestling mat.  In 1966, the company introduces the brand name of **QUED®** to identify its growing product line. They also produce dividers, netting and climbing ropes in addition to their mats.
+  Roy S. Hamilton founded Seaway Plastics Ltd in 1964 to become the sole Canadian manufacturer of the unique classic wrestling mat.  In 1966, the company introduced the brand name of **QUED®** to identify its growing product line. They also produce dividers, netting and climbing ropes in addition to their mats.
 
   ***
 
