@@ -39,7 +39,9 @@ pdfs:
 info: |-
   Baltic Athletics is Dynamic’s preferred dealer in Canada.
 
-  Rauno has sold Dynamic sublimated uniforms since 2003.
+  Rauno has sold Dynamic sublimated uniforms since 2003. Many schools and teams have re-ordered and are still using the same uniforms. Durable quality.
+
+  ***
 
   Dynamic is a American company but their manufacturing plant is in Toronto ON. We visited Dynamic a few years back and were really impressed with this process of sublimation.
 
