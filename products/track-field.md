@@ -76,6 +76,8 @@ promotions:
     - Practice fiberglass one piece
     - Yellow
 
+    1 available
+
     **PLEASE NOTE**
     This item is subject to higher shipping costs due to length. This item needs to be trucked. Item price shown is FOB Winnipeg and pick up in Winnipeg is recommended to avoid extra shipping charges.
 - title: Training Hurdles SH9 - 9" Orange
