@@ -16,10 +16,12 @@ team-members:
     Bill enjoys the outdoors and working on/sailing his sailboats. He enjoys spending time with his family and is always there to help someone out when they need.
   photo: "/bill.jpg"
 - name: Suzie Doiron
-  bio: |-
-    Suzie is the hands-on person at Baltic.  She basically touches every order and gets it out to you. She helps out wherever is needed, so her job varies day to day, keeping her on her toes!
-
-    Suzie enjoys spending time in nature, and can often be found at the lake, camping, fishing, or boating. Since recently finishing two years on mission trips, she is now a youth ministry coordinator for various youth groups. In the near future, Suzie plans to return to school to study liberal arts at the post-secondary level.
+  bio: "Suzie is the hands-on person at Baltic.  She basically touches every order
+    and gets it out to you. She helps out wherever is needed, so her job varies day
+    to day, keeping her on her toes!\n\nSuzie enjoys spending time in nature, and
+    can often be found at the lake, camping, fishing, or boating. Since recently finishing
+    two years on mission trips, she is now a youth ministry coordinator for various
+    youth groups. "
   photo: "/suzie.jpg"
 - name: Chloe Ruus
   bio: |-
