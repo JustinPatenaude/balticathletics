@@ -39,7 +39,7 @@ categories:
 - products/lacrosse.md
 - products/made-in-canada.md
 - products/posts.md
-- products/protective-padding.md
+- products/protective-pads-and-wall-padding.md
 - products/safety.md
 - products/seating.md
 - products/soccer.md

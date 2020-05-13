@@ -8,6 +8,20 @@
 @import "magnific-popup";
 
 /*======================
+  TABLE OF CONTENTS
+
+    - VARIABLES
+    - GLOBAL
+    - HELPERS
+    - HEADER
+    - MOBILE MENU
+    - PROMO BAR
+    - HOME
+    - FOOTER
+======================*/
+
+
+/*======================
   VARIABLES
 ======================*/
 $colorBlueLight: #6E96C1;
@@ -347,6 +361,25 @@ input, textarea, button {
 }
 .relative {
   position: relative;
+}
+.back-to-top {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 10;
+  width: 70px;
+  padding: 10px;
+  text-align: center;
+}
+.back-to-top__icon {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.back-to-top__text {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: bold;
 }
 
 /*======================

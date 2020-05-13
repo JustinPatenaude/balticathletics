@@ -8,6 +8,7 @@ categories:
 - products/beach-volleyball.md
 - products/camouflage.md
 - products/football.md
+- products/handball.md
 - products/headwear.md
 - products/jackets.md
 - products/jerseys.md
@@ -16,7 +17,6 @@ categories:
 - products/shorts.md
 - products/soccer.md
 - products/sublimation.md
-- products/team-handball.md
 - products/tennis.md
 - products/track-field.md
 - products/ultimate.md

@@ -22,6 +22,7 @@ product_list:
   - products/games.md
   - products/golf.md
   - products/gymnastics.md
+  - products/handball.md
   - products/hockey.md
   - products/juggling.md
   - products/lacrosse.md
@@ -43,7 +44,6 @@ product_list:
   - products/softball.md
   - products/squash.md
   - products/table-tennis.md
-  - products/team-handball.md
   - products/tennis.md
   - products/track-field.md
   - products/ultimate.md
@@ -78,13 +78,12 @@ product_list:
   - products/officials-equipment.md
   - products/pe-equipment.md
   - products/pinnies.md
-  - products/protective-padding.md
+  - products/protective-pads-and-wall-padding.md
   - products/scoreboards.md
   - products/score-tables.md
   - products/seating.md
   - products/storage-solutions.md
   - products/training-supplies.md
-  - products/wall-pads.md
   - products/whistles.md
 - product_type: Promotional Items
   products:
@@ -113,6 +112,5 @@ product_list:
   - products/tissues.md
   - products/tools-lights-keytags.md
   - products/towels.md
-  - products/travel.md
   - products/umbrellas.md
   - products/wind-flags.md

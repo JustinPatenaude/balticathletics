@@ -299,30 +299,67 @@ promotions:
   image: "/bean bags.jpg"
   price: 1.75
   description: 6 colours available (green, blue, yellow, red, purple, orange)
-- title: 360 PGB6G Playground Series Rubber Basketball - Size 6
-  image: "/PGB6G-Playground_Series_Rubber_Basketball.jpg"
-  price: 9
+- title: Penguin Bowling Ball Set PENBBS
+  image: "/PENBBS_-_Penguin_Bowling_Ball_Set.jpg"
+  price: 80
   description: |-
-    - Traditional 8 panel composition rubber cover ball.
-    - Nylon wound with 2-Ply butyl bladder for better air retention and consistent bounce.
-    - Heavy-duty construction.
+    - Hand painted, this numbered latex construction penguin bowling ball set includes 10 x 9" H free standing penguins and 1 x 8.25" diameter
+    - PU foam bowling ball (Available in BLUE, not orange as shown)
+    - Includes retail clear carry bag for easy storage
+    - Safe for children
+    - CPSIA tested.
+    - MSRP $169.99
 
     1 available
-- title: Trial TRHJ Super Soft and Safe Handball - 6.3 inch
-  image: "/TRHJ_-_Trial_Super_Soft_And_Safe_Handball.jpg"
-  price: 29
-  description: |
-    - Terrific grip
-    - For beginners.
-    - Junior size
-    - Non Sting!
-    - Non-toxic
+- title: Crocheted Hackey Sack
+  image: "/hackysack2.jpg"
+  price: 3
+  description: 12 available in assorted colours
+- title: Juggling Flower Stick JFS
+  image: "/2020-04-16 16.40.35.jpg"
+  price: 12
+  description: 1 set available
+- title: Sponge Dice PX-501332-00 (Colour dot sides)
+  image: "/PX-501332-00 Sponge Dice (colour dot sides).jpg"
+  price: 4.5
+  description: 5 available
+- title: Tchoukball TRN2 Frames (Red) - Sold as set of 2
+  image: "/TRN2-rebounder-360athl.jpg"
+  price: 350
+  description: |-
+    Includes:
+    - 2 frames
+    - 2 balls (sizes 0, 1, 2 or 3)
+    - Game instructions (in English or French)
 
-    1 available pink
-- title: 360 MR1K Rubber Medicine Ball - 1 kg
-  image: "/2020-04-17 14.51.41.jpg"
-  price: 19
-  description: 1 available
-date: '2019-03-29T23:08:03.000+00:00'
+    FITB approved! Drawn steel tube with rounded corners and a strong foldable
+    support mechanism keeps the frame stable during play. 10 angle adjustments on bar. Net is held by 52 steel “S” hooks spread around the frame. Non-marking guards at the bottom. Frame size is 1 m x 1 m and features rust-proof steel net rings.
+
+    FOB Winnipeg
+- title: Exercise Station Activity Riser (Hoop holder) w/Base & Wand Posts
+  image: ''
+  price: 
+  description: |-
+    - Can be used for multiple activities
+    - Obstacle course, high jump, target etc
+
+    5 available
+- title: Champion MGSET Mini Golf Set
+  image: "/mgset-a-main_l.jpg"
+  price: 75
+  description: |-
+    - Made of durable plastic shaft and head foam grips
+    - Solid foam balls
+    - 3 plastic target holes to develop golf skills
+    - Six 24" putters
+    - 18 Targets
+    - 18 Foam balls
+    - 6 colours - Red, Orange, Yellow, Green, Blue, and Purple
+
+    1 available
+- title: Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
+  image: "/2020-03-07 12.12.53.jpg"
+  price: 35
+  description: Sold in sets of 6
 
 ---

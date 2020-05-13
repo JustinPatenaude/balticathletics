@@ -9,7 +9,7 @@ categories:
 - products/football.md
 - products/nets.md
 - products/posts.md
-- products/protective-padding.md
+- products/protective-pads-and-wall-padding.md
 - products/scoreboards.md
 - products/seating.md
 - products/soccer.md
