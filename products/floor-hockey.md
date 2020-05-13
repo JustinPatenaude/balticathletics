@@ -84,6 +84,16 @@ promotions:
 
     1 - Blue/White/Red pairs available
     2 - Black/White/Grey pairs available
+- title: Replacement Street/Floor Hockey Net - Black - 4' x 6'
+  image: "/NET46_1-Z.jpg"
+  price: 48
+  description: |-
+    - Dimensions: 4’ x 6’ (1.2 m x 1.8 m)
+    - heavy duty mesh
+    - black only
+    - sold as pair
+
+    1 pair available
 date: '2019-03-29T22:59:48.000+00:00'
 
 ---

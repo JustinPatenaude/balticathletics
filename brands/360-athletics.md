@@ -12,6 +12,7 @@ categories:
 - products/floor-hockey.md
 - products/football.md
 - products/golf.md
+- products/handball.md
 - products/health-fitness.md
 - products/inflators.md
 - products/juggling.md
@@ -27,7 +28,6 @@ categories:
 - products/soccer.md
 - products/storage-solutions.md
 - products/table-tennis.md
-- products/team-handball.md
 - products/track-field.md
 - products/ultimate.md
 - products/volleyball.md

@@ -3,7 +3,7 @@ layout: brand
 permalink: "/brands/apple-athletic"
 categories:
 - products/made-in-canada.md
-- products/protective-padding.md
+- products/protective-pads-and-wall-padding.md
 - products/safety.md
 - products/score-tables.md
 title: Apple Athletic

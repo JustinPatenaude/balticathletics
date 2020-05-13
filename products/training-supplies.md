@@ -149,14 +149,6 @@ promotions:
     • One locking snap link
 
     • 1 available in Royal Blue
-- title: Exercise Station Activity Riser (Hoop holder) w/Base & Wand Posts
-  image: ''
-  price: 
-  description: |-
-    - Can be used for multiple activities
-    - Obstacle course, high jump, target etc
-
-    5 available
 - title: Fox40 Ecoblast Rechargeable Air Horn & Air Pump 9509AZ
   image: "/Fox40 9509AZ ecoblast horn.jpg"
   price: 28
@@ -212,10 +204,6 @@ promotions:
     zone alarm, calories burned counter, chronograph, exercise data recall, exercise
     timer, in-zone timer, % of maximum heart rate, maximum heart rate, EL backlight.\n\n1
     available"
-- title: York 7852 All Person Fitness Glove - Size M
-  image: "/2020-03-07 12.39.05.jpg"
-  price: 12
-  description: 1 available
 - title: Rubbermaid Drink Station
   image: "/2020-04-11 14.32.44.jpg"
   price: 40
@@ -225,5 +213,39 @@ promotions:
     - Spigot on bottom
 
     1 available
+- title: 360 MR1K Rubber Medicine Ball - 1 kg
+  image: "/2020-04-17 14.51.41.jpg"
+  price: 19
+  description: 1 available
+- title: Champion PD1SET Pedometer (Set of 6)
+  image: "/pd1set_l.jpg"
+  price: 75
+  description: |-
+    - 12/24 hour format with current time
+    - Distance measurement up to 999 miles
+    - Step counter up to 99999 steps
+    - Calorie expenditure up to 999.9Kcal
+    - Stopwatch with 1/100 second precision
+    - Easy clip-on feature
+    - Set of 6 (1 of each):Blue, Green, Orange, Purple, Red & Yellow
 
+    2 available
+- title: 'Lowry #264 - 6 - 1L Waterbottles with Case'
+  image: "/2020-04-16 14.24.44.jpg"
+  price: 30
+  description: 1 available
+- title: Diadora 880200 Aluminum Water Bottle
+  image: "/880200 Diadora Alum water bottle.jpg"
+  price: 5
+  description: |-
+    with carabiner
+    11 available
+- title: Shaker Cup FI-5090 - 700 mL with steel ball
+  image: "/2020-04-16 16.54.50.jpg"
+  price: 4.5
+  description: |-
+    2 - black
+    1 - red
+    1 - blue
+date: '2019-03-29T23:08:03.000+00:00'
 ---

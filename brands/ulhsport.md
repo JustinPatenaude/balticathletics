@@ -3,8 +3,8 @@ layout: brand
 permalink: "/brands/ulhsport/"
 categories:
 - products/futsal.md
+- products/handball.md
 - products/soccer.md
-- products/team-handball.md
 title: Ulhsport
 logo: "/uhlsport-logo.jpg"
 website: https://www.uhlsport.com/en/

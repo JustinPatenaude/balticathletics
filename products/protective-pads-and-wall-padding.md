@@ -1,6 +1,6 @@
 ---
 layout: product
-permalink: "/products/protective-padding/"
+permalink: "/products/protective-pads-and-wall-padding/"
 title: Protective Padding
 products:
 - Crash Mats

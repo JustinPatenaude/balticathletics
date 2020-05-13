@@ -65,6 +65,15 @@ promotions:
     - Official size and weight.
 
     12 available - BLACK only
+- title: 360 PGB6G Playground Series Rubber Basketball - Size 6
+  image: "/PGB6G-Playground_Series_Rubber_Basketball.jpg"
+  price: 9
+  description: |-
+    - Traditional 8 panel composition rubber cover ball.
+    - Nylon wound with 2-Ply butyl bladder for better air retention and consistent bounce.
+    - Heavy-duty construction.
+
+    1 available
 date: '2019-03-29T22:55:10.000+00:00'
 
 ---

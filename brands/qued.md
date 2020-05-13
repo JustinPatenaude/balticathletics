@@ -6,8 +6,8 @@ categories:
 - products/made-in-canada.md
 - products/nets.md
 - products/pe-equipment.md
+- products/protective-pads-and-wall-padding.md
 - products/safety.md
-- products/wall-pads.md
 title: Qued
 logo: "/Qued Logo1.PNG"
 website: http://www.quedbrand.com/
