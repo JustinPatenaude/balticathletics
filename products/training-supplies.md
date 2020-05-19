@@ -180,7 +180,7 @@ promotions:
     1 available
 - title: Champion Stopwatches 910N
   image: "/910neonset_l.jpg.png"
-  price: 10
+  price: 11
   description: |-
     - 1/100 Second precision with lap counter (first 30 minutes)
     - 12/24 hr format with calendar & time
