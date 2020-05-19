@@ -5,7 +5,7 @@ categories:
 - products/badminton.md
 title: Victor
 logo: "/victor_logo_1.jpg"
-website: ''
+website: https://ca.victorsport.com/index.html
 catalogues:
 - title: Victor History & Intro Catalogue
   year: 2016
