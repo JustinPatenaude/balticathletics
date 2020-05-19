@@ -185,7 +185,7 @@ promotions:
   description: 1 set available
 - title: Champion M500A Pro Anchor Base Replacement Pin - Set of 3
   image: "/m500a-enhanced-2-l.jpg"
-  price: 28.75
+  price: 31.75
   description: 1 set available
 - title: Baseball Base Spikes WCS w/strap attachments - Set of 3
   image: "/2020-04-13 10.34.14.jpg"
