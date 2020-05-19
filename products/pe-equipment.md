@@ -246,7 +246,7 @@ promotions:
     6 available
 - title: Plastic Segmented Skipping Rope PR16 - 16 ft
   image: "/pr16_l.jpg"
-  price: 5.75
+  price: 6.25
   description: |-
     - Plastic segmented
     - 16 foot
