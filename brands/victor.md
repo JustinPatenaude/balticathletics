@@ -28,6 +28,5 @@ info: |-
   ***
 
   [Victor videos ](https://ca.victorsport.com/video/2973)
-published: false
 
 ---
