@@ -228,7 +228,7 @@ promotions:
   description: 1 available
 - title: Plastic Segmented Skipping Rope PR8 - 8 ft
   image: "/pr8_l.jpg"
-  price: 2.95
+  price: 3.25
   description: |-
     - Plastic segmented
     - 8 foot
