@@ -120,7 +120,7 @@ promotions:
     - 1 Red
 - title: Rhino PG7RD Rubber Playground Ball - 7 inch
   image: "/pg7rd_l.jpg"
-  price: 6.5
+  price: 7.25
   description: |-
     - high bouncing 2-ply balls are nylon wound
     - feature an easy grip textured surface
