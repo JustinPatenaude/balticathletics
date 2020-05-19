@@ -17,13 +17,6 @@ promotions:
     - Titanium Alloy/Steel Racquet
 
     1 available
-- title: Carlton ISO4.3 Maxi-Blade Badminton Racquet
-  image: "/2020-03-07 13.10.31.jpg"
-  price: 16
-  description: |-
-    - Titanium Alloy/Steel racquet
-
-    7 available
 - title: Black Knight Airstream 660 Badminton Racquet
   image: "/2020-03-09 11.50.18.jpg"
   price: 35
