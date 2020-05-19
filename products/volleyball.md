@@ -45,7 +45,7 @@ promotions:
     4 available
 - title: ChampionVB2GB Composite Volleyball
   image: "/vb2gb-front-l.jpg"
-  price: 20
+  price: 22
   description: |-
     - Official size and weight volleyball
     - Top of the line Cordley® composite synthetic leather soft touch cover for comfort and durability
