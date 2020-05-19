@@ -175,9 +175,9 @@ promotions:
   image: "/plbb-enhanced-1_l.jpg"
   price: 1.5
   description: ''
-- title: Full Size Double First Base M155 w/spikes
+- title: Champion Full Size Double First Base M155 w/spikes
   image: "/M155_double-base.png"
-  price: 58
+  price: 63.95
   description: 7 available
 - title: Champion M500P Molded Rubber Base Plug - Set of 3
   image: "/m500p-lifestyle1-l.jpg"
