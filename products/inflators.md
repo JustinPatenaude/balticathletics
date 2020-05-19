@@ -10,7 +10,7 @@ photos: []
 promotions:
 - title: Fox40 Digital Ball Gauge 6916-0200
   image: "/Fox40 digital ball gauge.PNG"
-  price: 24
+  price: 27
   description: |-
     - Includes 1.5V battery
     - Quick release air valve that allows air to discharge without removing the pin or gauge from the ball, guaranteeing that over-inflated balls obtain immediate and absolute accurate air pressure
