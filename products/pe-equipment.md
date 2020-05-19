@@ -136,7 +136,7 @@ promotions:
     (1 of each) Red, Orange, Yellow, Green, Blue & Purple \n\n1 set available"
 - title: Rhino Skin RS7 Allround Medium Bounce Foam Ball - 7 inch
   image: "/rs7_l.jpg"
-  price: 24.65
+  price: 27.25
   description: |-
     - Rhino Skin® coating for exceptional tear-resistance
     - Medium-density foam core and soft exterior to prevent injury when hit with the ball
