@@ -148,7 +148,7 @@ promotions:
     1 Yellow available
 - title: Rhino Skin RS79 Softi Low Bounce Foam Ball - 7 inch
   image: "/rs79_l.jpg"
-  price: 17
+  price: 18.75
   description: |-
     - Rhino Skin® coating for exceptional tear-resistance
     - Low-density foam core and soft exterior to prevent injury when hit with the ball
