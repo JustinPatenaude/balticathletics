@@ -129,7 +129,7 @@ promotions:
     4 red available
 - title: Rhino Skin RS7SET Medium Bounce Allround (Set of 6) - 7 inch
   image: "/rs7set_la.jpg"
-  price: 145
+  price: 159.5
   description: "- Rhino Skin® coating for exceptional tear-resistance \n- Medium-density,
     medium-bounce foam core and soft exterior to prevent injury when hit with the
     ball \n- 7\" D\n- Ball Weight: 133 g\n- Foam density: 35 kg/m3\n- Set of 6 balls
