@@ -346,7 +346,7 @@ promotions:
     5 available
 - title: Champion MGSET Mini Golf Set
   image: "/mgset-a-main_l.jpg"
-  price: 75
+  price: 82.5
   description: |-
     - Made of durable plastic shaft and head foam grips
     - Solid foam balls
