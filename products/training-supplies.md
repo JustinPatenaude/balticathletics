@@ -137,7 +137,7 @@ promotions:
     Professional quality resistance sprint trainer
 - title: Champion RT610 All Purpose Resistance Belt Set
   image: "/RT610 All purpose resistance belt set.jpg"
-  price: 55
+  price: 60.5
   description: |-
     • Great for athletic partner training
     • Uses include speed, reaction and competition drills
@@ -248,4 +248,5 @@ promotions:
     1 - red
     1 - blue
 date: '2019-03-29T23:08:03.000+00:00'
+
 ---
