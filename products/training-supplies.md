@@ -219,7 +219,7 @@ promotions:
   description: 1 available
 - title: Champion PD1SET Pedometer (Set of 6)
   image: "/pd1set_l.jpg"
-  price: 75
+  price: 82.5
   description: |-
     - 12/24 hour format with current time
     - Distance measurement up to 999 miles
