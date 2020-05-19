@@ -72,7 +72,7 @@ promotions:
     5 available
 - title: Rhino Skin RS65 Low Bounce Softi Foam Ball - 6 inch
   image: "/rs65_l.jpg"
-  price: 15.5
+  price: 17
   description: |-
     - Rhino Skin® coating for exceptional tear-resistance
     - Low-density foam core and soft exterior to prevent injury when hit with the ball
