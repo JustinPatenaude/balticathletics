@@ -110,7 +110,7 @@ promotions:
     13 available (black/purple)
 - title: Champion Sports CBG900 Glove - 13" Left hand catch
   image: "/Champion Sports CBG900 Glove.jpg"
-  price: 30
+  price: 33
   description: 1 available
 - title: Easton BMG13 Glove - 13" Left hand catch
   image: "/2020-03-07 11.14.30.jpg"
@@ -271,7 +271,6 @@ promotions:
     • Black
 
     1 available
-
 date: '2019-03-29T22:54:55.000+00:00'
 
 ---
