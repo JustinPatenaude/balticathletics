@@ -23,7 +23,7 @@ promotions:
     15 available
 - title: Champion VB5 Synthetic Leather Volleyball
   image: "/vb5-front-l.jpg"
-  price: 17
+  price: 18.75
   description: |-
     - Official size and weight volleyball
     - Deluxe synthetic leather cover for comfort and durability
