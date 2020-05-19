@@ -188,7 +188,7 @@ promotions:
     12 available
 - title: Champion EX5PR Extreme Soccer Ball - Size 5
   image: "/ex5pr-a-front_l.jpg"
-  price: 14
+  price: 15.5
   description: |-
     - Soft-touch TPU cover for added softness without compromising power and weight
     - Butyl bladder for exceptional air retention and durability during intense play in all outdoor conditions
