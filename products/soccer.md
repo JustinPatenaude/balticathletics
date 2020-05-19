@@ -43,7 +43,7 @@ promotions:
     1 available
 - title: Champion SL10 Soccer Ball Trainer - Size 4
   image: "/sl10-a-front_l.jpg"
-  price: 15
+  price: 16.5
   description: |-
     - Soft, lightweight cover ideal for blocking shots or heading the ball
     - 30% Lighter than traditional size 4 balls
