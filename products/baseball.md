@@ -181,7 +181,7 @@ promotions:
   description: 7 available
 - title: Champion M500P Molded Rubber Base Plug - Set of 3
   image: "/m500p-lifestyle1-l.jpg"
-  price: 16.5
+  price: 18.25
   description: 1 set available
 - title: Champion M500A Pro Anchor Base Replacement Pin - Set of 3
   image: "/m500a-enhanced-2-l.jpg"
