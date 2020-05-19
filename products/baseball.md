@@ -263,7 +263,7 @@ promotions:
   description: 34" - 28 oz
 - title: Champion SM1 Softball Catcher's Mask
   image: "/sm1_n.jpg"
-  price: 28
+  price: 30.75
   description: |-
     • Softball catcher's mask
     • Heavy-duty wire frame is lightweight and durable
