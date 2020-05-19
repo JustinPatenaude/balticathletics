@@ -213,7 +213,7 @@ promotions:
     Belt not included
 - title: Champion BP2040 Baseball Backpack
   image: "/bp2040-front_l.jpg"
-  price: 39
+  price: 42.95
   description: |-
     - Features two bat holders, glove and helmet pockets, drink sleeve and large main chamber
     - Adjustable shoulder and back strap with shoe and cleat compartment
