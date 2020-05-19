@@ -40,7 +40,7 @@ promotions:
     1 Lime Green available
 - title: Rhino Skin RS5 Micro Playball - 5 inch
   image: "/rs5_l.jpg"
-  price: 14.5
+  price: 15.95
   description: |-
     - Rhino Skin® coating for exceptional tear-resistance
     - Low-density foam core and soft exterior to prevent injury when hit with the ball
