@@ -92,7 +92,7 @@ promotions:
     2 available
 - title: Champion VL20 Volleyball Trainer - Size 8
   image: "/vl20-front-l.jpg"
-  price: 15
+  price: 16.5
   description: |-
     - Same size as a traditional volleyball but 20% lighter for training and accuracy practice
     - 18 Soft, hand-sewn vinyl-covered nylon panels
