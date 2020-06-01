@@ -11,6 +11,8 @@ products:
 photos:
 - title: 3 ply Disposable Face Masks (minimum 50)
   photo: "/non medical masks.jpg"
+- title: Reusable Over-the-head Masks
+  photo: "/Facemasks.PNG"
 - title: BPW Sublimated Face Mask (Over the Ear design)
   photo: "/Over the ear Mask.png"
 - title: BPW Face Mask - Over the Head design (actual)
