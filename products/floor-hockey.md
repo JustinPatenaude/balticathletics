@@ -24,7 +24,10 @@ promotions:
 - title: Cosom Floor Hockey Sticks CH-700963-BK (w/fiberglass rod) 42"
   image: "/CosomPowerShaftHockeyStick 42.jpg"
   price: 9.5
-  description: Black shaft with Green or Orange blades
+  description: |-
+    - 42" black shaft
+    - shaft inserted into blade with fiberglass rod inside makes this stick stronger
+    - green or orange blades
 - title: Cosom Floor Hockey Stick CH-700833-BK - 42"
   image: ''
   price: 7
