@@ -10,14 +10,6 @@ products:
 - Player Sticks
 photos: []
 promotions:
-- title: Cosom Floor Hockey Stick CH-700833-BK - 42"
-  image: ''
-  price: 7
-  description: |-
-    - 42" black shaft
-    - recommended for grades 4-7
-    - blade inserted into shaft
-    - green or orange blades
 - title: Accufli Floorball Sticks - 70 cm, 80cm, 90cm, 100cm
   image: "/A90 LH Black.jpg"
   price: 27
@@ -33,6 +25,14 @@ promotions:
   image: "/CosomPowerShaftHockeyStick 42.jpg"
   price: 9.5
   description: Black shaft with Green or Orange blades
+- title: Cosom Floor Hockey Stick CH-700833-BK - 42"
+  image: ''
+  price: 7
+  description: |-
+    - 42" black shaft
+    - recommended for grades 4-7
+    - blade inserted into shaft
+    - green or orange blades
 - title: Cosom Floor Hockey Sticks (w/fiberglass rod) 47"
   image: "/CosomPowerShaftHockeyStick.jpg"
   price: 13
