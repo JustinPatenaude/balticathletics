@@ -21,7 +21,7 @@ promotions:
     with shaft 80cm flex 32mm\n* A90 model weight 240g,  with shaft  90cm Flex 28mm
     is suggested for player’s height from 5’1” to 5’8”\n* A100 model weight 260g,
     \ with shaft 100cm Flex 26mm is suggested for player’s height 5’8” and above"
-- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 42"
+- title: Cosom Floor Hockey Sticks CH-700963-BK (w/fiberglass rod) 42"
   image: "/CosomPowerShaftHockeyStick 42.jpg"
   price: 9.5
   description: Black shaft with Green or Orange blades
