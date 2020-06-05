@@ -19,6 +19,8 @@ $(document).ready(function(){
     fade: true,
     adaptiveHeight: true,
     cssEase: 'linear',
+    autoplay: true,
+    autoplaySpeed: 5000,
   });
 
   $('.home__testimonials-slider').slick({

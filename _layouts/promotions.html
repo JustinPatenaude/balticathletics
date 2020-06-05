@@ -14,40 +14,37 @@ layout: default
 <div class="products page__content">
   <div class="container">
     <div class="grid-center">
-      {% if page.products.size > 0 %}
-        <div class="col-10_md-12">
-          <div class="page__contact">
-            <div class="grid-middle">
-              <div class="col-8_sm-12 sm-text-center sm-margin-10">
-                <p>Interested in any of our promotions products? Let us know!</p>
-              </div>
-              <div class="col-4_sm-12 text-right sm-text-center">
-                <a class="btn" href="/contact-us"><i class="btn__icon fal fa-envelope"></i> <span class="btn__text">Contact Us</span></a>
-              </div>
+
+      <div class="col-10_md-12">
+        <div class="page__contact">
+          <div class="grid-middle">
+            <div class="col-8_sm-12 sm-text-center sm-margin-10">
+              <p>Interested in any of our promotions products? Let us know!</p>
+            </div>
+            <div class="col-4_sm-12 text-right sm-text-center">
+              <a class="btn" href="/contact-us"><i class="btn__icon fal fa-envelope"></i> <span class="btn__text">Contact Us</span></a>
             </div>
           </div>
         </div>
-        {% if content != "" %}
-          <div class="col-10_md-12 rte">
-            {{ content }}
-          </div>
-        {% endif %}
-        <div class="col-10_md-12">
-          <div class="grid">
-            {% for product in page.products %}
+      </div>
+      {% if content != "" %}
+        <div class="col-10_md-12 rte">
+          {{ content }}
+        </div>
+      {% endif %}
+      <div class="col-10_md-12">
+        <div class="grid">
+          {% assign productPages = site.pages | where: 'layout', "product" %}
+          {% for page in productPages %}
+            {% for product in page.promotions %}
               <div class="col-3_md-4_sm-6_ty-12">
                 {% include promotion-product.html %}
               </div>
             {% endfor %}
-          </div>
-        </div>
-      {% else %}
-      <div class="col-10_md-12">
-        <div class="page__contact text-center">
-          <p>Oops, doesn't look like we have anything here right now. Check back soon to see new promotion items!</p>
+          {% endfor %}
         </div>
       </div>
-      {% endif %}
+      
     </div>
   </div>
 </div>
