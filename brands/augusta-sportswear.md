@@ -51,8 +51,6 @@ info: |-
   Link to [Augusta Sportswear Brands Sizes and Fits](https://www.augustasportswear.com/sizes-and-fits)
 date: '2019-03-29T22:18:11.000+00:00'
 catalogues:
-- title: Augusta, Holloway, High 5, Pacific, Russell Fall Catalogue
-  year: 2020
 - title: Augusta Size Guide
   year: 0
   pdf: "/ASB-Size-Chartpdf.PDF"
