@@ -6,6 +6,7 @@ categories:
 - products/bags-totes-duffels.md
 - products/blankets.md
 - products/drinkware.md
+- products/eyewear.md
 - products/first-aid.md
 - products/games.md
 - products/gift-sets.md
