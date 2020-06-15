@@ -4,7 +4,7 @@ slideshow:
 - title: Safety First!
   text: The highest quality wall padding in Canada!
   button_text: More information
-  button_link: "/brands/apple-athletic"
+  button_link: https://balticathletics.com/brands/apple-athletic
   image: "/glenwood.jpg"
 - title: Need athletic equipment or clothing?
   text: You've come to the right place.
