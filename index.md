@@ -18,4 +18,4 @@ slideshow:
   image: "/2020.02.29 RLG B-ball win prov.JPG"
 
 ---
-![](/glenwood-final-product-01.jpg)
+![](/glenwood.jpg)
