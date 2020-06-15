@@ -91,7 +91,6 @@ fields:
   label: Promotions
   description: The products on clearance
 pages:
-- index.md
 - products/aprons.md
 - products/aprons.md
 - products/badminton.md
