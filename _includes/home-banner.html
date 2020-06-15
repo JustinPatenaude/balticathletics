@@ -1,5 +1,5 @@
 <div class="banner" style="background-image: url({{ '/assets/images/banner.jpg' | relative_url }});">
-  <div class="banner__slides">
+  <div class="banner__slides{% if page.slideshow.size > 1 %} banner__slides--slider{% endif %}">
 
     {% for slide in page.slideshow %}
       <div class="banner__content">
@@ -13,7 +13,7 @@
                   <p class="banner__text">{{ slide.text }}</p>
                 {% endif %}
                 {% if slide.button_text != '' %}
-                  <a class="btn btn--inverse" href="{{ slide.button_url | relative_url }}" title="{{ slide.button_text }}">{{ slide.button_text }}</a>
+                  <a class="btn btn--inverse" href="{{ slide.button_link | relative_url }}" title="{{ slide.button_text }}">{{ slide.button_text }}</a>
                 {% endif %}
               </div>
             </div>
@@ -27,15 +27,6 @@
         </div>
       </div>
     {% endfor %}
-    {% comment %} <div class="banner__content">
-      <div class="container">
-        <div class="banner__content-inner">
-          <h2 class="banner__title">This is another slide</h2>
-          <p class="banner__text">It will have more content!</p>
-          <a class="btn btn--inverse" href="{{ "/gallery" | relative_url }}" title="View our gallery">View Photo Gallery</a>
-        </div>
-      </div>
-    </div> {% endcomment %}
 
   </div>
 </div>

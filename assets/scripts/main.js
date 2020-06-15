@@ -12,7 +12,7 @@ $(document).ready(function(){
   /* ==========================
      HOME
   ========================== */
-  $('.banner__slides').slick({
+  $('.banner__slides--slider').slick({
     dots: true,
     infinite: true,
     arrows: false,
