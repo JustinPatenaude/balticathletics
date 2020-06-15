@@ -1,6 +1,11 @@
 ---
 layout: home
 slideshow:
+- title: Safety First!
+  text: The highest quality wall padding in Canada!
+  button_text: More information
+  button_link: https://balticathletics.com/brands/apple-athletic
+  image: ''
 - title: Need athletic equipment or clothing?
   text: You've come to the right place.
   button_text: Browse Products
@@ -10,6 +15,7 @@ slideshow:
   text: Ross L Gray girls and boys basketball teams!
   button_text: ''
   button_link: ''
-  image: '/2020.02.29 RLG B-ball win prov.JPG'
+  image: "/2020.02.29 RLG B-ball win prov.JPG"
 
 ---
+![](/glenwood-final-product-01.jpg)
