@@ -65,7 +65,7 @@ info: |-
 
   ***
 
-  Add your team mascot or logo to your padding. Customizable digital printing to your pads. Durable UV cured ink printed directly onto the vinyl fabric with a state of the art flat deck printer. The result is an amazing image that does not peel or tear, like a decal.  The finished product as superior durability and adhesion creating a long lasting design.
+  **_Add your team mascot or logo to your padding._** Customizable digital printing to your pads. Durable UV cured ink printed directly onto the vinyl fabric with a state of the art flat deck printer. The result is an amazing image that does not peel or tear, like a decal.  The finished product as superior durability and adhesion creating a long lasting design.
 
   All graphics are customizable to fit your application and can be produced as large as you desire, within the product dimensions.
 
