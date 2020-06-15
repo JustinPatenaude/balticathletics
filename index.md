@@ -5,7 +5,7 @@ slideshow:
   text: The highest quality wall padding in Canada!
   button_text: More information
   button_link: https://balticathletics.com/brands/apple-athletic
-  image: "/glenwood-final-product-01.jpg"
+  image: "/glenwood.jpg"
 - title: Need athletic equipment or clothing?
   text: You've come to the right place.
   button_text: Browse Products
