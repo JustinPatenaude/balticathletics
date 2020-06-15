@@ -55,11 +55,19 @@ photos:
 - title: Made in Canada
   photo: "/made_in_canada.jpg"
 info: |-
-  **Apple Athletic** is a family owned and operated business in Orillia, Ontario. Finding their roots in 1985, they manufacture super high quality mats of all sorts. The digital printing is also outstanding.
+  **Apple Athletic** is a family owned and operated business in Orillia, Ontario. Finding their roots in 1985, they manufacture super high quality mats of all sorts.
+
+  ***
 
   Rauno has sold Apple products for 19 years!! Apple was one of our first partners when we started Baltic Athletics.
 
-  All of the photos shown are actual mats we have sold/installed.
+  **All of the photos shown are actual mats we have sold/installed.**
+
+  ***
+
+  Add your team mascot or logo to your padding. Customizable digital printing to your pads. Durable UV cured ink printed directly onto the vinyl fabric with a state of the art flat deck printer. The result is an amazing image that does not peel or tear, like a decal.  The finished product as superior durability and adhesion creating a long lasting design.
+
+  All graphics are customizable to fit your application and can be produced as large as you desire, within the product dimensions.
 
   ***
 
