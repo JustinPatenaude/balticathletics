@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Custom Scoretable - Grant Park
+  photo: "/2017-09-30 15.27.27.jpg"
 - title: Permanent Wall Pads - Holy Cross
   photo: "/20151008_200820.jpg"
 - title: Permanent Wall Pads - St Boniface
