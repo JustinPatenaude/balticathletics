@@ -14,8 +14,6 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
-- title: Custom Padded Scoretable - SJR
-  photo: "/2017-06-20 18.39.54.jpg"
 - title: Permanent Wall Pads - Tec Voc
   photo: "/2018-10-01 20.28.37.jpg"
 - title: Permanent Wall Pads - Red Lake
@@ -52,8 +50,10 @@ photos:
   photo: "/2019-06-03 16.28.29.jpg"
 - title: Custom Stage Padding - Stars
   photo: "/2017-09-25 14.02.14.jpg"
-- title: Custom Scoretable - Grant Park
+- title: Custom Padded Scoretable - Grant Park
   photo: "/2017-09-30 15.27.27.jpg"
+- title: Custom Padded Scoretable - SJR
+  photo: "/2017-06-20 18.39.54.jpg"
 - title: Custom Scoretable - Crusaders
   photo: "/2017-09-27 11.21.36.jpg"
 - title: Custom Padded Scoretable - Flames
