@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Custom Permanent Wall Pads - Scorpions
+  photo: "/2020-06-03 13.47.13.jpg"
 - title: Custom Permanent Wall Padding - Amber Trailblazers
   photo: "/20151221_162831.jpg"
 - title: Custom Permanent Wall Pads - Crusaders
