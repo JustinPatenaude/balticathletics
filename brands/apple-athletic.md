@@ -32,7 +32,7 @@ photos:
   photo: "/20151221_162831.jpg"
 - title: Permanent Wall Pads - Crusaders
   photo: "/2017-05-18 19.01.05.jpg"
-- title: Custom Permanent Pads - Pirates
+- title: Permanent Wall Pads - Pirates
   photo: "/2017-11-24 18.00.40.jpg"
 - title: Custom Permanent Pads - Grizzlies
   photo: "/glenwood-final-product-01.jpg"
