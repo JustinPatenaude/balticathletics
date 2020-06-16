@@ -14,8 +14,6 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
-- title: Stage Padding - RD Parker (Before & After)
-  photo: "/Stage before & after.png"
 - title: Permanent Wall Pads and Door Pads - RD Parker
   photo: "/2017-05-20 10.17.59.jpg"
 - title: Permanent Wall Pads - RD Parker
@@ -56,6 +54,8 @@ photos:
   photo: "/2019-06-03 16.28.29.jpg"
 - title: Custom Stage Padding - Stars
   photo: "/2017-09-25 14.02.14.jpg"
+- title: Stage Padding - RD Parker (Before & After)
+  photo: "/Stage before & after.png"
 - title: Locker Padding - SJR
   photo: "/2017-06-20 21.54.40.jpg"
 - title: Custom Padded Scoretable - Grant Park
