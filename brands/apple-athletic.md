@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Permanent Wall Pads - Red Lake
+  photo: "/red-lake-wall-pads closer.jpg"
 - title: Permanent Wall Pads - ATC
   photo: "/2019-08-06 15.12.31.jpg"
 - title: Permanent Wall Pads - Holy Cross
