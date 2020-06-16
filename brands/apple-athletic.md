@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Custom Stage Pads w/Breather Mesh over vent
+  photo: "/2019-10-17 19.05.06.jpg"
 - title: Custom Permanent Wall Pads - Scorpions
   photo: "/2020-06-03 13.47.13.jpg"
 - title: Custom Permanent Wall Padding - Amber Trailblazers
