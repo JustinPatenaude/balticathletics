@@ -14,8 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
-- title: Custom Scoretable - Grant Park
-  photo: "/2017-09-30 15.27.27.jpg"
+- title: Permanent Wall Pads - ATC
+  photo: "/2019-08-06 15.12.31.jpg"
 - title: Permanent Wall Pads - Holy Cross
   photo: "/20151008_200820.jpg"
 - title: Permanent Wall Pads - St Boniface
@@ -46,6 +46,8 @@ photos:
   photo: "/2019-06-03 16.28.29.jpg"
 - title: Custom Stage Padding - Stars
   photo: "/2017-09-25 14.02.14.jpg"
+- title: Custom Scoretable - Grant Park
+  photo: "/2017-09-30 15.27.27.jpg"
 - title: Custom Scoretable - Crusaders
   photo: "/2017-09-27 11.21.36.jpg"
 - title: Custom Padded Scoretable - Flames
