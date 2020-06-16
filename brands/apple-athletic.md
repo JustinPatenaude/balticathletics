@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Locker Padding - SJR
+  photo: "/2017-06-20 21.54.40.jpg"
 - title: Permanent Wall Pads - Tec Voc
   photo: "/2018-10-01 20.28.37.jpg"
 - title: Permanent Wall Pads - Red Lake
