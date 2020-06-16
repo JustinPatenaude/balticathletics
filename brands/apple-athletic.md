@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Permanent Wall Pads - Berens River
+  photo: "/2019-06-22 15.22.43.jpg"
 - title: Custom Stage Pads w/Breather Mesh over vent - Sargent Park
   photo: "/2019-10-17 19.05.06.jpg"
 - title: Custom Permanent Wall Pads - CLC
