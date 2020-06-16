@@ -54,7 +54,7 @@ photos:
   photo: "/2017-09-30 15.27.27.jpg"
 - title: Custom Padded Scoretable - SJR
   photo: "/2017-06-20 18.39.54.jpg"
-- title: Custom Scoretable - Crusaders
+- title: Custom Padded Scoretable - Crusaders
   photo: "/2017-09-27 11.21.36.jpg"
 - title: Custom Padded Scoretable - Flames
   photo: "/2018-01-16 11.22.35.jpg"
