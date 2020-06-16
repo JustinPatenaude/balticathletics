@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Permanent Wall Pads and Door Pads - RD Parker
+  photo: "/2017-05-20 10.17.59.jpg"
 - title: Permanent Wall Pads - RD Parker
   photo: "/2017-05-20 10.14.58.jpg"
 - title: Permanent Wall Pads - Tec Voc
