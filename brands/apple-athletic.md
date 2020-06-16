@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Permanent Wall Pads - Tec Voc
+  photo: "/2018-10-01 20.28.37.jpg"
 - title: Permanent Wall Pads - Red Lake
   photo: "/red-lake-wall-pads closer.jpg"
 - title: Permanent Wall Pads - ATC
