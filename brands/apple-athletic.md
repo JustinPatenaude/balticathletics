@@ -16,7 +16,7 @@ catalogues:
 photos:
 - title: Custom Stage Pads w/Breather Mesh over vent - Sargent Park
   photo: "/2019-10-17 19.05.06.jpg"
-- title: Custom Permanent Wall Pads - Scorpions
+- title: Custom Permanent Wall Pads - CLC
   photo: "/2020-06-03 13.47.13.jpg"
 - title: Custom Permanent Wall Padding - Amber Trailblazers
   photo: "/20151221_162831.jpg"
