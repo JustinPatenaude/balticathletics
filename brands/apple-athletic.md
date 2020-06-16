@@ -40,14 +40,14 @@ photos:
   photo: "/glenwood-final-product-01.jpg"
 - title: Permanent Wall pads with a door and cutouts - Grizzlies
   photo: "/glenwood-final-product-02.jpg"
-- title: Permanent Wall Pads and Door Pads - RD Parker
-  photo: "/2017-05-20 10.17.59.jpg"
 - title: Custom Post Padding - Royals
   photo: "/2017-10-06 21.47.06.jpg"
 - title: Custom Door Padding
   photo: "/20150227_161213.jpg"
 - title: Custom Door and Wall with cutouts
   photo: "/2019-03-21 17.17.29.jpg"
+- title: Permanent Wall Pads and Door Pads - RD Parker
+  photo: "/2017-05-20 10.17.59.jpg"
 - title: Custom Stage Pads w/Breather Mesh over vent - Sargent Park
   photo: "/2019-10-17 19.05.06.jpg"
 - title: Custom Stage Pads - Grant Park
