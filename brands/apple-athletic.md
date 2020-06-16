@@ -34,7 +34,7 @@ photos:
   photo: "/2017-05-18 19.01.05.jpg"
 - title: Permanent Wall Pads - Pirates
   photo: "/2017-11-24 18.00.40.jpg"
-- title: Custom Permanent Pads - Grizzlies
+- title: Permanent Wall Pads - Grizzlies
   photo: "/glenwood-final-product-01.jpg"
 - title: Custom Permanent Wall pads with a door and cutouts - Grizzlies
   photo: "/glenwood-final-product-02.jpg"
