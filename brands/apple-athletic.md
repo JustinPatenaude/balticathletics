@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Permanent Wall Pads - Holy Cross
+  photo: "/20151008_200820.jpg"
 - title: Permanent Wall Pads - St Boniface
   photo: "/20151008_200846.jpg"
 - title: Permanent Wall Pads - Berens River
