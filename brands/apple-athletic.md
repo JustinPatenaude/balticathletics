@@ -14,8 +14,6 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
-- title: Permanent Wall Pads and Door Pads - RD Parker
-  photo: "/2017-05-20 10.17.59.jpg"
 - title: Permanent Wall Pads - RD Parker
   photo: "/2017-05-20 10.14.58.jpg"
 - title: Permanent Wall Pads - Tec Voc
@@ -42,6 +40,8 @@ photos:
   photo: "/glenwood-final-product-01.jpg"
 - title: Permanent Wall pads with a door and cutouts - Grizzlies
   photo: "/glenwood-final-product-02.jpg"
+- title: Permanent Wall Pads and Door Pads - RD Parker
+  photo: "/2017-05-20 10.17.59.jpg"
 - title: Custom Post Padding - Royals
   photo: "/2017-10-06 21.47.06.jpg"
 - title: Custom Door Padding
