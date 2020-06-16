@@ -30,7 +30,7 @@ photos:
   photo: "/2020-06-03 13.47.13.jpg"
 - title: Permanent Wall Pads - Amber Trailblazers
   photo: "/20151221_162831.jpg"
-- title: Custom Permanent Wall Pads - Crusaders
+- title: Permanent Wall Pads - Crusaders
   photo: "/2017-05-18 19.01.05.jpg"
 - title: Custom Permanent Pads - Pirates
   photo: "/2017-11-24 18.00.40.jpg"
