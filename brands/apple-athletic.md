@@ -28,7 +28,7 @@ photos:
   photo: "/2019-06-22 15.22.43.jpg"
 - title: Permanent Wall Pads - CLC
   photo: "/2020-06-03 13.47.13.jpg"
-- title: Custom Permanent Wall Padding - Amber Trailblazers
+- title: Permanent Wall Padding - Amber Trailblazers
   photo: "/20151221_162831.jpg"
 - title: Custom Permanent Wall Pads - Crusaders
   photo: "/2017-05-18 19.01.05.jpg"
