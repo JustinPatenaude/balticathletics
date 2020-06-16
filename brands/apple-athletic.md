@@ -40,7 +40,7 @@ photos:
   photo: "/2019-03-21 17.17.29.jpg"
 - title: Custom Stage Pads w/Breather Mesh over vent - Sargent Park
   photo: "/2019-10-17 19.05.06.jpg"
-- title: Custom Stage Pads - stick people
+- title: Custom Stage Pads - Grant Park
   photo: "/2019-06-03 16.28.29.jpg"
 - title: Custom Stage Padding - Stars
   photo: "/2017-09-25 14.02.14.jpg"
