@@ -9,7 +9,7 @@ categories:
 - products/sweaters.md
 title: Champion
 logo: "/champion-logo.png"
-website: catalystgroupbrands.com
+website: http://www.catalystgroupbrands.com/
 catalogues:
 - year: 2020
   title: Catalyst Group Catalogue (including Champion, Next Level & Timberlea)
