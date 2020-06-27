@@ -6,7 +6,7 @@ slideshow:
   button_text: ''
   button_link: ''
   image: "/ReginaPublicSchoolsBanner4.png"
-- title: Give Your Gym a WOW Factor and Safety All in One
+- title: Give Your Gym a WOW Factor and Safety All in One!
   text: High quality wall padding and workmanship! Digital printing that won't peel
     is key to showing off school pride!
   button_text: More information
