@@ -6,8 +6,9 @@ slideshow:
   button_text: ''
   button_link: ''
   image: "/ReginaPublicSchoolsBanner4.png"
-- title: Safety First!
-  text: The highest quality wall padding in Canada!
+- title: Safety First! School Pride Reflected in Artwork.
+  text: High quality wall padding and workmanship! Digital printing that won't peel
+    is key to showing off school pride!
   button_text: More information
   button_link: "/brands/apple-athletic"
   image: "/glenwood-final-product-02.jpg"
