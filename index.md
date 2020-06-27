@@ -11,6 +11,6 @@ slideshow:
     is key to showing off school pride!
   button_text: More information
   button_link: "/brands/apple-athletic"
-  image: "/glenwood-final-product-02.jpg"
+  image: "/glenwood.jpg"
 
 ---
