@@ -6,7 +6,7 @@ slideshow:
     in their schools.
   button_text: ''
   button_link: ''
-  image: "/rpslogo2.png"
+  image: "/ReginaPublicSchoolsBanner4.png"
 - title: Safety First!
   text: The highest quality wall padding in Canada!
   button_text: More information
