@@ -12,6 +12,8 @@ info: "**Monsens** is a Canadian company supplying a large assortment of archery
   for schools and ranges."
 date: '2019-03-29T22:30:45.000+00:00'
 photos:
+- title: American Whitetail Target 32x32x12
+  photo: "/American Whitetail Target 32x32x12.PNG"
 - title: Morrel Eternity School Target 32x33x12
   photo: "/Morrel Eternity School Target 32x33x12.PNG"
 - title: Easton Genesis Bow Case
