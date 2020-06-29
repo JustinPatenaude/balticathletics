@@ -12,6 +12,8 @@ info: "**Monsens** is a Canadian company supplying a large assortment of archery
   for schools and ranges."
 date: '2019-03-29T22:30:45.000+00:00'
 photos:
+- title: Easton Flipside 2 Tube Quiver
+  photo: "/Easton Flipside 2 Tube Quiver.PNG"
 - title: Easton Genesis Bow Case
   photo: "/Easton Genesis Bow Case.PNG"
 - title: Plano Genesis Compact Bow Case
