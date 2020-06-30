@@ -231,7 +231,7 @@ promotions:
   price: 15
   description: |-
     Also available in sizes 3 & 4
-    2 available
+    1 available
 - title: Inaria Liga 1000 Soccer Ball - Size 5
   image: "/inaria liga 1000 soccer ball size 5.PNG"
   price: 18
