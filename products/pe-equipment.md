@@ -323,7 +323,7 @@ promotions:
   image: "/PX-501332-00 Sponge Dice (colour dot sides).jpg"
   price: 4.5
   description: 5 available
-- title: Tchoukball TRN2 SET (Red) - Sold as set
+- title: Tchoukball TRN2 SET (Red) - Sold as a set
   image: "/TRN2-rebounder-360athl.jpg"
   price: 350
   description: |
