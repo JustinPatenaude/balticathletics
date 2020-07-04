@@ -340,10 +340,10 @@ promotions:
     FOB Winnipeg
 
     Tchoukball Ball circumferences:
-    #0 - 18 1/4" / 46 cm
-    #1 - 20 3/4" / 53 cm
-    #2 - 21 3/4" / 55 cm
-    #3 - 22 3/4" / 58 cm
+    - #0 - 18 1/4" / 46 cm
+    - #1 - 20 3/4" / 53 cm
+    - #2 - 21 3/4" / 55 cm
+    - #3 - 22 3/4" / 58 cm
 - title: Exercise Station Activity Riser (Hoop holder) w/Base & Wand Posts
   image: ''
   price: 
