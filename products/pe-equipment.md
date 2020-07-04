@@ -323,17 +323,19 @@ promotions:
   image: "/PX-501332-00 Sponge Dice (colour dot sides).jpg"
   price: 4.5
   description: 5 available
-- title: Tchoukball TRN2 Frames (Red) - Sold as set of 2
+- title: Tchoukball TRN2 SET (Red) - Sold as set
   image: "/TRN2-rebounder-360athl.jpg"
   price: 350
   description: |-
     Includes:
-    - 2 frames
+    - 2 RED frames
     - 2 balls (sizes 0, 1, 2 or 3)
     - Game instructions (in English or French)
 
     FITB approved! Drawn steel tube with rounded corners and a strong foldable
     support mechanism keeps the frame stable during play. 10 angle adjustments on bar. Net is held by 52 steel “S” hooks spread around the frame. Non-marking guards at the bottom. Frame size is 1 m x 1 m and features rust-proof steel net rings.
+
+    Limited quantities.
 
     FOB Winnipeg
 - title: Exercise Station Activity Riser (Hoop holder) w/Base & Wand Posts
