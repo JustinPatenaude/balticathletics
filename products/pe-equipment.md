@@ -329,7 +329,7 @@ promotions:
   description: |
     Includes:
     - 2 RED frames
-    - 2 balls (sizes 0, 1, 2 or 3)
+    - 2 balls (sizes 0, 1, 2 or 3) - Extra balls can be purchased separately.
     - Game instructions (in English or French)
 
     FITB approved! Drawn steel tube with rounded corners and a strong foldable
