@@ -26,13 +26,13 @@ logo: "/MNM logo.jpg"
 website: http://mnmsport.com/en/
 catalogues: []
 photos:
-- title: Made in Canada
-  photo: "/made_in_canada.jpg"
 - title: Dek Hockey & Full Zip
   photo: "/dek hockey & full zip MNM.png"
+- title: Made in Canada
+  photo: "/made_in_canada.jpg"
 info: |-
   MNM is Canadian sublimation company from Montreal.
 
-  The quality and colour are outstanding.
+  The quality and colours are outstanding!
 
 ---
