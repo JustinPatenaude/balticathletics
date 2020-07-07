@@ -22,7 +22,7 @@ categories:
 - products/volleyball.md
 - products/wind-flags.md
 title: MNM
-logo: "/MNM logo.jpg"
+logo: "/MNM logo1.jpg"
 website: http://mnmsport.com/en/
 catalogues: []
 photos:
