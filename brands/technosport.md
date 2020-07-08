@@ -19,6 +19,9 @@ title: Technosport
 logo: "/TechnoSportLogo.gif"
 website: https://en-ca.sportswearcollection.com/?site=CRGHPGYDZS
 catalogues:
+- title: Technosport Best Sellers
+  year: 2020
+  pdf: ''
 - title: Technosport Catalogue
   year: 2019
   pdf: ''
