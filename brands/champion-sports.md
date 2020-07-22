@@ -40,6 +40,9 @@ photos:
 - title: FBBSET Foam Bowling Pin Set
   photo: "/FBBSET Foam Bowling Pin Set.jpg"
 catalogues:
+- title: New Products for 2020
+  year: 2020
+  pdf: "/champion-sports-2020-new-products.pdf"
 - title: 2019-2020 Champion Sports Catalogue
   year: 2020
   pdf: "/champion-sports-catalog-2020.pdf"
