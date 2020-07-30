@@ -3,8 +3,6 @@ layout: gallery
 title: Gallery
 permalink: "/gallery/"
 gallery:
-- title: We Are Moving!! But not far....Stay tuned for a Grand Opening Announcement!
-  photo: "/We-are-moving-2018_blau.png"
 - title: Congratulations to Ross L Gray Girls for winning the Zone 13 Championship!
     Good luck at provincials!
   photo: "/2020.02.29 RLG B-ball win prov.JPG"
