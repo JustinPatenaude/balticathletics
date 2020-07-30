@@ -7,7 +7,7 @@ team-members:
   bio: "Arabella recently joined our team as our admin assistant, shipper/receiver,
     and jack of all trades! ;) \n\nArabella loves to dance, enjoys the outdoors and
     hanging out with family.\n\nWelcome Arabella!"
-  photo: ''
+  photo: "/2020.06 Arabella Teetaert grad.JPG"
 - name: Jeffrey Ruus
   bio: |-
     Jeffrey assists with the equipment side of the business. He inflates hundreds of balls and is our go-to heavy lifter.
