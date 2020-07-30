@@ -9,13 +9,13 @@ team-members:
 
     He enjoys gaming, reading books and playing the piano.
   photo: "/jeffrey.jpg"
-- name: Bill Anderson
+- name: Bill
   bio: |-
     When it comes to pick ups & drop offs, Bill is our guy! He is always eager & ready to go, and will most likely be the guy to drop off at your location if we are sending something to you.
 
     Bill enjoys the outdoors and working on/sailing his sailboats. He enjoys spending time with his family and is always there to help someone out when they need.
   photo: "/bill.jpg"
-- name: Chloe Ruus
+- name: Chloe
   bio: |-
     Chloe helps receive and process the clothing orders that come in our doors. She assists with Team Order Management, and is a great asset to our Baltic team.
 
@@ -26,7 +26,7 @@ team-members:
     and jack of all trades! ;) \n\nArabella loves to dance, enjoys the outdoors and
     hanging out with family.\n\nWelcome Arabella!"
   photo: "/2020.06 Arabella Teetaert grad.JPG"
-- name: Mikayla Patenaude
+- name: Mikayla
   bio: |-
     Mikayla has many roles in the company but the one she enjoys the most is handling the art department. She also manages clothing orders, assists Corina in the Team Order Management department, and helps respond to Baltic emails.
 
