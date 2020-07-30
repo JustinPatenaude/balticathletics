@@ -1,8 +1,8 @@
 ---
 layout: home
 slideshow:
-- title: We Are Moving!! Stay tuned for a Grand Opening Announcement in September!!
-  text: ''
+- title: We Are Moving!!
+  text: Stay tuned for a Grand Opening Announcement in September!!
   button_text: ''
   button_link: ''
   image: "/We-are-moving-2018_blau.png"
