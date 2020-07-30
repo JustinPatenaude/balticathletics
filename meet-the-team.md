@@ -3,7 +3,7 @@ layout: meet-the-team
 title: Meet the Team
 permalink: "/meet-the-team/"
 team-members:
-- name: Jeffrey Ruus
+- name: Jeffrey
   bio: |-
     Jeffrey assists with the equipment side of the business. He inflates hundreds of balls and is our go-to heavy lifter.
 
