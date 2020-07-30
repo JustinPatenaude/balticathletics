@@ -3,11 +3,6 @@ layout: meet-the-team
 title: Meet the Team
 permalink: "/meet-the-team/"
 team-members:
-- name: Arabella
-  bio: "Arabella recently joined our team as our admin assistant, shipper/receiver,
-    and jack of all trades! ;) \n\nArabella loves to dance, enjoys the outdoors and
-    hanging out with family.\n\nWelcome Arabella!"
-  photo: "/2020.06 Arabella Teetaert grad.JPG"
 - name: Jeffrey Ruus
   bio: |-
     Jeffrey assists with the equipment side of the business. He inflates hundreds of balls and is our go-to heavy lifter.
@@ -26,6 +21,11 @@ team-members:
 
     Chloe enjoys playing with her niece & nephew, baking, painting, and studying astronomy. She is also a huge Marvel fan (really – if you want to know anything about Marvel, she most likely knows the answer!) and can quote most of the movies word for word.
   photo: "/chloe.jpg"
+- name: Arabella
+  bio: "Arabella recently joined our team as our admin assistant, shipper/receiver,
+    and jack of all trades! ;) \n\nArabella loves to dance, enjoys the outdoors and
+    hanging out with family.\n\nWelcome Arabella!"
+  photo: "/2020.06 Arabella Teetaert grad.JPG"
 - name: Mikayla Patenaude
   bio: |-
     Mikayla has many roles in the company but the one she enjoys the most is handling the art department. She also manages clothing orders, assists Corina in the Team Order Management department, and helps respond to Baltic emails.
