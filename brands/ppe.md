@@ -41,23 +41,23 @@ catalogues:
   year: 
   pdf: ''
 photos:
-- title: SU546-3 Sublimated Neck Gaiter, $7.27, min 25
-  photo: "/SU546-3.jpg"
-- title: SU674 Sublimated Multifunction Tubular Neck Gaiter, $5.82, min 12
-  photo: "/SU674.jpg"
+- title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
+  photo: "/3 ply mask.jpg"
+- title: SU676 Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min 12
+  photo: "/SU676.jpg"
+- title: SU677 Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask, $4.15 ea, min
+    12
+  photo: "/youth.jpg"
+- title: HT678-3 Full Colour Transfer Spandex Face Mask, 2 sides, $4.15 ea, min 50
+  photo: "/HT678-3.jpg"
 - title: HT678 Full Colour Transfer Spandex Face Mask HT678, $2.48, min 25
   photo: "/HT678.jpg"
 - title: HT678-2 Full Colour Transfer Spandex Face Mask, $2.48 ea, min 25
   photo: "/HT678-2.jpg"
-- title: HT678-3 Full Colour Transfer Spandex Face Mask, $4.15 ea, min 50
-  photo: "/HT678-3.jpg"
-- title: SU677 Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask, $4.15 ea, min
-    12
-  photo: "/youth.jpg"
-- title: SU676 Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min 12
-  photo: "/SU676.jpg"
-- title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
-  photo: "/3 ply mask.jpg"
+- title: SU674 Sublimated Multifunction Tubular Neck Gaiter, $5.82, min 12
+  photo: "/SU674.jpg"
+- title: SU546-3 Sublimated Neck Gaiter, $7.27, min 25
+  photo: "/SU546-3.jpg"
 info: "**ARTWORK:**\n\nAll customized items are also subject to a $50 set up charge.\n\nIf
   new artwork or vectoring is required there is an additional $20 charge.  \n\n***\n\nAll
   prices listed are Canadian dollars and do NOT include art set ups or vectoring.
