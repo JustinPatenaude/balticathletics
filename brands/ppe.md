@@ -41,9 +41,11 @@ catalogues:
   year: 
   pdf: ''
 photos:
+- title: SU677 Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask
+  photo: "/youth.jpg"
 - title: SU676 Sublimated 2-ply Antimicrobial Cloth Face Mask
   photo: "/SU676.jpg"
-- title: BL670 3-ply Disposable Face Mask
+- title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 info: "**ARTWORK:**\n\nAll customized items are also subject to a $50 set up charge.\n\nIf
   new artwork or vectoring is required there is an additional $20 charge.  \n\n***\n\nAll
