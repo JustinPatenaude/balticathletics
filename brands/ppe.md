@@ -11,13 +11,17 @@ categories:
 title: PPE
 logo: "/PPE Brand Logo.png"
 website: ''
-catalogues: []
+catalogues:
+- title: '3-ply Disposable Face Mask, Blank only '
+  pdf: "/BL670_0120081816230.pdf"
+  year: 
 photos: []
-info: |-
-  All customized items also are subject to a $50 set up charge. If artwork or vectoring is required there is an additional charge.  Garment prices are subject to change without notice.
-
-  \**Note: Not intended for medical use; not recognized by the Health Canada, CDC or FDA as safe or effective against COVID-19 or any virus; no guarantee item will protect user from any illness.
-
-  [https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/about-non-medical-masks-face-coverings.html](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/about-non-medical-masks-face-coverings.html "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/about-non-medical-masks-face-coverings.html")
+info: "**ARTWORK:**\n\nAll customized items are also subject to a $50 set up charge.\n\nIf
+  new artwork or vectoring is required there is an additional charge.  \n\n***\n\nAll
+  prices listed are Canadian dollars and do NOT include art set ups or vectoring.
+  Garment prices are subject to change without notice.\n\n***\n\n\\**Note: Not intended
+  for medical use; not recognized by the Health Canada, CDC or FDA as safe or effective
+  against COVID-19 or any virus; no guarantee item will protect user from any illness.\n\n[Canada
+  Public Health Services - About non-medical masks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/about-non-medical-masks-face-coverings.html)"
 
 ---
