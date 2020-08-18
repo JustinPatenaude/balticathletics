@@ -12,6 +12,10 @@ title: PPE
 logo: "/PPE Brand Logo.png"
 website: ''
 catalogues:
+- title: Full Colour Transfer BEST VALUE Spandex Facemask, 2 sides logo, $4.15 ea
+    (min 50)
+  year: 
+  pdf: "/HT678-3_0120081816240.pdf"
 - title: Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask $4.15 ea (min 12)
   year: 
   pdf: "/SU677_0120081816270.pdf"
