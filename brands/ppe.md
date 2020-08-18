@@ -41,6 +41,9 @@ catalogues:
   year: 
   pdf: "/SU546-3_0120081816251.pdf"
 photos:
+- title: Fruit of the Loom Face Mask, 3-ply 4.1 oz Cotton, Over ear design, Printable
+    design, pack of 5, $15.50 ($3.05 ea)
+  photo: "/FOTL face mask.PNG"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 - title: SU676 Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min 12
