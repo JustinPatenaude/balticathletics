@@ -12,6 +12,16 @@ title: PPE
 logo: "/PPE Brand Logo.png"
 website: ''
 catalogues:
+- title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
+  pdf: "/BL670_0120081816230.pdf"
+  year: 
+- title: Sublimated 2-ply Antimicrobial Cloth Face Mask SU676 $4.98 ea (min 12)
+  year: 
+  pdf: "/SU676_0120081816231.pdf"
+- title: Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask SU677, $4.15 ea, min
+    12
+  year: 
+  pdf: "/SU677_0120081816270.pdf"
 - title: Sublimated Neck Gaiter SU546-3, $7.27, min 25
   year: 
   pdf: ''
@@ -27,15 +37,6 @@ catalogues:
 - title: Full Colour Transfer Spandex Face Mask, 2 sides logo, $4.15 ea (min 50)
   year: 
   pdf: "/HT678-3_0120081816240.pdf"
-- title: Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask $4.15 ea (min 12)
-  year: 
-  pdf: "/SU677_0120081816270.pdf"
-- title: Sublimated 2-ply Antimicrobial Cloth Face Mask SU676 $4.98 ea (min 12)
-  year: 
-  pdf: "/SU676_0120081816231.pdf"
-- title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
-  pdf: "/BL670_0120081816230.pdf"
-  year: 
 photos: []
 info: "**ARTWORK:**\n\nAll customized items are also subject to a $50 set up charge.\n\nIf
   new artwork or vectoring is required there is an additional charge.  \n\n***\n\nAll
