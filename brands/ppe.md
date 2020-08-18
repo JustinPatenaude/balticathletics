@@ -41,6 +41,8 @@ catalogues:
   year: 
   pdf: ''
 photos:
+- title: SU546-3 Sublimated Neck Gaiter, $7.27, min 25
+  photo: "/SU546-3.jpg"
 - title: SU674 Sublimated Multifunction Tubular Neck Gaiter, $5.82, min 12
   photo: "/SU674.jpg"
 - title: HT678 Full Colour Transfer Spandex Face Mask HT678, $2.48, min 25
