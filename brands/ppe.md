@@ -42,7 +42,7 @@ catalogues:
   pdf: ''
 photos: []
 info: "**ARTWORK:**\n\nAll customized items are also subject to a $50 set up charge.\n\nIf
-  new artwork or vectoring is required there is an additional charge.  \n\n***\n\nAll
+  new artwork or vectoring is required there is an additional $20 charge.  \n\n***\n\nAll
   prices listed are Canadian dollars and do NOT include art set ups or vectoring.
   Garment prices are subject to change without notice.\n\n***\n\n\\**Note: Not intended
   for medical use; not recognized by the Health Canada, CDC or FDA as safe or effective
