@@ -41,6 +41,8 @@ catalogues:
   year: 
   pdf: ''
 photos:
+- title: SU676 Sublimated 2-ply Antimicrobial Cloth Face Mask
+  photo: "/SU676.jpg"
 - title: BL670 3-ply Disposable Face Mask
   photo: "/3 ply mask.jpg"
 info: "**ARTWORK:**\n\nAll customized items are also subject to a $50 set up charge.\n\nIf
