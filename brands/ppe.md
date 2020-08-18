@@ -41,6 +41,8 @@ catalogues:
   year: 
   pdf: ''
 photos:
+- title: HT678-3 Full Colour Transfer Spandex Face Mask, $4.15 ea, min 50
+  photo: "/HT678-3.jpg"
 - title: SU677 Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask, $4.15 ea, min
     12
   photo: "/youth.jpg"
