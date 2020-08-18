@@ -12,7 +12,7 @@ title: PPE
 logo: "/PPE Brand Logo.png"
 website: ''
 catalogues:
-- title: Sublimated 2-ply Antimicrobial Cloth Face Mask SU676 $4.98 each
+- title: Sublimated 2-ply Antimicrobial Cloth Face Mask SU676 $4.98 ea (min 12)
   year: 
   pdf: "/SU676_0120081816231.pdf"
 - title: 3-ply Disposable Face Mask, Blank only .43 cents each (min 50)
