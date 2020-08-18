@@ -39,7 +39,7 @@ catalogues:
   pdf: "/SU674_0120081816250.pdf"
 - title: Sublimated Neck Gaiter SU546-3, $7.27, min 25
   year: 
-  pdf: ''
+  pdf: "/SU546-3_0120081816251.pdf"
 photos:
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
