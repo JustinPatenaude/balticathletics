@@ -15,7 +15,7 @@ catalogues:
 - title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
   pdf: "/BL670_0120081816230.pdf"
   year: 
-- title: Sublimated 2-ply Antimicrobial Cloth Face Mask SU676 $4.98 ea (min 12)
+- title: Sublimated 2-ply Antimicrobial Cloth Face Mask SU676 $4.98 ea, min 12
   year: 
   pdf: "/SU676_0120081816231.pdf"
 - title: Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask SU677, $4.15 ea, min
