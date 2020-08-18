@@ -40,7 +40,9 @@ catalogues:
 - title: Sublimated Neck Gaiter SU546-3, $7.27, min 25
   year: 
   pdf: ''
-photos: []
+photos:
+- title: BL670 3-ply Disposable Face Mask
+  photo: "/3 ply mask.jpg"
 info: "**ARTWORK:**\n\nAll customized items are also subject to a $50 set up charge.\n\nIf
   new artwork or vectoring is required there is an additional $20 charge.  \n\n***\n\nAll
   prices listed are Canadian dollars and do NOT include art set ups or vectoring.
