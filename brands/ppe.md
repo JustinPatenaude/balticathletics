@@ -22,21 +22,22 @@ catalogues:
     12
   year: 
   pdf: "/SU677_0120081816270.pdf"
-- title: Sublimated Neck Gaiter SU546-3, $7.27, min 25
+- title: Full Colour Transfer Spandex Face Mask HT678-3, 2 sides logo, $4.15 ea, min
+    50
   year: 
-  pdf: ''
-- title: Sublimated Multifunction Tubular Neck Gaiter, $5.82, (min 12)
-  year: 
-  pdf: "/SU674_0120081816250.pdf"
-- title: Full Colour Transfer Spandex Face Mask, Left side logo, $2.48 (min 25)
-  year: 
-  pdf: "/HT678_0120081816242.pdf"
+  pdf: "/HT678-3_0120081816240.pdf"
 - title: Full Colour Transfer Spandex Face Mask, Right Side logo, $2.48 (min 25)
   year: 
   pdf: "/HT678-2_0120081816241.pdf"
-- title: Full Colour Transfer Spandex Face Mask, 2 sides logo, $4.15 ea (min 50)
+- title: Full Colour Transfer Spandex Face Mask, Left side logo, $2.48 (min 25)
   year: 
-  pdf: "/HT678-3_0120081816240.pdf"
+  pdf: "/HT678_0120081816242.pdf"
+- title: Sublimated Multifunction Tubular Neck Gaiter, $5.82, (min 12)
+  year: 
+  pdf: "/SU674_0120081816250.pdf"
+- title: Sublimated Neck Gaiter SU546-3, $7.27, min 25
+  year: 
+  pdf: ''
 photos: []
 info: "**ARTWORK:**\n\nAll customized items are also subject to a $50 set up charge.\n\nIf
   new artwork or vectoring is required there is an additional charge.  \n\n***\n\nAll
