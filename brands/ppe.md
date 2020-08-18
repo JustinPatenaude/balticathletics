@@ -30,7 +30,8 @@ catalogues:
     min 25
   year: 
   pdf: "/HT678-2_0120081816241.pdf"
-- title: Full Colour Transfer Spandex Face Mask, Left side logo, $2.48 (min 25)
+- title: Full Colour Transfer Spandex Face Mask HT678, Left side logo, $2.48, min
+    25
   year: 
   pdf: "/HT678_0120081816242.pdf"
 - title: Sublimated Multifunction Tubular Neck Gaiter, $5.82, (min 12)
