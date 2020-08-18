@@ -12,6 +12,9 @@ title: PPE
 logo: "/PPE Brand Logo.png"
 website: ''
 catalogues:
+- title: Sublimated Multifunction Tubular Neck Gaiter, $5.82, (min 12)
+  year: 
+  pdf: "/SU674_0120081816250.pdf"
 - title: Full Colour Transfer Spandex Face Mask, Left side logo, $2.48 (min 25)
   year: 
   pdf: "/HT678_0120081816242.pdf"
