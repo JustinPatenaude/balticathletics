@@ -53,7 +53,8 @@ photos:
 - title: HT678 Full Colour Transfer Spandex Face Mask HT678,Right Side logo, $2.48,
     min 25
   photo: "/HT678.jpg"
-- title: HT678-2 Full Colour Transfer Spandex Face Mask, $2.48 ea, min 25
+- title: HT678-2 Full Colour Transfer Spandex Face Mask, Left Side logo, $2.48 ea,
+    min 25
   photo: "/HT678-2.jpg"
 - title: SU674 Sublimated Multifunction Tubular Neck Gaiter, $5.82, min 12
   photo: "/SU674.jpg"
