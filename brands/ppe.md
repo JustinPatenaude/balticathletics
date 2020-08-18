@@ -41,7 +41,8 @@ catalogues:
   year: 
   pdf: ''
 photos:
-- title: SU677 Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask
+- title: SU677 Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask, $4.15 ea, min
+    12
   photo: "/youth.jpg"
 - title: SU676 Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min 12
   photo: "/SU676.jpg"
