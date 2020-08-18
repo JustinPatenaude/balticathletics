@@ -12,6 +12,9 @@ title: PPE
 logo: "/PPE Brand Logo.png"
 website: ''
 catalogues:
+- title: Full Colour Transfer Spandex Face Mask, Left side logo, $2.48 (min 25)
+  year: 
+  pdf: "/HT678_0120081816242.pdf"
 - title: Full Colour Transfer Spandex Face Mask, Right Side logo, $2.48 (min 25)
   year: 
   pdf: "/HT678-2_0120081816241.pdf"
