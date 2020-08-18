@@ -26,7 +26,7 @@ catalogues:
     50
   year: 
   pdf: "/HT678-3_0120081816240.pdf"
-- title: Full Colour Transfer Spandex Face Mask, Right Side logo, $2.48 (min 25)
+- title: Full Colour Transfer Spandex Face Mask, Right Side logo, $2.48 ea, min 25
   year: 
   pdf: "/HT678-2_0120081816241.pdf"
 - title: Full Colour Transfer Spandex Face Mask, Left side logo, $2.48 (min 25)
