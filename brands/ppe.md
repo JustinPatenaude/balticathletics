@@ -9,7 +9,7 @@ categories:
 - products/safety.md
 - products/sublimation.md
 title: PPE
-logo: "/PPE Brand Logo_.png"
+logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
 - title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
