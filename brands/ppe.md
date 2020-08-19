@@ -41,7 +41,7 @@ catalogues:
   year: 
   pdf: "/SU546-3_0120081816251.pdf"
 photos:
-- title: BPW Sublimated Mask, Over ear adjustable, 2 layers, bacteria resistant, moisture
+- title: BPW Sublimated Mask, Adjustable over ear, 2 layers, bacteria resistant, moisture
     wicking, multiple sizes, $8.50, min 50
   photo: "/Over the ear Mask group.psd.png"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
