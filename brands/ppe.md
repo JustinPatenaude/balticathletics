@@ -41,8 +41,6 @@ catalogues:
   year: 
   pdf: "/SU546-3_0120081816251.pdf"
 photos:
-- title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
-  photo: "/3 ply mask.jpg"
 - title: SU676 Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min 12
   photo: "/SU676.jpg"
 - title: SU677 Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask, $4.15 ea, min
@@ -72,6 +70,8 @@ photos:
 - title: BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture wicking, multiple
     sizes, $9.00, min 30
   photo: "/Pizza-Hut-Balaclava-900x900.png"
+- title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
+  photo: "/3 ply mask.jpg"
 info: "**ARTWORK:**\n\nAll customized items are also subject to a $50 set up charge.\n\nIf
   new artwork or vectoring is required there is an additional $20 charge.  \n\n***\n\nAll
   prices listed are Canadian dollars and do NOT include art set ups or vectoring.
