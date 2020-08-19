@@ -81,7 +81,7 @@ info: |-
 
   ***
 
-  All prices listed are **Canadian dollars** and **DO NOT include art set ups or vectoring**. Garment prices are subject to change without notice.
+  All prices listed are **Canadian dollars** and **DO NOT include art set ups, vectoring or shipping**. Garment prices are subject to change without notice.
 
   ***
 
