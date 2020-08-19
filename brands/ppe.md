@@ -9,7 +9,7 @@ categories:
 - products/safety.md
 - products/sublimation.md
 title: PPE
-logo: "/PPE Brand Logo.png"
+logo: "/PPE Brand Logo_.png"
 website: ''
 catalogues:
 - title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
@@ -41,9 +41,6 @@ catalogues:
   year: 
   pdf: "/SU546-3_0120081816251.pdf"
 photos:
-- title: BPW Sublimated Mask, Adjustable over ear, 2 layers, bacteria resistant, moisture
-    wicking, multiple sizes, $8.50, min 50
-  photo: "/Over the ear Mask group.psd.png"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 - title: SU676 Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min 12
@@ -66,6 +63,9 @@ photos:
 - title: Fruit of the Loom Face Mask, 3-ply 4.1 oz Cotton, Over ear design, Printable
     design, pack of 5, $15.50 ($3.05 ea)
   photo: "/FOTL face mask.PNG"
+- title: BPW Sublimated Mask, Adjustable over ear, 2 layers, bacteria resistant, moisture
+    wicking, multiple sizes, $8.50, min 50
+  photo: "/Over the ear Mask group.psd.png"
 info: "**ARTWORK:**\n\nAll customized items are also subject to a $50 set up charge.\n\nIf
   new artwork or vectoring is required there is an additional $20 charge.  \n\n***\n\nAll
   prices listed are Canadian dollars and do NOT include art set ups or vectoring.
