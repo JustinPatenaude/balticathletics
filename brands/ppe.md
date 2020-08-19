@@ -41,9 +41,9 @@ catalogues:
   year: 
   pdf: "/SU546-3_0120081816251.pdf"
 photos:
-- title: BPW Sublimated Mask, Adjustable Over the Head, 2 layers, bacteria resistant,
-    moisture wicking, multiple sizes, $9.25, min 50
-  photo: "/over the head group.png"
+- title: BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture wicking, multiple
+    sizes, $9.00, min 30
+  photo: "/Pizza-Hut-Balaclava-900x900.png"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 - title: SU676 Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min 12
@@ -66,6 +66,9 @@ photos:
 - title: Fruit of the Loom Face Mask, 3-ply 4.1 oz Cotton, Over ear design, Printable
     design, pack of 5, $15.50 ($3.05 ea)
   photo: "/FOTL face mask.PNG"
+- title: BPW Sublimated Mask, Adjustable Over the Head, 2 layers, bacteria resistant,
+    moisture wicking, multiple sizes, $9.25, min 50
+  photo: "/over the head group.png"
 - title: BPW Sublimated Mask, Adjustable over ear, 2 layers, bacteria resistant, moisture
     wicking, multiple sizes, $8.50, min 50
   photo: "/Over the ear Mask group.psd.png"
