@@ -41,6 +41,9 @@ catalogues:
   year: 
   pdf: "/SU546-3_0120081816251.pdf"
 photos:
+- title: BPW Sublimated Mask, Adjustable Over the Head, 2 layers, bacteria resistant,
+    moisture wicking, multiple sizes, $9.25, min 50
+  photo: "/over the head group.png"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 - title: SU676 Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min 12
