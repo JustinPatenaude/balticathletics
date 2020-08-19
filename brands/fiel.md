@@ -7,6 +7,8 @@ categories:
 - products/bags-totes-duffels.md
 - products/blankets.md
 - products/made-in-canada.md
+- products/ppe-facemasks-neck-gaiters-adult-youth.md
+- products/safety.md
 - products/sublimation.md
 - products/table-covers.md
 - products/towels.md
