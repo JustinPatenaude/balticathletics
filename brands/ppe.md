@@ -75,7 +75,7 @@ photos:
 info: |-
   **ARTWORK:**
 
-  All customized items are also subject to a $50 set up charge.
+  All customized items are also subject to a **$50 set up charge**
 
   If new artwork or vectoring is required there is an additional $20 charge.
 
