@@ -46,9 +46,6 @@ catalogues:
   year: 
   pdf: "/SU679_0120082010521.pdf"
 photos:
-- title: YOUTH SU679 - Sublimated Multifunction 1-ply Tubular Neck Gaiter, $4.98,
-    min 12
-  photo: "/SU679.jpg"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 - title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min
@@ -64,11 +61,14 @@ photos:
   photo: "/SU678.jpg"
 - title: ADULT SU674 - Sublimated Multifunction Tubular Neck Gaiter, $5.82, min 12
   photo: "/SU674.jpg"
-- title: ADULT SU546-3 - Sublimated Neck Gaiter, $7.27, min 25
+- title: ADULT SU546-3 - Sublimated 1-ply Neck Gaiter, $7.27, min 25
   photo: "/SU546-3.jpg"
 - title: YOUTH SU677 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.15 ea, min
     12
   photo: "/youth.jpg"
+- title: YOUTH SU679 - Sublimated Multifunction 1-ply Tubular Neck Gaiter, $4.98,
+    min 12
+  photo: "/SU679.jpg"
 - title: Fruit of the Loom Face Mask, 3-ply 4.1 oz Cotton, Over ear design, Printable
     design, pack of 5, $15.50 ($3.05 ea)
   photo: "/FOTL face mask.PNG"
