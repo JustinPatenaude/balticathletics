@@ -53,7 +53,7 @@ photos:
   photo: "/SU676.jpg"
 - title: ADULT SU674 - Sublimated Multifunction Tubular Neck Gaiter, $5.82, min 12
   photo: "/SU674.jpg"
-- title: SU546-3 Sublimated Neck Gaiter, $7.27, min 25
+- title: ADULT SU546-3 - Sublimated Neck Gaiter, $7.27, min 25
   photo: "/SU546-3.jpg"
 - title: SU677 Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask, $4.15 ea, min
     12
