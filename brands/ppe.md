@@ -46,6 +46,9 @@ catalogues:
   year: 
   pdf: "/SU679_0120082010521.pdf"
 photos:
+- title: ADULT SU678-3 - Sublimated Spandex Face Mask, 2 sides logo, $4.15 ea, min
+    50
+  photo: "/SU678-3.jpg"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 - title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min
