@@ -51,15 +51,7 @@ photos:
 - title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min
     12
   photo: "/SU676.jpg"
-- title: HT678-3 Full Colour Transfer Spandex Face Mask, 2 sides, $4.15 ea, min 50
-  photo: "/HT678-3.jpg"
-- title: HT678 Full Colour Transfer Spandex Face Mask HT678,Right Side logo, $2.48,
-    min 25
-  photo: "/HT678.jpg"
-- title: HT678-2 Full Colour Transfer Spandex Face Mask, Left Side logo, $2.48 ea,
-    min 25
-  photo: "/HT678-2.jpg"
-- title: SU674 Sublimated Multifunction Tubular Neck Gaiter, $5.82, min 12
+- title: ADULT SU674 - Sublimated Multifunction Tubular Neck Gaiter, $5.82, min 12
   photo: "/SU674.jpg"
 - title: SU546-3 Sublimated Neck Gaiter, $7.27, min 25
   photo: "/SU546-3.jpg"
