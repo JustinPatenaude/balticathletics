@@ -46,19 +46,22 @@ catalogues:
   year: 
   pdf: "/SU679_0120082010521.pdf"
 photos:
-- title: ADULT SU678 - Sublimated Spandex Face Mask, Left side logo, $2.48, min 25
-  photo: "/SU678.jpg"
-- title: ADULT SU678-2 - Sublimated Spandex Face Mask, Right Side logo, $2.48 ea,
-    min 25
-  photo: "/SU678-2.jpg"
-- title: ADULT SU678-3 - Sublimated Spandex Face Mask, 2 sides logo, $4.15 ea, min
-    50
-  photo: "/SU678-3.jpg"
+- title: YOUTH SU679 - Sublimated Multifunction 1-ply Tubular Neck Gaiter, $4.98,
+    min 12
+  photo: "/SU679.jpg"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 - title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min
     12
   photo: "/SU676.jpg"
+- title: ADULT SU678-3 - Sublimated Spandex Face Mask, 2 sides logo, $4.15 ea, min
+    50
+  photo: "/SU678-3.jpg"
+- title: ADULT SU678-2 - Sublimated Spandex Face Mask, Right Side logo, $2.48 ea,
+    min 25
+  photo: "/SU678-2.jpg"
+- title: ADULT SU678 - Sublimated Spandex Face Mask, Left side logo, $2.48, min 25
+  photo: "/SU678.jpg"
 - title: ADULT SU674 - Sublimated Multifunction Tubular Neck Gaiter, $5.82, min 12
   photo: "/SU674.jpg"
 - title: ADULT SU546-3 - Sublimated Neck Gaiter, $7.27, min 25
