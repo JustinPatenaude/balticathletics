@@ -12,6 +12,9 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
+- title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
+  pdf: "/BL670_0120081816230.pdf"
+  year: 
 - title: Sublimated 2-ply Antimicrobial Cloth Face Mask - ADULT SU676 $4.98 ea, min
     12
   year: 
@@ -29,15 +32,13 @@ catalogues:
 - title: Sublimated Spandex Face Mask SU678, Left side logo, $2.48, min 25
   year: 
   pdf: "/SU678_0120082010501.pdf"
-- title: Sublimated Multifunction Tubular Neck Gaiter SU674, $5.82, min 12
+- title: Sublimated Multifunction 1-ply Tubular Neck Gaiter - ADULT SU674, $5.82,
+    min 12
   year: 
-  pdf: "/SU674_0120081816250.pdf"
+  pdf: ''
 - title: Sublimated Neck Gaiter SU546-3, $7.27, min 25
   year: 
   pdf: "/SU546-3_0120081816251.pdf"
-- title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
-  pdf: "/BL670_0120081816230.pdf"
-  year: 
 photos:
 - title: SU676 Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min 12
   photo: "/SU676.jpg"
