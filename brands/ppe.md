@@ -22,14 +22,9 @@ catalogues:
     12
   year: 
   pdf: "/SU677_0120081816270.pdf"
-- title: Full Colour Transfer Spandex Face Mask HT678-3, 2 sides logo, $4.15 ea, min
-    50
+- title: Sublimated Spandex Face Mask SU678-2, Right Side logo, $2.48 ea, min 25
   year: 
-  pdf: "/HT678-3_0120081816240.pdf"
-- title: Full Colour Transfer Spandex Face Mask HT678-3, Right Side logo, $2.48 ea,
-    min 25
-  year: 
-  pdf: "/HT678-2_0120081816241.pdf"
+  pdf: "/SU678-2_0120082010500.pdf"
 - title: Full Colour Transfer Spandex Face Mask HT678, Left side logo, $2.48, min
     25
   year: 
