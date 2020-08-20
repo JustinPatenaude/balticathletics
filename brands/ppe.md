@@ -12,6 +12,10 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
+- title: TEMPLATE for BPW Sublimated Mask, Adjustable over ear, 2 layers, bacteria
+    resistant, moisture wicking, multiple sizes, $8.50, min 50
+  year: 
+  pdf: "/Face Mask - behind the ear template.pdf"
 - title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
   pdf: "/BL670_0120081816230.pdf"
   year: 
