@@ -12,6 +12,9 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
+- title: Sublimated Spandex Face Mask SU678-3, 2 sides logo, $4.15 ea, min 50
+  year: 
+  pdf: "/SU678-3_0120082010491.pdf"
 - title: Sublimated 2-ply Antimicrobial Cloth Face Mask SU676 $4.98 ea, min 12
   year: 
   pdf: "/SU676_0120081816231.pdf"
