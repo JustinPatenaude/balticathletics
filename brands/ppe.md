@@ -5,7 +5,7 @@ categories:
 - products/headwear.md
 - products/health-fitness.md
 - products/made-in-canada.md
-- products/ppe-facemasks-neck-gaiters-adult-youth.md
+- products/ppe-facemasks-neck-gaiters.md
 - products/safety.md
 - products/sublimation.md
 title: PPE
