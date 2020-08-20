@@ -12,22 +12,6 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
-- title: TEMPLATE for SMALL BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture
-    wicking, multiple sizes, $9.00, min 30
-  year: 
-  pdf: "/Neck-Buff-Small-PPE-NB02-Ver2.pdf"
-- title: TEMPLATE for LARGE BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture
-    wicking, multiple sizes, $9.00, min 30
-  year: 
-  pdf: "/Neck-Buff-Large-PPE-NB01-Ver2.pdf"
-- title: TEMPLATE for BPW Sublimated Mask, Adjustable Over the Head, 2 layers, bacteria
-    resistant, moisture wicking, multiple sizes, $9.25, min 50
-  year: 
-  pdf: "/Face-Mask-Adjustable-Over-the-Head-PPE-FC01-Ver-3-rev.pdf"
-- title: TEMPLATE for BPW Sublimated Mask, Adjustable over ear, 2 layers, bacteria
-    resistant, moisture wicking, multiple sizes, $8.50, min 50
-  year: 
-  pdf: "/Face Mask - behind the ear template.pdf"
 - title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
   pdf: "/BL670_0120081816230.pdf"
   year: 
@@ -61,6 +45,22 @@ catalogues:
     min 12
   year: 
   pdf: "/SU679_0120082010521.pdf"
+- title: TEMPLATE for BPW Sublimated Mask, Adjustable over ear, 2 layers, bacteria
+    resistant, moisture wicking, multiple sizes, $8.50, min 50
+  year: 
+  pdf: "/Face Mask - behind the ear template.pdf"
+- title: TEMPLATE for BPW Sublimated Mask, Adjustable Over the Head, 2 layers, bacteria
+    resistant, moisture wicking, multiple sizes, $9.25, min 50
+  year: 
+  pdf: "/Face-Mask-Adjustable-Over-the-Head-PPE-FC01-Ver-3-rev.pdf"
+- title: TEMPLATE for LARGE BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture
+    wicking, multiple sizes, $9.00, min 30
+  year: 
+  pdf: "/Neck-Buff-Large-PPE-NB01-Ver2.pdf"
+- title: TEMPLATE for SMALL BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture
+    wicking, multiple sizes, $9.00, min 30
+  year: 
+  pdf: "/Neck-Buff-Small-PPE-NB02-Ver2.pdf"
 photos:
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
