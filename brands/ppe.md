@@ -12,17 +12,10 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
-- title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
-  pdf: "/BL670_0120081816230.pdf"
-  year: 
-- title: Sublimated 2-ply Antimicrobial Cloth Face Mask - ADULT SU676 $4.98 ea, min
-    12
+- title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask - $4.98 ea,
+    min 12
   year: 
   pdf: "/SU676_0120082010490.pdf"
-- title: Sublimated 2-ply Antimicrobial Cloth Face Mask - YOUTH SU677, $4.15 ea, min
-    12
-  year: 
-  pdf: "/SU677_0120082010520.pdf"
 - title: Sublimated Spandex Face Mask SU678-3, 2 sides logo, $4.15 ea, min 50
   year: 
   pdf: "/SU678-3_0120082010491.pdf"
@@ -36,14 +29,23 @@ catalogues:
     min 12
   year: 
   pdf: "/SU674_0120082010530.pdf"
+- title: Sublimated Neck Gaiter - ADULT SU546-3, $7.27, min 25
+  year: 
+  pdf: "/SU546-3_0120082010540.pdf"
+- title: Sublimated 2-ply Antimicrobial Cloth Face Mask - YOUTH SU677, $4.15 ea, min
+    12
+  year: 
+  pdf: "/SU677_0120082010520.pdf"
 - title: Sublimated Multifunction 1-ply Tubular Neck Gaiter - YOUTH SU679, $4.98,
     min 12
   year: 
   pdf: "/SU679_0120082010521.pdf"
-- title: Sublimated Neck Gaiter - ADULT SU546-3, $7.27, min 25
+- title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
+  pdf: "/BL670_0120081816230.pdf"
   year: 
-  pdf: "/SU546-3_0120082010540.pdf"
 photos:
+- title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
+  photo: "/3 ply mask.jpg"
 - title: SU676 Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min 12
   photo: "/SU676.jpg"
 - title: SU677 Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask, $4.15 ea, min
@@ -73,8 +75,6 @@ photos:
 - title: BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture wicking, multiple
     sizes, $9.00, min 30
   photo: "/Pizza-Hut-Balaclava-900x900.png"
-- title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
-  photo: "/3 ply mask.jpg"
 info: |-
   **ARTWORK:**
 
