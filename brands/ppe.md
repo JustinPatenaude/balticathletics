@@ -31,7 +31,7 @@ catalogues:
     min 12
   year: 
   pdf: "/SU674_0120082010530.pdf"
-- title: Sublimated Neck Gaiter - ADULT SU546-3, $7.27, min 25
+- title: ADULT SU546-3 - Sublimated Neck Gaiter, $7.27, min 25
   year: 
   pdf: "/SU546-3_0120082010540.pdf"
 - title: Sublimated 2-ply Antimicrobial Cloth Face Mask - YOUTH SU677, $4.15 ea, min
