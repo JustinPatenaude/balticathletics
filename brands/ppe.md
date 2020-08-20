@@ -20,7 +20,8 @@ catalogues:
     50
   year: 
   pdf: "/SU678-3_0120082010491.pdf"
-- title: Sublimated Spandex Face Mask SU678-2, Right Side logo, $2.48 ea, min 25
+- title: ADULT SU678-2 - Sublimated Spandex Face Mask, Right Side logo, $2.48 ea,
+    min 25
   year: 
   pdf: "/SU678-2_0120082010500.pdf"
 - title: Sublimated Spandex Face Mask SU678, Left side logo, $2.48, min 25
