@@ -46,6 +46,9 @@ catalogues:
   year: 
   pdf: "/SU679_0120082010521.pdf"
 photos:
+- title: ADULT SU678-2 - Sublimated Spandex Face Mask, Right Side logo, $2.48 ea,
+    min 25
+  photo: "/SU678-2.jpg"
 - title: ADULT SU678-3 - Sublimated Spandex Face Mask, 2 sides logo, $4.15 ea, min
     50
   photo: "/SU678-3.jpg"
