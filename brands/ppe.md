@@ -59,7 +59,8 @@ photos:
   photo: "/SU678-2.jpg"
 - title: ADULT SU678 - Sublimated Spandex Face Mask, Left side logo, $2.48, min 25
   photo: "/SU678.jpg"
-- title: ADULT SU674 - Sublimated Multifunction Tubular Neck Gaiter, $5.82, min 12
+- title: ADULT SU674 - Sublimated Multifunction 1-ply Tubular Neck Gaiter, $5.82,
+    min 12
   photo: "/SU674.jpg"
 - title: ADULT SU546-3 - Sublimated 1-ply Neck Gaiter, $7.27, min 25
   photo: "/SU546-3.jpg"
