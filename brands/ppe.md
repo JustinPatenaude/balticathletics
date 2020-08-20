@@ -82,6 +82,8 @@ info: |-
 
   If new artwork or vectoring is required there is an additional $20 charge.
 
+  Templates are included as page 2 of each catalogue PDF.
+
   ***
 
   All prices listed are **Canadian dollars** and **DO NOT include art set ups, vectoring, shipping or taxes**. Garment prices are subject to change without notice.
