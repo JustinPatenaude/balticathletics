@@ -59,6 +59,7 @@ product_list:
   - products/jackets.md
   - products/jerseys.md
   - products/pants.md
+  - "/products/PPE"
   - products/shirts.md
   - products/shorts.md
   - products/socks.md
