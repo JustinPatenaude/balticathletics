@@ -12,6 +12,10 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
+- title: Sublimated Multifunction 1-ply Tubular Neck Gaiter - YOUTH SU679, $4.98,
+    min 12
+  year: 
+  pdf: "/SU679_0120082010521.pdf"
 - title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
   pdf: "/BL670_0120081816230.pdf"
   year: 
