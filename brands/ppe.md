@@ -113,7 +113,7 @@ info: |-
 
   ***
 
-  \**Note: Not intended for medical use; not recognized by the Health Canada, CDC or FDA as safe or effective against COVID-19 or any virus; no guarantee item will protect user from any illness.
+  \**Note: All mask offered through Baltic Athletics are not intended for medical use; not recognized by the Health Canada, CDC or FDA as safe or effective against COVID-19 or any virus; no guarantee item will protect user from any illness.
 
   [Canada Public Health Services - About non-medical masks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/about-non-medical-masks-face-coverings.html)
 
