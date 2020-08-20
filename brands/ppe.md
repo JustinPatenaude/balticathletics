@@ -35,7 +35,7 @@ catalogues:
 - title: Sublimated Multifunction 1-ply Tubular Neck Gaiter - ADULT SU674, $5.82,
     min 12
   year: 
-  pdf: ''
+  pdf: "/SU674_0120082010530.pdf"
 - title: Sublimated Neck Gaiter SU546-3, $7.27, min 25
   year: 
   pdf: "/SU546-3_0120081816251.pdf"
