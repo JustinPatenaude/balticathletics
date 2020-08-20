@@ -15,7 +15,7 @@ catalogues:
 - title: TEMPLATE for SMALL BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture
     wicking, multiple sizes, $9.00, min 30
   year: 
-  pdf: ''
+  pdf: "/Neck-Buff-Small-PPE-NB02-Ver2.pdf"
 - title: TEMPLATE for LARGE BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture
     wicking, multiple sizes, $9.00, min 30
   year: 
