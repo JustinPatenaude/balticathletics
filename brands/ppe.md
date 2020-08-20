@@ -12,6 +12,10 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
+- title: TEMPLATE for LARGE BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture
+    wicking, multiple sizes, $9.00, min 30
+  year: 
+  pdf: "/Neck-Buff-Large-PPE-NB01-Ver2.pdf"
 - title: TEMPLATE for BPW Sublimated Mask, Adjustable Over the Head, 2 layers, bacteria
     resistant, moisture wicking, multiple sizes, $9.25, min 50
   year: 
