@@ -12,9 +12,10 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
-- title: Sublimated 2-ply Antimicrobial Cloth Face Mask SU676 $4.98 ea, min 12
+- title: Sublimated 2-ply Antimicrobial Cloth Face Mask - ADULT SU676 $4.98 ea, min
+    12
   year: 
-  pdf: "/SU676_0120081816231.pdf"
+  pdf: "/SU676_0120082010490.pdf"
 - title: Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask SU677, $4.15 ea, min
     12
   year: 
