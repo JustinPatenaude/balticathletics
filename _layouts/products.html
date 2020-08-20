@@ -54,7 +54,7 @@ layout: default
                 {% assign itemPermalink = item | remove: ".md" | prepend: "/" | append: "/" %}
                 {% assign itemPage = productPages | where: 'permalink', itemPermalink %}
                 {% capture itemImageUrl %}/assets/images/category-{{ itemHandle }}.svg{% endcapture %}
-                <div class="col-2_md-3_sm-4_xs-6 catalogue__category-wrapper" data-category-title="{{ itemPage[0].title | downcase }},{{ itemPage[0].products | join: ',' | downcase }}">
+                <div class="col-2_md-3_sm-4_xs-6 catalogue__category-wrapper" data-test="{{ itemPermalink }}" data-category-title="{{ itemPage[0].title | downcase }},{{ itemPage[0].products | join: ',' | downcase }}">
                   {% capture itemLink %}/products/{{ itemHandle }}{% endcapture %}
                   <a href="{{ itemLink | relative_url }}" class="catalogue__category">
                     <div class="catalogue__category-img-wrapper">

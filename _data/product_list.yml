@@ -59,7 +59,7 @@ product_list:
   - products/jackets.md
   - products/jerseys.md
   - products/pants.md
-  - "/products/ppe-facemasks-neck-gaiters-adult-youth.md"
+  - products/ppe-facemasks-neck-gaiters.md
   - products/shirts.md
   - products/shorts.md
   - products/socks.md
