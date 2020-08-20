@@ -12,6 +12,9 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
+- title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
+  pdf: "/BL670_0120081816230.pdf"
+  year: 
 - title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask - $4.98 ea,
     min 12
   year: 
@@ -42,17 +45,12 @@ catalogues:
     min 12
   year: 
   pdf: "/SU679_0120082010521.pdf"
-- title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
-  pdf: "/BL670_0120081816230.pdf"
-  year: 
 photos:
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
-- title: SU676 Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min 12
-  photo: "/SU676.jpg"
-- title: SU677 Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask, $4.15 ea, min
+- title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min
     12
-  photo: "/youth.jpg"
+  photo: "/SU676.jpg"
 - title: HT678-3 Full Colour Transfer Spandex Face Mask, 2 sides, $4.15 ea, min 50
   photo: "/HT678-3.jpg"
 - title: HT678 Full Colour Transfer Spandex Face Mask HT678,Right Side logo, $2.48,
@@ -65,6 +63,9 @@ photos:
   photo: "/SU674.jpg"
 - title: SU546-3 Sublimated Neck Gaiter, $7.27, min 25
   photo: "/SU546-3.jpg"
+- title: SU677 Sublimated 2-ply Antimicrobial YOUTH Cloth Face Mask, $4.15 ea, min
+    12
+  photo: "/youth.jpg"
 - title: Fruit of the Loom Face Mask, 3-ply 4.1 oz Cotton, Over ear design, Printable
     design, pack of 5, $15.50 ($3.05 ea)
   photo: "/FOTL face mask.PNG"
