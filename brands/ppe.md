@@ -12,9 +12,6 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
-- title: Sublimated Spandex Face Mask SU678-3, 2 sides logo, $4.15 ea, min 50
-  year: 
-  pdf: "/SU678-3_0120082010491.pdf"
 - title: Sublimated 2-ply Antimicrobial Cloth Face Mask SU676 $4.98 ea, min 12
   year: 
   pdf: "/SU676_0120081816231.pdf"
@@ -22,13 +19,15 @@ catalogues:
     12
   year: 
   pdf: "/SU677_0120081816270.pdf"
+- title: Sublimated Spandex Face Mask SU678-3, 2 sides logo, $4.15 ea, min 50
+  year: 
+  pdf: "/SU678-3_0120082010491.pdf"
 - title: Sublimated Spandex Face Mask SU678-2, Right Side logo, $2.48 ea, min 25
   year: 
   pdf: "/SU678-2_0120082010500.pdf"
-- title: Full Colour Transfer Spandex Face Mask HT678, Left side logo, $2.48, min
-    25
+- title: Sublimated Spandex Face Mask SU678, Left side logo, $2.48, min 25
   year: 
-  pdf: "/HT678_0120081816242.pdf"
+  pdf: "/SU678_0120082010501.pdf"
 - title: Sublimated Multifunction Tubular Neck Gaiter SU674, $5.82, min 12
   year: 
   pdf: "/SU674_0120081816250.pdf"
