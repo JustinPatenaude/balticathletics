@@ -38,7 +38,7 @@ catalogues:
     12
   year: 
   pdf: "/SU677_0120082010520.pdf"
-- title: Sublimated Multifunction 1-ply Tubular Neck Gaiter - YOUTH SU679, $4.98,
+- title: YOUTH SU679 - Sublimated Multifunction 1-ply Tubular Neck Gaiter, $4.98,
     min 12
   year: 
   pdf: "/SU679_0120082010521.pdf"
