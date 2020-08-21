@@ -96,7 +96,7 @@ photos:
     moisture wicking, multiple sizes, $9.25, min 50, 5 wks production
   photo: "/over the head group.png"
 - title: BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture wicking, multiple
-    sizes, $9.00, min 30
+    sizes, $9.00, min 30, 5 wks production
   photo: "/Pizza-Hut-Balaclava-900x900.png"
 info: |-
   **#ARTWORK:**
