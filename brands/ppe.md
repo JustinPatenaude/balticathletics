@@ -54,7 +54,7 @@ catalogues:
   year: 
   pdf: "/Face-Mask-Adjustable-Over-the-Head-PPE-FC01-Ver-3-rev.pdf"
 - title: TEMPLATE for LARGE BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture
-    wicking, multiple sizes, $9.00, min 30
+    wicking, multiple sizes, $9.00, min 30, 5 wks production
   year: 
   pdf: "/Neck-Buff-Large-PPE-NB01-Ver2.pdf"
 - title: TEMPLATE for SMALL BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture
