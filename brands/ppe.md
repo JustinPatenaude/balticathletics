@@ -46,7 +46,7 @@ catalogues:
   year: 
   pdf: "/SU679_0120082010521.pdf"
 - title: TEMPLATE for BPW Sublimated Mask, Adjustable over ear, 2 layers, bacteria
-    resistant, moisture wicking, multiple sizes, $8.50, min 50
+    resistant, moisture wicking, multiple sizes, $8.50, min 50, 5 wks production
   year: 
   pdf: "/Face Mask - behind the ear template.pdf"
 - title: TEMPLATE for BPW Sublimated Mask, Adjustable Over the Head, 2 layers, bacteria
