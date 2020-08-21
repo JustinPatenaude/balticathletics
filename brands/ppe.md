@@ -93,7 +93,7 @@ photos:
     wicking, multiple sizes, $8.50, min 50, 5 wks production
   photo: "/Over the ear Mask group.psd.png"
 - title: BPW Sublimated Mask, Adjustable Over the Head, 2 layers, bacteria resistant,
-    moisture wicking, multiple sizes, $9.25, min 50
+    moisture wicking, multiple sizes, $9.25, min 50, 5 wks production
   photo: "/over the head group.png"
 - title: BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture wicking, multiple
     sizes, $9.00, min 30
