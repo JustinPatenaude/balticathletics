@@ -115,7 +115,7 @@ info: |-
 
   **BPW MASK ONLINE LINKS:**
 
-  2 ply - Microbial resistant and moisture-wicking material and a 100% cotton liner, personalization for no additional charge, 5 weeks production time
+  2 ply masks, 1 ply gaiters - Microbial resistant and moisture-wicking material and a 100% cotton liner, personalization for no additional charge, **5 weeks production time**
 
   [Face Mask - Adjustable - Over the Ear Design](http://www.balticathletics.sublimateduniforms.online/index.php?route=product/product&product_id=1040) - Adjustable rubber gaskets on each elastic makes these masks a true "one size fits all" from a head sizing perspective and ensures a custom and comfortable fit for all wearers.
 
