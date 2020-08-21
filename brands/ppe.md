@@ -90,7 +90,7 @@ photos:
     design, pack of 5, $15.50 ($3.05 ea)
   photo: "/FOTL face mask.PNG"
 - title: BPW Sublimated Mask, Adjustable over ear, 2 layers, bacteria resistant, moisture
-    wicking, multiple sizes, $8.50, min 50
+    wicking, multiple sizes, $8.50, min 50, 5 wks production
   photo: "/Over the ear Mask group.psd.png"
 - title: BPW Sublimated Mask, Adjustable Over the Head, 2 layers, bacteria resistant,
     moisture wicking, multiple sizes, $9.25, min 50
