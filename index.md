@@ -1,6 +1,17 @@
 ---
 layout: home
 slideshow:
+- title: Looking for PPE items?
+  text: ''
+  button_text: PPE
+  button_link: https://balticathletics.com/brands/ppe
+  image: "/PPE Brand Logo__.png"
+- title: Baltic Athletics awarded the Regina Public Schools bid for Wall Padding!
+  text: We are excited to be working with RPS to put wall padding in their schools
+    this summer!
+  button_text: ''
+  button_link: ''
+  image: "/rpslogo2.png"
 - title: We Are Moving!!
   text: Stay tuned for a Grand Opening Announcement in September!!
   button_text: ''
