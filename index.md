@@ -1,8 +1,8 @@
 ---
 layout: home
 slideshow:
-- title: Looking for PPE items?
-  text: ''
+- title: Got Masks?
+  text: We have many options of mask or gaiters.
   button_text: PPE
   button_link: https://balticathletics.com/brands/ppe
   image: "/PPE Brand Logo__.png"
