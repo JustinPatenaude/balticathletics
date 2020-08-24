@@ -1,7 +1,7 @@
 ---
 layout: product
-permalink: "/products/ppe/"
-title: PPE
+permalink: "/products/ppe-facemasks-neck-gaiters/"
+title: PPE Facemasks & Neck Gaiters
 products:
 - Cotton Reusable Face Masks
 - Custom Reusable Face Masks
