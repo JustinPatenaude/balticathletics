@@ -99,7 +99,7 @@ photos:
     sizes, $9.00, min 30, 5 wks production
   photo: "/Pizza-Hut-Balaclava-900x900.png"
 info: |-
-  **#ARTWORK:**
+  #### **ARTWORK:**
 
   All customized items are also subject to a **$50 set up charge**
 
@@ -109,7 +109,7 @@ info: |-
 
   ***
 
-  **#PERSONALIZATION:**
+  #### **PERSONALIZATION:**
 
   All sublimated masks are eligible for personalization (name, number etc).
 
@@ -123,7 +123,7 @@ info: |-
 
   ***
 
-  **BPW MASK ONLINE LINKS:**
+  #### **BPW MASK ONLINE LINKS:**
 
   2 ply masks, 1 ply gaiters - Microbial resistant and moisture-wicking material and a 100% cotton liner, personalization for no additional charge, **5 weeks production time**
 
