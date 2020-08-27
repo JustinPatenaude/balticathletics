@@ -109,6 +109,16 @@ info: |-
 
   ***
 
+  **PERSONALIZATION:**
+
+  All sublimated masks are eligible for personalization (name, number etc).
+
+  Items with a SKU starting with SU - add an additional $2.00 per mask/gaiter to the listed price.
+
+  BPW masks may add personalization at no extra cost.
+
+  ***
+
   All prices listed are **Canadian dollars** and **DO NOT include art set ups, vectoring, shipping or taxes**. Garment prices are subject to change without notice.
 
   ***
