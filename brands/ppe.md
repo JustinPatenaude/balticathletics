@@ -109,7 +109,7 @@ info: |-
 
   ***
 
-  **PERSONALIZATION:**
+  **#PERSONALIZATION:**
 
   All sublimated masks are eligible for personalization (name, number etc).
 
