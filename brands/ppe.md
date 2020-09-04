@@ -66,7 +66,7 @@ photos:
   photo: "/3 ply mask.jpg"
 - title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min
     12
-  photo: "/SU676.jpg"
+  photo: "/SU676 plus real.png"
 - title: ADULT SU678-3 - Sublimated Spandex Face Mask, 2 sides logo, $4.15 ea, min
     50
   photo: "/SU678-3.jpg"
