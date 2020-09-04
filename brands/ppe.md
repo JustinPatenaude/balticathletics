@@ -69,8 +69,8 @@ photos:
     12, flat mask (not shaped)
   photo: "/SU676 plus real.png"
 - title: ADULT SU678-3 - Sublimated Spandex Face Mask, 2 sides logo, $4.15 ea, min
-    50
-  photo: "/SU678-3.jpg"
+    50, shaped w/centre seam
+  photo: "/SU678 with real.png"
 - title: ADULT SU678-2 - Sublimated Spandex Face Mask, Right Side logo, $2.48 ea,
     min 25
   photo: "/SU678-2.jpg"
