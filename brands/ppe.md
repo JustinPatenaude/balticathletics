@@ -12,6 +12,10 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
+- title: ADULT SU683 - XL Size - Sublimated 2-ply Antimicrobial Cloth Face Mask -
+    $5.65 ea, min 12
+  year: 
+  pdf: "/SU683 XL mask.pdf"
 - title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
   pdf: "/BL670_0120081816230.pdf"
   year: 
