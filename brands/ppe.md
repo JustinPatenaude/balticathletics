@@ -67,14 +67,14 @@ catalogues:
   year: 
   pdf: "/Neck-Buff-Small-PPE-NB02-Ver2.pdf"
 photos:
-- title: ADULT SU683 - XL Size - Sublimated 2-ply Antimicrobial Cloth Face Mask -
-    $5.65 ea, min 12
-  photo: "/SU683.jpg"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 - title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min
     12, flat mask (not shaped)
   photo: "/SU676 plus real.png"
+- title: ADULT SU683 - XL Size - Sublimated 2-ply Antimicrobial Cloth Face Mask -
+    $5.65 ea, min 12
+  photo: "/SU683.jpg"
 - title: ADULT SU678-3 - Sublimated Spandex Face Mask, 2 sides logo, $4.15 ea, min
     50, shaped w/centre seam
   photo: "/SU678 with real.png"
