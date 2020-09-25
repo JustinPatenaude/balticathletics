@@ -118,7 +118,7 @@ promotions:
     3 available
 - title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
   image: "/w1B3205-1BasicTrainingBall.jpg"
-  price: 19
+  price: 19.75
   description: |-
     - A great ball for training and at home practice and comes in multiple sizes for different age groups.
     - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
