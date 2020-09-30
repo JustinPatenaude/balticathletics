@@ -13,7 +13,7 @@ slideshow:
   button_link: ''
   image: "/rpslogo3.png"
 - title: We Are Moving!!
-  text: Stay tuned for a Grand Opening Announcement in September!!
+  text: Stay tuned for a Grand Opening Announcement in October!!
   button_text: ''
   button_link: ''
   image: "/We-are-moving-2018_blau.png"
