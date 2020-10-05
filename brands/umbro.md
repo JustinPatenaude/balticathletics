@@ -12,7 +12,9 @@ catalogues:
 - title: Umbro Soccer
   year: 2020
   pdf: ''
-photos: []
+photos:
+- title: Capital Jerseys
+  photo: "/CAPITAL Jersey Navy_White.jpg"
 info: ''
 
 ---
