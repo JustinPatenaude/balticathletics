@@ -6,7 +6,7 @@ permalink: "/contact-us/"
 ---
 Need some help finding the right products? Can't information on a particular subject? Send us an email and we will answer you within 48 hours.
 
-#### In Person (appointment only)
+#### In Person (appointment only please)
 
 Unit 3 - 610 Main St, Ile des Chenes, MB R0A 0T0
 
