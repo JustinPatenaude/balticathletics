@@ -13,14 +13,16 @@ catalogues:
   year: 2020
   pdf: ''
 photos:
+- title: Team Backpack
+  photo: "/Team backpack.jpg"
+- title: Capital Jerseys
+  photo: "/CAPITAL Jersey Navy_White.jpg"
+- title: Checkered Jersey
+  photo: "/CHECKERED Jersey Royal.jpg"
 - title: Field Jersey
   photo: "/FIELD Jersey Vermillion (Red).jpg"
 - title: Checkered Shorts
   photo: "/CHECKERED Short Black.jpg"
-- title: Checkered Jersey
-  photo: "/CHECKERED Jersey Royal.jpg"
-- title: Capital Jerseys
-  photo: "/CAPITAL Jersey Navy_White.jpg"
 info: ''
 
 ---
