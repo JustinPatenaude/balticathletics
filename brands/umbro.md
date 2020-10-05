@@ -19,8 +19,6 @@ catalogues:
   year: 2021
   pdf: "/S21_UMBRO_Premier.pdf"
 photos:
-- title: Neo Swerve Soccer Ball
-  photo: "/Neo Swerve.jpg"
 - title: Capital Jerseys
   photo: "/CAPITAL Jersey Navy_White.jpg"
 - title: Checkered Jersey
@@ -33,6 +31,8 @@ photos:
   photo: "/Neo Pro ball.jpg"
 - title: Neo Futsal Liga Ball
   photo: "/Neo Futsal Liga ball.jpg"
+- title: Neo Swerve Soccer Ball
+  photo: "/Neo Swerve.jpg"
 - title: Team Backpack
   photo: "/Team backpack.jpg"
 info: |-
