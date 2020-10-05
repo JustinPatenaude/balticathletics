@@ -20,8 +20,8 @@ logo: "/adidas-logo.png"
 website: ''
 catalogues:
 - title: Adidas Fall Winter Team Catalogue
-  year: 2019
-  pdf: "/adidas-fall-winter-2019-team-catalogue.pdf"
+  year: 2020
+  pdf: ''
 - title: Adidas Spring Summer Team Catalogue
   year: 2020
   pdf: "/adidas-spring-summer-2020-catalogue.pdf"
