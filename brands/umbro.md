@@ -8,7 +8,7 @@ website: ''
 catalogues:
 - title: Umbro Premium Apparel
   year: 2021
-  pdf: ''
+  pdf: "/S21_UMBRO_Premier.pdf"
 - title: Umbro Soccer
   year: 2020
   pdf: ''
