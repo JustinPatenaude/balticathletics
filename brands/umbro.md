@@ -38,6 +38,6 @@ photos:
 info: |-
   Umbro is back in Canada! They have set up a Canadian distributor and will also be eventually carrying inventory in Canada.
 
-  Umbro is a big name in the soccer world. Most apparel but there are some balls and bags available as well.
+  Umbro is a big name in the soccer world. Mostly apparel but there are some balls and bags available as well.
 
 ---
