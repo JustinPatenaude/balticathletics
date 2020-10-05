@@ -6,6 +6,9 @@ title: Umbro
 logo: "/umbro-logo-svg-vector.svg"
 website: ''
 catalogues:
+- title: Umbro Premium Apparel
+  year: 2021
+  pdf: ''
 - title: Umbro Soccer
   year: 2020
   pdf: ''
