@@ -12,12 +12,12 @@ title: Umbro
 logo: "/umbro-logo-svg-vector.svg"
 website: ''
 catalogues:
-- title: Umbro Premium Apparel
-  year: 2021
-  pdf: "/S21_UMBRO_Premier.pdf"
 - title: Umbro Soccer
   year: 2020
   pdf: ''
+- title: Umbro Premium Apparel
+  year: 2021
+  pdf: "/S21_UMBRO_Premier.pdf"
 photos:
 - title: Capital Jerseys
   photo: "/CAPITAL Jersey Navy_White.jpg"
