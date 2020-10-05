@@ -13,6 +13,8 @@ catalogues:
   year: 2020
   pdf: ''
 photos:
+- title: Neo Futsal Liga Ball
+  photo: "/Neo Futsal Liga ball.jpg"
 - title: Neo Pro Soccer Ball
   photo: "/Neo Pro ball.jpg"
 - title: Team Backpack
