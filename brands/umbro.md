@@ -13,6 +13,8 @@ catalogues:
   year: 2020
   pdf: ''
 photos:
+- title: Neo Pro Soccer Ball
+  photo: "/Neo Pro ball.jpg"
 - title: Team Backpack
   photo: "/Team backpack.jpg"
 - title: Capital Jerseys
