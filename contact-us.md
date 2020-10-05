@@ -20,6 +20,6 @@ Clothing/Uniforms - Corina 204-781-2535
 
 23051 Mun 43 N, Ile des Chenes East, MB  R0A 0T3
 
-#### By Eemail
+#### By E-mail
 
 info@balticathletics.com
