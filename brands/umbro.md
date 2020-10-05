@@ -13,12 +13,6 @@ catalogues:
   year: 2020
   pdf: ''
 photos:
-- title: Neo Futsal Liga Ball
-  photo: "/Neo Futsal Liga ball.jpg"
-- title: Neo Pro Soccer Ball
-  photo: "/Neo Pro ball.jpg"
-- title: Team Backpack
-  photo: "/Team backpack.jpg"
 - title: Capital Jerseys
   photo: "/CAPITAL Jersey Navy_White.jpg"
 - title: Checkered Jersey
@@ -27,6 +21,12 @@ photos:
   photo: "/FIELD Jersey Vermillion (Red).jpg"
 - title: Checkered Shorts
   photo: "/CHECKERED Short Black.jpg"
+- title: Neo Pro Soccer Ball
+  photo: "/Neo Pro ball.jpg"
+- title: Neo Futsal Liga Ball
+  photo: "/Neo Futsal Liga ball.jpg"
+- title: Team Backpack
+  photo: "/Team backpack.jpg"
 info: ''
 
 ---
