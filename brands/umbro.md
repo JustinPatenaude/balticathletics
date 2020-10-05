@@ -13,6 +13,8 @@ catalogues:
   year: 2020
   pdf: ''
 photos:
+- title: Field Jersey
+  photo: "/FIELD Jersey Vermillion (Red).jpg"
 - title: Checkered Shorts
   photo: "/CHECKERED Short Black.jpg"
 - title: Checkered Jersey
