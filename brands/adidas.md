@@ -21,7 +21,7 @@ website: ''
 catalogues:
 - title: Adidas Fall Team Catalogue
   year: 2020
-  pdf: ''
+  pdf: "/Adidas Team Fall 2020_Catalog.pdf"
 - title: Adidas Spring Summer Team Catalogue
   year: 2020
   pdf: "/adidas-spring-summer-2020-catalogue.pdf"
