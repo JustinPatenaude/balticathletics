@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/technosport"
+permalink: "/brands/s&s-canada"
 categories:
 - products/aprons.md
 - products/bags-totes-duffels.md
