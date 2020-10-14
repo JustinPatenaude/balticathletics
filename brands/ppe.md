@@ -26,7 +26,8 @@ photos:
 - title: F-5PMASK Fruit of the Loom Face Mask, 3-ply 4.1 oz Cotton, Over ear design,
     Min of 15, Price with full colour transfer in one location $10.50 ea
   photo: "/FOTL face mask.PNG"
-- title: 20-19 BAMBOO Double Layered Reversible Face Masks, Adult or Youth, min 12.
+- title: 20-19 BAMBOO Double Layered Reversible Face Masks, Adult or Youth, min 12,
+    $19.50 includes bamboo mask with 1 colour logo in one location.
   photo: "/20-19 BAMBOO Double Layered specs revised.PNG"
 - title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min
     12, flat mask (not shaped)
