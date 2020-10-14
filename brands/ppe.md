@@ -32,8 +32,8 @@ photos:
 - title: ADULT SU683 - XL Size - Sublimated 2-ply Antimicrobial Cloth Face Mask -
     $5.65 ea, min 12
   photo: "/SU683.jpg"
-- title: ADULT SU678-3 - Sublimated Spandex Face Mask, 2 sides logo, $4.15 ea, min
-    50, shaped w/centre seam
+- title: ADULT SU678 - Sublimated Spandex Face Mask, available with a logo on right,
+    left or both sides, $4.15 ea, min 50, shaped w/centre seam
   photo: "/SU678 with real.png"
 - title: ADULT SU678-2 - Sublimated Spandex Face Mask, Right Side logo, $2.48 ea,
     min 25, shaped w/centre seam
