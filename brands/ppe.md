@@ -13,6 +13,8 @@ logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues: []
 photos:
+- title: '20-19 BAMBOO Double Layered Reversible Face Masks, Adult or Youth, '
+  photo: "/20-19 BAMBOO Double Layered specs revised.PNG"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 - title: G-GEMASK Gildan ADULT Everyday Masks (Min of 12) 4.5 oz/yr, 100% ring spun
