@@ -66,9 +66,6 @@ catalogues:
     wicking, multiple sizes, $9.00, min 30, 5 wks production
   year: 
   pdf: "/Neck-Buff-Small-PPE-NB02-Ver2.pdf"
-- title: 20-20 BAMBOO Single Layer Mask
-  year: 
-  pdf: ''
 - title: 20-19 BAMBOO Double Layered Reversible Face Mask - Price of $ includes a
     1 colour logo in one location. Minimum of
   year: 
