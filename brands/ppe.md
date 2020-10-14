@@ -79,8 +79,8 @@ photos:
 - title: G-GEMASK Gildan Adult Everyday Masks (Min of 12) Available in black or white.
     Price with full colour transfer in one location $10.25 ea
   photo: "/Gildan masks.PNG"
-- title: Fruit of the Loom Face Mask, 3-ply 4.1 oz Cotton, Over ear design, Min of
-    15, Price with full colour transfer in one location $10.50 ea
+- title: F-5PMASK Fruit of the Loom Face Mask, 3-ply 4.1 oz Cotton, Over ear design,
+    Min of 15, Price with full colour transfer in one location $10.50 ea
   photo: "/FOTL face mask.PNG"
 - title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min
     12, flat mask (not shaped)
