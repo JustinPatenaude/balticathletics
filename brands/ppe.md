@@ -12,6 +12,10 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
+- title: 20-19 BAMBOO Double Layered Reversible Face Mask - Price of $ includes a
+    1 colour logo in one location. Minimum of
+  year: 
+  pdf: "/20-19-Web-Double-layered-bamboo-face-mask.pdf"
 - title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
   pdf: "/BL670_0120081816230.pdf"
   year: 
@@ -151,5 +155,6 @@ info: |-
   \**Note: All mask offered through Baltic Athletics are not intended for medical use; not recognized by the Health Canada, CDC or FDA as safe or effective against COVID-19 or any virus; no guarantee item will protect user from any illness.
 
   [Canada Public Health Services - About non-medical masks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/about-non-medical-masks-face-coverings.html)
+published: false
 
 ---
