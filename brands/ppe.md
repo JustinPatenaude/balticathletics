@@ -74,11 +74,11 @@ catalogues:
   year: 
   pdf: "/20-19-Web-Double-layered-bamboo-face-mask.pdf"
 photos:
+- title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
+  photo: "/3 ply mask.jpg"
 - title: G-GEMASK Gildan Adult Everyday Masks (Pk of 24) Available in black or white.
     Price with full colour transfer in one location $10.25 ea
   photo: "/Gildan masks.PNG"
-- title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
-  photo: "/3 ply mask.jpg"
 - title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min
     12, flat mask (not shaped)
   photo: "/SU676 plus real.png"
