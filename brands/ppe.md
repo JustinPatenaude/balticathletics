@@ -13,7 +13,7 @@ logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues: []
 photos:
-- title: '20-19 BAMBOO Double Layered Reversible Face Masks, Adult or Youth, '
+- title: 20-19 BAMBOO Double Layered Reversible Face Masks, Adult or Youth, min 12.
   photo: "/20-19 BAMBOO Double Layered specs revised.PNG"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
