@@ -136,7 +136,7 @@ info: |-
 
   Items with a SKU starting with SU - add an additional $2.00 per mask/gaiter to the listed price.
 
-  BPW masks may add personalization at no extra cost.
+  BPW masks are NOT offered with personalization.
 
   ***
 
