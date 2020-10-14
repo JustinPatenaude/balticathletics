@@ -13,8 +13,6 @@ logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues: []
 photos:
-- title: 20-19 BAMBOO Double Layered Reversible Face Masks, Adult or Youth, min 12.
-  photo: "/20-19 BAMBOO Double Layered specs revised.PNG"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 - title: G-GEMASK Gildan ADULT Everyday Masks (Min of 12) 4.5 oz/yr, 100% ring spun
@@ -28,6 +26,8 @@ photos:
 - title: F-5PMASK Fruit of the Loom Face Mask, 3-ply 4.1 oz Cotton, Over ear design,
     Min of 15, Price with full colour transfer in one location $10.50 ea
   photo: "/FOTL face mask.PNG"
+- title: 20-19 BAMBOO Double Layered Reversible Face Masks, Adult or Youth, min 12.
+  photo: "/20-19 BAMBOO Double Layered specs revised.PNG"
 - title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min
     12, flat mask (not shaped)
   photo: "/SU676 plus real.png"
