@@ -51,7 +51,7 @@ promotions:
     - 10 available
 - title: Adams AFFB Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
-  price: 4
+  price: 4.5
   description: |-
     Flag football web belt (metal D-rings) with flags
     - available with red, blue, green or yellow flags
