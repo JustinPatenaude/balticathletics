@@ -74,16 +74,16 @@ catalogues:
   year: 
   pdf: "/20-19-Web-Double-layered-bamboo-face-mask.pdf"
 photos:
-- title: G-GEMASKB Gildan YOUTH Everyday Masks (Min of 12), 4.5 oz/yr, 100% ring spun
-    cotton. Available in black or white. Price with full colour transfer in one location
-    $10.25 ea
-  photo: "/G-GEMASK Gildan Youth Everyday Masks.PNG"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 - title: G-GEMASK Gildan ADULT Everyday Masks (Min of 12) 4.5 oz/yr, 100% ring spun
     cotton.Available in black or white. Price with full colour transfer in one location
     $10.25 ea
   photo: "/Gildan masks.PNG"
+- title: G-GEMASKB Gildan YOUTH Everyday Masks (Min of 12), 4.5 oz/yr, 100% ring spun
+    cotton. Available in black or white. Price with full colour transfer in one location
+    $10.25 ea
+  photo: "/G-GEMASK Gildan Youth Everyday Masks.PNG"
 - title: F-5PMASK Fruit of the Loom Face Mask, 3-ply 4.1 oz Cotton, Over ear design,
     Min of 15, Price with full colour transfer in one location $10.50 ea
   photo: "/FOTL face mask.PNG"
