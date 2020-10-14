@@ -11,65 +11,7 @@ categories:
 title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
-catalogues:
-- title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
-  pdf: "/BL670_0120081816230.pdf"
-  year: 
-- title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask - $4.98 ea,
-    min 12
-  year: 
-  pdf: "/SU676_0120082010490.pdf"
-- title: ADULT SU683 - XL Size - Sublimated 2-ply Antimicrobial Cloth Face Mask -
-    $5.65 ea, min 12
-  year: 
-  pdf: "/SU683 XL mask.pdf"
-- title: ADULT SU678-3 - Sublimated Spandex Face Mask, 2 sides logo, $4.15 ea, min
-    50, shaped with seam down middle
-  year: 
-  pdf: "/SU678 with real.png"
-- title: ADULT SU678-2 - Sublimated Spandex Face Mask, Right Side logo, $2.48 ea,
-    min 25, shaped with seam down centre
-  year: 
-  pdf: "/SU678 with real.png"
-- title: ADULT SU678 - Sublimated Spandex Face Mask, Left side logo, $2.48, min 25,
-    shaped with centre seam
-  year: 
-  pdf: "/SU678 with real.png"
-- title: ADULT SU674 - Sublimated Multifunction 1-ply Tubular Neck Gaiter, $5.82,
-    min 12
-  year: 
-  pdf: "/SU674_0120082010530.pdf"
-- title: ADULT SU546-3 - Sublimated 1-ply Neck Gaiter, $7.27, min 25
-  year: 
-  pdf: "/SU546-3_0120082010540.pdf"
-- title: YOUTH SU677 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.15 ea, min
-    12
-  year: 
-  pdf: "/SU677_0120082010520.pdf"
-- title: YOUTH SU679 - Sublimated Multifunction 1-ply Tubular Neck Gaiter, $4.98,
-    min 12
-  year: 
-  pdf: "/SU679_0120082010521.pdf"
-- title: TEMPLATE for BPW Sublimated Mask, Adjustable over ear, 2 layers, bacteria
-    resistant, moisture wicking, multiple sizes, $8.50, min 50, 5 wks production
-  year: 
-  pdf: "/Face Mask - behind the ear template.pdf"
-- title: TEMPLATE for BPW Sublimated Mask, Adjustable Over the Head, 2 layers, bacteria
-    resistant, moisture wicking, multiple sizes, $9.25, min 50, 5 wks production
-  year: 
-  pdf: "/Face-Mask-Adjustable-Over-the-Head-PPE-FC01-Ver-3-rev.pdf"
-- title: TEMPLATE for LARGE BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture
-    wicking, multiple sizes, $9.00, min 30, 5 wks production
-  year: 
-  pdf: "/Neck-Buff-Large-PPE-NB01-Ver2.pdf"
-- title: TEMPLATE for SMALL BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture
-    wicking, multiple sizes, $9.00, min 30, 5 wks production
-  year: 
-  pdf: "/Neck-Buff-Small-PPE-NB02-Ver2.pdf"
-- title: 20-19 BAMBOO Double Layered Reversible Face Mask - Price of $ includes a
-    1 colour logo in one location. Minimum of
-  year: 
-  pdf: "/20-19-Web-Double-layered-bamboo-face-mask.pdf"
+catalogues: []
 photos:
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
