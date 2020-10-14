@@ -29,6 +29,15 @@ photos:
 - title: 20-19 BAMBOO Double Layered Reversible Face Masks, Adult or Youth, min 12,
     $19.50 includes bamboo mask with 1 colour logo in one location.
   photo: "/20-19 BAMBOO Double Layered specs revised.PNG"
+- title: BPW Sublimated Mask, Adjustable over ear, 2 layers, bacteria resistant, moisture
+    wicking, multiple sizes, $8.50, min 50, 5 wks production
+  photo: "/Over the ear Mask group.psd.png"
+- title: BPW Sublimated Mask, Adjustable Over the Head, 2 layers, bacteria resistant,
+    moisture wicking, multiple sizes, $9.25, min 50, 5 wks production
+  photo: "/over the head group.png"
+- title: BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture wicking, multiple
+    sizes, $9.00, min 30, 5 wks production
+  photo: "/Pizza-Hut-Balaclava-900x900.png"
 - title: ADULT SU676 - Sublimated 2-ply Antimicrobial Cloth Face Mask, $4.98 ea, min
     12, flat mask (not shaped)
   photo: "/SU676 plus real.png"
@@ -49,15 +58,6 @@ photos:
 - title: YOUTH SU679 - Sublimated Multifunction 1-ply Tubular Neck Gaiter, $4.98,
     min 12
   photo: "/SU679.jpg"
-- title: BPW Sublimated Mask, Adjustable over ear, 2 layers, bacteria resistant, moisture
-    wicking, multiple sizes, $8.50, min 50, 5 wks production
-  photo: "/Over the ear Mask group.psd.png"
-- title: BPW Sublimated Mask, Adjustable Over the Head, 2 layers, bacteria resistant,
-    moisture wicking, multiple sizes, $9.25, min 50, 5 wks production
-  photo: "/over the head group.png"
-- title: BPW Sublimated Neck Gaiter/Buff, bacteria resistant, moisture wicking, multiple
-    sizes, $9.00, min 30, 5 wks production
-  photo: "/Pizza-Hut-Balaclava-900x900.png"
 info: |-
   #### **ARTWORK:**
 
