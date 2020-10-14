@@ -12,13 +12,6 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
-- title: 20-20 BAMBOO Single Layer Mask
-  year: 
-  pdf: ''
-- title: 20-19 BAMBOO Double Layered Reversible Face Mask - Price of $ includes a
-    1 colour logo in one location. Minimum of
-  year: 
-  pdf: "/20-19-Web-Double-layered-bamboo-face-mask.pdf"
 - title: 3-ply Disposable Face Mask BL670, Blank only .43 cents ea, min 50
   pdf: "/BL670_0120081816230.pdf"
   year: 
@@ -73,6 +66,13 @@ catalogues:
     wicking, multiple sizes, $9.00, min 30, 5 wks production
   year: 
   pdf: "/Neck-Buff-Small-PPE-NB02-Ver2.pdf"
+- title: 20-20 BAMBOO Single Layer Mask
+  year: 
+  pdf: ''
+- title: 20-19 BAMBOO Double Layered Reversible Face Mask - Price of $ includes a
+    1 colour logo in one location. Minimum of
+  year: 
+  pdf: "/20-19-Web-Double-layered-bamboo-face-mask.pdf"
 photos:
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
