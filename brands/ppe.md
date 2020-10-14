@@ -12,6 +12,9 @@ title: PPE
 logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues:
+- title: 20-20 BAMBOO Single Layer Mask
+  year: 
+  pdf: ''
 - title: 20-19 BAMBOO Double Layered Reversible Face Mask - Price of $ includes a
     1 colour logo in one location. Minimum of
   year: 
