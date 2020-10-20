@@ -16,7 +16,7 @@ photos: []
 promotions:
 - title: Mikasa Snow Volleyball SV335-V8
   image: "/SV335-V8-B.jpg"
-  price: 45
+  price: 47
   description: |-
     ORDER NOW FOR DECEMBER DELIVERY
 
@@ -25,6 +25,7 @@ promotions:
     • Stable Softness even in cold winter weather from 2 years of development and testing
     • Laminating construction and covering with sponge material enable the ball to combine the perfect water
     proofness and softness in extremely low temperature
+    • FOB Winnipeg
 - title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
