@@ -22,13 +22,13 @@ promotions:
 
     • Professional Model as seen in the world’s top Professional games
 
+    • Perfect for our Canadian winter, this ball is a great addition to your volleyball options
+
     • Iconic 8 paneled design with contrasting colors for spin tracking
 
     • Stable Softness even in cold winter weather from 2 years of development and testing
 
-    • Laminating construction and covering with sponge material enable the ball to combine the perfect water
-
-    proofness and softness in extremely low temperature
+    • Laminating construction and covering with sponge material enable the ball to combine the perfect water proofness and softness in extremely low temperature
 
     • FOB Winnipeg
 - title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
