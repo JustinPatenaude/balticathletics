@@ -1,7 +1,7 @@
 ---
 layout: home
 slideshow:
-- title: NEW Mikasa Snow Volleyball
+- title: NEW Mikasa FIVB Snow Volleyball
   text: Available early December
   button_text: Snow Volleyball
   button_link: https://balticathletics.com/products/volleyball/
