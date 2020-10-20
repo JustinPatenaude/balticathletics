@@ -21,6 +21,8 @@ info: |-
   Link to [Mikasa Canada Sports Catalogue](https://issuu.com/091789/docs/2020_mikasacatalog)
 date: '2019-03-29T22:30:20.000+00:00'
 photos:
+- title: Mikasa Snow Volleyball SV335-V8
+  photo: "/SV335-V8-B.jpg"
 - title: VQ2000 Indoor Competition Volleyball (many colours available)
   photo: "/VQ2000 Competition Game Ball 1.jpg"
 - title: V200W Official FIVB Competition Indoor Volleyball
