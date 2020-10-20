@@ -20,7 +20,7 @@ promotions:
   description: |-
     ORDER NOW FOR DECEMBER DELIVERY
 
-    Professional Model as seen in the world’s top Professional games
+    • Professional Model as seen in the world’s top Professional games
     • Iconic 8 paneled design with contrasting colors for spin tracking
     • Stable Softness even in cold winter weather from 2 years of development and testing
     • Laminating construction and covering with sponge material enable the ball to combine the perfect water
