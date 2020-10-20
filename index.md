@@ -6,6 +6,12 @@ slideshow:
   button_text: Snow Volleyball
   button_link: https://balticathletics.com/products/volleyball/
   image: "/SV335-V8-B.jpg"
+- title: We Are Moving!!
+  text: Our new address is Unit 3 - 610 Main St, Ile des Chenes MB (Our mailing address
+    remains unchanged - 23051 Mun 43N, Ile des Chenes East MB, R0A 0T3)
+  button_text: ''
+  button_link: ''
+  image: "/We-are-moving-2018_blau.png"
 - title: Got Masks?
   text: We have many options of mask or gaiters.
   button_text: PPE
@@ -17,12 +23,6 @@ slideshow:
   button_text: ''
   button_link: ''
   image: "/rpslogo3.png"
-- title: We Are Moving!!
-  text: Our new address is Unit 3 - 610 Main St, Ile des Chenes MB (Our mailing address
-    remains unchanged - 23051 Mun 43N, Ile des Chenes East MB, R0A 0T3)
-  button_text: ''
-  button_link: ''
-  image: "/We-are-moving-2018_blau.png"
 - title: Give Your Gym a WOW Factor and Safety All in One!
   text: High quality wall padding and workmanship! Digital printing that won't peel
     is key to showing off school pride!
