@@ -18,7 +18,8 @@ slideshow:
   button_link: ''
   image: "/rpslogo3.png"
 - title: We Are Moving!!
-  text: Our new address is Unit 3 - 610 Main St, Ile des Chenes MB
+  text: Our new address is Unit 3 - 610 Main St, Ile des Chenes MB (Our mailing address
+    remains unchanged - 23051 Mun 43N, Ile des Chenes East MB, R0A 0T3)
   button_text: ''
   button_link: ''
   image: "/We-are-moving-2018_blau.png"
