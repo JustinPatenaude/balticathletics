@@ -18,7 +18,7 @@ slideshow:
   button_link: ''
   image: "/rpslogo3.png"
 - title: We Are Moving!!
-  text: Stay tuned for a Grand Opening Announcement in October!!
+  text: Our new address is Unit 3 - 610 Main St, Ile des Chenes MB
   button_text: ''
   button_link: ''
   image: "/We-are-moving-2018_blau.png"
