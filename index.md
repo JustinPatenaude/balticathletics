@@ -1,6 +1,11 @@
 ---
 layout: home
 slideshow:
+- title: NEW Mikasa Snow Volleyball
+  text: Available early December
+  button_text: ''
+  button_link: ''
+  image: "/SV335-V8-B.jpg"
 - title: Got Masks?
   text: We have many options of mask or gaiters.
   button_text: PPE
