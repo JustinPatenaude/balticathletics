@@ -14,7 +14,7 @@ products:
 - Volleyballs
 photos: []
 promotions:
-- title: Mikasa Snow Volleyball SV335-V8
+- title: Mikasa FIVB Snow Volleyball SV335-V8
   image: "/SV335-V8-B.jpg"
   price: 47
   description: |-
