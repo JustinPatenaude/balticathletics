@@ -12,6 +12,10 @@ products:
 - Pants
 photos: []
 promotions:
+- title: Easton Synergy Elite Baseball Glove - 12.5" LHC
+  image: "/Easton Synergy Elite Baseball Glove.jpg"
+  price: 49
+  description: Full grain genuine leather. 12.5" Left hand catch only.
 - title: Franklin FRK-BB-22612 Fieldmaster Glove - 11" YOUTH - Left hand catch
   image: "/2020-04-13 14.20.17.jpg"
   price: 24
