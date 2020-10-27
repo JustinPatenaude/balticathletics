@@ -10,7 +10,7 @@ Need some help finding the right products? Can't information on a particular sub
 
 3 - 610 Main St, Ile des Chenes, MB R0A 0T0
 
-#### Courier Deliveries (Monday to Friday 9:30 am to 4 pm)
+#### Courier Deliveries (Monday to Friday 10:00 am to 4 pm)
 
 3 - 610 Main St, Ile des Chenes, MB R0A 0T0
 
