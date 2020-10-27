@@ -297,7 +297,7 @@ promotions:
     9 available
 - title: Bean Bag - Ultra-soft, 4" PX-501695
   image: "/bean bags.jpg"
-  price: 1.75
+  price: 2.25
   description: 6 colours available (green, blue, yellow, red, purple, orange)
 - title: Penguin Bowling Ball Set PENBBS
   image: "/PENBBS_-_Penguin_Bowling_Ball_Set.jpg"
