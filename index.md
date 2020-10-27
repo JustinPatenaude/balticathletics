@@ -6,12 +6,11 @@ slideshow:
   button_text: Snow Volleyball
   button_link: https://balticathletics.com/products/volleyball/
   image: "/SV335-V8-B.jpg"
-- title: We Are Moving!!
-  text: Our new address is Unit 3 - 610 Main St, Ile des Chenes MB (Our mailing address
-    remains unchanged - 23051 Mun 43N, Ile des Chenes East MB, R0A 0T3)
+- title: We Have Moved!!
+  text: Our new address is 3-610 Main St, PO Box 449, Ile des Chenes MB R0A 0T0
   button_text: ''
   button_link: ''
-  image: "/We-are-moving-2018_blau.png"
+  image: "/clipart4397698.png"
 - title: Got Masks?
   text: We have many options of mask or gaiters.
   button_text: PPE
