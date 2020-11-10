@@ -1,6 +1,11 @@
 ---
 layout: home
 slideshow:
+- title: Baltic & Covid-19
+  text: We are still open by email & phone.
+  button_text: Contact Us
+  button_link: https://balticathletics.com/contact-us/
+  image: "/Covid sign Stay Safe. Be Kind.PNG"
 - title: NEW Mikasa FIVB Snow Volleyball
   text: Available early December
   button_text: Snow Volleyball
