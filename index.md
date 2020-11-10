@@ -2,7 +2,7 @@
 layout: home
 slideshow:
 - title: Baltic & Covid-19
-  text: We are still open by email & phone.
+  text: We are still open by email, phone or zoom appointments.
   button_text: Contact Us
   button_link: https://balticathletics.com/contact-us/
   image: "/Covid sign Stay Safe. Be Kind.PNG"
