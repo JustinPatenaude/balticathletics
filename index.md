@@ -20,7 +20,7 @@ slideshow:
   text: We have many options of mask or gaiters.
   button_text: PPE
   button_link: https://balticathletics.com/brands/ppe
-  image: "/PPE Brand Logo__.png"
+  image: "/PPE.png"
 - title: Baltic Athletics awarded the Regina Public Schools bid!
   text: We are excited to be working with RPS to put wall padding in their schools
     this summer!
