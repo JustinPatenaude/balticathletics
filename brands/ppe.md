@@ -16,8 +16,8 @@ photos:
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 - title: G-GEMASK Gildan ADULT Everyday Masks (Min of 12) 4.5 oz/yr, 100% ring spun
-    cotton.Available in black or white. Price with full colour transfer in one location
-    $10.25 ea
+    cotton. Available in black (min 12) or white (min 24). Price with full colour
+    transfer in one location $10.25 ea
   photo: "/Gildan masks.PNG"
 - title: G-GEMASKB Gildan YOUTH Everyday Masks (Min of 12), 4.5 oz/yr, 100% ring spun
     cotton. Available in black or white. Price with full colour transfer in one location
@@ -46,10 +46,7 @@ photos:
   photo: "/SU679.jpg"
 info: "#### **ARTWORK:**\n\nAll customized items are also subject to a **$50 set up
   charge**\n\nIf new artwork or vectoring is required there is an additional $25 charge.\n\nTemplates
-  are included as page 2 of each catalogue PDF.\n\n***\n\n#### **PERSONALIZATION:**\n\nAll
-  sublimated masks are eligible for personalization (name, number etc).\n\nItems with
-  a SKU starting with SU - add an additional $2.00 per mask/gaiter to the listed price.\n\nBPW
-  masks are NOT offered with personalization.\n\n***\n\nAll prices listed are **Canadian
+  are included as page 2 of each catalogue PDF.\n\n***\n\nAll prices listed are **Canadian
   dollars** and **DO NOT include art set ups, vectoring, shipping or taxes**. Garment
   prices are subject to change without notice.\n\n***\n\n#### **BPW MASK ONLINE LINKS:**\n\nTHESE
   ARE THE BEST SUBLIMATED MASKS I have seen samples of so far. Shaped and breathable.
