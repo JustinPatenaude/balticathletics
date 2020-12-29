@@ -1,6 +1,11 @@
 ---
 layout: home
 slideshow:
+- title: NEW!  CROSSNET
+  text: Where Four Square meets Volleyball
+  button_text: Photos & Info
+  button_link: https://balticathletics.com/brands/crossnet
+  image: "/Perfect Training Tool Image_V2.png"
 - title: Looking for Bumper Plates and Kettlebells?
   text: In stock now. Call Rauno 204-781-3342
   button_text: Contact Us
