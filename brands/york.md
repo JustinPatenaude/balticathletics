@@ -4,7 +4,7 @@ permalink: "/brands/york/"
 categories:
 - products/weight-lifting.md
 title: York
-logo: "/york-logo.png"
+logo: "/york logo.png"
 website: ''
 pdfs: []
 info: |-
@@ -17,6 +17,8 @@ info: |-
   Today, the corporate office of York Barbell Company houses the official Weightlifting Hall of Fame and Museum in York, Pennsylvania.
 date: '2019-03-29T22:39:00.000+00:00'
 photos:
+- title: IN STOCK at Baltic
+  photo: "/York IN STOCK.png"
 - title: Vinyl Fitbell
   photo: "/VinyFitbellwb-13.jpg"
 - title: 15400 Rubber Hex Dumbbell Set Stand
