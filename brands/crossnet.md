@@ -9,24 +9,24 @@ logo: "/crossnet-game_myshopify_com_logo.png"
 website: ''
 catalogues: []
 photos:
-- title: Crossnet Inside
-  photo: "/Take the Fun Inside Image_V2.png"
-- title: Included in Crossnet set
-  photo: "/Product Includes Image.png"
-- title: Play Anywhere in Minutes
-  photo: "/Play Anywhere_Image_V2.png"
-- title: The Perfect Volleyball Training Tool
-  photo: "/Perfect Training Tool Image_V2.png"
-- title: Height Adjustable
-  photo: "/Height Adjustable Image_V3.png"
-- title: Crossnet Set
-  photo: "/Crossnet Wilson BallI Image.png"
-- title: Crossnet Set
-  photo: "/Crossnet Hero Image_V2.png"
 - title: Four Square Meets Volleyball
   photo: "/4Square Meets Volleyball Image_V2.png"
+- title: Crossnet Set
+  photo: "/Crossnet Hero Image_V2.png"
+- title: Crossnet Set
+  photo: "/Crossnet Wilson BallI Image.png"
+- title: Included in Crossnet set
+  photo: "/Product Includes Image.png"
+- title: The Perfect Volleyball Training Tool
+  photo: "/Perfect Training Tool Image_V2.png"
+- title: Play Anywhere in Minutes
+  photo: "/Play Anywhere_Image_V2.png"
+- title: Height Adjustable
+  photo: "/Height Adjustable Image_V3.png"
 - title: How to Play Crossnet
   photo: "/Amazon How to Play.png"
+- title: Crossnet Inside
+  photo: "/Take the Fun Inside Image_V2.png"
 - title: Crossnet on Grass
   photo: "/CROSSNET Display Photo 2.jpg"
 - title: Crossnet in Sand
