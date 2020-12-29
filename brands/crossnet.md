@@ -9,6 +9,8 @@ logo: "/crossnet-game_myshopify_com_logo.png"
 website: ''
 catalogues: []
 photos:
+- title: Crossnet in Sand
+  photo: "/CROSSNET Display Photo Resized.jpg"
 - title: How to Play Crossnet
   photo: "/Amazon How to Play.png"
 - title: Four Square Meets Volleyball
