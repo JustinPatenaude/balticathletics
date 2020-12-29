@@ -9,6 +9,8 @@ logo: "/crossnet-game_myshopify_com_logo.png"
 website: ''
 catalogues: []
 photos:
+- title: Height Adjustable
+  photo: "/Height Adjustable Image_V3.png"
 - title: Crossnet Set
   photo: "/Crossnet Wilson BallI Image.png"
 - title: Crossnet Set
