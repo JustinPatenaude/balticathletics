@@ -5,7 +5,7 @@ slideshow:
   text: In stock now. Call Rauno 204-781-3342
   button_text: Contact Us
   button_link: https://balticathletics.com/contact-us/
-  image: "/York IN STOCK.png"
+  image: "/York IN STOCK 2020.png"
 - title: Baltic & Covid-19
   text: We are still open by email, phone or zoom appointments.
   button_text: Contact Us
