@@ -9,6 +9,8 @@ logo: "/crossnet-game_myshopify_com_logo.png"
 website: ''
 catalogues: []
 photos:
+- title: How to Play Crossnet
+  photo: "/Amazon How to Play.png"
 - title: Four Square Meets Volleyball
   photo: "/4Square Meets Volleyball Image_V2.png"
 info: |-
