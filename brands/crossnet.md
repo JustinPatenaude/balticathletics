@@ -9,6 +9,8 @@ logo: "/crossnet-game_myshopify_com_logo.png"
 website: ''
 catalogues: []
 photos:
+- title: Crossnet on Grass
+  photo: "/CROSSNET Display Photo 2.jpg"
 - title: Crossnet in Sand
   photo: "/CROSSNET Display Photo Resized.jpg"
 - title: How to Play Crossnet
