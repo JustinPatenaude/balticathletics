@@ -1,21 +1,16 @@
 ---
 layout: home
 slideshow:
-- title: NEW!  CROSSNET
-  text: Where Four Square meets Volleyball
-  button_text: Photos & Info
-  button_link: https://balticathletics.com/brands/crossnet
-  image: "/Perfect Training Tool Image_V2.png"
 - title: Looking for Bumper Plates and Kettlebells?
   text: In stock now. Call Rauno 204-781-3342
   button_text: Contact Us
   button_link: https://balticathletics.com/contact-us/
   image: "/York IN STOCK 2020.png"
-- title: Baltic & Covid-19
-  text: We are still open by email, phone or in person (with limitations).
-  button_text: Contact Us
-  button_link: https://balticathletics.com/contact-us/
-  image: "/Covid sign Stay Safe. Be Kind.PNG"
+- title: NEW!  CROSSNET
+  text: Where Four Square meets Volleyball
+  button_text: Photos & Info
+  button_link: https://balticathletics.com/brands/crossnet
+  image: "/Perfect Training Tool Image_V2.png"
 - title: NEW Mikasa FIVB Snow Volleyball
   text: Available early December
   button_text: Snow Volleyball
@@ -26,6 +21,11 @@ slideshow:
   button_text: ''
   button_link: ''
   image: "/clipart4397698.png"
+- title: Baltic & Covid-19
+  text: We are still open by email, phone or in person (with limitations).
+  button_text: Contact Us
+  button_link: https://balticathletics.com/contact-us/
+  image: "/Covid sign Stay Safe. Be Kind.PNG"
 - title: Got Masks?
   text: We have many options of mask or gaiters.
   button_text: PPE
