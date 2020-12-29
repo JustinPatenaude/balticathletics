@@ -9,6 +9,8 @@ logo: "/crossnet-game_myshopify_com_logo.png"
 website: ''
 catalogues: []
 photos:
+- title: Included in Crossnet set
+  photo: "/Product Includes Image.png"
 - title: Play Anywhere in Minutes
   photo: "/Play Anywhere_Image_V2.png"
 - title: The Perfect Volleyball Training Tool
