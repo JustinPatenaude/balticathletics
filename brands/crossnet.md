@@ -9,6 +9,8 @@ logo: "/crossnet-game_myshopify_com_logo.png"
 website: ''
 catalogues: []
 photos:
+- title: Play Anywhere in Minutes
+  photo: "/Play Anywhere_Image_V2.png"
 - title: The Perfect Volleyball Training Tool
   photo: "/Perfect Training Tool Image_V2.png"
 - title: Height Adjustable
