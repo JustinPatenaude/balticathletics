@@ -10,6 +10,8 @@ website: ''
 catalogues: []
 photos:
 - title: Crossnet Set
+  photo: "/Crossnet Wilson BallI Image.png"
+- title: Crossnet Set
   photo: "/Crossnet Hero Image_V2.png"
 - title: Four Square Meets Volleyball
   photo: "/4Square Meets Volleyball Image_V2.png"
