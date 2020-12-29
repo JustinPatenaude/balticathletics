@@ -9,6 +9,8 @@ logo: "/crossnet-game_myshopify_com_logo.png"
 website: ''
 catalogues: []
 photos:
+- title: The Perfect Volleyball Training Tool
+  photo: "/Perfect Training Tool Image_V2.png"
 - title: Height Adjustable
   photo: "/Height Adjustable Image_V3.png"
 - title: Crossnet Set
