@@ -1,6 +1,11 @@
 ---
 layout: home
 slideshow:
+- title: Looking for Bumper Plates and Kettlebells?
+  text: In stock now. Call Rauno 204-781-3342
+  button_text: Contact Us
+  button_link: https://balticathletics.com/contact-us/
+  image: "/York IN STOCK.png"
 - title: Baltic & Covid-19
   text: We are still open by email, phone or zoom appointments.
   button_text: Contact Us
@@ -21,17 +26,5 @@ slideshow:
   button_text: PPE
   button_link: https://balticathletics.com/brands/ppe
   image: "/PPE.png"
-- title: Baltic Athletics awarded the Regina Public Schools bid!
-  text: We are excited to be working with RPS to put wall padding in their schools
-    this summer!
-  button_text: ''
-  button_link: ''
-  image: "/rpslogo3.png"
-- title: Give Your Gym a WOW Factor and Safety All in One!
-  text: High quality wall padding and workmanship! Digital printing that won't peel
-    is key to showing off school pride!
-  button_text: More information
-  button_link: "/brands/apple-athletic"
-  image: "/glenwood.jpg"
 
 ---
