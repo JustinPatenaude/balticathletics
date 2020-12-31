@@ -202,7 +202,7 @@ promotions:
     - Upright End Pads - Pair (choice of colour)
 - title: Mini Volleyball Aluminum Post Extensions VBPE - 36"
   image: "/2020-03-07 13.32.52.jpg"
-  price: 40
+  price: 45
   description: |
     - Inserts into the top of 2" badminton posts for mini-volleyball play
     - 4 easy height adjustments
