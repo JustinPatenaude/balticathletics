@@ -135,20 +135,6 @@ promotions:
   description: |-
     54 inches
     Professional quality resistance sprint trainer
-- title: Champion RT610 All Purpose Resistance Belt Set
-  image: "/RT610 All purpose resistance belt set.jpg"
-  price: 60.5
-  description: |-
-    • Great for athletic partner training
-    • Uses include speed, reaction and competition drills
-    • 1 waist belt
-    • 1-8.5' high elastic tubing with a nylon covering
-    • 2 locking snap links
-    • 1 red handle strap
-    • 2 d-rings
-    • One locking snap link
-
-    • 1 available in Royal Blue
 - title: Fox40 Ecoblast Rechargeable Air Horn & Air Pump 9509AZ
   image: "/Fox40 9509AZ ecoblast horn.jpg"
   price: 28
