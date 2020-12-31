@@ -37,7 +37,7 @@ promotions:
   description: |-
     Only white as shown
 
-    15 available
+    9 available
 - title: Champion VB5 Synthetic Leather Volleyball
   image: "/vb5-front-l.jpg"
   price: 18.75
