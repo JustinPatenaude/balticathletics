@@ -325,7 +325,7 @@ promotions:
   description: 5 available
 - title: Tchoukball TRN2 SET (Red) - Sold as a set
   image: "/TRN2-rebounder-360athl.jpg"
-  price: 350
+  price: 375
   description: |
     Includes:
     - 2 RED frames
