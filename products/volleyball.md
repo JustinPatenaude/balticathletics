@@ -49,17 +49,6 @@ promotions:
     - White
 
     6 available
-- title: Champion VB2COMP Volleyball
-  image: "/vb2-front-l.jpg"
-  price: 22
-  description: |-
-    - Official size and weight volleyball
-    - Top of the line Cordley® composite synthetic leather soft touch cover for comfort and durability
-    - Two-ply cotton wrapped butyl bladder for added comfort during serves and returns
-    - Meets all NFHS, NCAA, IVBF, USAV and FIVB specifications and standards
-    - White
-
-    4 available
 - title: ChampionVB2GB Composite Volleyball
   image: "/vb2gb-front-l.jpg"
   price: 22
@@ -127,18 +116,9 @@ promotions:
     - Weight: 8 ounces (227 g)
 
     1 available
-- title: Mikasa MGV500 Setter's Training Volleyball
-  image: "/MGV500_1-Z.jpg"
-  price: 59
-  description: |-
-    - Heavyweight 16 oz
-    - Premium composite cover
-    - Builds strength in the back, shoulder, arm and wrists
-
-    1 available
 - title: Mikasa VXL30 Official 2016 Olympics Beach Volleyball Replica
   image: "/VXL30_1-Z.jpg"
-  price: 23
+  price: 24
   description: |-
     - Soft stitched cover
     - Butyl airlock bladder
