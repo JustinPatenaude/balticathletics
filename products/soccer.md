@@ -264,54 +264,6 @@ promotions:
     - 1 Yellow
     - 1 Blue
     - 2 Purple
-- title: Mikasa SS50 Varsity Series Cushioned Cover Soccer Ball - Size 5
-  image: "/SS30-BK_1-Z a.jpg"
-  price: 30
-  description: |-
-    - Size: #5
-    - Deluxe cushioned cover
-    - Butyl bladder
-    - Black/White
-
-    1 available
-- title: Mikasa SAR50 4 Seasons Neon Honeycomb Soccer Ball - Size 5
-  image: "/SAR50-BKY_1-Z.jpg"
-  price: 35
-  description: |-
-    - Size #5
-    - Cushioned exterior which maintains its flexibilty even in cold weather
-    - 4 seasons soccer ball and high visibility on the snow
-    - Yellow / Black
-
-    1 available
-- title: Mikasa MCS50 Orbite Design Soccer Ball - Size 5
-  image: "/MCS50-WO_1-Z.jpg"
-  price: 30
-  description: |-
-    - MCS Orbit design soccer ball
-    - Deluxe cushioned cover
-    - Stitched
-    - Size #5
-    - Orange & White
-
-    1 available
-- title: Mikasa SE509 Elstar Soccer Ball - Size 5
-  image: "/Mikasa Elstar Soccer Ball - Size 5_.jpg"
-  price: 28
-  description: |-
-    - All Condition Treatment deluxe cushioned cover
-    - 2-Ply Butyl Bladder
-    - Orange/White/Blue
-    - Size 5
-
-    1 available
-- title: Nike Pitch Game Soccer Ball - Size 5
-  image: "/PITCH Nike SB size 5.jpg"
-  price: 30
-  description: |-
-    Soft touch, game quality
-    1 - Size 4 available
-    1 - Size 5 available
 - title: Nike Pitch Training Ball - Size 5
   image: "/Nike Training SB size 5.jpg"
   price: 25
@@ -322,19 +274,6 @@ promotions:
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 25
   description: Only 1 available
-- title: Sporteck CAPO Soccer Ball - Size 5
-  image: "/sporteck CAPO soccer ball.jpg"
-  price: 30
-  description: ''
-- title: Reflex Soccer Goal Keeper Training Ball
-  image: "/2020-04-14 16.25.49.jpg"
-  price: 32
-  description: |-
-    Does a ball have to be round? To be good with a round ball you have to start with the angled one. This is especially true for goalkeepers! As its name suggests, this ball is there to help goalies train their reflexes. It‘s made of tough TPU and comes in fluorescent yellow.
-
-    No Size
-
-    1 available
 - title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
   image: "/2020-04-16 16.16.51.jpg"
   price: 39
