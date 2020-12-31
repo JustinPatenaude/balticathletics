@@ -93,8 +93,7 @@ promotions:
     - 4 Snap straps
     - Deep leg channel
 
-    1 - Blue/White/Red pairs available
-    2 - Black/White/Grey pairs available
+    1 - Blue/White/Red pair available
 - title: Replacement Street/Floor Hockey Net - Black - 4' x 6'
   image: "/NET46_1-Z.jpg"
   price: 48
