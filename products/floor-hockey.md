@@ -88,7 +88,7 @@ promotions:
     8 available
 - title: Bauer Floor Hockey Goal Pads - 27"
   image: "/2020-03-07 12.05.49.jpg"
-  price: 60
+  price: 65
   description: |-
     - 4 Snap straps
     - Deep leg channel
