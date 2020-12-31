@@ -54,7 +54,7 @@ promotions:
     - Red only
     - IAAF Certified.
 
-    2 available
+    1 pair available
 - title: Stackhouse TFG13-1 Official Fiberglass Crossbar - Competition
   image: "/crossbar-sh-offcl-comp-z.jpg"
   price: 265
