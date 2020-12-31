@@ -13,12 +13,12 @@ promotions:
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
-  description: "Features:\nAssorted colours\nRight handed\nLightweight premium composite
-    shafts for consistent and power shooting.\nPre-hook curved blade for accurate
-    shots and ball handling.\nTwo-tone soft PU grip for comfortable and griping power\nFor
-    both indoor and outdoor use, Plus it is an ideal for playing ball hockey and  practicing
-    hockey skill and trick      \n\n* A100 model weight 260g,  with shaft 100cm Flex
-    26mm is suggested for player’s height 5’8” and above"
+  description: "Features:\nAssorted blade colours\nRight handed\nLightweight premium
+    composite shafts for consistent and power shooting.\nPre-hook curved blade for
+    accurate shots and ball handling.\nTwo-tone soft PU grip for comfortable and griping
+    power\nFor both indoor and outdoor use, Plus it is an ideal for playing ball hockey
+    and  practicing hockey skill and trick      \n\n* A100 model weight 260g,  with
+    shaft 100cm Flex 26mm is suggested for player’s height 5’8” and above"
 - title: Cosom Floor Hockey Sticks CH-700963-BK (w/fiberglass rod) 42"
   image: "/CosomPowerShaftHockeyStick 42.jpg"
   price: 9.5
