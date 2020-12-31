@@ -164,22 +164,7 @@ promotions:
     - 4 pre-set net heights for Men's, Women's, Coed, and Junior volleyball
     - Comes with instructions and official net heights
 
-    2 available
-- title: Spalding 3" Aluminum Slide Multi-Sport System
-  image: "/spalding system.png"
-  price: 2950
-  description: |-
-    Lightweight and easy to set up
-    Height strength upright made of 3" (76mm) O.D. extruded aluminum
-    Navy blue powder coated upright with silver powder coated sliders
-    Easy adjustment regardless of competitive height
-    Use at all levels of volleyball, tennis and badminton
-    Requires 3" floor sleeves - sold separately
-
-    SS110 One-Court Slide Multi-Sport System, includes:
-    - Slide Multi-Sport Upright Package
-    - Kevlar Net, Antennas, Pockets
-    - Upright End Pads - Pair (choice of colour)
+    1 available
 - title: Mini Volleyball Aluminum Post Extensions VBPE - 36"
   image: "/2020-03-07 13.32.52.jpg"
   price: 45
