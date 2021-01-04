@@ -96,7 +96,7 @@ promotions:
     3 available
 - title: Deluxe Outdoor Ball Locker BC44
   image: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
-  price: 295
+  price: 310
   description: |-
     -This powder coated all-steel construction ball locker has lockable hinge cover
     -Holds up to 24 basketballs, soccer balls or Playground balls
@@ -104,7 +104,7 @@ promotions:
     - Size: 42” L x 24” W x 36” H
     - MRSP $517.99
 
-    7 available
+    3 available
 - title: Custom Steel Racquet Cart
   image: "/2020-03-07 13.03.06.jpg"
   price: 460
