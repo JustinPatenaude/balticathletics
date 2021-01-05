@@ -8,7 +8,7 @@ slideshow:
   image: "/VQ200W-CAN_1-Z.jpg"
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
   text: ''
-  button_text: Details here
+  button_text: Details
   button_link: https://balticathletics.com/products/volleyball/
   image: "/2020.01.05 Mikasa MHSAA gift with purchase promo 02.png"
 - title: Looking for Bumper Plates and Kettlebells?
