@@ -12,7 +12,9 @@ products:
 - Referee Stands
 - Uniforms
 - Volleyballs
-photos: []
+photos:
+- photo: "/VQ200W-CAN MHSAA ball 2021.png"
+  title: New 2021 MHSAA Official Volleyball
 promotions:
 - title: Mikasa FIVB Snow Volleyball SV335-V8
   image: "/SV335-V8-B.jpg"
