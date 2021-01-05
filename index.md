@@ -1,6 +1,11 @@
 ---
 layout: home
 slideshow:
+- title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
+  text: ''
+  button_text: Details here
+  button_link: https://balticathletics.com/products/volleyball/
+  image: "/2020.01.05 Mikasa MHSAA gift with purchase promo.png"
 - title: NEW! MHSAA Announces A New Official Volleyball
   text: Mikasa Volleyball Canada Competition Ball - VQ200W-CAN
   button_text: Contact Us
