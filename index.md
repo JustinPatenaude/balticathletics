@@ -10,7 +10,7 @@ slideshow:
   text: ''
   button_text: Details here
   button_link: https://balticathletics.com/products/volleyball/
-  image: "/2020.01.05 Mikasa MHSAA gift with purchase promo.png"
+  image: "/2020.01.05 Mikasa MHSAA gift with purchase promo 02.png"
 - title: Looking for Bumper Plates and Kettlebells?
   text: In stock now. Call Rauno 204-781-3342
   button_text: Contact Us
