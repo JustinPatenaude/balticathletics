@@ -3,8 +3,8 @@ layout: home
 slideshow:
 - title: NEW! MHSAA Announces A New Official Volleyball
   text: Mikasa Volleyball Canada Competition Ball - VQ200W-CAN
-  button_text: Contact Us
-  button_link: https://balticathletics.com/contact-us/
+  button_text: Details
+  button_link: https://balticathletics.com/products/volleyball/
   image: "/VQ200W-CAN_1-Z.jpg"
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
   text: ''
