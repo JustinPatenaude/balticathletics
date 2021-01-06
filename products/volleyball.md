@@ -14,7 +14,7 @@ products:
 - Volleyballs
 photos:
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
-  photo: "/2020.01.05 Mikasa MHSAA gift with purchase promo 03.png"
+  photo: "/2020.01.05 Mikasa MHSAA gift with purchase promo 04.png"
 - photo: "/VQ200W-CAN MHSAA ball 2021.png"
   title: New 2021 MHSAA Official Volleyball
 promotions:
