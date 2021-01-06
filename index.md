@@ -10,7 +10,7 @@ slideshow:
   text: with the purchase of 6 or more VQ200W-CAN MHSAA Official Volleyballs
   button_text: See Details
   button_link: https://balticathletics.com/products/volleyball/
-  image: "/2020.01.05 Mikasa MHSAA gift with purchase promo 03.png"
+  image: "/2020.01.05 Mikasa MHSAA gift with purchase promo 04.png"
 - title: Looking for Bumper Plates and Kettlebells?
   text: In stock now. Call Rauno 204-781-3342
   button_text: Contact Us
