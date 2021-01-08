@@ -5,7 +5,7 @@ categories:
 - products/made-in-canada.md
 - products/scoreboards.md
 title: OES Scoreboards
-logo: "/OES-Logo1.png"
+logo: "/OES logo.jpg"
 website: https://www.oes-scoreboards.com/
 catalogues:
 - title: OES Product Catalogue
