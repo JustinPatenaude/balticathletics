@@ -42,17 +42,6 @@ promotions:
   description: |-
     - 100 blanks per container
     - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
-- title: F30805B Aluminum High Jump Standards
-  image: "/F30805B standards.jpg"
-  price: 875
-  description: |-
-    * INCLUDES TFG13 fiberglass competition quality CROSSBAR
-    * Heavy steel base in blue
-    * Aluminum standards
-    * Double riser
-    * adjustable heights up to 243 cm
-    * new though shown as a sales sample
-    * no freight if picked up or delivered in Winnipeg area
 - title: F30805R Aluminum High Jump Standards
   image: "/F30805R standards.jpg"
   price: 775
@@ -64,6 +53,17 @@ promotions:
     * INCLUDES TFG13 fiberglass competition quality CROSSBAR
     * no freight if picked up or delivered in Winnipeg area
 
+- title: F30805B Aluminum High Jump Standards
+  image: "/F30805B standards.jpg"
+  price: 875
+  description: |-
+    * INCLUDES TFG13 fiberglass competition quality CROSSBAR
+    * Heavy steel base in blue
+    * Aluminum standards
+    * Double riser
+    * adjustable heights up to 243 cm
+    * new though shown as a sales sample
+    * no freight if picked up or delivered in Winnipeg area
 - title: Professional High Jump Standards (HJSP)
   image: "/HJSP.JPG"
   price: 995
