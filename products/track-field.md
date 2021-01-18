@@ -24,7 +24,7 @@ photos: []
 promotions:
 - title: F30805B Aluminum High Jump Standards
   image: ''
-  price: 
+  price: 875
   description: |-
     * INCLUDES TFG13 fiberglass competition quality CROSSBAR
     * Heavy steel base in blue
