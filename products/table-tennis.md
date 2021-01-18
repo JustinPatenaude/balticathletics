@@ -11,7 +11,7 @@ photos: []
 promotions:
 - title: 1Star Table Tennis Balls - Box of 144
   image: "/1star144_l.jpg"
-  price: 49.5
+  price: 55
   description: |-
     - Recreational 40 mm
     - Top grade institutional ball
