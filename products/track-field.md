@@ -34,7 +34,7 @@ promotions:
     * new though shown as a sales sample
     * no freight if picked up or delivered in Winnipeg area
 - title: F30805R Aluminum High Jump Standards
-  image: ''
+  image: "/F30805R standards.jpg"
   price: 775
   description: |+
     * Steel base in red
