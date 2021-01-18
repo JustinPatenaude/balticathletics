@@ -22,6 +22,17 @@ products:
 - Uniforms
 photos: []
 promotions:
+- title: F30805R Aluminum High Jump Standards
+  image: ''
+  price: 775
+  description: |+
+    * Steel base in red
+    * Aluminum standards
+    * adjustable heights up to 203 cm
+    * new though shown as a sales sample
+    * INCLUDES TFG13 fiberglass competition quality CROSSBAR
+    * no freight if picked up or delivered in Winnipeg area
+
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 245
