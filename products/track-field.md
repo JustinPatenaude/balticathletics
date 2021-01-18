@@ -22,6 +22,10 @@ products:
 - Uniforms
 photos: []
 promotions:
+- title: F30805B Aluminum High Jump Standards
+  image: ''
+  price: 
+  description: ''
 - title: F30805R Aluminum High Jump Standards
   image: ''
   price: 775
