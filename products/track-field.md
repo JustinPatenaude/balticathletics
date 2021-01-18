@@ -25,7 +25,14 @@ promotions:
 - title: F30805B Aluminum High Jump Standards
   image: ''
   price: 
-  description: ''
+  description: |-
+    * INCLUDES TFG13 fiberglass competition quality CROSSBAR
+    * Heavy steel base in blue
+    * Aluminum standards
+    * Double riser
+    * adjustable heights up to 243 cm
+    * new though shown as a sales sample
+    * no freight if picked up or delivered in Winnipeg area
 - title: F30805R Aluminum High Jump Standards
   image: ''
   price: 775
