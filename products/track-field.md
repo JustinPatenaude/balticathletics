@@ -22,6 +22,26 @@ products:
 - Uniforms
 photos: []
 promotions:
+- title: Traditions 209 Starting Pistol
+  image: "/Traditions 209 starting pistol.jpg"
+  price: 245
+  description: |
+    uses 209 primers (100/box $12)
+    - includes carrying case and cleaning brush shown.
+    * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
+- title: Traditions 209 Starting Pistol Blanks
+  image: "/209 primer blanks.jpg"
+  price: 12
+  description: |-
+    - 100 blanks per box
+    - To be used with Traditions 209 starting pistol
+    - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
+- title: 22 Caliber 6mm Acorn Starting Blanks
+  image: "/22 Cal blanks.jpg"
+  price: 30
+  description: |-
+    - 100 blanks per container
+    - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
 - title: F30805B Aluminum High Jump Standards
   image: "/F30805B standards.jpg"
   price: 875
@@ -44,26 +64,6 @@ promotions:
     * INCLUDES TFG13 fiberglass competition quality CROSSBAR
     * no freight if picked up or delivered in Winnipeg area
 
-- title: Traditions 209 Starting Pistol
-  image: "/Traditions 209 starting pistol.jpg"
-  price: 245
-  description: |
-    uses 209 primers (100/box $12)
-    - includes carrying case and cleaning brush shown.
-    * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
-- title: Traditions 209 Starting Pistol Blanks
-  image: "/209 primer blanks.jpg"
-  price: 12
-  description: |-
-    - 100 blanks per box
-    - To be used with Traditions 209 starting pistol
-    - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
-- title: 22 Caliber 6mm Acorn Starting Blanks
-  image: "/22 Cal blanks.jpg"
-  price: 30
-  description: |-
-    - 100 blanks per container
-    - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
 - title: Professional High Jump Standards (HJSP)
   image: "/HJSP.JPG"
   price: 995
