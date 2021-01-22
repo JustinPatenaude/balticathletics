@@ -68,18 +68,5 @@ promotions:
     - ** Warning: extremely loud. Do not use close to ears.
 
     12 available
-- title: Fox40 Electronic Whistle
-  image: "/8616-1908 electronic whistle.PNG"
-  price: 16
-  description: |-
-    - Includes a 9V battery
-    - Utilizes a push button, which offers a hygienic solution for multiple operators
-    - Provides a loud, clear and consistent sound every time
-    - Give verbal commands without a whistle in user's mouth
-    - Fox 40 Electronic Whistle® has three distinct tones that can be aimed in
-    specific directions:
-    Off / Tone 1 / Tone 2 / Tone 3
-
-    9 available
 
 ---
