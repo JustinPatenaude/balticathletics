@@ -16,7 +16,7 @@ photos:
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
   photo: "/2020.01.05 Mikasa MHSAA gift with purchase promo 04.png"
 - photo: "/VQ200W-CAN MHSAA ball 2021.png"
-  title: New 2021 MHSAA Official Volleyball
+  title: "**New** 2021 MHSAA Official Volleyball - $63.50"
 promotions:
 - title: Mikasa FIVB Snow Volleyball SV335-V8
   image: "/SV335-V8-B.jpg"
