@@ -20,27 +20,27 @@ info: Russell Athletic was founded in 1902 by 26-year-old Benjamin Russell in Al
   2002. Fruit of the Loom purchased Russell Corp. in 2006.
 date: '2019-03-29T22:32:33.000+00:00'
 catalogues:
-- title: Toba Catalogue - Russell Pants
-  year: 2020
-  pdf: "/Russell pg 57 Pants Toba 2020 Web 300 high_22.pdf"
-- title: Toba Catalogue - Russell Crew Sweatshirts
-  year: 2020
-  pdf: "/Russell pg 56 Crew Sweatshirts Toba 2020 Web 300 high_22.pdf"
-- title: Toba Catalogue - Russell Quarter Zip, Colorblock, Full Zip
-  year: 2020
-  pdf: "/Russell pg 55 Quarter Zip, Colourblock, Full Zip Toba 2020 Web 300 high_22.pdf"
-- title: Toba Catalogue - Russell Adult & Youth Hoodies
-  year: 2020
-  pdf: "/Russell pg 54 Hoodies Toba 2020 Web 300 high_22.pdf"
-- title: Toba Catalogue - Russell Classic Hoodies
-  year: 2020
-  pdf: "/Russell pg 53 Classic Hoodies Toba 2020 Web 300 high_22.pdf"
-- title: Toba Catalogue - Russell Ladies Tees
-  year: 2020
-  pdf: "/Russell pg 23 Ladies SS Tee, LS Tee Toba 2020 Web 300 high_22.pdf"
 - title: Toba Catalogue - Russell Men's Tees
   year: 2020
   pdf: "/Russell pg 22 Mens SS Tees, LS Tees Toba 2020 Web 300 high_22.pdf"
+- title: Toba Catalogue - Russell Ladies Tees
+  year: 2020
+  pdf: "/Russell pg 23 Ladies SS Tee, LS Tee Toba 2020 Web 300 high_22.pdf"
+- title: Toba Catalogue - Russell Classic Hoodies
+  year: 2020
+  pdf: "/Russell pg 53 Classic Hoodies Toba 2020 Web 300 high_22.pdf"
+- title: Toba Catalogue - Russell Adult & Youth Hoodies
+  year: 2020
+  pdf: "/Russell pg 54 Hoodies Toba 2020 Web 300 high_22.pdf"
+- title: Toba Catalogue - Russell Quarter Zip, Colorblock, Full Zip
+  year: 2020
+  pdf: "/Russell pg 55 Quarter Zip, Colourblock, Full Zip Toba 2020 Web 300 high_22.pdf"
+- title: Toba Catalogue - Russell Crew Sweatshirts
+  year: 2020
+  pdf: "/Russell pg 56 Crew Sweatshirts Toba 2020 Web 300 high_22.pdf"
+- title: Toba Catalogue - Russell Pants
+  year: 2020
+  pdf: "/Russell pg 57 Pants Toba 2020 Web 300 high_22.pdf"
 - title: Russell Sizing Guide
   year: 0
   pdf: "/Russell Sizing Guide.png"
