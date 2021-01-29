@@ -20,6 +20,9 @@ info: Russell Athletic was founded in 1902 by 26-year-old Benjamin Russell in Al
   2002. Fruit of the Loom purchased Russell Corp. in 2006.
 date: '2019-03-29T22:32:33.000+00:00'
 catalogues:
+- title: Toba Catalogue - Russell Classic Hoodies
+  year: 2020
+  pdf: "/Russell pg 53 Classic Hoodies Toba 2020 Web 300 high_22.pdf"
 - title: Toba Catalogue - Russell Ladies Tees
   year: 2020
   pdf: "/Russell pg 23 Ladies SS Tee, LS Tee Toba 2020 Web 300 high_22.pdf"
