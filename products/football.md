@@ -16,6 +16,12 @@ products:
 - Yardage Markers
 photos: []
 promotions:
+- title: Spalding J5Y Classic Football - Size 7
+  image: "/J5Y Classic Football.jpg"
+  price: 36.0
+  description: |-
+    - Genuine Leather
+    - 19 available
 - title: Spalding Rookie Gear Composite Football - Size 6
   image: "/spalding rookie gear footballs.jpg"
   price: 16
