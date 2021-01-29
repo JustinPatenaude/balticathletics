@@ -104,7 +104,7 @@ promotions:
     - Size: 42” L x 24” W x 36” H
     - MRSP $517.99
 
-    3 available
+    2 available
 - title: Custom Steel Racquet Cart
   image: "/2020-03-07 13.03.06.jpg"
   price: 460
