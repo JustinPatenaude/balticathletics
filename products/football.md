@@ -36,7 +36,7 @@ promotions:
   price: 28
   description: |-
     Pebbled tacky laces
-    12 available
+    6 available
 - title: Spalding 72702CA Alpha Composite Leather Varsity Football - Size 9
   image: "/alpha varsity 72-702CA.jpg"
   price: 30
