@@ -13,6 +13,11 @@ logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues: []
 photos:
+- title: ''
+  photo: ''
+- title: "**Corina's recommendation (NO FOG!!) ~ A001230 CX2 3 ply Polyester Mask
+    (4 colours) 50 min decorated"
+  photo: "/A001230_BLA.jpg"
 - title: BL670 3-ply Disposable Face Mask, .43 cents ea, min 50
   photo: "/3 ply mask.jpg"
 - title: G-GEMASK Gildan ADULT Everyday Masks 4.5 oz/yr, 100% ring spun cotton. Available
