@@ -13,8 +13,9 @@ logo: "/PPE Brand Logo__.png"
 website: ''
 catalogues: []
 photos:
-- title: ''
-  photo: ''
+- title: "**Corina's recommendation (NO FOG!!) ~ A001230 CX2 3 ply Polyester Mask
+    (4 colours) 50 min decorated"
+  photo: "/A001230_Flyer.jpg"
 - title: "**Corina's recommendation (NO FOG!!) ~ A001230 CX2 3 ply Polyester Mask
     (4 colours) 50 min decorated"
   photo: "/A001230_BLA.jpg"
