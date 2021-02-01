@@ -8,12 +8,14 @@ products:
 - Disposible Face masks
 - Neck Gaiters or Buffs
 photos:
-- title: CX2 3 ply Polyester Mask - Black (4 colours) 50 min decorated
-  photo: "/A001230_BLA.jpg"
-- title: CX2 3 ply Polyester Mask (4 colours) 50 min decorated
-  photo: "/A001230_Flyer.jpg"
 - title: For more info go to https://balticathletics.com/brands/ppe
   photo: "/PPE more info.png"
+- title: "** Corina's recommendation!! NO FOG!! ~ CX2 3 ply Polyester Mask - Black
+    (4 colours) 50 min decorated"
+  photo: "/A001230_BLA.jpg"
+- title: "**Corina's Recommendation NO FOG!! ~ CX2 3 ply Polyester Mask (4 colours)
+    50 min decorated"
+  photo: "/A001230_Flyer.jpg"
 - title: 3 ply Disposable Face Masks (minimum 50)
   photo: "/3 ply mask.jpg"
 - title: BPW Sublimated Cotton Masks - adjustable ear & head straps
