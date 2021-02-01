@@ -8,7 +8,7 @@ products:
 - Disposible Face masks
 - Neck Gaiters or Buffs
 photos:
-- title: CX2 3 ply Polyester Mask
+- title: CX2 3 ply Polyester Mask (4 colours) 50 min decorated
   photo: "/A001230_Flyer.jpg"
 - title: For more info go to https://balticathletics.com/brands/ppe
   photo: "/PPE more info.png"
