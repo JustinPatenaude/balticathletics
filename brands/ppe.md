@@ -17,8 +17,7 @@ photos:
   photo: "/3 ply mask.jpg"
 - title: Pricing for A001230 CX2 3 ply Polyester Mask (4 colours) 50 min decorated
   photo: "/A001230_Flyer.jpg"
-- title: "**Corina's recommendation (NO FOG!!) ~ A001230 CX2 3 ply Polyester Mask
-    (4 colours) 50 min decorated"
+- title: A001230 CX2 3 ply Polyester Mask (4 colours) 50 min decorated
   photo: "/A001230_BLA.jpg"
 - title: G-GEMASK Gildan ADULT Everyday Masks 4.5 oz/yr, 100% ring spun cotton. Available
     in black (min 12) or white (min 24). Price with full colour transfer in one location
