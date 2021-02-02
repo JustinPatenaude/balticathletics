@@ -32,12 +32,6 @@ team-members:
 
     Mikayla is married to Justin, who is a web designer, and they have two young children. Outside of work, Mikayla holds an interior design certificate. She also likes to play piano and guitar, and is always practicing photography.
   photo: "/mikayla.jpg"
-- name: Corina Ruus
-  bio: |-
-    Corina is our jack-of-all-trades! She handles all of Baltic’s bookkeeping, as well as heads up the Team Order Management projects. You may also receive a response from Corina when you contact us via email.
-
-    Outside of work, she likes to scrapbook, read and travel. Rauno & Corina have 3 kids and 2 grand-babies that keep them busy.
-  photo: "/corina.jpg"
 - name: Rauno & Corina Ruus
   bio: |-
     Rauno is the founder of Baltic Athletics Inc. His main role is being the face of Baltic Athletics.  He loves getting out to see customers and has a gift for remembering names ;)
