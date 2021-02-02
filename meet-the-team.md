@@ -8,7 +8,7 @@ team-members:
     Jeffrey assists with the equipment side of the business. He inflates hundreds of balls and is our go-to heavy lifter.
 
     He enjoys gaming, reading books and playing the piano.
-  photo: "/jeffrey.jpg"
+  photo: "/10102020_72.jpg"
 - name: Bill
   bio: |-
     When it comes to pick ups & drop offs, Bill is our guy! He is always eager & ready to go, and will most likely be the guy to drop off at your location if we are sending something to you.
