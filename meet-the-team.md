@@ -33,18 +33,18 @@ team-members:
     Mikayla is married to Justin, who is a web designer, and they have two young children. Outside of work, Mikayla holds an interior design certificate. She also likes to play piano and guitar, and is always practicing photography.
   photo: "/mikayla.jpg"
 - name: Rauno & Corina Ruus
-  bio: |-
-    Rauno is the founder of Baltic Athletics Inc. His main role is being the face of Baltic Athletics.  He loves getting out to see customers and has a gift for remembering names ;)
-
-    He’s been in the sporting good business for almost 40 years and loves every minute of it! If you need any sporting equipment, team uniforms, clothing or wall padding, Rauno is the guy to talk to.
-
-    Outside of work, Rauno is a Hockey referee, and a Slowpitch umpire. He loves being outside in the Summer doing almost anything from yard work, biking, tenting, fishing, kayaking.
-
-    ***
-
-    Corina is our jack-of-all-trades! She handles all of Baltic’s bookkeeping, as well as heads up the Team Order Management projects. You may also receive a response from Corina when you contact us via email.
-
-    Outside of work, she likes to scrapbook, read and travel. Rauno & Corina have 3 kids and 2 grand-babies that keep them busy.
+  bio: "Rauno & Corina are the founders of Baltic Athletics Inc. \n\nRauno has been
+    in the sporting good business for almost 40 years and loves every minute of it!
+    Rauno's main role is being the \"face of Baltic Athletics\".  He enjoys getting
+    out to see customers and has a gift for remembering names ;)\n\nOutside of business,
+    Rauno is a Hockey referee, and a Slowpitch umpire. He loves being outside in the
+    Summer doing almost anything from yard work, biking, tenting, fishing, kayaking.\n\n***\n\nCorina
+    is our jack-of-all-trades! She handles all of Baltic’s bookkeeping, as well as
+    heads up the clothing orders and the Team Order Management (TOM) projects. You
+    may also receive a response from Corina when you contact us via email.\n\nOutside
+    of Baltic, she also has a business in the financial industry and in her \"off-business
+    time\", she likes to scrapbook, read and travel.\n\nRauno & Corina have 3 kids
+    and 2 grand-babies that keep them busy."
   photo: "/10102020_61 vertical.jpg"
 
 ---
