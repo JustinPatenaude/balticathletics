@@ -38,13 +38,19 @@ team-members:
 
     Outside of work, she likes to scrapbook, read and travel. Rauno & Corina have 3 kids and 2 grand-babies that keep them busy.
   photo: "/corina.jpg"
-- name: Rauno Ruus
+- name: Rauno & Corina Ruus
   bio: |-
     Rauno is the founder of Baltic Athletics Inc. His main role is being the face of Baltic Athletics.  He loves getting out to see customers and has a gift for remembering names ;)
 
     He’s been in the sporting good business for almost 40 years and loves every minute of it! If you need any sporting equipment, team uniforms, clothing or wall padding, Rauno is the guy to talk to.
 
     Outside of work, Rauno is a Hockey referee, and a Slowpitch umpire. He loves being outside in the Summer doing almost anything from yard work, biking, tenting, fishing, kayaking.
-  photo: "/rauno.jpg"
+
+    ***
+
+    Corina is our jack-of-all-trades! She handles all of Baltic’s bookkeeping, as well as heads up the Team Order Management projects. You may also receive a response from Corina when you contact us via email.
+
+    Outside of work, she likes to scrapbook, read and travel. Rauno & Corina have 3 kids and 2 grand-babies that keep them busy.
+  photo: "/10102020_61.jpg"
 
 ---
