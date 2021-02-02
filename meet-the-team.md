@@ -9,7 +9,7 @@ team-members:
 
     He enjoys gaming, reading books and playing the piano.
   photo: "/10102020_72.jpg"
-- name: Bill
+- name: Bill ~ Bill Swift Transport
   bio: |-
     When it comes to pick ups & drop offs, Bill is our guy! He is always eager & ready to go, and will most likely be the guy to drop off at your location if we are sending something to you.
 
