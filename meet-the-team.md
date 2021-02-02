@@ -28,7 +28,7 @@ team-members:
   photo: "/20200618 Arabella grad 2.JPG"
 - name: Mikayla
   bio: |-
-    Mikayla has many roles in the company but the one she enjoys the most is handling the art department. She also manages clothing orders, assists Corina in the Team Order Management department, and helps respond to Baltic emails.
+    Mikayla has many roles in the company but the one she enjoys the most is handling the art department. She also manages clothing orders, assists Corina in the Team Order Management department, and she is the email guro responding to the many Baltic emails.
 
     Mikayla is married to Justin, who is a web designer, and they have two young children. Outside of work, Mikayla holds an interior design certificate. She also likes to play piano and guitar, and is always practicing photography.
   photo: "/mikayla.jpg"
