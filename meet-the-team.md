@@ -20,7 +20,7 @@ team-members:
     Chloe helps receive and process the clothing orders that come in our doors. She assists with Team Order Management, and is a great asset to our Baltic team.
 
     Chloe enjoys playing with her niece & nephew, baking, painting, and studying astronomy. She is also a huge Marvel fan (really – if you want to know anything about Marvel, she most likely knows the answer!) and can quote most of the movies word for word.
-  photo: "/chloe.jpg"
+  photo: "/10102020_63.jpg"
 - name: Arabella
   bio: "Arabella recently joined our team as our admin assistant, shipper/receiver,
     and jack of all trades! ;) \n\nArabella loves to dance, enjoys the outdoors and
