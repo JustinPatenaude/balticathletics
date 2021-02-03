@@ -1,6 +1,11 @@
 ---
 layout: home
 slideshow:
+- title: THE BALTIC BANNER
+  text: The newest news from Baltic is a click away!
+  button_text: Most Recent Email Newsletter
+  button_link: https://sh1.sendinblue.com/v1cw6su9ht7e.html?t=1611883959
+  image: "/Title pic.png"
 - title: NEW! MHSAA Announces A New Official Volleyball
   text: Mikasa Volleyball Canada Competition Ball - VQ200W-CAN
   button_text: Details
@@ -26,11 +31,6 @@ slideshow:
   button_text: Snow Volleyball
   button_link: https://balticathletics.com/products/volleyball/
   image: "/SV335-V8-B.jpg"
-- title: We Have Moved!!
-  text: Our new address is 3-610 Main St, PO Box 449, Ile des Chenes MB R0A 0T0
-  button_text: ''
-  button_link: ''
-  image: "/clipart4397698.png"
 - title: Baltic & Covid-19
   text: We are still open by email, phone or in person (with limitations).
   button_text: Contact Us
