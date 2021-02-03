@@ -31,15 +31,5 @@ slideshow:
   button_text: Snow Volleyball
   button_link: https://balticathletics.com/products/volleyball/
   image: "/SV335-V8-B.jpg"
-- title: Baltic & Covid-19
-  text: We are still open by email, phone or in person (with limitations).
-  button_text: Contact Us
-  button_link: https://balticathletics.com/contact-us/
-  image: "/Covid sign Stay Safe. Be Kind.PNG"
-- title: Got Masks?
-  text: We have many options of mask or gaiters.
-  button_text: PPE
-  button_link: https://balticathletics.com/brands/ppe
-  image: "/PPE.png"
 
 ---
