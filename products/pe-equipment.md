@@ -253,10 +253,6 @@ promotions:
     - Red/White/Blue
 
     12 available
-- title: Scooter 12x12 square, no handles
-  image: "/cosom scooter no handles.jpg"
-  price: 18
-  description: 3 available
 - title: Scooter 16x16 square, no handles
   image: "/cosom scooter no handles.jpg"
   price: 24
@@ -271,13 +267,6 @@ promotions:
   image: "/cosom 16x16 deluxe scooter.jpeg"
   price: 27
   description: 25 available
-- title: Scooter 16x16 rounded w/handles
-  image: "/2020-03-07 10.51.40.jpg"
-  price: 30
-  description: |-
-    - connecting
-    - assorted colours
-    - 11 available
 - title: Scooter wheels - Sets of 4
   image: "/2020-03-07 11.05.28.jpg"
   price: 16
