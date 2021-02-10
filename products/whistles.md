@@ -58,7 +58,7 @@ promotions:
     2 available
 - title: 360 Electronic Whistle WE1
   image: "/WE1_-_Electronic_Whistle.jpg"
-  price: 16
+  price: 18
   description: |-
     - A great replacement for a starting pistol with two powerful whistle tones
     - 1 lock button
