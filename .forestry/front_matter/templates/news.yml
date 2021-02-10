@@ -6,10 +6,10 @@ fields:
   name: layout
   label: Layout
   hidden: true
-  description: 'Layout should be: news'
+  description: 'Layout should be: article'
   config:
     required: true
-  default: news
+  default: article
 - type: text
   name: title
   label: Title
