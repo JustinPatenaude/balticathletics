@@ -1,4 +1,25 @@
 ---
 label: News
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  description: 'Layout should be: news'
+  config:
+    required: true
+  default: news
+- type: text
+  name: title
+  label: Title
+  hidden: false
+- type: text
+  name: permalink
+  label: Permalink
+  hidden: false
+  description: 'Permalink should be: "/news/TITLE" where TITLE is the lowercased
+    version of the title. Example: Beach Volleyball would be "/news/beach-volleyball".'
+  config:
+    required: false
+  default: "/news/TITLE"
