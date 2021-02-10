@@ -23,3 +23,5 @@ fields:
   config:
     required: false
   default: "/news/TITLE"
+pages:
+- news/january-2021.md
