@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: article
 permalink: "/news/january-2021"
 title: January 2021
 
