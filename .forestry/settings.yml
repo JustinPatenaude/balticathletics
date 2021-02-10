@@ -27,10 +27,12 @@ sections:
   new_doc_ext: md
   templates:
   - product
-- type: jekyll-posts
+- type: directory
+  path: news
   label: News
-  create: all
-  new_doc_ext: md
+  create: documents
+  match: "**/*"
+  exclude: "**/index.md"
   templates:
   - news
 - type: document
