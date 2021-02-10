@@ -18,8 +18,8 @@ fields:
   name: permalink
   label: Permalink
   hidden: false
-  description: 'Permalink should be: "/news/TITLE" where TITLE is the lowercased
-    version of the title. Example: Beach Volleyball would be "/news/beach-volleyball".'
+  description: 'Permalink should be: "/news/TITLE" where TITLE is the lowercased version
+    of the title. Example: Beach Volleyball would be "/news/beach-volleyball".'
   config:
     required: false
   default: "/news/TITLE"
