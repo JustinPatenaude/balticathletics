@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="page__header" style="background-image: url('{{ "/assets/images/banner-catalogues.jpg" | relative_url }}');">
+  <div class="container">
+    <div class="grid-middle">
+        <div class="col-12">
+          <h1 class="page__header-title">News</h1>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="page__content">
+  <div class="container">
+    <div class="grid-center">
+      <div class="col-10_md-12">
+        <div class="grid">
+          {% assign newsArticles = site.pages | where: 'layout', "news" %}
+          {% for article in newsArticles %}
+            <div class="col-3_md-4_sm-6_ty-12">
+              {{ article.title }}
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
