@@ -27,16 +27,15 @@ sections:
   new_doc_ext: md
   templates:
   - product
-- type: document
-  path: promotions.md
-  label: Promotions
 - type: jekyll-posts
   label: News
   create: all
-  match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - news
+- type: document
+  path: promotions.md
+  label: Promotions
 - type: document
   path: gallery.md
   label: Gallery
