@@ -25,3 +25,4 @@ fields:
   default: "/news/TITLE"
 pages:
 - news/january-2021.md
+- news/the-conversation-with-caleb-and-victor-interview-with-rauno-corina.md
