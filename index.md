@@ -1,8 +1,8 @@
 ---
 layout: home
 slideshow:
-- title: The Conversation with Caleb and Victor - with Rauno & Corina Ruus
-  text: originally aired February 10/21
+- title: The Conversation with Caleb and Victor
+  text: featuring Rauno & Corina
   button_text: Take a look!
   button_link: https://fb.watch/3CuKOChK1i/
   image: "/The Conversation with Caleb and Victor.png"
