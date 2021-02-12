@@ -19,6 +19,9 @@ info: |-
   Link to [Colour Synthesizer](https://edgewoodgroup.ca/colour-synthesizer) for fitness tile
 date: '2019-03-29T22:25:25.000+00:00'
 catalogues:
+- title: Voyager Athletic Flooring flyer w/prices
+  year: 2021
+  pdf: "/Feb 2021 Baltic Athletics Promo_D1.pdf"
 - title: Sport Flooring & Accessories
   year: 2020
 - title: Herculean - Multi-purpose Sport Floor Systems
