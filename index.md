@@ -7,10 +7,10 @@ slideshow:
   button_link: https://fb.watch/3CuKOChK1i/
   image: "/The Conversation with Caleb and Victor.png"
 - title: THE BALTIC BANNER
-  text: The newest news from Baltic is a click away!
-  button_text: Most Recent Email Newsletter
-  button_link: https://sh1.sendinblue.com/v1cw6su9ht7e.html?t=1611883959
-  image: "/Title pic.png"
+  text: 'Highlighting: Winter Playground Products'
+  button_text: February 16, 2021
+  button_link: https://sh1.sendinblue.com/v226esu9ht7e.html?t=1613578911
+  image: "/Feb 16 front.png"
 - title: NEW! MHSAA Announces A New Official Volleyball
   text: Mikasa Volleyball Canada Competition Ball - VQ200W-CAN
   button_text: Details
