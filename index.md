@@ -3,7 +3,7 @@ layout: home
 slideshow:
 - title: THE BALTIC BANNER
   text: 'Highlighting: Winter Playground Products'
-  button_text: February 16, 2021
+  button_text: Click here to read - February 16, 2021
   button_link: https://sh1.sendinblue.com/v226esu9ht7e.html?t=1613578911
   image: "/Feb 16 front.png"
 - title: The Conversation with Caleb and Victor
