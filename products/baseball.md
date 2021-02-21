@@ -228,7 +228,7 @@ promotions:
     1 available
 - title: Baseball Scorebook
   image: "/SC1 Baseball Scorebook.jpg"
-  price: 6
+  price: 7
   description: "- Keeps track of in-game statistics for up to 15 players for 25 games\n-
     Heavy cardboard back and spiral bound cover is durable enough to last all season
     \n- Includes batting average chart, roster, and line-up pages for quick access
