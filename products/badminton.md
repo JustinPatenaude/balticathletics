@@ -10,6 +10,13 @@ products:
 - Shuttlecocks
 photos: []
 promotions:
+- title: Yonex Mavis 300 Shuttles
+  image: "/yonex mavis 300.jpg"
+  price: 14
+  description: |-
+    - Yellow skirt, Blue band
+    - Tube of 6
+    - Limited quantities
 - title: Carlton ISO4.3 Midi-Blade Badminton Racquet
   image: "/Carlton ISO4.3 Midi-Blade Badminton Racquet.jpg"
   price: 15
