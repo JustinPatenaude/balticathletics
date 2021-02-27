@@ -7,7 +7,7 @@ products:
 - Nets
 - Poles
 - Racquets
-- Shuttlecocks
+- Shuttles
 photos: []
 promotions:
 - title: Yonex Mavis 300 Shuttles
