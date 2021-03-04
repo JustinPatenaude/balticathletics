@@ -12,14 +12,6 @@ products:
 - Pants
 photos: []
 promotions:
-- title: Franklin FRK-BB-22612 Fieldmaster Glove - 11" YOUTH - Left hand catch
-  image: "/2020-04-13 14.20.17.jpg"
-  price: 24
-  description: 12 available - Black
-- title: Franklin FRK-BB-22604 Fieldmaster Glove - 11" YOUTH - Left hand catch
-  image: "/2020-04-13 14.19.51.jpg"
-  price: 24
-  description: 3 available - Blonde/Black
 - title: Rawlings PM11MBCC Playmaker Series - 11" Left hand catch
   image: "/Rawlings PM11MBCC Playmaker Series.jpg"
   price: 36
@@ -29,26 +21,6 @@ promotions:
     - High density cushioned palm and finger back linings for added comfort
 
     1 available
-- title: Franklin Fastpitch Fielding Glove FRK-BB-223 - 11" Left Hand Catch
-  image: "/2020-04-11 14.47.16.jpg"
-  price: 28
-  description: |-
-    Mesh back
-    No break in required
-
-    2 available
-- title: Franklin RTP Fielding Glove FRK-BB-22553 - 11" Left Hand Catch
-  image: "/Franklin RTP Fielding Glove FRK-BB-22553.jpg"
-  price: 26
-  description: |-
-    Really soft
-    Ready To Play (RTP)
-
-    1 available
-- title: Franklin 22622 Fieldmaster Glove - 11" Left Hand Catch
-  image: "/Franklin fieldmaster.jpg"
-  price: 24
-  description: 1 available - Navy/Red/White
 - title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
   image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
   price: 40
@@ -73,7 +45,7 @@ promotions:
 - title: Franklin FRK-BB-22611 Fieldmaster Glove - 12" Left hand catch
   image: "/2020-04-13 15.45.10.jpg"
   price: 28
-  description: 6 available - Black
+  description: 3 available - Black
 - title: Franklin RTP Fielding Glove FRK-BB-22552 - 12" Left Hand Catch
   image: "/Franklin RTP Fielding Glove FRK-BB-22552.jpg"
   price: 28
