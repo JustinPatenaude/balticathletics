@@ -38,14 +38,10 @@ promotions:
     Broken in feel
 
     1 available
-- title: Franklin FRK-BB-22603 Fieldmaster Glove - 12" Left hand catch
-  image: "/2020-04-13 15.45.48.jpg"
-  price: 28
-  description: 2 available - Blonde/Black
 - title: Franklin FRK-BB-22611 Fieldmaster Glove - 12" Left hand catch
   image: "/2020-04-13 15.45.10.jpg"
   price: 28
-  description: 3 available - Black
+  description: 2 available - Black
 - title: Franklin RTP Fielding Glove FRK-BB-22552 - 12" Left Hand Catch
   image: "/Franklin RTP Fielding Glove FRK-BB-22552.jpg"
   price: 28
