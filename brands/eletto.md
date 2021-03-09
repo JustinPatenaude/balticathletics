@@ -20,7 +20,7 @@ info: "**_Eletto_** is a Canadian family owned and operated Soccer manufacturer 
 catalogues:
 - year: 2021
   title: Eletto Catalogue
-  pdf: ''
+  pdf: "/Eletto Spring Fall 2021 Final  - Web.pdf"
 photos:
 - title: BA-1930 Liga Competition 30.1 Grip Ball
   photo: "/BA-1930 Liga Competition 30.1 Grip Ball.PNG"
