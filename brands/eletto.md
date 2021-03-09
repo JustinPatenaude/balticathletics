@@ -18,9 +18,9 @@ info: "**_Eletto_** is a Canadian family owned and operated Soccer manufacturer 
   passionate soccer enthusiasts. \n\n“Eletto\"  is an Italian word that derives from
   the latin “electus”, means Elect or chosen. The brand of Choice.\n\n​"
 catalogues:
-- year: 2020
+- year: 2021
   title: Eletto Catalogue
-  pdf: "/2020 Eletto Sport Catalogue.pdf"
+  pdf: ''
 photos:
 - title: BA-1930 Liga Competition 30.1 Grip Ball
   photo: "/BA-1930 Liga Competition 30.1 Grip Ball.PNG"
