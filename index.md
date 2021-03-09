@@ -2,15 +2,15 @@
 layout: home
 slideshow:
 - title: THE BALTIC BANNER
-  text: 'Highlighting: Winter Playground Products'
-  button_text: Click here to read - February 16, 2021
-  button_link: https://sh1.sendinblue.com/v226esu9ht7e.html?t=1613578911
-  image: "/Feb 16 front.png"
-- title: The Conversation with Caleb and Victor
-  text: featuring Rauno & Corina
-  button_text: Take a look!
-  button_link: https://fb.watch/3CuKOChK1i/
-  image: "/The Conversation with Caleb and Victor.png"
+  text: 'Highlighting: Archery & Badminton'
+  button_text: Click here to read - March 9, 2021
+  button_link: https://sh1.sendinblue.com/v2etisu9ht7e.html?t=1615320793
+  image: "/archery badminton pic.png"
+- title: Looking for Bumper Plates and Kettlebells?
+  text: In stock now. Call Rauno 204-781-3342
+  button_text: Contact Us
+  button_link: https://balticathletics.com/contact-us/
+  image: "/York IN STOCK 2020.png"
 - title: NEW! MHSAA Announces A New Official Volleyball
   text: Mikasa Volleyball Canada Competition Ball - VQ200W-CAN
   button_text: Details
@@ -21,20 +21,10 @@ slideshow:
   button_text: See Details
   button_link: https://balticathletics.com/products/volleyball/
   image: "/2020.01.05 Mikasa MHSAA gift with purchase promo 04.png"
-- title: Looking for Bumper Plates and Kettlebells?
-  text: In stock now. Call Rauno 204-781-3342
-  button_text: Contact Us
-  button_link: https://balticathletics.com/contact-us/
-  image: "/York IN STOCK 2020.png"
-- title: NEW!  CROSSNET
-  text: Where Four Square meets Volleyball
-  button_text: Photos & Info
-  button_link: https://balticathletics.com/brands/crossnet
-  image: "/Perfect Training Tool Image_V2.png"
-- title: NEW Mikasa FIVB Snow Volleyball
-  text: Available early December
-  button_text: Snow Volleyball
-  button_link: https://balticathletics.com/products/volleyball/
-  image: "/SV335-V8-B.jpg"
+- title: The Conversation with Caleb and Victor
+  text: featuring Rauno & Corina
+  button_text: Take a look!
+  button_link: https://fb.watch/3CuKOChK1i/
+  image: "/The Conversation with Caleb and Victor.png"
 
 ---
