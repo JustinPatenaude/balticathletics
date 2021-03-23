@@ -16,15 +16,6 @@ photos:
 - title: Basketball Sizing Chart
   photo: "/Basketball Sizing Chart.PNG"
 promotions:
-- title: 360 PGB5R Playground Series Rubber Basketballs - Size 5 (27.5")
-  image: "/PGB5R_Playground-Series-Basketballs-Size-5-Red-webjpg.jpg"
-  price: 8.5
-  description: |-
-    - Traditional 8 panel composition rubber cover ball
-    - Nylon wound with 2-Ply butyl bladder for better air retention and consistent bounce
-    - Heavy-duty construction.
-
-    1 available
 - title: Spalding 71-0708C Rookie Basketball - Size 5 (27.5")
   image: "/710708C Spalding Rookie BB 27.5.jpg"
   price: 11
@@ -54,7 +45,16 @@ promotions:
     - Official size and weight.
 
     2 available - BLACK only
-- title: 360 PGB6G Playground Series Rubber Basketball - Size 6
+- title: 360 PGB5R Playground Series Rubber Basketballs - Size 5 (27.5")
+  image: "/PGB5R_Playground-Series-Basketballs-Size-5-Red-webjpg.jpg"
+  price: 8.5
+  description: |-
+    - Traditional 8 panel composition rubber cover ball
+    - Nylon wound with 2-Ply butyl bladder for better air retention and consistent bounce
+    - Heavy-duty construction.
+
+    1 available
+- title: 360 PGB6G Playground Series Rubber Basketball - Size 28.5 (6)
   image: "/PGB6G-Playground_Series_Rubber_Basketball.jpg"
   price: 9
   description: |-
