@@ -15,12 +15,14 @@ products:
 - Uniforms
 photos: []
 promotions:
-- title: Puma Final 6 - Size 5
-  image: "/Puma Final 6.jpg"
-  price: 24
+- title: Adidas Nativo 25 - Size 5
+  image: "/Adidas Nativo 25.jpg"
+  price: 26
   description: |-
-    The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
-    excellent shape bounce and flight characteristics.
+    - Machine-stitched surface
+    - Durable MLS football
+    - Butyl bladder for best air retention
+    - 10 available
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -262,6 +264,12 @@ promotions:
     - Great bounce
 
     3 available (colours shown)
+- title: Puma Final 6 - Size 5
+  image: "/Puma Final 6.jpg"
+  price: 24
+  description: |-
+    The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
+    excellent shape bounce and flight characteristics.
 - title: Puma Arsenal Soccer Ball - Size 5
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 25
