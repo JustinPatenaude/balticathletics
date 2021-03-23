@@ -15,15 +15,12 @@ products:
 - Uniforms
 photos: []
 promotions:
-- title: Mikasa SS50 - Available in sizes 3, 4, 5
-  image: "/Mikasa SS50.jpg"
+- title: Puma Final 6 - Size 5
+  image: "/Puma Final 6.jpg"
   price: 24
   description: |-
-    - Cushioned cover soccer ball.
-    - Ideal for clubs or for practice.
-    - Deluxe cushioned cover
-    - Butyl bladder
-    - Available in a variety of colours
+    The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
+    excellent shape bounce and flight characteristics.
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -161,6 +158,15 @@ promotions:
   image: "/Eletto LNA-350 soccer ball.jpg"
   price: 22
   description: ''
+- title: Inaria Liga 1000 Soccer Ball - Size 5
+  image: "/inaria liga 1000 soccer ball size 5.PNG"
+  price: 18
+  description: |-
+    - Recommended as a club-level training ball
+    - Soft touch and durable, bright and glossy finish
+    - Hand-sewn with 32 panels, a latex bladder and a butyl valve
+
+    1 available
 - title: Jeffix S4R Recreative Rubber Soccer Balls - Size 4
   image: "/S4RKIT_1-Zc.jpg"
   price: 8.5
@@ -209,15 +215,15 @@ promotions:
     3 : 7 and Under
     4 : 8-12
     5 : 13 and Up
-- title: Inaria Liga 1000 Soccer Ball - Size 5
-  image: "/inaria liga 1000 soccer ball size 5.PNG"
-  price: 18
+- title: Mikasa SS50 - Available in sizes 3, 4, 5
+  image: "/Mikasa SS50.jpg"
+  price: 24
   description: |-
-    - Recommended as a club-level training ball
-    - Soft touch and durable, bright and glossy finish
-    - Hand-sewn with 32 panels, a latex bladder and a butyl valve
-
-    1 available
+    - Cushioned cover soccer ball.
+    - Ideal for clubs or for practice.
+    - Deluxe cushioned cover
+    - Butyl bladder
+    - Available in a variety of colours
 - title: Nike Pitch Soccer Ball - Size 4
   image: "/2020-04-14 16.26.42.jpg"
   price: 24
