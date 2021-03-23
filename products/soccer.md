@@ -118,7 +118,7 @@ promotions:
     3 available
 - title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
   image: "/w1B3205-1BasicTrainingBall.jpg"
-  price: 19.75
+  price: 19
   description: |-
     - A great ball for training and at home practice and comes in multiple sizes for different age groups.
     - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
@@ -127,7 +127,7 @@ promotions:
     - Available in White, Hi-Vis-Green or Hi-Vis Orange
 
     Ball Size: Age
-    3 : 8 and Under
+    3 : 7 and Under
     4 : 8-12
     5 : 13 and Up
 - title: Nike NKFC Total FC Soccer Ball - Size 4 & 5
