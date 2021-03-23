@@ -33,10 +33,10 @@ promotions:
      - 20 available
 - title: Spalding 642478C NBA Outdoor Jr Basketball - Size 6 (28.5")
   image: "/642478C Spalding NBA Outdoor Jr BB 28.5.jpg"
-  price: 10
+  price: 9
   description: |-
     rubber
-    - 13 available
+    - 9 available
 - title: Spalding 73-3038C NBA For Her Basketball - Size 6 (28.5")
   image: "/733038C Spalding NBA For Her BB size 6.jpg"
   price: 10
