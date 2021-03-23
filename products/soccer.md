@@ -265,11 +265,11 @@ promotions:
     - 1 Blue
     - 2 Purple
 - title: Nike Pitch Training Ball - Size 5
-  image: "/Nike Training SB size 5.jpg"
-  price: 25
+  image: "/Nike pitch training.jpg"
+  price: 23
   description: |-
     Soft touch, training ball
-    40 available
+    38 available
 - title: Puma Arsenal Soccer Ball - Size 5
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 25
