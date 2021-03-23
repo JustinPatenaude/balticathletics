@@ -15,25 +15,15 @@ products:
 - Uniforms
 photos: []
 promotions:
-- title: Uhlsport Elysia Replica - Size 5
-  image: "/Uhlsport Replica.jpg"
-  price: 25
+- title: Mikasa SS50 - Available in sizes 3, 4, 5
+  image: "/Mikasa SS50.jpg"
+  price: 24
   description: |-
-    - Match and training ball with new synergy technology
-    - Ligue 1 design with a 32 panel construction
-    - Thanks to the synergy technology best playing characteristics and durability
-    provides outstanding roundness and extremely low water uptake
-    - Durable structured PU material with additional foam-layer
-    - HAR bladder with excellent air retention
-- title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
-  image: "/Eletto LIGA comp soccer ball.jpg"
-  price: 29
-  description: ''
-- title: 360 PGS4B Playground Series Soccer Ball - Size 4
-  image: "/PGS4B-web.jpg"
-  price: 7.75
-  description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
-    for classroom use.\n\n5 available"
+    - Cushioned cover soccer ball.
+    - Ideal for clubs or for practice.
+    - Deluxe cushioned cover
+    - Butyl bladder
+    - Available in a variety of colours
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -45,117 +35,11 @@ promotions:
     - 2 ply cloth backing
 
     1 available
-- title: Adidas Telstar 18 World Cup Replica Soccer Ball - Size 4
-  image: "/TELSTAR 18 Adidas World Cup SB.jpg"
-  price: 25
-  description: |-
-    Soft touch game or training ball.
-    1 available
-- title: Champion SL10 Soccer Ball Trainer - Size 4
-  image: "/sl10-a-front_l.jpg"
-  price: 16.5
-  description: |-
-    - Soft, lightweight cover ideal for blocking shots or heading the ball
-    - 30% Lighter than traditional size 4 balls
-    - 32 Panels for added quality and durability
-    - Size 4
-    - Yellow/Black
-
-    2 available
-- title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
-  image: "/2020-03-30 13.42.56.jpg"
-  price: 19
-  description: |-
-    - Soft touch
-    - Great bounce
-
-    7 available
-    - 6 black
-    - 1 yellow
-- title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
-  image: "/Eletto LNA-290 soccer ball.jpg"
-  price: 
-  description: ''
-- title: Jeffix S4R Recreative Rubber Soccer Balls - Size 4
-  image: "/S4RKIT_1-Zc.jpg"
-  price: 8.5
-  description: |-
-    - Rubber
-    - 3 ply cover
-    - Durable butyl bladder
-
-    Available are:
-    - 1 Green
-    - 1 Orange
-- title: Nike Pitch Soccer Ball - Size 4
-  image: "/2020-04-14 16.26.42.jpg"
-  price: 24
-  description: |-
-    - Soft touch
-    - Size 4
-
-    1 available
-- title: Puma Trainer Soccer Ball - Size 4
-  image: "/2020-04-11 14.30.31.jpg"
-  price: 25
-  description: |-
-    - Soft touch
-    - Great bounce
-
-    3 available (colours shown)
-- price: 48
-  description: |-
-    - Set of 6 soccer balls
-    - SPEEDSKIN polyurethane covered high density foam.
-    - Size: #4
-    - Assorted colors
-
-    1 set available
-  title: Speedskin Soft Soccer Ball Set of 6 - Size 4
-  image: "/SSSOCCERKIT_1-Z.jpg"
-- title: Sporteck BOCA Soccer Ball - Size 4
-  image: "/BOCA-2.jpg"
-  price: 28
-  description: 1 available
-- title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
-  image: "/2020-04-14 16.23.55.jpg"
-  price: 29
-  description: |-
-    - Made with new abrasion resistant, environmentally friendly, kid grain PVC upper material
-    - Low rebound characteristic
-    - Butyl bladder for good air retention
-
-    3 available
-- title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
-  image: "/w1B3205-1BasicTrainingBall.jpg"
-  price: 19
-  description: |-
-    - A great ball for training and at home practice and comes in multiple sizes for different age groups.
-    - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
-    - 32 panel
-    - High gloss finish
-    - Available in White, Hi-Vis-Green or Hi-Vis Orange
-
-    Ball Size: Age
-    3 : 7 and Under
-    4 : 8-12
-    5 : 13 and Up
-- title: Nike NKFC Total FC Soccer Ball - Size 4 & 5
-  image: "/2020-04-14 16.27.06.jpg"
-  price: 27
-  description: |-
-    - Soft touch
-
-    5 available - Size 4
-    2 available - Size 5
-- title: Nike Phantom Venom Soccer Ball - Size 4 & 5
-  image: "/2020-04-14 16.27.21.jpg"
-  price: 27
-  description: |-
-    - Soft touch
-
-    3 available - Size 4
-    2 available - Size 5
+- title: 360 PGS4B Playground Series Soccer Ball - Size 4
+  image: "/PGS4B-web.jpg"
+  price: 7.75
+  description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
+    for classroom use.\n\n5 available"
 - title: 360 PS5RB Diamond Tek Soccer Ball - Size 5
   image: "/PS5RBG_Green_Diamond_Dek_Soccer_Ball_13980_0231.jpg"
   price: 16.5
@@ -178,11 +62,11 @@ promotions:
     - Size 5
 
     1 available
-- title: Adidas Juventus European Club Soccer Ball - Size 5
-  image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
+- title: Adidas Telstar 18 World Cup Replica Soccer Ball - Size 4
+  image: "/TELSTAR 18 Adidas World Cup SB.jpg"
   price: 25
   description: |-
-    Soft touch game or training ball
+    Soft touch game or training ball.
     1 available
 - title: Adidas Krasava Soccer Ball - Size 5
   image: "/KRASAVA Adidas SB size 5.jpg"
@@ -190,12 +74,29 @@ promotions:
   description: |-
     Match quality ball, superb bounce and feel
     1 available
+- title: Adidas Juventus European Club Soccer Ball - Size 5
+  image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
+  price: 25
+  description: |-
+    Soft touch game or training ball
+    1 available
 - title: Adidas Pink/Blue Soccer Ball - Size 5
   image: "/Adidas pink.jpg"
   price: 24
   description: |-
     Soft touch ball for game or training.
     10 available
+- title: Champion SL10 Soccer Ball Trainer - Size 4
+  image: "/sl10-a-front_l.jpg"
+  price: 16.5
+  description: |-
+    - Soft, lightweight cover ideal for blocking shots or heading the ball
+    - 30% Lighter than traditional size 4 balls
+    - 32 Panels for added quality and durability
+    - Size 4
+    - Yellow/Black
+
+    2 available
 - title: Champion EX5PR Extreme Soccer Ball - Size 5
   image: "/ex5pr-a-front_l.jpg"
   price: 15.5
@@ -232,9 +133,23 @@ promotions:
     - Size 5
 
     1 available
-- title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
-  image: "/Eletto LNA-350 soccer ball.jpg"
-  price: 22
+- title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
+  image: "/Eletto LNA-290 soccer ball.jpg"
+  price: 
+  description: ''
+- title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
+  image: "/2020-03-30 13.42.56.jpg"
+  price: 19
+  description: |-
+    - Soft touch
+    - Great bounce
+
+    7 available
+    - 6 black
+    - 1 yellow
+- title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
+  image: "/Eletto LIGA comp soccer ball.jpg"
+  price: 29
   description: ''
 - title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
   image: "/2020-03-30 12.26.05.jpg"
@@ -242,15 +157,21 @@ promotions:
   description: |-
     Also available in sizes 3 & 4
     1 available
-- title: Inaria Liga 1000 Soccer Ball - Size 5
-  image: "/inaria liga 1000 soccer ball size 5.PNG"
-  price: 18
+- title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
+  image: "/Eletto LNA-350 soccer ball.jpg"
+  price: 22
+  description: ''
+- title: Jeffix S4R Recreative Rubber Soccer Balls - Size 4
+  image: "/S4RKIT_1-Zc.jpg"
+  price: 8.5
   description: |-
-    - Recommended as a club-level training ball
-    - Soft touch and durable, bright and glossy finish
-    - Hand-sewn with 32 panels, a latex bladder and a butyl valve
+    - Rubber
+    - 3 ply cover
+    - Durable butyl bladder
 
-    1 available
+    Available are:
+    - 1 Green
+    - 1 Orange
 - title: Jeffix Street Resistant Rubber Soccer Ball - Size 5
   image: "/2020-04-17 09.18.01.jpg"
   price: 12.5
@@ -274,16 +195,104 @@ promotions:
     - 1 Yellow
     - 1 Blue
     - 2 Purple
+- title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
+  image: "/w1B3205-1BasicTrainingBall.jpg"
+  price: 19
+  description: |-
+    - A great ball for training and at home practice and comes in multiple sizes for different age groups.
+    - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
+    - 32 panel
+    - High gloss finish
+    - Available in White, Hi-Vis-Green or Hi-Vis Orange
+
+    Ball Size: Age
+    3 : 7 and Under
+    4 : 8-12
+    5 : 13 and Up
+- title: Inaria Liga 1000 Soccer Ball - Size 5
+  image: "/inaria liga 1000 soccer ball size 5.PNG"
+  price: 18
+  description: |-
+    - Recommended as a club-level training ball
+    - Soft touch and durable, bright and glossy finish
+    - Hand-sewn with 32 panels, a latex bladder and a butyl valve
+
+    1 available
+- title: Nike Pitch Soccer Ball - Size 4
+  image: "/2020-04-14 16.26.42.jpg"
+  price: 24
+  description: |-
+    - Soft touch
+    - Size 4
+
+    1 available
+- title: Nike Phantom Venom Soccer Ball - Size 4 & 5
+  image: "/2020-04-14 16.27.21.jpg"
+  price: 27
+  description: |-
+    - Soft touch
+
+    3 available - Size 4
+    2 available - Size 5
+- title: Nike NKFC Total FC Soccer Ball - Size 4 & 5
+  image: "/2020-04-14 16.27.06.jpg"
+  price: 27
+  description: |-
+    - Soft touch
+
+    5 available - Size 4
+    2 available - Size 5
 - title: Nike Pitch Training Ball - Size 5
   image: "/Nike pitch training.jpg"
   price: 23
   description: |-
     Soft touch, training ball
     38 available
+- title: Puma Trainer Soccer Ball - Size 4
+  image: "/2020-04-11 14.30.31.jpg"
+  price: 25
+  description: |-
+    - Soft touch
+    - Great bounce
+
+    3 available (colours shown)
 - title: Puma Arsenal Soccer Ball - Size 5
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 25
   description: Only 1 available
+- price: 48
+  description: |-
+    - Set of 6 soccer balls
+    - SPEEDSKIN polyurethane covered high density foam.
+    - Size: #4
+    - Assorted colors
+
+    1 set available
+  title: Speedskin Soft Soccer Ball Set of 6 - Size 4
+  image: "/SSSOCCERKIT_1-Z.jpg"
+- title: Sporteck BOCA Soccer Ball - Size 4
+  image: "/BOCA-2.jpg"
+  price: 28
+  description: 1 available
+- title: Uhlsport Elysia Replica - Size 5
+  image: "/Uhlsport Replica.jpg"
+  price: 25
+  description: |-
+    - Match and training ball with new synergy technology
+    - Ligue 1 design with a 32 panel construction
+    - Thanks to the synergy technology best playing characteristics and durability
+    provides outstanding roundness and extremely low water uptake
+    - Durable structured PU material with additional foam-layer
+    - HAR bladder with excellent air retention
+- title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
+  image: "/2020-04-14 16.23.55.jpg"
+  price: 29
+  description: |-
+    - Made with new abrasion resistant, environmentally friendly, kid grain PVC upper material
+    - Low rebound characteristic
+    - Butyl bladder for good air retention
+
+    3 available
 - title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
   image: "/2020-04-16 16.16.51.jpg"
   price: 39
