@@ -30,10 +30,10 @@ promotions:
     - 9 available
 - title: Spalding 73-3038C NBA For Her Basketball - Size 6 (28.5")
   image: "/733038C Spalding NBA For Her BB size 6.jpg"
-  price: 10
+  price: 9
   description: |-
     - Rubber
-    - 12 available
+    - 6 available
 - title: 360 Cellular Composite Basketball - Size 7 (29.5")
   image: "/TXB7-Cellular_Composite_Basketball.jpg"
   price: 13
