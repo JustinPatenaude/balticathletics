@@ -18,7 +18,13 @@ promotions:
 - title: Uhlsport Elysia Replica - Size 5
   image: "/Uhlsport Replica.jpg"
   price: 25
-  description: ''
+  description: |-
+    - Match and training ball with new synergy technology
+    - Ligue 1 design with a 32 panel construction
+    - Thanks to the synergy technology best playing characteristics and durability
+    provides outstanding roundness and extremely low water uptake
+    - Durable structured PU material with additional foam-layer
+    - HAR bladder with excellent air retention
 - title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
   image: "/Eletto LIGA comp soccer ball.jpg"
   price: 29
