@@ -15,6 +15,10 @@ products:
 - Uniforms
 photos: []
 promotions:
+- title: Uhlsport Elysia Replica - Size 5
+  image: "/Uhlsport Replica.jpg"
+  price: 25
+  description: ''
 - title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
   image: "/Eletto LIGA comp soccer ball.jpg"
   price: 29
