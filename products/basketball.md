@@ -16,10 +16,10 @@ photos:
 - title: Basketball Sizing Chart
   photo: "/Basketball Sizing Chart.PNG"
 promotions:
-- title: Spalding Eco-Green - Size 29.5 (7)
-  image: "/Spalding Size 7 Green.jpg"
-  price: 9
-  description: "- 12 available"
+- title: 360 Rubber - Size 29.5 (7)
+  image: "/360 Rubber BB.jpg"
+  price: 11
+  description: "- 8 available"
 - title: Spalding 71-0708C Rookie Basketball - Size 5 (27.5")
   image: "/710708C Spalding Rookie BB 27.5.jpg"
   price: 11
@@ -48,6 +48,10 @@ promotions:
   image: "/Spalding All Star.jpg"
   price: 9
   description: "- 10 available"
+- title: Spalding Eco-Green - Size 29.5 (7)
+  image: "/Spalding Size 7 Green.jpg"
+  price: 9
+  description: "- 12 available"
 - title: 360 Cellular Composite Basketball - Size 7 (29.5")
   image: "/TXB7-Cellular_Composite_Basketball.jpg"
   price: 13
