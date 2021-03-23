@@ -15,7 +15,7 @@ products:
 - Uniforms
 photos: []
 promotions:
-- title: Adidas Top Capitano - Size 5
+- title: Adidas Top Capitano Soccer Ball - Size 5
   image: "/Adidas Capitano.jpg"
   price: 26
   description: |-
