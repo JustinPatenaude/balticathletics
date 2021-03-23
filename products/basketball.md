@@ -54,7 +54,7 @@ promotions:
     - Heavy-duty construction.
 
     1 available
-- title: 360 PGB6G Playground Series Rubber Basketball - Size 28.5 (6)
+- title: 360 PGB6G Playground Series Rubber Basketball - Size 6 (28.5)
   image: "/PGB6G-Playground_Series_Rubber_Basketball.jpg"
   price: 9
   description: |-
