@@ -45,7 +45,7 @@ promotions:
     - 12 available
 - title: 360 Cellular Composite Basketball - Size 7 (29.5")
   image: "/TXB7-Cellular_Composite_Basketball.jpg"
-  price: 15
+  price: 13
   description: |2-
      - 360's #1 selling basketball!
     - Cellular™ composite indoor/outdoor balls are 5x more durable than traditional rubber balls.
@@ -53,7 +53,7 @@ promotions:
     - These balls are rotationally wound and built with a butyl bladder for consistent bounce and air retention.
     - Official size and weight.
 
-    12 available - BLACK only
+    2 available - BLACK only
 - title: 360 PGB6G Playground Series Rubber Basketball - Size 6
   image: "/PGB6G-Playground_Series_Rubber_Basketball.jpg"
   price: 9
