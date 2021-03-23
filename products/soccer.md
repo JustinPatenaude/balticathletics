@@ -15,21 +15,6 @@ products:
 - Uniforms
 photos: []
 promotions:
-- title: Adidas Top Capitano Soccer Ball - Size 5
-  image: "/Adidas Capitano.jpg"
-  price: 26
-  description: |-
-    - Nylon-wounded carcass reinforces shape for long-lasting performance and durability
-    - TPU cover holds strong against potential tears and abrasions for extended play
-    - 10 available
-- title: Adidas Nativo 25 Soccer Ball - Size 5
-  image: "/Adidas Nativo 25.jpg"
-  price: 26
-  description: |-
-    - Machine-stitched surface
-    - Durable MLS football
-    - Butyl bladder for best air retention
-    - 10 available
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -68,6 +53,21 @@ promotions:
     - Size 5
 
     1 available
+- title: Adidas Nativo 25 Soccer Ball - Size 5
+  image: "/Adidas Nativo 25.jpg"
+  price: 26
+  description: |-
+    - Machine-stitched surface
+    - Durable MLS football
+    - Butyl bladder for best air retention
+    - 10 available
+- title: Adidas Top Capitano Soccer Ball - Size 5
+  image: "/Adidas Capitano.jpg"
+  price: 26
+  description: |-
+    - Nylon-wounded carcass reinforces shape for long-lasting performance and durability
+    - TPU cover holds strong against potential tears and abrasions for extended play
+    - 10 available
 - title: Adidas Telstar 18 World Cup Replica Soccer Ball - Size 4
   image: "/TELSTAR 18 Adidas World Cup SB.jpg"
   price: 25
