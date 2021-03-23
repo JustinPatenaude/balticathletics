@@ -16,12 +16,10 @@ photos:
 - title: Basketball Sizing Chart
   photo: "/Basketball Sizing Chart.PNG"
 promotions:
-- title: Spalding jr nba Basketball (Armadillo design) - Size 5 (27.5)
-  image: "/710708C Spalding Rookie BB 27.5.jpg"
+- title: Spalding All-Start NBA (Purple/Yellow) - Size 5 (27.5)
+  image: "/Spalding All Star.jpg"
   price: 9
-  description: |-
-    - 25% lighter
-    - 3 available
+  description: "- 10 available"
 - title: Spalding 71-0708C Rookie Basketball - Size 5 (27.5")
   image: "/710708C Spalding Rookie BB 27.5.jpg"
   price: 11
@@ -40,6 +38,12 @@ promotions:
   description: |-
     - Rubber
     - 6 available
+- title: Spalding jr nba Basketball (Armadillo design) - Size 5 (27.5)
+  image: "/710708C Spalding Rookie BB 27.5.jpg"
+  price: 9
+  description: |-
+    - 25% lighter
+    - 3 available
 - title: 360 Cellular Composite Basketball - Size 7 (29.5")
   image: "/TXB7-Cellular_Composite_Basketball.jpg"
   price: 13
