@@ -22,7 +22,7 @@ promotions:
     - Nylon-wounded carcass reinforces shape for long-lasting performance and durability
     - TPU cover holds strong against potential tears and abrasions for extended play
     - 10 available
-- title: Adidas Nativo 25 - Size 5
+- title: Adidas Nativo 25 Soccer Ball - Size 5
   image: "/Adidas Nativo 25.jpg"
   price: 26
   description: |-
