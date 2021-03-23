@@ -181,11 +181,11 @@ promotions:
     Match quality ball, superb bounce and feel
     1 available
 - title: Adidas Pink/Blue Soccer Ball - Size 5
-  image: "/Adidas game ball size 5.jpg"
-  price: 25
+  image: "/Adidas pink.jpg"
+  price: 24
   description: |-
     Soft touch ball for game or training.
-    12 available
+    10 available
 - title: Champion EX5PR Extreme Soccer Ball - Size 5
   image: "/ex5pr-a-front_l.jpg"
   price: 15.5
