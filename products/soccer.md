@@ -219,10 +219,6 @@ promotions:
     - 32 panel
     - High gloss finish
     - Available in White, Hi-Vis-Green or Hi-Vis Orange
-
-    3-7 yrs - Size 3
-    8-12 yrs - Size 4
-    13+ yrs - Size 5
 - title: Mikasa SS50 - Available in sizes 3, 4, 5
   image: "/Mikasa SS50.jpg"
   price: 24
