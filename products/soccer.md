@@ -13,7 +13,9 @@ products:
 - Referee Apparel
 - Training Aids
 - Uniforms
-photos: []
+photos:
+- title: What soccer ball size do we need?
+  photo: "/soccer-ball-sizes.jpg"
 promotions:
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
