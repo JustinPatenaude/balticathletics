@@ -106,7 +106,7 @@ promotions:
 
     2 available
 - title: Custom Steel Racquet Cart
-  image: "/2020-03-07 13.03.06.jpg"
+  image: "/20200401 racquet cart.jpg"
   price: 460
   description: |
     - 44"L  X 20" W X 42" T
