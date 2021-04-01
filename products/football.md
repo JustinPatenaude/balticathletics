@@ -18,19 +18,15 @@ photos: []
 promotions:
 - title: Spalding J5Y Classic Football - Size 7
   image: "/J5Y Classic Football.jpg"
-  price: 36.0
+  price: 36
   description: |-
     - Genuine Leather
     - 19 available
 - title: Spalding Rookie Gear Composite Football - Size 6
   image: "/spalding rookie gear footballs.jpg"
   price: 16
-  description: |-
-    - raised tacky laces
-    - 25% lighter
-
-    19 brown available 62-9888C
-    8 red/blue available 62-9929C
+  description: "- raised tacky laces\n- 25% lighter\n\n15 brown available 62-9888C\nSOLD
+    OUT red/blue "
 - title: Spalding 727018C Alpha Composite Leather Youth Football - Size 7
   image: "/2020-04-11 12.05.21.jpg"
   price: 28
