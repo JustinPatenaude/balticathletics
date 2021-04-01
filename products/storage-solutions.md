@@ -10,6 +10,10 @@ photos:
 - photo: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
   title: BC44 360 Deluxe outdoor ball locker
 promotions:
+- title: Custom Hula Hoop Cart
+  image: "/20200401 hula hoop cart.jpg"
+  price: 
+  description: Hoops not included
 - title: Champion BK25BK Deluxe Basketball Carry Bag
   image: "/bk25bk_n.jpg"
   price: 26
