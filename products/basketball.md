@@ -34,16 +34,6 @@ promotions:
   description: |-
     - Rubber
     - 6 available
-- title: Spalding jr nba Basketball (Armadillo design) - Size 5 (27.5)
-  image: "/710708C Spalding Rookie BB 27.5.jpg"
-  price: 9
-  description: |-
-    - 25% lighter
-    - 3 available
-- title: Spalding All-Start NBA (Purple/Yellow) - Size 5 (27.5)
-  image: "/Spalding All Star.jpg"
-  price: 9
-  description: "- 10 available"
 - title: Spalding Eco-Green - Size 29.5 (7)
   image: "/Spalding Size 7 Green.jpg"
   price: 9
