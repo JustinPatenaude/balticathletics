@@ -227,7 +227,7 @@ promotions:
   description: 35 available
 - title: Easton Incrediball Vinyl cover Softball - 11"
   image: "/2020-04-11 14.43.02.jpg"
-  price: 8
+  price: 10
   description: 12 available
 - title: Worth Mayhem Softball Bats
   image: "/2020-03-07 11.21.13.jpg"
