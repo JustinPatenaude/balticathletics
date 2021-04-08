@@ -223,7 +223,7 @@ promotions:
     3 available
 - title: Wiffle Ball CX040650-00 - 12" circ / 4" dia (softball size)
   image: "/plsb-lifestyle-1_l.jpg"
-  price: 1.75
+  price: 1.5
   description: 35 available
 - title: Easton Incrediball Vinyl cover Softball - 11"
   image: "/2020-04-11 14.43.02.jpg"
