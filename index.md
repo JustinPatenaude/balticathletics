@@ -2,10 +2,10 @@
 layout: home
 slideshow:
 - title: THE BALTIC BANNER
-  text: 'Highlighting: Archery & Badminton'
-  button_text: Click here to read - March 9, 2021
-  button_link: https://sh1.sendinblue.com/v2etisu9ht7e.html?t=1615320793
-  image: "/archery badminton pic.png"
+  text: 'Highlighting: Ball & Outdoor Volleyball'
+  button_text: Click here to read - April 9, 2021
+  button_link: https://sh1.sendinblue.com/v343qsu9ht7e.html?t=1617978507
+  image: "/title photo.png"
 - title: Looking for Bumper Plates and Kettlebells?
   text: In stock now. Call Rauno 204-781-3342
   button_text: Contact Us
