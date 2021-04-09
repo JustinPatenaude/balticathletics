@@ -270,7 +270,7 @@ promotions:
     3 available (colours shown)
 - title: Puma Final 6 - Size 5
   image: "/Puma Final 6.jpg"
-  price: 24
+  price: 26
   description: |-
     The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
     excellent shape bounce and flight characteristics.
