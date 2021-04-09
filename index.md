@@ -16,15 +16,5 @@ slideshow:
   button_text: Details
   button_link: https://balticathletics.com/products/volleyball/
   image: "/VQ200W-CAN_1-Z.jpg"
-- title: 'Free Volleyball Merch '
-  text: with the purchase of 6 or more VQ200W-CAN MHSAA Official Volleyballs
-  button_text: See Details
-  button_link: https://balticathletics.com/products/volleyball/
-  image: "/2020.01.05 Mikasa MHSAA gift with purchase promo 04.png"
-- title: The Conversation with Caleb and Victor
-  text: featuring Rauno & Corina
-  button_text: Take a look!
-  button_link: https://fb.watch/3CuKOChK1i/
-  image: "/The Conversation with Caleb and Victor.png"
 
 ---
