@@ -57,7 +57,7 @@ promotions:
     1 available
 - title: Adidas Nativo 25 Soccer Ball - Size 5
   image: "/Adidas Nativo 25.jpg"
-  price: 26
+  price: 30
   description: |-
     - Machine-stitched surface
     - Durable MLS football
