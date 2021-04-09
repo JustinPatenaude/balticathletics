@@ -35,7 +35,7 @@ promotions:
     for classroom use.\n\n5 available"
 - title: 360 PS5RB Diamond Tek Soccer Ball - Size 5
   image: "/PS5RBG_Green_Diamond_Dek_Soccer_Ball_13980_0231.jpg"
-  price: 16.5
+  price: 18
   description: |-
     - textured outer shell, making the ball tough, durable and waterproof
     - Great for outdoor use in all conditions and surfaces.
