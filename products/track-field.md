@@ -116,7 +116,7 @@ promotions:
   description: 3 available
 - title: Track & Field Measuring Tape MT100 - 30 metres
   image: "/MT100 FT measuring tape.jpg"
-  price: 10
+  price: 12
   description: |-
     Open reel
     - 22 available
