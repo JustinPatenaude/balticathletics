@@ -65,7 +65,7 @@ promotions:
     - 10 available
 - title: Adidas Top Capitano Soccer Ball - Size 5
   image: "/Adidas Capitano.jpg"
-  price: 26
+  price: 30
   description: |-
     - Nylon-wounded carcass reinforces shape for long-lasting performance and durability
     - TPU cover holds strong against potential tears and abrasions for extended play
