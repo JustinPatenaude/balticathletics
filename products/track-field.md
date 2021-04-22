@@ -91,7 +91,7 @@ promotions:
     **PLEASE NOTE**
     This item is subject to higher shipping costs due to length. This item needs to be trucked. Item price shown is FOB Winnipeg and pick up in Winnipeg is recommended to avoid extra shipping charges.
 - title: Stackhouse TFP-13 Official Fiberglass Crossbar - Practice
-  image: "/crossbar-sh-offcl-comp-z.jpg"
+  image: "/crossbar-sh-offcl-prac-z.jpg"
   price: 240
   description: |-
     - 13' 1.5" length
