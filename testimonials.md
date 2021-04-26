@@ -14,8 +14,8 @@ testimonials:
     extremely pain-free.
   name: ''
 - name: ''
-  testimonial: We received your shipment yesterday for all the Ness gear and the items
-    look great!  Staff and students are very excited to sport their new Ness wear.  We
+  testimonial: We received your shipment yesterday for all the school gear and the
+    items look great!  Staff and students are very excited to sport their new wear.  We
     appreciate working with you.  The process has been very easy from ordering right
     down to distributing items to all students.
 
