@@ -3,6 +3,9 @@ layout: testimonials
 title: Testimonials
 permalink: "/testimonials/"
 testimonials:
+- testimonial: Baltic Athletics provides great service and products. Always has the
+    best prices. I will definitely buy from Baltic Athletics again.
+  name: Derek - Green Ridge School
 - testimonial: The orders were all organized and we will be handing them out to students
     this morning. We couldn't keep the staff from claiming theirs yesterday afternoon,
     so there are a lot of new pieces of school clothing floating around already. Personally,
