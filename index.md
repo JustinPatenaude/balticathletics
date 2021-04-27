@@ -5,7 +5,7 @@ slideshow:
   text: 'Highlighting: Track & Field'
   button_text: Click here to read - April 22, 2021
   button_link: https://sh1.sendinblue.com/v3gqusu9ht7e.html?t=1619290256
-  image: "/dreamstimemaximum_39709089 small.jpg"
+  image: "/high jumper.jpg"
 - title: Looking for Bumper Plates and Kettlebells?
   text: In stock now. Call Rauno 204-781-3342
   button_text: Contact Us
