@@ -11,7 +11,7 @@ slideshow:
   button_text: Contact Us
   button_link: https://balticathletics.com/contact-us/
   image: "/York IN STOCK 2020.png"
-- title: NEW! MHSAA Announces A New Official Volleyball
+- title: New Official Volleyball for MHSAA
   text: Mikasa Volleyball Canada Competition Ball - VQ200W-CAN
   button_text: Details
   button_link: https://balticathletics.com/products/volleyball/
