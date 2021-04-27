@@ -6,7 +6,7 @@ testimonials:
 - testimonial: "We made our first bulk order with Baltic Athletics this year and were
     very pleased with the products and service we received. We appreciate that they
     are a local business and it is because of this that they are able to give more
-    personalised service. They are prompt to respond to enquiries and have often shipped
+    personalized service. They are prompt to respond to enquiries and have often shipped
     items to our school within 24 hours. Baltic has definitely become our new ‘go
     to’!  \n\n"
   name: Jennifer - École Waterford Springs School
