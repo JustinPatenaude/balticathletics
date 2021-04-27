@@ -10,7 +10,9 @@ products:
 - Helmets
 - Jerseys
 - Pants
-photos: []
+photos:
+- title: 2021 Softball Uniform Flyer
+  photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
 - title: Rawlings PM11MBCC Playmaker Series - 11" Left hand catch
   image: "/Rawlings PM11MBCC Playmaker Series.jpg"
