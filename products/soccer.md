@@ -59,12 +59,6 @@ promotions:
     - Nylon-wounded carcass reinforces shape for long-lasting performance and durability
     - TPU cover holds strong against potential tears and abrasions for extended play
     - 10 available
-- title: Adidas Telstar 18 World Cup Replica Soccer Ball - Size 4
-  image: "/TELSTAR 18 Adidas World Cup SB.jpg"
-  price: 25
-  description: |-
-    Soft touch game or training ball.
-    1 available
 - title: Adidas Krasava Soccer Ball - Size 5
   image: "/KRASAVA Adidas SB size 5.jpg"
   price: 45
@@ -134,16 +128,6 @@ promotions:
   image: "/Eletto LNA-290 soccer ball.jpg"
   price: 
   description: ''
-- title: Eletto LNA-25 Soft Touch Soccer Ball - Size 4
-  image: "/2020-03-30 13.42.56.jpg"
-  price: 19
-  description: |-
-    - Soft touch
-    - Great bounce
-
-    7 available
-    - 6 black
-    - 1 yellow
 - title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
   image: "/Eletto LIGA comp soccer ball.jpg"
   price: 29
@@ -158,15 +142,6 @@ promotions:
   image: "/Eletto LNA-350 soccer ball.jpg"
   price: 22
   description: ''
-- title: Inaria Liga 1000 Soccer Ball - Size 5
-  image: "/inaria liga 1000 soccer ball size 5.PNG"
-  price: 18
-  description: |-
-    - Recommended as a club-level training ball
-    - Soft touch and durable, bright and glossy finish
-    - Hand-sewn with 32 panels, a latex bladder and a butyl valve
-
-    1 available
 - title: Jeffix S4R Recreative Rubber Soccer Balls - Size 4
   image: "/S4RKIT_1-Zc.jpg"
   price: 8.5
