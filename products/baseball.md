@@ -14,62 +14,6 @@ photos:
 - title: 2021 Softball Uniform Flyer
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
-- title: Rawlings PM11MBCC Playmaker Series - 11" Left hand catch
-  image: "/Rawlings PM11MBCC Playmaker Series.jpg"
-  price: 36
-  description: |-
-    - All leather pocket construction for durability and shape retention
-    - Basket Web creates a deep, flexible pocket for easier catches
-    - High density cushioned palm and finger back linings for added comfort
-
-    1 available
-- title: Franklin Pro-Flex Leather Ball Glove 22500 - 11.5" Left hand catch
-  image: "/Franklin Pro-Flex Leather Ball Glove 22500.jpg"
-  price: 40
-  description: |-
-    - Full grain leather
-    - soft supple feel
-
-    1 available
-- title: Louisville Slugger (Diva Series) - 11.5" Left Hand Catch
-  image: "/2020-04-11 14.47.00.jpg"
-  price: 38
-  description: |-
-    Full grain leather palm
-    Mesh back
-    Broken in feel
-
-    1 available
-- title: Franklin FRK-BB-22611 Fieldmaster Glove - 12" Left hand catch
-  image: "/2020-04-13 15.45.10.jpg"
-  price: 28
-  description: 2 available - Black
-- title: Franklin RTP Fielding Glove FRK-BB-22552 - 12" Left Hand Catch
-  image: "/Franklin RTP Fielding Glove FRK-BB-22552.jpg"
-  price: 28
-  description: |-
-    Ready to Play (RTP)
-    soft supple
-
-    1 available
-- title: Rawlings PM120TBJB Leather Palm Glove - 12" Left Hand Catch
-  image: "/Rawlings PM120TBJB Leather Palm Glove.jpg"
-  price: 35
-  description: |-
-    R.A. Dickey Autograph Model
-
-    2 available
-- title: Wilson A450 Leather Glove - 12" Left hand catch
-  image: "/Wilson A450 Leather Glove.jpg"
-  price: 39
-  description: |-
-    - Pigskin Leather Shell
-    - Duel Welting
-    - Designed for all hand sizes
-
-    2 available
-    - 1 black
-    - 1 tan
 - title: Easton Synergy Elite Baseball Glove - 12.5" Left Hand Catch
   image: "/Easton Synergy Elite Baseball Glove.jpg"
   price: 49
@@ -82,10 +26,6 @@ promotions:
     - Soft & supple, very flexible (broken in feel)
 
     13 available (black/purple)
-- title: Champion Sports CBG900 Glove - 13" Left hand catch
-  image: "/Champion Sports CBG900 Glove.jpg"
-  price: 33
-  description: 1 available
 - title: Easton BMG13 Glove - 13" Left hand catch
   image: "/2020-03-07 11.14.30.jpg"
   price: 35
@@ -93,35 +33,10 @@ promotions:
     - Soft composite leather
 
     9 available
-- title: Franklin FRK-BB-22601 Fieldmaster Ball Glove - 13" Left hand catch
-  image: "/Franklin FRK-BB-22601 Fieldmaster Glove a.jpg"
-  price: 
-  description: 1 available - Blonde/Black
-- title: Franklin FRK-BB-22610 Fieldmaster Ball Glove - 13" Left hand catch
-  image: "/Franklin FRK-BB-22610 Fieldmaster Ball Glove.jpg"
-  price: 28
-  description: |
-    - Synthetic leather
-    - Soft feel
-
-    8 available  - Black
-- title: Wilson A800 Showtime Glove - 13" Left Hand Catch
-  image: "/Wilson A800 Showtime glove a.jpg"
-  price: 65
-  description: |-
-    Genuine all leather glove
-    Soft and supple leather (broken in feel)
-    MSRP $120.00
-
-    8 available
-- title: Wilson A360 Glove - 13" RIGHT Hand Catch
-  image: "/A360 Wilson glove RHC.jpg"
-  price: 49
-  description: 2 Available
 - title: Franklin FRK-BB-22600 Fieldmaster Glove - 14" Left hand catch
   image: "/2020-04-13 14.19.33.jpg"
   price: 28
-  description: 8 available - Blonde/Black
+  description: 3 available - Blonde/Black
 - title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
   image: "/2020-04-11 14.51.18.jpg"
   price: 60
