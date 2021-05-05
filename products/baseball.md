@@ -41,14 +41,6 @@ promotions:
   image: "/2020-04-11 14.51.18.jpg"
   price: 60
   description: "- All leather"
-- title: Easton Z5JR Batting Helmet - Junior
-  image: "/2020-04-11 14.34.59.jpg"
-  price: 39
-  description: 1 available in RED
-- title: Easton Z5 Batting Helmet - Senior
-  image: "/2020-04-11 14.36.02.jpg"
-  price: 39
-  description: 1 available in BLACK
 - title: Spalding 100 Leather Baseball
   image: "/spalding 100 baseball.jpg"
   price: 5
