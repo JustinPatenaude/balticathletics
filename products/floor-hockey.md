@@ -83,7 +83,7 @@ promotions:
     - steel frame
     - comes with net
 
-    8 available
+    2 available
 - title: Bauer Floor Hockey Goal Pads - 27"
   image: "/2020-03-07 12.05.49.jpg"
   price: 65
