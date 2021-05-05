@@ -191,15 +191,6 @@ promotions:
     - 32’ x 1’ x 4” top band
 
     1 available
-- title: Volleyball Referee Stand & Safety Pads
-  image: "/LO-764SP1 ref stand pad.jpg"
-  price: 1100
-  description: "REFEREE STAND:\n- Constructed from steel tubing\n- Fully welded frame
-    able to fold for easy of storage\n- Complete with rubber floor protectors\n- Platform
-    is 18\" x 24\" and stands 48\" from floor\n- Powder Coated red finish.\n\nPADDING:\n-
-    Padding extends 6' high covering front and sides of stand.\n- 18 oz vinyl exterior
-    attaching to stand with Velcro Straps.\n- 2\" polyurethane foam provides impact
-    absorption. \n\n1 available at this price exactly as shown with Royal Blue padding"
 date: '2019-03-29T23:05:08.000+00:00'
 
 ---
