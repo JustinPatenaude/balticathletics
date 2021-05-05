@@ -44,17 +44,6 @@ promotions:
     - 7 Blue
     - 6 Orange
     - 6 Green
-- title: Acacia Canada Soccer Ball 22-556 - Size 5
-  image: "/canada-At-Acaciasports.jpg"
-  price: 16
-  description: |-
-    - World Cup Soccer Balls
-    - Machine sewn ball with a durable, soft synthetic leather outer shell
-    - An excellent training level team ball with a 4-ply poly/cotton backing
-    - Excellent in all weather conditions
-    - Size 5
-
-    1 available
 - title: Adidas Nativo 25 Soccer Ball - Size 5
   image: "/Adidas Nativo 25.jpg"
   price: 30
@@ -62,7 +51,7 @@ promotions:
     - Machine-stitched surface
     - Durable MLS football
     - Butyl bladder for best air retention
-    - 10 available
+    - 2 available
 - title: Adidas Top Capitano Soccer Ball - Size 5
   image: "/Adidas Capitano.jpg"
   price: 30
