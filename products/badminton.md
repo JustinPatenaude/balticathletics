@@ -32,15 +32,6 @@ promotions:
     - Single piece racquet
 
     20 available
-- title: Head Stream Badminton Racquet
-  image: "/Head Stream Badminton Racquet.jpg"
-  price: 39
-  description: |-
-    - Graphite shaft
-    - Aluminum Head
-    - Power Helix shaft structure for improved strength & flexibility generating a more powerful shot
-
-    12 available
 - title: Badminton Centre Posts LO-B733
   image: "/LO-Bad Center.jpg"
   price: 69
