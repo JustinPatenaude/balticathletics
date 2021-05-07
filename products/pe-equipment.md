@@ -327,7 +327,7 @@ promotions:
     1 available
 - title: Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
   image: "/2020-03-07 12.12.53.jpg"
-  price: 35
+  price: 48
   description: Sold in sets of 6
 
 ---
