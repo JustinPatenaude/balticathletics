@@ -264,7 +264,7 @@ promotions:
     - 10 grey sets available
     - 9 red sets available
 - title: Speed Stacking Cups - Set of 12
-  image: "/Speed Stacks Set.PNG"
+  image: "/Set of 12 Blue.png"
   price: 35
   description: |-
     *Available in many colours
