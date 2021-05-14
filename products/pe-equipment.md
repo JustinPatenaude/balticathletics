@@ -20,14 +20,6 @@ products:
 - Tether Balls
 photos: []
 promotions:
-- title: Speed Stacking Cups - Set of 12
-  image: "/Set of 12 Blue.png"
-  price: 35
-  description: |-
-    *Available in many colours
-    *Standard colours:
-    Blue, Red, Purple, Orange, Green, Yellow, Pink
-    * PE Kits, Timing mats, replacement cups are available and sold separately.
 - title: Cosom CM741722-00 Gym Tennis Balls
   image: "/2020-04-16 16.31.55.jpg"
   price: 1.5
@@ -271,6 +263,14 @@ promotions:
     Sets of 4 wheels
     - 10 grey sets available
     - 9 red sets available
+- title: Speed Stacking Cups - Set of 12
+  image: "/Set of 12 Blue.png"
+  price: 35
+  description: |-
+    *Available in many colours
+    *Standard colours:
+    Blue, Red, Purple, Orange, Green, Yellow, Pink
+    * PE Kits, Timing mats, replacement cups are available and sold separately.
 - title: AP1 Latex Pig
   image: "/AP1_Rubber_Pig_DSF7529.jpg"
   price: 9.5
