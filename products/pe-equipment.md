@@ -15,10 +15,19 @@ products:
 - Paddles & Scoops
 - Parachute
 - Scooters
+- Stacking Cups
 - Team Games
 - Tether Balls
 photos: []
 promotions:
+- title: Speed Stacking Cups - Set of 12
+  image: "/Set of 12 Blue.png"
+  price: 35
+  description: |-
+    *Available in many colours
+    *Standard colours:
+    Blue, Red, Purple, Orange, Green, Yellow, Pink
+    * PE Kits, Timing mats, replacement cups are available and sold separately.
 - title: Cosom CM741722-00 Gym Tennis Balls
   image: "/2020-04-16 16.31.55.jpg"
   price: 1.5
