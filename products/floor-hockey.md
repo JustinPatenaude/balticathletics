@@ -34,9 +34,9 @@ promotions:
     - recommended for grades 4-7
     - blade inserted into shaft
     - green or orange blades
-- title: Cosom Floor Hockey Sticks (w/fiberglass rod) 47"
+- title: Cosom Floor Hockey Sticks CH-700953-00 (w/fiberglass rod) 47"
   image: "/CosomPowerShaftHockeyStick.jpg"
-  price: 13
+  price: 14
   description: |-
     Black shaft with Green or Orange blades
     75 available
