@@ -251,10 +251,10 @@ promotions:
   description: |-
     * STANDARD weight scooters - Set of 6 - $132.00
     * Also available: HDS12SET HEAVY DUTY scooters - Set of 6 - $192/set
-- title: Scooter 16x16 square w/handles
+- title: Scooter HDS16SET Heavy Duty 16x16 square w/handles
   image: "/cosom 16x16 deluxe scooter.jpeg"
-  price: 27
-  description: ''
+  price: 228
+  description: HEAVY DUTY weight - Set of 6 assorted colours (comes to $38/scooter)
 - title: Scooter wheels - Sets of 4
   image: "/2020-03-07 11.05.28.jpg"
   price: 16
