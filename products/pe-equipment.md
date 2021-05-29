@@ -254,7 +254,7 @@ promotions:
 - title: Scooter 16x16 square w/handles
   image: "/cosom 16x16 deluxe scooter.jpeg"
   price: 27
-  description: 25 available
+  description: ''
 - title: Scooter wheels - Sets of 4
   image: "/2020-03-07 11.05.28.jpg"
   price: 16
