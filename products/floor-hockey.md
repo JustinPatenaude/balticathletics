@@ -21,7 +21,7 @@ promotions:
     shaft 100cm Flex 26mm is suggested for player’s height 5’8” and above"
 - title: Cosom Floor Hockey Sticks CH-700963-BK (w/fiberglass rod) 42"
   image: "/CosomPowerShaftHockeyStick 42.jpg"
-  price: 11
+  price: 11.5
   description: |-
     - 42" black shaft
     - blade over shaft, with fiberglass rod inside, makes this stick stronger
