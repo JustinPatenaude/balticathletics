@@ -245,12 +245,10 @@ promotions:
   image: "/cosom scooter no handles.jpg"
   price: 24
   description: ''
-- title: Scooter 12x12 square, w/handles
+- title: Scooter PGH-SET 12x12 square, w/handles
   image: "/cosom 12x12 deluxe scooter.jpeg"
-  price: 22
-  description: |-
-    assorted colours
-    - 24 available
+  price: 135
+  description: Set of 6 scooters (colours shown - comes to $22.50 per scooter)
 - title: Scooter 16x16 square w/handles
   image: "/cosom 16x16 deluxe scooter.jpeg"
   price: 27
