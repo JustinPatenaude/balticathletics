@@ -28,9 +28,9 @@ promotions:
     - green or orange blades
 - title: Cosom Floor Hockey Stick CH-700833-BK - 42"
   image: "/2020-06-02 12.57.52.jpg"
-  price: 7
+  price: 8.75
   description: |-
-    - 42" black shaft
+    - 42" black shaft (also available in 36")
     - recommended for grades 4-7
     - blade inserted into shaft
     - green or orange blades
