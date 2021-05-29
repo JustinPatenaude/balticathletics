@@ -78,13 +78,13 @@ promotions:
     1 blue available
 - title: Wilson I-COR Power Touch Volleyball
   image: "/I Cor Power touch volleyball.jpg"
-  price: 42
+  price: 47
   description: |-
     - Microfibre composite Leather cover
     - Latex power lining creates a trampoline effect so the ball explodes off a player's hands at impact for maximum speed
     - Butyl rubber bladder
 
-    14 available (assorted colours)
+    4 available (assorted colours)
 - title: Wilson 84-7967 Prestige Indoor Volleyball
   image: "/prestige red.white.jpg"
   price: 27
