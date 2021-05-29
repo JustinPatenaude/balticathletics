@@ -255,14 +255,6 @@ promotions:
   image: "/cosom 16x16 deluxe scooter.jpeg"
   price: 228
   description: HEAVY DUTY weight - Set of 6 assorted colours (comes to $38/scooter)
-- title: Scooter wheels - Sets of 4
-  image: "/2020-03-07 11.05.28.jpg"
-  price: 16
-  description: |-
-    Rollerblade ball-bearing scooter wheels
-    Sets of 4 wheels
-    - 10 grey sets available
-    - 9 red sets available
 - title: Speed Stacking Cups - Set of 12
   image: "/set of 12.png"
   price: 35
