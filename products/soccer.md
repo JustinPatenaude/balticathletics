@@ -185,6 +185,7 @@ promotions:
     - 32 panel
     - High gloss finish
     - Available in White, Hi-Vis-Green or Hi-Vis Orange
+    - Size 4 in stock, Size 5 can be ordered
 - title: Mikasa SS50 - Available in sizes 3, 4, 5
   image: "/Mikasa SS50.jpg"
   price: 24
