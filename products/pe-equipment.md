@@ -247,10 +247,10 @@ promotions:
   description: ''
 - title: Scooter PGH-SET - 12x12 square, w/handles
   image: "/cosom 12x12 deluxe scooter.jpeg"
-  price: 135
+  price: 132
   description: |-
     * STANDARD weight scooters - Set of 6 - $132.00
-    * Also available: HEAVY DUTY scooters - Set of 6 - $192/set
+    * Also available: HDS12SET HEAVY DUTY scooters - Set of 6 - $192/set
 - title: Scooter 16x16 square w/handles
   image: "/cosom 16x16 deluxe scooter.jpeg"
   price: 27
