@@ -34,7 +34,7 @@ promotions:
     20 available
 - title: Badminton Centre Posts LO-B733
   image: "/LO-Bad Center.jpg"
-  price: 69
+  price: 95
   description: |-
     48mm[1-7/8"] dia. Steel Badminton Center Post
 
