@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Removable Mat w/flushmount railing
+  photo: "/2017-09-30 15.39.51.jpg"
 - title: Permanent Wall Pads - RD Parker
   photo: "/2017-05-20 10.14.58.jpg"
 - title: Permanent Wall Pads - Tec Voc
