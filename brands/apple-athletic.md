@@ -64,6 +64,10 @@ photos:
   photo: "/2020-08-27 19.04.53.jpg"
 - title: Permanent Wall Pads and Door Pads - RD Parker
   photo: "/2017-05-20 10.17.59.jpg"
+- title: Removable Mats w/flushmount railing
+  photo: "/2017-09-30 15.39.51.jpg"
+- title: Removable Wall Padding
+  photo: "/2-protective-padding-removable-wall-padding.jpg"
 - title: Wedge Pad Wall and Pillar
   photo: "/2020-08-26 13.50.47.jpg"
 - title: Permanent Pads with Breather Mesh Door
@@ -80,10 +84,6 @@ photos:
   photo: "/Stage before & after.png"
 - title: Locker Padding - SJR
   photo: "/2017-06-20 21.54.40.jpg"
-- title: Removable Mats w/flushmount railing
-  photo: "/2017-09-30 15.39.51.jpg"
-- title: Removable Wall Padding
-  photo: "/2-protective-padding-removable-wall-padding.jpg"
 - title: Custom Padded Scoretable - Grant Park
   photo: "/2017-09-30 15.27.27.jpg"
 - title: Custom Padded Scoretable - SJR
