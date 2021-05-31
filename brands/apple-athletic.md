@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Permanent Pads with Breather Mesh Door
+  photo: "/2020-08-27 15.05.59.jpg"
 - title: Removable Stage Pads w/Breather Mesh
   photo: "/2020-08-27 13.50.10.jpg"
 - title: 'Thom 2: Permanent pads, Window pads, Cutouts w/cover, Pillars and Conduits'
