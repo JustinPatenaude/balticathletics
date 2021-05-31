@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Permanent Pads w/Emergency Escape Door and Cutouts
+  photo: "/2020-08-26 15.32.29.jpg"
 - title: Wedge Pad Wall and Pillar
   photo: "/2020-08-26 13.50.47.jpg"
 - title: Permanent Pads w/Wedge Pad
