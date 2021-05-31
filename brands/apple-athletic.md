@@ -18,7 +18,7 @@ photos:
   photo: "/2020-08-26 17.14.45.jpg"
 - title: 'Thom 2: Permanent pads, Window pads, Cutouts w/cover, Pillars and Conduits'
   photo: "/2020-08-27 10.45.16.jpg"
-- title: 'Thom 2: Permanent pads, Window pads, Cutouts w/cover, Pillars and Conduits'
+- title: 'Thom 3: Permanent pads, Window pads, Cutouts w/cover, Pillars and Conduits'
   photo: "/2020-08-27 10.47.12.jpg"
 - title: Permanent Wall Pads - RD Parker
   photo: "/2017-05-20 10.14.58.jpg"
