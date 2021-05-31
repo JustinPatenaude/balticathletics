@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Wedge Pad Wall and Pillar
+  photo: "/2020-08-26 13.50.47.jpg"
 - title: Permanent Pads w/Wedge Pad
   photo: "/2020-08-26 08.42.00.jpg"
 - title: Permanent pads w/cutouts and doors
