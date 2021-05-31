@@ -34,8 +34,6 @@ photos:
   photo: "/20151008_200846.jpg"
 - title: Permanent Wall Pads - Berens River
   photo: "/2019-06-22 15.22.43.jpg"
-- title: Permanent Pads w/Wedge Pad
-  photo: "/2020-08-26 08.42.00.jpg"
 - title: Permanent Pads w/Emergency Escape Door and Cutouts
   photo: "/2020-08-26 15.32.29.jpg"
 - title: Permanent Wall Pads - CLC
@@ -68,6 +66,8 @@ photos:
   photo: "/2017-09-30 15.39.51.jpg"
 - title: Removable Wall Padding
   photo: "/2-protective-padding-removable-wall-padding.jpg"
+- title: Permanent Pads w/Wedge Pad
+  photo: "/2020-08-26 08.42.00.jpg"
 - title: Wedge Pad Wall and Pillar
   photo: "/2020-08-26 13.50.47.jpg"
 - title: Permanent Pads with Breather Mesh Door
