@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: 'Thom 2: Permanent pads, Window pads, Cutouts w/cover, Pillars and Conduits'
+  photo: "/2020-08-27 10.47.12.jpg"
 - title: 'Thom 1: Permanent pads, Window pads, Cutouts w/cover, Pillars and Conduits'
   photo: "/2020-08-27 10.45.16.jpg"
 - title: Permanent Pads w/Art, Cutouts, Cutout Plug and Door
