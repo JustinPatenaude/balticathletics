@@ -14,28 +14,12 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
-- title: Permanent Pads, Pillar Wraparounds, Door pads and Cutouts
-  photo: "/2020-08-27 19.04.53.jpg"
-- title: Permanent Pads with Breather Mesh Door
-  photo: "/2020-08-27 15.05.59.jpg"
-- title: Removable Stage Pads w/Breather Mesh
-  photo: "/2020-08-27 13.50.10.jpg"
-- title: 'Thom 2: Permanent pads, Window pads, Cutouts w/cover, Pillars and Conduits'
-  photo: "/2020-08-27 10.47.12.jpg"
-- title: 'Thom 1: Permanent pads, Window pads, Cutouts w/cover, Pillars and Conduits'
-  photo: "/2020-08-27 10.45.16.jpg"
 - title: Permanent Pads w/Art, Cutouts, Cutout Plug and Door
   photo: "/2020-08-26 17.14.45.jpg"
-- title: Permanent Pads w/Emergency Escape Door and Cutouts
-  photo: "/2020-08-26 15.32.29.jpg"
-- title: Wedge Pad Wall and Pillar
-  photo: "/2020-08-26 13.50.47.jpg"
-- title: Permanent Pads w/Wedge Pad
-  photo: "/2020-08-26 08.42.00.jpg"
-- title: Permanent pads w/cutouts and doors
-  photo: "/2020-08-25 13.55.32.jpg"
-- title: Custom pads for Curves and Cutouts!
-  photo: "/2020-08-25 11.53.53.jpg"
+- title: 'Thom 1: Permanent pads, Window pads, Cutouts w/cover, Pillars and Conduits'
+  photo: "/2020-08-27 10.45.16.jpg"
+- title: 'Thom 2: Permanent pads, Window pads, Cutouts w/cover, Pillars and Conduits'
+  photo: "/2020-08-27 10.47.12.jpg"
 - title: Permanent Wall Pads - RD Parker
   photo: "/2017-05-20 10.14.58.jpg"
 - title: Permanent Wall Pads - Tec Voc
@@ -50,6 +34,10 @@ photos:
   photo: "/20151008_200846.jpg"
 - title: Permanent Wall Pads - Berens River
   photo: "/2019-06-22 15.22.43.jpg"
+- title: Permanent Pads w/Wedge Pad
+  photo: "/2020-08-26 08.42.00.jpg"
+- title: Permanent Pads w/Emergency Escape Door and Cutouts
+  photo: "/2020-08-26 15.32.29.jpg"
 - title: Permanent Wall Pads - CLC
   photo: "/2020-06-03 13.47.13.jpg"
 - title: Permanent Wall Pads - Amber Trailblazers
@@ -68,8 +56,20 @@ photos:
   photo: "/20150227_161213.jpg"
 - title: Custom Door and Wall with cutouts
   photo: "/2019-03-21 17.17.29.jpg"
+- title: Custom pads for Curves and Cutouts!
+  photo: "/2020-08-25 11.53.53.jpg"
+- title: Permanent pads w/cutouts and doors
+  photo: "/2020-08-25 13.55.32.jpg"
+- title: Permanent Pads, Pillar Wraparounds, Door pads and Cutouts
+  photo: "/2020-08-27 19.04.53.jpg"
 - title: Permanent Wall Pads and Door Pads - RD Parker
   photo: "/2017-05-20 10.17.59.jpg"
+- title: Wedge Pad Wall and Pillar
+  photo: "/2020-08-26 13.50.47.jpg"
+- title: Permanent Pads with Breather Mesh Door
+  photo: "/2020-08-27 15.05.59.jpg"
+- title: Removable Stage Pads w/Breather Mesh
+  photo: "/2020-08-27 13.50.10.jpg"
 - title: Custom Stage Pads w/Breather Mesh over vent - Sargent Park
   photo: "/2019-10-17 19.05.06.jpg"
 - title: Custom Stage Pads - Grant Park
@@ -80,6 +80,10 @@ photos:
   photo: "/Stage before & after.png"
 - title: Locker Padding - SJR
   photo: "/2017-06-20 21.54.40.jpg"
+- title: Removable Mats w/flushmount railing
+  photo: "/2017-09-30 15.39.51.jpg"
+- title: Removable Wall Padding
+  photo: "/2-protective-padding-removable-wall-padding.jpg"
 - title: Custom Padded Scoretable - Grant Park
   photo: "/2017-09-30 15.27.27.jpg"
 - title: Custom Padded Scoretable - SJR
@@ -94,10 +98,6 @@ photos:
   photo: "/25529856_1748439068784242_1342054379_n.jpg"
 - title: Floater Mats
   photo: "/Floater Mat 01.png"
-- title: Removable Mats w/flushmount railing
-  photo: "/2017-09-30 15.39.51.jpg"
-- title: Removable Wall Padding
-  photo: "/2-protective-padding-removable-wall-padding.jpg"
 - title: Resting Exercise Mats
   photo: "/1-matting-slab-mats-resting-mats-exercise-mats-LABEL-1-Resting-Mats-2.jpg"
 - title: Standard Training Pit
