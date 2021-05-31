@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Permanent pads w/cutouts and doors
+  photo: "/2020-08-25 13.55.32.jpg"
 - title: Custom pads for Curves and Cutouts!
   photo: "/2020-08-25 11.53.53.jpg"
 - title: Permanent Wall Pads - RD Parker
