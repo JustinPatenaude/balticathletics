@@ -14,7 +14,7 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
-- title: Permanent Pads w/Art, Cut Outs, Plug and Door
+- title: Permanent Pads w/Art, Cutouts, Cutout Plug and Door
   photo: "/2020-08-26 17.14.45.jpg"
 - title: Permanent Pads w/Emergency Escape Door and Cutouts
   photo: "/2020-08-26 15.32.29.jpg"
