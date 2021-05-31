@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Permanent Pads w/Wedge Pad
+  photo: "/2020-08-26 08.42.00.jpg"
 - title: Permanent pads w/cutouts and doors
   photo: "/2020-08-25 13.55.32.jpg"
 - title: Custom pads for Curves and Cutouts!
