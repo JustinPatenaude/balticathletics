@@ -14,6 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
+- title: Permanent Pads, Pillar Wraparounds, Door pads and Cutouts
+  photo: "/2020-08-27 19.04.53.jpg"
 - title: Permanent Pads with Breather Mesh Door
   photo: "/2020-08-27 15.05.59.jpg"
 - title: Removable Stage Pads w/Breather Mesh
