@@ -14,8 +14,8 @@ catalogues:
   pdf: "/Colour Options for Vinyl.pdf"
   title: Colour Options
 photos:
-- title: Removable Mat w/flushmount railing
-  photo: "/2017-09-30 15.39.51.jpg"
+- title: Custom pads for Curves and Cutouts!
+  photo: "/2020-08-25 11.53.53.jpg"
 - title: Permanent Wall Pads - RD Parker
   photo: "/2017-05-20 10.14.58.jpg"
 - title: Permanent Wall Pads - Tec Voc
@@ -74,6 +74,8 @@ photos:
   photo: "/25529856_1748439068784242_1342054379_n.jpg"
 - title: Floater Mats
   photo: "/Floater Mat 01.png"
+- title: Removable Mats w/flushmount railing
+  photo: "/2017-09-30 15.39.51.jpg"
 - title: Removable Wall Padding
   photo: "/2-protective-padding-removable-wall-padding.jpg"
 - title: Resting Exercise Mats
