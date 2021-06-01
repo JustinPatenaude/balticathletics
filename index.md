@@ -2,10 +2,10 @@
 layout: home
 slideshow:
 - title: THE BALTIC BANNER
-  text: 'Highlighting: Ultimate, Disc Golf and Lacrosse'
-  button_text: Click here to read - May 18, 2021
-  button_link: https://sh1.sendinblue.com/v3tdysu9ht7e.html?t=1621362624
-  image: "/targets-header.jpg"
+  text: 'Highlighting: Wall Padding, Exercise Mats, Protection padding for all sports'
+  button_text: Click here to read - June 1, 2021
+  button_link: https://sh1.sendinblue.com/v4612su9ht7e.html?t=1622556201
+  image: "/2021-04-27 15.27.44-1.jpg"
 - title: Looking for Bumper Plates and Kettlebells?
   text: In stock now. Call Rauno 204-781-3342
   button_text: Contact Us
