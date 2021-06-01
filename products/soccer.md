@@ -185,7 +185,7 @@ promotions:
     - 32 panel
     - High gloss finish
     - Available in White, Hi-Vis-Green or Hi-Vis Orange
-    - 7 available in Size 4 at this price, Additional balls and Size 5 can be ordered for $29 each (2021 pricing)
+    - 7 available in Size 4 at this price, Additional size 4 balls and Size 5 can be ordered for $29 each (2021 pricing)
 - title: Mikasa SS50 - Available in sizes 3, 4, 5
   image: "/Mikasa SS50.jpg"
   price: 24
