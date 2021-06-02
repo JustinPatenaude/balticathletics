@@ -82,7 +82,7 @@ promotions:
     5 available
 - title: Champion VC500PRO Mammoth Volleyball Cart
   image: "/vc500pro_l.jpg"
-  price: 170
+  price: 205
   description: |-
     - Aluminum frame for exceptional durability
     - Hammock-style reinforced nylon bag holds up to 40 volleyballs
