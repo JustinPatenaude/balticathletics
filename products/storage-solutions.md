@@ -68,7 +68,7 @@ promotions:
     1 available
 - title: Champion VCPRO Collapsible Volleyball Cart
   image: "/vcpro_l.jpg"
-  price: 205
+  price: 135
   description: |-
     - Aluminum frame for exceptional durability
     - Hammock-style reinforced nylon bag holds up to 24 volleyballs
