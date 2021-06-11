@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Newsletter Archive
+title: The Baltic Banner
 permalink: "/newsletter-archive/"
 
 ---
