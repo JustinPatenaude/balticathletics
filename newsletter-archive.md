@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Baltic Banner
-permalink: "/newsletter-archive/"
+permalink: "/the-baltic-banner/"
 
 ---
 * June 2021
