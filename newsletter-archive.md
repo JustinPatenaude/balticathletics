@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Newsletter Archive
-permalink: /newsletter-archive/
----
+permalink: "/newsletter-archive/"
 
-Looking to stay up to date with our offerings? Sign up and we'll send you a monthly email with our specials and promotions.
+---
+* June 2021
+* May 2021
+* April 2021
