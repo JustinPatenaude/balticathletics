@@ -9,7 +9,7 @@ slideshow:
 - title: Baltic Banner Past Issues
   text: Have you missed the Banner and want to catch up?
   button_text: Past Issues
-  button_link: "/the-baltic-banner/"
+  button_link: https://balticathletics.com/the-baltic-banner/
   image: "/Banner title page.png"
 - title: Looking for Bumper Plates and Kettlebells?
   text: In stock now. Call Rauno 204-781-3342
