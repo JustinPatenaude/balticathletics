@@ -5,7 +5,7 @@ slideshow:
   text: Have you missed the Banner and want to catch up?
   button_text: Past Issues
   button_link: ''
-  image: ''
+  image: "/Banner title page.png"
 - title: THE BALTIC BANNER
   text: 'Highlighting: Floor Hockey, Floorball and Table Tennis'
   button_text: Click here to read - June 15, 2021
