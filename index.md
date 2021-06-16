@@ -4,7 +4,7 @@ slideshow:
 - title: Baltic Banner Past Issues
   text: Have you missed the Banner and want to catch up?
   button_text: Past Issues
-  button_link: ''
+  button_link: "/the-baltic-banner/"
   image: "/Banner title page.png"
 - title: THE BALTIC BANNER
   text: 'Highlighting: Floor Hockey, Floorball and Table Tennis'
