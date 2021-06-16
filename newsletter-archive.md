@@ -4,6 +4,8 @@ title: The Baltic Banner
 permalink: "/the-baltic-banner/"
 
 ---
+To get the Banner delivered direct to your inbox sign up [here](https://balticathletics.com/newsletter/).
+
 * June 15, 2021 Floor Hockey / Floor Ball / Table Tennis
 * [June 1, 2021 Protective Padding](https://sh1.sendinblue.com/v4612su9ht7e.html?t=1623816481)
 * [May 18, 2021 Ultimate / Disc Golf / Lacrosse](https://sh1.sendinblue.com/v3tdysu9ht7e.html?t=1623816481)
