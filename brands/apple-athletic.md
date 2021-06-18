@@ -11,8 +11,8 @@ logo: "/Apple logo.png"
 website: https://appleathletic.com/
 catalogues:
 - title: Vinyl Colour Options
-  year: 2020
-  pdf: "/2020 Baltic Custom Vinyl Colours.pdf"
+  year: 2021
+  pdf: "/Custom Vinyl Colours.pdf"
 photos:
 - title: 'Thom 1: Permanent Pads w/Art, Cutouts, Cutout Plug and Door'
   photo: "/2020-08-26 17.14.45.jpg"
