@@ -10,8 +10,10 @@ photos: []
 promotions:
 - title: VBC Victor Badminton Cart
   image: "/VBC cart.jpg"
-  price: 
-  description: ''
+  price: 160
+  description: |-
+    - holds approximately 50 racquets
+    - 25" Long, 34" Tall, 12" wide
 - title: Blue Ball Carrier
   image: "/BSU-100 Ball Storage Cart.jpg"
   price: 350
