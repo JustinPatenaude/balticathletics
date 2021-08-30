@@ -8,6 +8,10 @@ products:
 - Ball carts
 photos: []
 promotions:
+- title: VBC Victor Badminton Cart
+  image: "/VBC cart.jpg"
+  price: 
+  description: ''
 - title: Blue Ball Carrier
   image: "/BSU-100 Ball Storage Cart.jpg"
   price: 350
