@@ -6,9 +6,7 @@ products:
 - Racks
 - Mesh bags
 - Ball carts
-photos:
-- photo: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
-  title: BC44 360 Deluxe outdoor ball locker
+photos: []
 promotions:
 - title: Blue Ball Carrier
   image: "/BSU-100 Ball Storage Cart.jpg"
@@ -103,17 +101,6 @@ promotions:
     - Black
 
     3 available
-- title: Deluxe Outdoor Ball Locker BC44
-  image: "/DELUXE_OUTDOOR_BALL_LOCKER_-_BC44.jpg"
-  price: 310
-  description: |-
-    -This powder coated all-steel construction ball locker has lockable hinge cover
-    -Holds up to 24 basketballs, soccer balls or Playground balls
-    - Large wheels for indoor and outdoor use
-    - Size: 42” L x 24” W x 36” H
-    - MRSP $517.99
-
-    1 available
 - title: Custom Steel Racquet Cart
   image: "/20200401 racquet cart.jpg"
   price: 460
