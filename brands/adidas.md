@@ -19,9 +19,9 @@ title: Adidas
 logo: "/adidas-logo.png"
 website: ''
 catalogues:
-- title: Adidas Team Fall 2020 Catalogue
-  year: 2020
-  pdf: "/Adidas Team Fall 2020_Catalog.pdf"
+- title: Adidas Team Fall 2021 Catalogue
+  year: 2021
+  pdf: ''
 - title: Adidas Spring Summer Team Catalogue
   year: 2020
   pdf: "/adidas-spring-summer-2020-catalogue.pdf"
