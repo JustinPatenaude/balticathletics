@@ -23,7 +23,9 @@ title: Under Armour
 logo: "/logo-under-armour.png"
 website: ''
 catalogues:
-- title: Spring/Summer Catalogue
+- title: Fall/Winter Catalogue 2021
+  year: 2021
+- title: Spring/Summer Catalogue 2020
   year: 2020
   pdf: "/under-armour-ss20-team-catalogue.pdf"
 info: "**Under Armour** was founded on September 25, 1996 by Kevin Plank, a then 24-year-old
