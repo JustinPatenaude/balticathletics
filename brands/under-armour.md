@@ -25,6 +25,7 @@ website: ''
 catalogues:
 - title: Fall/Winter 2021
   year: 2021
+  pdf: "/2021 Under Armour Fall_Winter 21 Team Catalogue RESIZED.pdf"
 - title: Spring/Summer Catalogue 2021
   year: 2021
   pdf: ''
