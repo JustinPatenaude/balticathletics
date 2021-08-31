@@ -23,7 +23,7 @@ title: Under Armour
 logo: "/logo-under-armour.png"
 website: ''
 catalogues:
-- title: Fall/Winter Catalogue 2021
+- title: Fall/Winter 2021
   year: 2021
 - title: Spring/Summer Catalogue 2021
   year: 2021
