@@ -21,10 +21,10 @@ website: ''
 catalogues:
 - title: Adidas Team Fall 2021 Catalogue
   year: 2021
-  pdf: ''
-- title: Adidas Spring Summer Team Catalogue
+  pdf: "/2021 Adidas Fall_Winter 2021 Team Catalogue.pdf"
+- title: Adidas miTeam 2021
   year: 2020
-  pdf: "/adidas-spring-summer-2020-catalogue.pdf"
+  pdf: ''
 - title: Adidas Men's Sizing Guide
   year: 0
   pdf: "/Adidas size_chart_mens_apparel-1_grande.png"
