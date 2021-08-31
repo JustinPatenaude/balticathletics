@@ -21,6 +21,7 @@ website: ''
 catalogues:
 - title: Adidas miTeam Soccer 2021
   year: 2021
+  pdf: "/2021 Adidas miTeam Soccer Catalogue 2021.pdf"
 - title: Adidas Team Fall 2021 Catalogue
   year: 2021
   pdf: "/2021 Adidas Fall_Winter 2021 Team Catalogue.pdf"
