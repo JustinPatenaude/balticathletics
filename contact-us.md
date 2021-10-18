@@ -4,7 +4,7 @@ title: Contact Us
 permalink: "/contact-us/"
 
 ---
-Need some help finding the right products? Looking for information on a particular subject? Send us an email and we will answer you within 48 hours.
+Need some help finding the right products? Looking for information on a particular subject? Send us an email and we will answer you within 48 business hours.
 
 #### In Person (appointment only please)
 
@@ -22,7 +22,7 @@ Clothing/Uniforms - Corina 204-781-2535
 
 #### By Mail
 
-3 - 610 Main St, PO Box 449, Ile des Chenes, MB  R0A 0T0
+3 - 610 Main St, PO Box 449, Ile des Chenes, MB  R0A 0T0 CANADA
 
 #### By E-mail
 
