@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/TITLE"
+permalink: "/brands/balticcatalogue"
 categories: []
 title: 01 Baltic Athletics Catalogues
 logo: "/baltic black with est.jpg"
