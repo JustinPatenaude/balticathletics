@@ -92,6 +92,7 @@ fields:
       file: _data/categories.yml
   default: []
 pages:
+- brands/01-baltic-catalogues.md
 - brands/acacia.md
 - brands/acacia.md
 - brands/alphabroder.md
