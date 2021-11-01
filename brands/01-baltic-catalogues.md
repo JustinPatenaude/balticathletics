@@ -1,6 +1,6 @@
 ---
 layout: brand
-permalink: "/brands/01balticcatalogues"
+permalink: "/brands/catalogues"
 categories: []
 title: 01 Baltic Catalogues
 logo: "/baltic black with est.jpg"
