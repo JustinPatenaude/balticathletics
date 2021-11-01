@@ -2,7 +2,7 @@
 layout: brand
 permalink: "/brands/TITLE"
 categories: []
-title: A Baltic Athletics Catalogues
+title: 01 Baltic Athletics Catalogues
 logo: "/baltic black with est.jpg"
 website: ''
 catalogues:
