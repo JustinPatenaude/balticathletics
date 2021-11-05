@@ -41,10 +41,6 @@ promotions:
     - Official size and weight.
 
     2 - Size 7 available - BLACK only
-- title: 360 Rubber - Size 29.5 (7)
-  image: "/360 Rubber BB.jpg"
-  price: 11
-  description: "- 8 available"
 date: '2019-03-29T22:55:10.000+00:00'
 
 ---
