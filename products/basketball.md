@@ -40,7 +40,7 @@ promotions:
     - These balls are rotationally wound and built with a butyl bladder for consistent bounce and air retention.
     - Official size and weight.
 
-    2 available - BLACK only
+    2 - Size 7 available - BLACK only
 - title: 360 Rubber - Size 29.5 (7)
   image: "/360 Rubber BB.jpg"
   price: 11
