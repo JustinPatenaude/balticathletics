@@ -30,7 +30,7 @@ promotions:
     - 6 available
 - title: Spalding Eco-Green - Size 29.5 (7)
   image: "/Spalding Size 7 Green.jpg"
-  price: 9
+  price: 11
   description: "- 12 available"
 - title: Tachikara - Assorted Colours - Size 28.5 (6)
   image: "/Tachikara BB.jpg"
