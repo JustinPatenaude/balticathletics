@@ -13,10 +13,6 @@ products:
 - Uniforms
 - Volleyballs
 photos:
-- title: 2021 Baltic Volleyball Flyer - Page 01
-  photo: "/2021 Volleyball Flyer pg 1.jpg"
-- title: 2021 Baltic Volleyball Flyer - Page 02
-  photo: "/2021 Volleyball Flyer pg 2.jpg"
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
   photo: "/2020.01.05 Mikasa MHSAA gift with purchase promo 04.png"
 - photo: "/VQ200W-CAN MHSAA ball 2021.png"
