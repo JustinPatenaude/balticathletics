@@ -23,7 +23,7 @@ date: '2019-03-29T22:31:35.000+00:00'
 catalogues:
 - title: Pear Sox Catalogue
   year: 2021
-  pdf: ''
+  pdf: "/Pear Sox 2021 Catalogue.pdf"
 - title: Pear Sox Sizing
   year: 0
   pdf: "/Sox Sizing Chart.pdf"
