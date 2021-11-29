@@ -24,10 +24,9 @@ catalogues:
 - title: Pear Sox Catalogue
   year: 2019
   pdf: "/Pear Sox 2020 Catalogue.pdf"
-- title: Pear Sox Sizing
-  year: 0
-  pdf: "/Pear Sox Sizing.PNG"
 photos:
+- title: Pear Sox Sizing
+  photo: "/Sizing Chart png.PNG"
 - title: Arborg A's Custom Socks
   photo: "/Arborg.PNG"
 - title: Treherne Tigers Custom Socks
