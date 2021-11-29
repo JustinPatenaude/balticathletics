@@ -21,6 +21,9 @@ info: |-
   **Pear Sox** is a USA manufacturer that has been in business since 1992.
 date: '2019-03-29T22:31:35.000+00:00'
 catalogues:
+- title: Pear Sox Sizing
+  year: 0
+  pdf: "/Sox Sizing Chart.pdf"
 - title: Pear Sox Catalogue
   year: 2019
   pdf: "/Pear Sox 2020 Catalogue.pdf"
