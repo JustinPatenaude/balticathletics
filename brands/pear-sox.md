@@ -12,7 +12,7 @@ categories:
 - products/socks.md
 title: Pear Sox
 logo: "/pearsox-logo.jpg"
-website: https://www.pearsox.com/
+website: https://issuu.com/gemsport.com/docs/pear.sox.canada.2020
 pdfs:
 - "/2019-pearsox-catalogue.pdf"
 info: |-
