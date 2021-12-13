@@ -3,6 +3,14 @@ layout: testimonials
 title: Testimonials
 permalink: "/testimonials/"
 testimonials:
+- testimonial: 'Everything was super well received and we were super impressed with
+    the packaging and how well everything looked and how easy the team order management
+    wise for us it’s definitely going to be something we will do again. My sincere
+    thanks and kudos. I have been singing your praises to anyone I talk to about clothing
+    and equipment as you have definitely become my "go-to" cause your service is awesome
+    and appreciate all your hard work.  I love supporting a Manitoba made family run
+    business. '
+  name: Kendall
 - testimonial: We really appreciate our personal connection with Baltic. For an experienced
     Phys. Ed. teacher, doing things on-line doesn't always make sense. The staff at
     Baltic are efficient, knowledgeable and willing to go above and beyond for their
