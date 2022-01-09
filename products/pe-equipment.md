@@ -20,6 +20,19 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: Ultra Skin Dodgeballs - 3.5", 6", 7", 8", 8.3"
+  image: "/FX83R-Ultraskin-Balls-800x1000px-600x750.jpg"
+  price: 7.5
+  description: |-
+    FX35 (3.5") - $7.50 ea
+    FX63 (6.3") - $14.75 ea
+    FX70 (7") - $21.00 ea
+    FX80 (8") - $32.75 ea
+    FX83 (8.3") - $35.50 ea
+
+    - Each ball has a soft inner foam core that provides excellent bounce at 40Kgs/M3.
+    - Coating provides excellent protection from rough surfaces.
+    - Perfect for all ages and sports.
 - title: 'CLEARANCE - Cosom 3 lb Rubber Bowling Ball CM-050526-00 '
   image: "/2022-01-06 12.11.06.jpg"
   price: 45
