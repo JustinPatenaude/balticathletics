@@ -35,7 +35,7 @@ promotions:
     - Foam density: 65 kg/m3
     - Recommended age: 10 years and up
     - Orange only
-- title: Rhino Skin 6" Low Bounce Dodgeball Set
+- title: Rhino Skin Low Bounce Dodgeball Set - 6 inch
   image: "/rxd6set_n.jpg"
   price: 118
   description: |-
