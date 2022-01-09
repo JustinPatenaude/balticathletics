@@ -32,6 +32,7 @@ promotions:
   description: |-
     - Good for ages 12 and under
     - Great training ball
+    - Select colours in stock, other colours special order
 - title: SV18S Tachikara Volleyball
   image: "/Tachikara SV18S w colours.png"
   price: 42
