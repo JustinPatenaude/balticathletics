@@ -9,6 +9,8 @@ products:
 - Mouthguards
 - Whistles
 photos:
+- title: FOX40 Mouthguards
+  photo: "/2022-01-06 16.43.12.jpg"
 - title: OPRO Mouthguards
   photo: "/2022-01-06 16.44.55.jpg"
 - title: 3 ply Disposable Face Masks (minimum 50)
