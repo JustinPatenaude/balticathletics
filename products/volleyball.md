@@ -26,6 +26,19 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: CLEARANCE - 360 World Competition Volleyball Net
+  image: "/VN790-Volleyball-WorldCompetitionNet-800x1000px-600x750.jpg"
+  price: 325
+  description: |-
+    - This net features a 3.0mm knotless nylon netting
+    - 42’ Kevlar® core rope top (that will not kink or fray)
+    - 42’ bottom rope
+    - End dowels
+    - Rope tighteners
+    - Tension kit.
+    - Size: 32’ x 1’ cable top, bottom and side headbands.
+
+    ONE only available
 - title: Tachikara TV6 Volleyball Briefcase
   image: "/tv6.jpg"
   price: 37
