@@ -26,35 +26,6 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
-- title: Champion VN700 Olympic Power Volleyball Net - 32 ft
-  image: "/vn700-a-main_n.jpg"
-  price: 160
-  description: |-
-    - Olympic-style power net for professional and tournament play
-    - Durable rip-resistant 3 mm knot-less nylon netting
-    - 2.5" White headband top and bottom for visibility and shape retention during gameplay
-    - Durable side pockets with dowels to maintain net's shape
-    - Net Dimensions: 32' x 3.125' (1 meter)
-    - Black/White
-- title: Champion VN600 Tournament Volleyball Net - 32 ft
-  image: "/vn600_n.jpg"
-  price: 150
-  description: |-
-    - Regulation size requirements for professional and tournament play
-    - Durable rip-resistant 3 mm knot less nylon netting
-    - 2.5" White headband top and bottom for visibility and shape retention during gameplay
-    - Vinyl-coated steel cable top and bottom for added stability and support
-    - Side pockets and dowels maintain net's shape after regular use
-    - Net dimensions: 32' x 3'
-    - Black/White
-- title: Champion VN3 Nylon Volleyball Net - 30 ft
-  image: "/vn3_n.jpg"
-  price: 40
-  description: |-
-    - Durable 2 mm polyethylene netting in 4" vinyl square mesh
-    - 2" White headband top with nylon rope cable for visibility and shape retention during gameplay
-    - 30'L x 3'H
-    - Black/White
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
@@ -236,7 +207,36 @@ promotions:
     - Size: 32’ x 1’ cable top, bottom and side headbands.
 
     ONE available
-- title: Olympic Competition Net - 32' net
+- title: Champion VN700 Olympic Power Volleyball Net - 32 ft
+  image: "/vn700-a-main_n.jpg"
+  price: 160
+  description: |-
+    - Olympic-style power net for professional and tournament play
+    - Durable rip-resistant 3 mm knot-less nylon netting
+    - 2.5" White headband top and bottom for visibility and shape retention during gameplay
+    - Durable side pockets with dowels to maintain net's shape
+    - Net Dimensions: 32' x 3.125' (1 meter)
+    - Black/White
+- title: Champion VN600 Tournament Volleyball Net - 32 ft
+  image: "/vn600_n.jpg"
+  price: 150
+  description: |-
+    - Regulation size requirements for professional and tournament play
+    - Durable rip-resistant 3 mm knot less nylon netting
+    - 2.5" White headband top and bottom for visibility and shape retention during gameplay
+    - Vinyl-coated steel cable top and bottom for added stability and support
+    - Side pockets and dowels maintain net's shape after regular use
+    - Net dimensions: 32' x 3'
+    - Black/White
+- title: Champion VN3 Nylon Volleyball Net - 30 ft
+  image: "/vn3_n.jpg"
+  price: 40
+  description: |-
+    - Durable 2 mm polyethylene netting in 4" vinyl square mesh
+    - 2" White headband top with nylon rope cable for visibility and shape retention during gameplay
+    - 30'L x 3'H
+    - Black/White
+- title: 360 VN750 Olympic Competition Net - 32' net
   image: "/VN750-Volleyball-OlympicCompetitionNet-800x1000-1-600x750.jpg"
   price: 175
   description: "- A high quality, braided 3 mm nylon net.\n- Fully taped and reversible. "
