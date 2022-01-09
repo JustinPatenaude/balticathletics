@@ -8,14 +8,6 @@ products:
 - Ball carts
 photos: []
 promotions:
-- title: Tachikara BC-HAM Ball Hammock
-  image: "/bc-ham.jpg"
-  price: 180
-  description: |-
-    - Holds up to 24 inflated balls
-    - completely collapsible for easy storage.
-    - Black in stock
-    - Scarlet, Navy or Royal is special order.
 - title: Blue Ball Carrier
   image: "/BSU-100 Ball Storage Cart.jpg"
   price: 350
@@ -67,6 +59,14 @@ promotions:
     - Durable black nylon cover.
     - This cart has the largest capacity of all our ball carts, holding up to 36 inflated balls and is completely collapsible for easy storage.
     - Size: 25"W x 25"D x 40"H
+    - Black in stock
+    - Scarlet, Navy or Royal is special order.
+- title: Tachikara BC-HAM Ball Hammock
+  image: "/bc-ham.jpg"
+  price: 180
+  description: |-
+    - Holds up to 24 inflated balls
+    - completely collapsible for easy storage.
     - Black in stock
     - Scarlet, Navy or Royal is special order.
 - title: Ball Carrying Net L16
