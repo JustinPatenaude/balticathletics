@@ -26,7 +26,7 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
-- title: Champion VN700 Olympic Power Volleyball Net
+- title: Champion VN700 Olympic Power Volleyball Net - 32 ft
   image: "/vn700-a-main_n.jpg"
   price: 160
   description: |-
