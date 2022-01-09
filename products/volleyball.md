@@ -36,7 +36,7 @@ promotions:
     - Durable side pockets with dowels to maintain net's shape
     - Net Dimensions: 32' x 3.125' (1 meter)
     - Black/White
-- title: Champion Tournament Volleyball Net - 32 ft
+- title: Champion VN600 Tournament Volleyball Net - 32 ft
   image: "/vn600_n.jpg"
   price: 150
   description: |-
