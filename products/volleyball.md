@@ -33,13 +33,6 @@ promotions:
     - Rectangular nylon ball bag with an adjustable shoulder strap
     - Holds six inflated volleyballs
     - Size: 24" L x 8" W x 15.75" H
-- title: Beach Volleyball Net - 32"
-  image: "/VN185-360-Beach-Net-Outdoor-Use.jpg"
-  price: 80
-  description: |-
-    - 32" net x 39"
-    - Cable top, rope bottom
-    - 1 available
 - title: Mikasa M6B-BLK Briefcase
   image: "/M6B_1-Z.jpg"
   price: 55
@@ -212,6 +205,13 @@ promotions:
     - 32’ x 1’ x 4” top band
 
     1 available
+- title: Beach Volleyball Net - 32"
+  image: "/VN185-360-Beach-Net-Outdoor-Use.jpg"
+  price: 80
+  description: |-
+    - 32" net x 39"
+    - Cable top, rope bottom
+    - 1 available
 date: '2019-03-29T23:05:08.000+00:00'
 
 ---
