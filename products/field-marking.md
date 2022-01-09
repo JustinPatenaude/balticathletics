@@ -8,6 +8,13 @@ products:
 - Linemarkers
 photos: []
 promotions:
+- title: Kwik Goal 6A611 Athletic Paint (Orange)
+  image: "/6A611__57657.1626929827.jpg"
+  price: 120
+  description: |-
+    - Sold only in a case of 12, 18 oz cans
+    - can be used to line a wide variety of multi-sport fields.
+    - is compatible with the 6A401 Wet Striper.
 - title: Kwik Goal 6A62 Line Paint - White
   image: "/line paint.jpeg"
   price: 105
