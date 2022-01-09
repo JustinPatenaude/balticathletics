@@ -51,7 +51,7 @@ promotions:
     - Butyl rubber bladder
 
     4 available (assorted colours)
-- title: Wilson 84-7967 Prestige Indoor Volleyball
+- title: CLEARANCE - Wilson 84-7967 Prestige Indoor Volleyball
   image: "/prestige red.white.jpg"
   price: 27
   description: |-
