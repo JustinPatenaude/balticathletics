@@ -15,6 +15,7 @@ promotions:
     - Sold only in a case of 12, 18 oz cans
     - can be used to line a wide variety of multi-sport fields.
     - is compatible with the 6A401 Wet Striper.
+    - ONE only in stock
 - title: Kwik Goal 6A62 Line Paint - White
   image: "/line paint.jpeg"
   price: 105
