@@ -3,7 +3,9 @@ layout: product
 permalink: "/products/coaching/"
 title: Coaching
 products: []
-photos: []
+photos:
+- photo: "/2022-01-06 16.34.31.jpg"
+  title: FOX40, Mikasa, Whizball Whistles
 promotions:
 - title: Fox40 Smartcoach Pro POCKET Clipboard - Soccer only
   image: "/fox40 smart coach pro pocket clipboard.PNG"
