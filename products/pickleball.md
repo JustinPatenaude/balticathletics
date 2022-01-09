@@ -10,7 +10,7 @@ photos: []
 promotions:
 - title: Champion PA20SET Pickleball Net (Adjustable to Badminton height)
   image: "/pa20set-front-n.jpg"
-  price: 0
+  price: 240
   description: "- Set up for full-size courts\n- Durable powder coated steel frame\n-
     Fits easily into a durable nylon bag\n- Nylon bag dimensions: 35.5\"L x 6\"D\n-
     Adjustable net height between 33\"H and 63\"H\nThe 33-inch high net can be adjusted
