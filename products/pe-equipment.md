@@ -20,16 +20,6 @@ products:
 - Tether Balls
 photos: []
 promotions:
-- title: Rhino Skin RXD7SET 7" Low Bounce Dodgeball Set
-  image: "/rxd7set_n.jpg"
-  price: 164
-  description: |-
-    - RHINO Skin® coating for exceptional tear-resistance
-    - Low-density, low-bounce foam core and soft exterior
-    - 7" D
-    - Ball weight: 115 g
-    - Foam density: 28 kg/m3
-    - Set of 6 balls (1 of each) Red, Orange, Yellow, Green, Royal Blue, Purple
 - title: 'CLEARANCE - Cosom 3 lb Rubber Bowling Ball CM-050526-00 '
   image: "/2022-01-06 12.11.06.jpg"
   price: 45
@@ -77,13 +67,16 @@ promotions:
     - durable 7" diameter red playground ball is always a popular choice!
 
     4 red available
-- title: Rhino Skin RS7SET Medium Bounce Allround (Set of 6) - 7 inch
-  image: "/rs7set_la.jpg"
-  price: 140
-  description: "- Rhino Skin® coating for exceptional tear-resistance \n- Medium-density,
-    medium-bounce foam core and soft exterior to prevent injury when hit with the
-    ball \n- 7\" D\n- Ball Weight: 133 g\n- Foam density: 35 kg/m3\n- Set of 6 balls
-    (1 of each) Red, Orange, Yellow, Green, Blue & Purple \n\n1 set available"
+- title: Rhino Skin RXD7SET 7" Low Bounce Dodgeball Set
+  image: "/rxd7set_n.jpg"
+  price: 164
+  description: |-
+    - RHINO Skin® coating for exceptional tear-resistance
+    - Low-density, low-bounce foam core and soft exterior
+    - 7" D
+    - Ball weight: 115 g
+    - Foam density: 28 kg/m3
+    - Set of 6 balls (1 of each) Red, Orange, Yellow, Green, Royal Blue, Purple
 - title: Rhino Skin RS7 Allround Medium Bounce Foam Ball - 7 inch
   image: "/rs7_l.jpg"
   price: 27.25
@@ -96,6 +89,13 @@ promotions:
     - Recommended age: 10 years and up
 
     1 Yellow available
+- title: Rhino Skin RS7SET Medium Bounce Allround (Set of 6) - 7 inch
+  image: "/rs7set_la.jpg"
+  price: 140
+  description: "- Rhino Skin® coating for exceptional tear-resistance \n- Medium-density,
+    medium-bounce foam core and soft exterior to prevent injury when hit with the
+    ball \n- 7\" D\n- Ball Weight: 133 g\n- Foam density: 35 kg/m3\n- Set of 6 balls
+    (1 of each) Red, Orange, Yellow, Green, Blue & Purple \n\n1 set available"
 - title: Rhino Skin RS79 Softi Low Bounce Foam Ball - 7 inch
   image: "/rs79_l.jpg"
   price: 18.75
