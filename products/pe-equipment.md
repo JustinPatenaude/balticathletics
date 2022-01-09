@@ -20,6 +20,10 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: 'CLEARANCE - Cosom 3 lb Rubber Bowling Ball CM-050526-00 '
+  image: "/2022-01-06 12.11.06.jpg"
+  price: 45
+  description: "- 2 available only"
 - title: Cosom CM741722-00 Gym Tennis Balls
   image: "/2020-04-16 16.31.55.jpg"
   price: 1.5
