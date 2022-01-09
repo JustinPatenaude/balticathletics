@@ -10,6 +10,14 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: Champion PA20SET Portanet
+  image: "/pa20set-front-n.jpg"
+  price: 240
+  description: "- Set up for full-size courts\n- Durable powder coated steel frame\n-
+    Fits easily into a durable nylon bag\n- Nylon bag dimensions: 35.5\"L x 6\"D\n-
+    Adjustable net height between 33\"H and 63\"H\nThe 33-inch pickleball/tennis height
+    can be adjusted to a full 63-inch height for badminton and other over the net
+    sports. \n- Width: 20' (240\")"
 - title: Yonex Mavis 300 Shuttles
   image: "/yonex mavis 300.jpg"
   price: 14
