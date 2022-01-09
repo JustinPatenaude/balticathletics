@@ -9,6 +9,8 @@ products:
 - Mouthguards
 - Whistles
 photos:
+- title: OPRO Mouthguards
+  photo: "/2022-01-06 16.44.55.jpg"
 - title: 3 ply Disposable Face Masks (minimum 50)
   photo: "/non medical masks.jpg"
 - title: Reusable Over-the-head Masks
