@@ -18,23 +18,6 @@ photos:
 - photo: "/VQ200W-CAN MHSAA ball 2021.png"
   title: "**New** 2021 MHSAA Official Volleyball - $68.50"
 promotions:
-- title: Mikasa FIVB Snow Volleyball SV335-V8
-  image: "/SV335-V8-B.jpg"
-  price: 47
-  description: |-
-    ORDER NOW FOR DECEMBER DELIVERY
-
-    • Professional Model as seen in the world’s top Professional games
-
-    • Perfect for our Canadian winter, this ball is a great addition to your volleyball options
-
-    • Iconic 8 paneled design with contrasting colors for spin tracking
-
-    • Stable Softness even in cold winter weather from 2 years of development and testing
-
-    • Laminating construction and covering with sponge material enable the ball to combine the perfect water proofness and softness in extremely low temperature
-
-    • FOB Winnipeg
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
@@ -61,6 +44,33 @@ promotions:
     - Pink and white
 
     2 available
+- title: CLEARANCE - Mikasa VSV800 Squish Beach Volleyball
+  image: "/VSV800_1-B.jpg"
+  price: 24
+  description: |-
+    - All purpose premium no sting waterproof pillow cover.
+    - Excellent recreational ball.
+    - Great for swimming pools and volleyball camps.
+    - Yellow and red
+
+    1 available
+- title: Mikasa FIVB Snow Volleyball SV335-V8
+  image: "/SV335-V8-B.jpg"
+  price: 47
+  description: |-
+    ORDER NOW FOR DECEMBER DELIVERY
+
+    • Professional Model as seen in the world’s top Professional games
+
+    • Perfect for our Canadian winter, this ball is a great addition to your volleyball options
+
+    • Iconic 8 paneled design with contrasting colors for spin tracking
+
+    • Stable Softness even in cold winter weather from 2 years of development and testing
+
+    • Laminating construction and covering with sponge material enable the ball to combine the perfect water proofness and softness in extremely low temperature
+
+    • FOB Winnipeg
 - title: Champion VL20 Volleyball Trainer - Size 8
   image: "/vl20-front-l.jpg"
   price: 16.5
@@ -103,16 +113,6 @@ promotions:
     - Synthetic leather cover for enhanced durability
     - 18-panel, machine sewn construction for optimal shape retention
     - Butyl rubber bladder for extended air retention
-
-    1 available
-- title: CLEARANCE - Mikasa VSV800 Squish Beach Volleyball
-  image: "/VSV800_1-B.jpg"
-  price: 24
-  description: |-
-    - All purpose premium no sting waterproof pillow cover.
-    - Excellent recreational ball.
-    - Great for swimming pools and volleyball camps.
-    - Yellow and red
 
     1 available
 - title: Mikasa NVL-PRO Official NVL Game Beach Volleyball
