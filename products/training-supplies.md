@@ -17,6 +17,10 @@ products:
 - Trainer Equipment
 photos: []
 promotions:
+- title: SKLZ Training Products
+  image: "/2022-01-06 12.15.19.jpg"
+  price: 
+  description: Various products available
 - title: Cramer 950 Athletic Trainer's Tape - Box of 32 rolls
   image: "/cramer 950 tape.jpg"
   price: 95
