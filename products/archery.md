@@ -12,6 +12,12 @@ tags:
 - Arrows
 - Targets
 promotions:
+- title: Foam Target Butt w/feet AWEZ36
+  image: "/AWEZ36.jpg"
+  price: 140
+  description: |-
+    36" x 36" x 4.5"
+    For bows under 30#
 - title: Archery Paper Target ML-TA122 - 48" x 48"
   image: "/ML-TA122 48x48 10 ring 5 col paper target.jpg"
   price: 7
