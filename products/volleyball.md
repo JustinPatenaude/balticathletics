@@ -236,7 +236,7 @@ promotions:
     - 2" White headband top with nylon rope cable for visibility and shape retention during gameplay
     - 30'L x 3'H
     - Black/White
-- title: 360 VN750 Olympic Competition Net - 32' net
+- title: 360 VN750 Olympic Competition Net - 32 ft
   image: "/VN750-Volleyball-OlympicCompetitionNet-800x1000-1-600x750.jpg"
   price: 175
   description: "- A high quality, braided 3 mm nylon net.\n- Fully taped and reversible. "
