@@ -14,7 +14,7 @@ promotions:
   description: |
     - Sold in a case of 12
     - Is compatible with the 6A401 Wet Striper
-- title: Kwik Goal Wet Striper
+- title: Kwik Goal 6A401 Wet Striper
   image: "/w6A401_1-600x400.jpg"
   price: 275
   description: |-
