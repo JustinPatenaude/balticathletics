@@ -22,15 +22,6 @@ products:
 - Uniforms
 photos: []
 promotions:
-- title: Adjustable Training Hurdle PH
-  image: "/ph_n.jpg"
-  price: 49.5
-  description: |-
-    - Adjustable training hurdle
-    - Collapses for safety when hit
-    - High impact plastic cross board
-    - Powder coated 1" steel legs
-    - White/Red
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 245
@@ -119,6 +110,15 @@ promotions:
     - for use with high jump cross bar
 
     1 pair available
+- title: Adjustable Training Hurdle PH
+  image: "/ph_n.jpg"
+  price: 49.5
+  description: |-
+    - Adjustable training hurdle
+    - Collapses for safety when hit
+    - High impact plastic cross board
+    - Powder coated 1" steel legs
+    - White/Red
 - title: Training Hurdles SH9 - 9" Orange
   image: "/training hurdles.jpg"
   price: 9
