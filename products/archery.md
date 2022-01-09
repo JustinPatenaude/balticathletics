@@ -12,6 +12,14 @@ tags:
 - Arrows
 - Targets
 promotions:
+- title: Youth Archery Target Box AWSYT
+  image: "/AWSYT.jpg"
+  price: 75
+  description: |-
+    School youth target
+    Dense cardboard fill
+    32" x 32" x 12"
+    Targets on both sides (circles and apple)
 - title: Foam Target Butt w/feet AWEZ36
   image: "/AWEZ36.jpg"
   price: 140
