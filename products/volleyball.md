@@ -105,7 +105,7 @@ promotions:
     - Butyl rubber bladder for extended air retention
 
     1 available
-- title: Mikasa VSV800 Squish Beach Volleyball
+- title: CLEARANCE - Mikasa VSV800 Squish Beach Volleyball
   image: "/VSV800_1-B.jpg"
   price: 24
   description: |-
