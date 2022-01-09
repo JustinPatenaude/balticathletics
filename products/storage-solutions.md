@@ -9,7 +9,7 @@ products:
 photos: []
 promotions:
 - title: Tachikara BC-HAM Ball Hammock
-  image: ''
+  image: "/bc-ham.jpg"
   price: 180
   description: |-
     - Holds up to 24 inflated balls
