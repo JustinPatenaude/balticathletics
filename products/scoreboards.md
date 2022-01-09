@@ -8,6 +8,14 @@ products:
 - Electronic Scoreboards
 photos: []
 promotions:
+- title: Tachikara Porta-Score Board
+  image: "/porta-score.jpg"
+  price: 55
+  description: |-
+    - Convenient, portable scoreboard keeps score to 99 and up to 9 middle counter.
+    - Lightweight and folds together for compact storage.
+    - Handle provides easy transport.
+    - 7"H x 17"W.
 - title: Champion FAS10 Deluxe Flip-A-Score Board
   image: "/fas10_n.jpg"
   price: 79.25
