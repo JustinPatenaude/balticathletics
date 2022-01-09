@@ -47,7 +47,7 @@ promotions:
     - Side pockets and dowels maintain net's shape after regular use
     - Net dimensions: 32' x 3'
     - Black/White
-- title: Nylon Volleyball Net - 30 ft
+- title: Champion VN3 Nylon Volleyball Net - 30 ft
   image: "/vn3_n.jpg"
   price: 40
   description: |-
