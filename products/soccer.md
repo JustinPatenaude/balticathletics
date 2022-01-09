@@ -17,6 +17,17 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Franklin Soccer Goal
+  image: "/2022-01-06 17.09.02.jpg"
+  price: 99
+  description: |-
+    - 2 available only
+    - Sold in eaches
+    - Steel frame
+    - 72" x 48"
+    - 4" square mesh
+    - Easy to assemble
+    - Includes stakes
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
