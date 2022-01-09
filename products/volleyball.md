@@ -207,15 +207,13 @@ promotions:
     - Size: 32’ x 1’ cable top, bottom and side headbands.
 
     ONE available
-- title: Champion VN700 Olympic Power Volleyball Net - 32 ft
-  image: "/vn700-a-main_n.jpg"
-  price: 160
+- title: Champion VN3 Nylon Volleyball Net - 30 ft
+  image: "/vn3_n.jpg"
+  price: 40
   description: |-
-    - Olympic-style power net for professional and tournament play
-    - Durable rip-resistant 3 mm knot-less nylon netting
-    - 2.5" White headband top and bottom for visibility and shape retention during gameplay
-    - Durable side pockets with dowels to maintain net's shape
-    - Net Dimensions: 32' x 3.125' (1 meter)
+    - Durable 2 mm polyethylene netting in 4" vinyl square mesh
+    - 2" White headband top with nylon rope cable for visibility and shape retention during gameplay
+    - 30'L x 3'H
     - Black/White
 - title: Champion VN600 Tournament Volleyball Net - 32 ft
   image: "/vn600_n.jpg"
@@ -228,13 +226,15 @@ promotions:
     - Side pockets and dowels maintain net's shape after regular use
     - Net dimensions: 32' x 3'
     - Black/White
-- title: Champion VN3 Nylon Volleyball Net - 30 ft
-  image: "/vn3_n.jpg"
-  price: 40
+- title: Champion VN700 Olympic Power Volleyball Net - 32 ft
+  image: "/vn700-a-main_n.jpg"
+  price: 160
   description: |-
-    - Durable 2 mm polyethylene netting in 4" vinyl square mesh
-    - 2" White headband top with nylon rope cable for visibility and shape retention during gameplay
-    - 30'L x 3'H
+    - Olympic-style power net for professional and tournament play
+    - Durable rip-resistant 3 mm knot-less nylon netting
+    - 2.5" White headband top and bottom for visibility and shape retention during gameplay
+    - Durable side pockets with dowels to maintain net's shape
+    - Net Dimensions: 32' x 3.125' (1 meter)
     - Black/White
 - title: 360 VN750 Olympic Competition Net - 32 ft
   image: "/VN750-Volleyball-OlympicCompetitionNet-800x1000-1-600x750.jpg"
@@ -251,7 +251,7 @@ promotions:
     - 32’ x 1’ x 4” top band
 
     1 available
-- title: Beach Volleyball Net - 32"
+- title: 360 VN185 Beach Volleyball Net - 32 ft
   image: "/VN185-360-Beach-Net-Outdoor-Use.jpg"
   price: 80
   description: |-
