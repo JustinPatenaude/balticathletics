@@ -26,10 +26,6 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
-- title: Champion VL25 Fabric Training Volleyball
-  image: "/vl25-enhanced1-l.jpg"
-  price: 19.95
-  description: ''
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
@@ -66,6 +62,10 @@ promotions:
     - Yellow and red
 
     1 available
+- title: Champion VL25 Fabric Training Volleyball
+  image: "/vl25-enhanced1-l.jpg"
+  price: 18.95
+  description: ''
 - title: Tachikara SVMNC Volley Lite Volleyball
   image: "/Tachikara SVMN w colours.png"
   price: 47
