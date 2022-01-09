@@ -14,6 +14,8 @@ promotions:
   description: |-
     - Holds up to 24 inflated balls
     - completely collapsible for easy storage.
+    - Black in stock
+    - Scarlet, Navy or Royal is special order.
 - title: Blue Ball Carrier
   image: "/BSU-100 Ball Storage Cart.jpg"
   price: 350
