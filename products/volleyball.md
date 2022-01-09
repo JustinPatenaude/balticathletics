@@ -62,21 +62,6 @@ promotions:
     - Yellow and red
 
     1 available
-- title: Tachikara TV6 Volleyball Briefcase
-  image: "/tv6.jpg"
-  price: 37
-  description: |-
-    - Rectangular nylon ball bag with an adjustable shoulder strap
-    - Holds six inflated volleyballs
-    - Size: 24" L x 8" W x 15.75" H
-- title: Mikasa M6B-BLK Briefcase
-  image: "/M6B_1-Z.jpg"
-  price: 55
-  description: "- Holds 6 balls"
-- title: Mikasa SDBMIK Volleyball Duffle Storage Bag
-  image: "/SDBMIK_1-Z.jpg"
-  price: 55
-  description: "- Holds 16 volleyballs"
 - title: Champion VL25 Fabric Training Volleyball
   image: "/vl25-enhanced1-l.jpg"
   price: 18.95
@@ -179,6 +164,21 @@ promotions:
     supple composite leather cover\n- Unique 18 panel hand sewn construction\n- Unique
     red, white and blue design \n- Made to Mikasa’s well known standard of excellent
     quality\n- Size 5 - Official \n\n1 available"
+- title: Tachikara TV6 Volleyball Briefcase
+  image: "/tv6.jpg"
+  price: 37
+  description: |-
+    - Rectangular nylon ball bag with an adjustable shoulder strap
+    - Holds six inflated volleyballs
+    - Size: 24" L x 8" W x 15.75" H
+- title: Mikasa M6B-BLK Briefcase
+  image: "/M6B_1-Z.jpg"
+  price: 55
+  description: "- Holds 6 balls"
+- title: Mikasa SDBMIK Volleyball Duffle Storage Bag
+  image: "/SDBMIK_1-Z.jpg"
+  price: 55
+  description: "- Holds 16 volleyballs"
 - title: Net Chain Height Gauge VNCHG
   image: "/VNCHG-z.jpg"
   price: 16
