@@ -8,6 +8,12 @@ products:
 - Linemarkers
 photos: []
 promotions:
+- title: Kwik Goal 6A62 Line Paint - White
+  image: "/line paint.jpeg"
+  price: 105
+  description: |
+    - Sold in a case of 12
+    - Is compatible with the 6A401 Wet Striper
 - title: Kwik Goal Wet Striper
   image: "/w6A401_1-600x400.jpg"
   price: 275
