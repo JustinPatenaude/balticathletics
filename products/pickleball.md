@@ -8,6 +8,15 @@ products:
 - Paddles
 photos: []
 promotions:
+- title: Champion Pickleball Net PBNET
+  image: "/pbnet-main-n.jpg"
+  price: 210
+  description: |-
+    - Regulation size 22'W
+    - Steel frame for superior durability
+    - Adjustment straps maximizes tension
+    - Center support keeps the net taught at 34"H
+    - Heavy-duty carry bag
 - title: Champion PA20SET Port-A-Net
   image: "/pa20set-front-n.jpg"
   price: 240
