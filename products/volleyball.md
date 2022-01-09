@@ -26,6 +26,10 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: Mikasa M6B-BLK Briefcase
+  image: "/M6B_1-Z.jpg"
+  price: 55
+  description: "- Holds 6 balls"
 - title: Mikasa SDBMIK Volleyball Duffle Storage Bag
   image: "/SDBMIK_1-Z.jpg"
   price: 55
