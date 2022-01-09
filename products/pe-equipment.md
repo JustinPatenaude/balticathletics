@@ -20,6 +20,10 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: Tchoukballs/Handballs, Assorted
+  image: "/2022-01-06 16.59.24.jpg"
+  price: 0
+  description: Many brands and sizes available.
 - title: Cosom CM741722-00 Gym Tennis Balls
   image: "/2020-04-16 16.31.55.jpg"
   price: 1.5
