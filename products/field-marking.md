@@ -8,7 +8,7 @@ products:
 - Linemarkers
 photos: []
 promotions:
-- title: Kwik Goal 6A611 Athletic Paint (Orange)
+- title: Kwik Goal 6A611 Field Line Paint (Orange)
   image: "/6A611__57657.1626929827.jpg"
   price: 120
   description: |-
