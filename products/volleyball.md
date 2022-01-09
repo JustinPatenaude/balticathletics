@@ -26,6 +26,10 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: Mikasa M6B-YEL Volleyball Briefcase
+  image: ''
+  price: 39
+  description: "- Holds 6 balls"
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
