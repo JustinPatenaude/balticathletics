@@ -240,7 +240,7 @@ promotions:
   image: "/VN750-Volleyball-OlympicCompetitionNet-800x1000-1-600x750.jpg"
   price: 175
   description: "- A high quality, braided 3 mm nylon net.\n- Fully taped and reversible. "
-- title: Tournament Volleyball Net - 32 ft
+- title: 360 VN8080 Tournament Volleyball Net - 32 ft
   image: "/VN8080-360_Tournament_Net.jpg"
   price: 90
   description: |-
