@@ -28,7 +28,7 @@ photos:
 promotions:
 - title: Beach Volleyball Net - 32"
   image: "/VN185-360-Beach-Net-Outdoor-Use.jpg"
-  price: 75
+  price: 80
   description: |-
     - 32" net x 39"
     - Cable top, rope bottom
