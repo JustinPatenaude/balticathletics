@@ -8,14 +8,14 @@ products:
 - Paddles
 photos: []
 promotions:
-- title: Champion PA20SET Pickleball Net (Adjustable to Badminton height)
+- title: Champion PA20SET Port-A-Net
   image: "/pa20set-front-n.jpg"
   price: 240
   description: "- Set up for full-size courts\n- Durable powder coated steel frame\n-
     Fits easily into a durable nylon bag\n- Nylon bag dimensions: 35.5\"L x 6\"D\n-
-    Adjustable net height between 33\"H and 63\"H\nThe 33-inch high net can be adjusted
-    to a full 63-inch height for badminton, tennis and other over the net sports.
-    \n- Width: 20' (240\")"
+    Adjustable net height between 33\"H and 63\"H\nThe 33-inch pickleball/tennis height
+    can be adjusted to a full 63-inch height for badminton and other over the net
+    sports. \n- Width: 20' (240\")"
 - title: Franklin FRK-PIC-52710 Pickleball-X Volt Set
   image: "/2020-04-13 10.31.20.jpg"
   price: 40
