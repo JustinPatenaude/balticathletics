@@ -10,7 +10,7 @@ products:
 - Shuttles
 photos: []
 promotions:
-- title: Champion PA20SET Portanet
+- title: Champion PA20SET Port-A-Net
   image: "/pa20set-front-n.jpg"
   price: 240
   description: "- Set up for full-size courts\n- Durable powder coated steel frame\n-
