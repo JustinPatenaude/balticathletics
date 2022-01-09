@@ -26,6 +26,10 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: 360 Tournament Volleyball Net
+  image: ''
+  price: 
+  description: ''
 - title: CLEARANCE - 360 World Competition Volleyball Net
   image: "/VN790-Volleyball-WorldCompetitionNet-800x1000px-600x750.jpg"
   price: 325
@@ -209,7 +213,7 @@ promotions:
     - 2 eyelets for side by side courts
 - title: Tournament Volleyball Net - 32 ft
   image: "/VN8080-360_Tournament_Net.jpg"
-  price: 75
+  price: 90
   description: |-
     - Made of 2.5mm PE netting
     - Fully taped
