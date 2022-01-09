@@ -26,7 +26,7 @@ photos:
 promotions:
 - title: Wilson AVP Replica Beach/Crossnet Volleyball
   image: "/wilson avp ball.jpg"
-  price: 
+  price: 29.5
   description: OPTX Optic bright yellow ball
 - title: Mikasa VQ200W-CAN Volleyball
   image: "/VQ200W-CAN_1-Z.jpg"
