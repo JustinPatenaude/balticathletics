@@ -67,6 +67,8 @@ promotions:
     - Durable black nylon cover.
     - This cart has the largest capacity of all our ball carts, holding up to 36 inflated balls and is completely collapsible for easy storage.
     - Size: 25"W x 25"D x 40"H
+    - Black in stock
+    - Scarlet, Navy or Royal is special order.
 - title: Ball Carrying Net L16
   image: "/L16_-_Net_Carry_Bag-WEB.jpg"
   price: 6.75
