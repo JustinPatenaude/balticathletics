@@ -8,16 +8,12 @@ products:
 - Ball carts
 photos: []
 promotions:
-- title: Tachikara BIKSP Ball Cart
-  image: "/biksp.jpg"
+- title: Tachikara BC-HAM Ball Hammock
+  image: ''
   price: 180
   description: |-
-    - Designed to provide you extra height
-    - A sturdy galvanized steel frame
-    - Large caster wheels
-    - Durable black nylon cover.
-    - This cart has the largest capacity of all our ball carts, holding up to 36 inflated balls and is completely collapsible for easy storage.
-    - Size: 25"W x 25"D x 40"H
+    - Holds up to 24 inflated balls
+    - completely collapsible for easy storage.
 - title: Blue Ball Carrier
   image: "/BSU-100 Ball Storage Cart.jpg"
   price: 350
@@ -59,6 +55,16 @@ promotions:
     - 47” x 8.5” x 6.5”
 
     6 available
+- title: Tachikara BIKSP Ball Cart
+  image: "/biksp.jpg"
+  price: 180
+  description: |-
+    - Designed to provide you extra height
+    - A sturdy galvanized steel frame
+    - Large caster wheels
+    - Durable black nylon cover.
+    - This cart has the largest capacity of all our ball carts, holding up to 36 inflated balls and is completely collapsible for easy storage.
+    - Size: 25"W x 25"D x 40"H
 - title: Ball Carrying Net L16
   image: "/L16_-_Net_Carry_Bag-WEB.jpg"
   price: 6.75
