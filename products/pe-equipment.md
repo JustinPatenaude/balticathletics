@@ -20,6 +20,16 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: Rhino Skin 6" Low Bounce Dodgeball Set
+  image: "/rxd6set_n.jpg"
+  price: 118
+  description: |-
+    - RHINO Skin® coating for exceptional tear-resistance
+    - Low-density, low-bounce foam core and soft exterior
+    - 6.3"D
+    - Ball weight: 83 g
+    - Foam density: 28 kg/m3
+    - Set of 6 balls (1 of each): Red, Orange, Yellow, Green, Royal Blue, Purple
 - title: 'CLEARANCE - Cosom 3 lb Rubber Bowling Ball CM-050526-00 '
   image: "/2022-01-06 12.11.06.jpg"
   price: 45
