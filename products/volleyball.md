@@ -26,6 +26,12 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: Tachikara SVMNC Volley Lite Volleyball
+  image: "/Tachikara SVMN w colours.png"
+  price: 47
+  description: |-
+    - Good for ages 12 and under
+    - Great training ball
 - title: SV18S Tachikara Volleyball
   image: "/Tachikara SV18S w colours.png"
   price: 42
