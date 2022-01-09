@@ -26,23 +26,6 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
-- title: Olympic Competition Net - 32' net
-  image: "/VN750-Volleyball-OlympicCompetitionNet-800x1000-1-600x750.jpg"
-  price: 175
-  description: "- A high quality, braided 3 mm nylon net.\n- Fully taped and reversible. "
-- title: CLEARANCE - 360 World Competition Volleyball Net
-  image: "/VN790-Volleyball-WorldCompetitionNet-800x1000px-600x750.jpg"
-  price: 325
-  description: |-
-    - This net features a 3.0mm knotless nylon netting
-    - 42’ Kevlar® core rope top (that will not kink or fray)
-    - 42’ bottom rope
-    - End dowels
-    - Rope tighteners
-    - Tension kit.
-    - Size: 32’ x 1’ cable top, bottom and side headbands.
-
-    ONE available
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
@@ -211,6 +194,23 @@ promotions:
     - Inserts into the top of 2" badminton posts for mini-volleyball play
     - 4 easy height adjustments
     - 2 eyelets for side by side courts
+- title: CLEARANCE - 360 World Competition Volleyball Net
+  image: "/VN790-Volleyball-WorldCompetitionNet-800x1000px-600x750.jpg"
+  price: 325
+  description: |-
+    - This net features a 3.0mm knotless nylon netting
+    - 42’ Kevlar® core rope top (that will not kink or fray)
+    - 42’ bottom rope
+    - End dowels
+    - Rope tighteners
+    - Tension kit.
+    - Size: 32’ x 1’ cable top, bottom and side headbands.
+
+    ONE available
+- title: Olympic Competition Net - 32' net
+  image: "/VN750-Volleyball-OlympicCompetitionNet-800x1000-1-600x750.jpg"
+  price: 175
+  description: "- A high quality, braided 3 mm nylon net.\n- Fully taped and reversible. "
 - title: Tournament Volleyball Net - 32 ft
   image: "/VN8080-360_Tournament_Net.jpg"
   price: 90
