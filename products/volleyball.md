@@ -26,6 +26,13 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: Beach Volleyball Net - 32"
+  image: "/VN185-360-Beach-Net-Outdoor-Use.jpg"
+  price: 75
+  description: |-
+    - 32" net x 39"
+    - Cable top, rope bottom
+    - 1 available
 - title: Mikasa M6B-BLK Briefcase
   image: "/M6B_1-Z.jpg"
   price: 55
