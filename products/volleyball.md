@@ -26,21 +26,10 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
-- title: Tachikara SVMNC Volley Lite Volleyball
-  image: "/Tachikara SVMN w colours.png"
-  price: 47
-  description: |-
-    - Good for ages 12 and under
-    - Great training ball
-    - Select colours in stock, other colours special order
-- title: SV18S Tachikara Volleyball
-  image: "/Tachikara SV18S w colours.png"
-  price: 42
-  description: |-
-    - Performance volleyball
-    - Indoor volleyball
-    - Great for gym classes or elementary game ball
-    - Select colours in stock, other colours special order
+- title: Champion VL25 Fabric Training Volleyball
+  image: "/vl25-enhanced1-l.jpg"
+  price: 19.95
+  description: ''
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
@@ -77,6 +66,21 @@ promotions:
     - Yellow and red
 
     1 available
+- title: Tachikara SVMNC Volley Lite Volleyball
+  image: "/Tachikara SVMN w colours.png"
+  price: 47
+  description: |-
+    - Good for ages 12 and under
+    - Great training ball
+    - Select colours in stock, other colours special order
+- title: SV18S Tachikara Volleyball
+  image: "/Tachikara SV18S w colours.png"
+  price: 42
+  description: |-
+    - Performance volleyball
+    - Indoor volleyball
+    - Great for gym classes or elementary game ball
+    - Select colours in stock, other colours special order
 - title: Mikasa VQ200W-CAN Volleyball
   image: "/VQ200W-CAN_1-Z.jpg"
   price: 68
