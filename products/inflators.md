@@ -8,6 +8,16 @@ products:
 - Electric Inflators
 photos: []
 promotions:
+- title: Inflation Products
+  image: "/2022-01-06 12.06.20.jpg"
+  price: 
+  description: |-
+    Shown is:
+    - Tachikara inflator
+    - G40 Ball gauge
+    - FOX40 Digital ball gauge
+    - Inflating Needles
+    - Glycerin/Lubricant
 - title: Fox40 Digital Ball Gauge 6916-0200
   image: "/Fox40 digital ball gauge.PNG"
   price: 27
