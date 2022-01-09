@@ -107,7 +107,7 @@ promotions:
     - Recommended age: 10 years and up
 
     1 Blue available
-- title: Rhino Skin RXD8SET 8" Low Bounce Dodgeball Set
+- title: Rhino Skin RXD8SET Low Bounce Dodgeball Set - 8 inch
   image: "/rxd8set_n.jpg"
   price: 199.5
   description: |-
