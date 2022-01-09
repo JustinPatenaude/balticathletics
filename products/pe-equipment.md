@@ -30,7 +30,7 @@ promotions:
     - Ball weight: 66 g
     - Foam density: 65 kg/m3
     - Recommended age: 10 years and up
-    - Orange
+    - Orange only
 - title: 'CLEARANCE - Cosom 3 lb Rubber Bowling Ball CM-050526-00 '
   image: "/2022-01-06 12.11.06.jpg"
   price: 45
