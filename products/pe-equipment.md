@@ -20,7 +20,11 @@ products:
 - Tether Balls
 photos: []
 promotions:
-- title: Ultra Skin Dodgeballs - 3.5", 6", 7", 8", 8.3"
+- title: 'CLEARANCE - Cosom 3 lb Rubber Bowling Ball CM-050526-00 '
+  image: "/2022-01-06 12.11.06.jpg"
+  price: 45
+  description: "- 2 available only"
+- title: Ultra Skin 360 Dodgeballs - 3.5", 6", 7", 8", 8.3"
   image: "/FX83R-Ultraskin-Balls-800x1000px-600x750.jpg"
   price: 7.5
   description: |-
@@ -33,10 +37,6 @@ promotions:
     - Each ball has a soft inner foam core that provides excellent bounce at 40Kgs/M3.
     - Coating provides excellent protection from rough surfaces.
     - Perfect for all ages and sports.
-- title: 'CLEARANCE - Cosom 3 lb Rubber Bowling Ball CM-050526-00 '
-  image: "/2022-01-06 12.11.06.jpg"
-  price: 45
-  description: "- 2 available only"
 - title: Rhino Skin RS5 Micro Playball Orange - 5 inch
   image: "/rs5_n.jpg"
   price: 17.45
