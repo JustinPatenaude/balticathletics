@@ -21,7 +21,7 @@ promotions:
   image: "/line paint.jpeg"
   price: 105
   description: |
-    - Sold in a case of 12
+    - Sold in a case of 12, 18 oz cans
     - Is compatible with the 6A401 Wet Striper
 - title: Kwik Goal 6A611 Field Line Paint (Orange)
   image: "/6A611__57657.1626929827.jpg"
