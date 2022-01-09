@@ -13,7 +13,7 @@ products:
 - Uniforms
 - Volleyballs
 photos:
-- title: ''
+- title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
   photo: "/2020.01.05 Mikasa MHSAA gift with purchase promo 04.png"
