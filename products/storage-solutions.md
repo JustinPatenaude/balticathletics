@@ -8,6 +8,16 @@ products:
 - Ball carts
 photos: []
 promotions:
+- title: Tachikara BIKSP Ball Cart
+  image: "/biksp.jpg"
+  price: 180
+  description: |-
+    - Designed to provide you extra height
+    - A sturdy galvanized steel frame
+    - Large caster wheels
+    - Durable black nylon cover.
+    - This cart has the largest capacity of all our ball carts, holding up to 36 inflated balls and is completely collapsible for easy storage.
+    - Size: 25"W x 25"D x 40"H
 - title: Blue Ball Carrier
   image: "/BSU-100 Ball Storage Cart.jpg"
   price: 350
