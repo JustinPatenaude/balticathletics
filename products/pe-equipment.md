@@ -66,7 +66,7 @@ promotions:
     - durable 7" diameter red playground ball is always a popular choice!
 
     4 red available
-- title: Rhino Skin RXD7SET 7" Low Bounce Dodgeball Set
+- title: Rhino Skin RXD7SET Low Bounce Dodgeball Set - 7 inch
   image: "/rxd7set_n.jpg"
   price: 164
   description: |-
