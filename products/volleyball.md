@@ -26,10 +26,10 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
-- title: 360 Tournament Volleyball Net
-  image: ''
-  price: 
-  description: ''
+- title: Olympic Competition Net - 32' net
+  image: "/VN750-Volleyball-OlympicCompetitionNet-800x1000-1-600x750.jpg"
+  price: 175
+  description: "- A high quality, braided 3 mm nylon net.\n- Fully taped and reversible. "
 - title: CLEARANCE - 360 World Competition Volleyball Net
   image: "/VN790-Volleyball-WorldCompetitionNet-800x1000px-600x750.jpg"
   price: 325
@@ -43,21 +43,6 @@ promotions:
     - Size: 32’ x 1’ cable top, bottom and side headbands.
 
     ONE available
-- title: Tachikara TV6 Volleyball Briefcase
-  image: "/tv6.jpg"
-  price: 37
-  description: |-
-    - Rectangular nylon ball bag with an adjustable shoulder strap
-    - Holds six inflated volleyballs
-    - Size: 24" L x 8" W x 15.75" H
-- title: Mikasa M6B-BLK Briefcase
-  image: "/M6B_1-Z.jpg"
-  price: 55
-  description: "- Holds 6 balls"
-- title: Mikasa SDBMIK Volleyball Duffle Storage Bag
-  image: "/SDBMIK_1-Z.jpg"
-  price: 55
-  description: "- Holds 16 volleyballs"
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
@@ -94,6 +79,21 @@ promotions:
     - Yellow and red
 
     1 available
+- title: Tachikara TV6 Volleyball Briefcase
+  image: "/tv6.jpg"
+  price: 37
+  description: |-
+    - Rectangular nylon ball bag with an adjustable shoulder strap
+    - Holds six inflated volleyballs
+    - Size: 24" L x 8" W x 15.75" H
+- title: Mikasa M6B-BLK Briefcase
+  image: "/M6B_1-Z.jpg"
+  price: 55
+  description: "- Holds 6 balls"
+- title: Mikasa SDBMIK Volleyball Duffle Storage Bag
+  image: "/SDBMIK_1-Z.jpg"
+  price: 55
+  description: "- Holds 16 volleyballs"
 - title: Champion VL25 Fabric Training Volleyball
   image: "/vl25-enhanced1-l.jpg"
   price: 18.95
