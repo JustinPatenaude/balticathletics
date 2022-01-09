@@ -17,6 +17,10 @@ products:
 - Trainer Equipment
 photos: []
 promotions:
+- title: Fitness AB Wheel
+  image: "/2022-01-06 12.12.50.jpg"
+  price: 
+  description: ''
 - title: SKLZ Shot Spots - Basketball Training Aid
   image: "/2022-01-06 12.14.55.jpg"
   price: 
