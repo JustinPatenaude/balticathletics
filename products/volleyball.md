@@ -26,6 +26,14 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: Tachikara PV-NET Volleyball Net - 32 ft
+  image: "/pv-net.jpg"
+  price: 225
+  description: |-
+    - The PV-NET is Tachikara's strongest net with a metal attachment cable and thick nylon netting.
+    - Top and bottom nylon cables have a Kevlar core.
+    - Easily attaches to all brands of industry standards.
+    - 32' W x 3' H. (Cable length 45' top / 38' bottom)
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
