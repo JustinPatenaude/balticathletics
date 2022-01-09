@@ -18,12 +18,15 @@ photos:
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
   photo: "/2020.01.05 Mikasa MHSAA gift with purchase promo 04.png"
 - photo: "/VQ200W-CAN MHSAA ball 2021.png"
-  title: "**New** 2021 MHSAA Official Volleyball - $68.50"
+  title: "**New** 2021 MHSAA Official Volleyball - $68.00"
 promotions:
-- title: 360 XV5S Cellular Indoor/Outdoor Volleyball
-  image: "/XV5S-Xtreme-Celular-Beach-Volleyball-800x1000px-600x750.jpg"
-  price: 18.5
-  description: "- Soft durable rubber fiber outer"
+- title: Mikasa VQ200W-CAN Volleyball
+  image: "/VQ200W-CAN_1-Z.jpg"
+  price: 68
+  description: |-
+    - MHSAA Official Volleyball
+    - Buy 6 get a free clipboard
+    - Buy 12+ get a Mikasa briefcase or storage bag
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
@@ -60,6 +63,10 @@ promotions:
     - Yellow and red
 
     1 available
+- title: 360 XV5S Cellular Indoor/Outdoor Volleyball
+  image: "/XV5S-Xtreme-Celular-Beach-Volleyball-800x1000px-600x750.jpg"
+  price: 18.5
+  description: "- Soft durable rubber fiber outer"
 - title: Mikasa FIVB Snow Volleyball SV335-V8
   image: "/SV335-V8-B.jpg"
   price: 47
