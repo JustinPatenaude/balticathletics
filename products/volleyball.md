@@ -13,14 +13,16 @@ products:
 - Uniforms
 - Volleyballs
 photos:
+- title: Wilson Volleyballs
+  photo: "/2022-01-06 17.29.07.jpg"
+- photo: "/VQ200W-CAN MHSAA ball 2021.png"
+  title: "**New** 2021 MHSAA Official Volleyball - $68.00"
+- title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
+  photo: "/2020.01.05 Mikasa MHSAA gift with purchase promo 04.png"
 - title: Mikasa Volleyballs
   photo: "/2022-01-06 17.30.12.jpg"
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
-- title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
-  photo: "/2020.01.05 Mikasa MHSAA gift with purchase promo 04.png"
-- photo: "/VQ200W-CAN MHSAA ball 2021.png"
-  title: "**New** 2021 MHSAA Official Volleyball - $68.00"
 promotions:
 - title: Mikasa VQ200W-CAN Volleyball
   image: "/VQ200W-CAN_1-Z.jpg"
