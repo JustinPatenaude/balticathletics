@@ -26,6 +26,13 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: Tachikara TV6 Volleyball Briefcase
+  image: "/tv6.jpg"
+  price: 37
+  description: |-
+    - Rectangular nylon ball bag with an adjustable shoulder strap
+    - Holds six inflated volleyballs
+    - Size: 24" L x 8" W x 15.75" H
 - title: Beach Volleyball Net - 32"
   image: "/VN185-360-Beach-Net-Outdoor-Use.jpg"
   price: 80
