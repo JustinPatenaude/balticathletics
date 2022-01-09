@@ -20,16 +20,17 @@ products:
 - Tether Balls
 photos: []
 promotions:
-- title: Rhino Skin RXD8SET 8" Low Bounce Dodgeball Set
-  image: "/rxd8set_n.jpg"
-  price: 199.5
+- title: Rhino Skin RS5 5" Micro Playball Orange
+  image: "/rs5_n.jpg"
+  price: 17.45
   description: |-
     - RHINO Skin® coating for exceptional tear-resistance
-    - Low-density, low-bounce foam core and soft exterior
-    - 8"D
-    - Ball weight: 175 g
-    - Foam density: 28 kg/m3
-    - Set of six: one of each in red, orange, yellow, green, blue and purple
+    - Low-density foam core and soft exterior to prevent injury when hit with the ball
+    - Size: 5" D
+    - Ball weight: 66 g
+    - Foam density: 65 kg/m3
+    - Recommended age: 10 years and up
+    - Orange
 - title: 'CLEARANCE - Cosom 3 lb Rubber Bowling Ball CM-050526-00 '
   image: "/2022-01-06 12.11.06.jpg"
   price: 45
@@ -118,6 +119,16 @@ promotions:
     - Recommended age: 10 years and up
 
     1 Blue available
+- title: Rhino Skin RXD8SET 8" Low Bounce Dodgeball Set
+  image: "/rxd8set_n.jpg"
+  price: 199.5
+  description: |-
+    - RHINO Skin® coating for exceptional tear-resistance
+    - Low-density, low-bounce foam core and soft exterior
+    - 8"D
+    - Ball weight: 175 g
+    - Foam density: 28 kg/m3
+    - Set of six: one of each in red, orange, yellow, green, blue and purple
 - title: Rhino PG85PR Rubber Playground Ball - 8.5 inch
   image: "/pg85pr_l.jpg"
   price: 8.5
