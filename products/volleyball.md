@@ -20,6 +20,10 @@ photos:
 - photo: "/VQ200W-CAN MHSAA ball 2021.png"
   title: "**New** 2021 MHSAA Official Volleyball - $68.50"
 promotions:
+- title: 360 XV5S Cellular Indoor/Outdoor Volleyball
+  image: "/XV5S-Xtreme-Celular-Beach-Volleyball-800x1000px-600x750.jpg"
+  price: 18.5
+  description: "- Soft durable rubber fiber outer"
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
