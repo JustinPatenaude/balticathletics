@@ -40,6 +40,7 @@ promotions:
     - Performance volleyball
     - Indoor volleyball
     - Great for gym classes or elementary game ball
+    - Select colours in stock, other colours special order
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
