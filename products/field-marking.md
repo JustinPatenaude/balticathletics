@@ -8,6 +8,15 @@ products:
 - Linemarkers
 photos: []
 promotions:
+- title: Kwik Goal Wet Striper
+  image: "/w6A401_1-600x400.jpg"
+  price: 275
+  description: |-
+    - Lightweight and durable – the 6A401 Wet Striper is a convenient machine that helps you paint a 2” to 4” line around your facility.
+    - Featuring a rugged steel frame and 4 ten-inch wheels, this paint machine is designed to move around rough fields yet still produce clean lines.
+    - This machine accepts “T” or “H” nozzle paint cans.
+
+    One in stock
 - title: Professional Field Marking Chalk - 50 lb bag
   image: "/chalkformarking.jpg"
   price: 35
