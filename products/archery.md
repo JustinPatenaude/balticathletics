@@ -12,6 +12,13 @@ tags:
 - Arrows
 - Targets
 promotions:
+- title: Archery Target Tri Pod CAA520
+  image: "/CAA520.jpg"
+  price: 110
+  description: |-
+    Heavy duty tripod
+    Holds up to 48"
+    4 in stock
 - title: Youth Archery Target Box AWSYT
   image: "/AWSYT.jpg"
   price: 75
