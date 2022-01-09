@@ -8,6 +8,13 @@ products:
 - Electronic Scoreboards
 photos: []
 promotions:
+- title: CLEARANCE - Omnikin 6 digit Flip Score Board
+  image: "/omnikin 30192-700.jpg"
+  price: 105
+  description: |-
+    - A new ergonomic scoring system with 6 series of digits
+    - It can be folded and easily transported with the bag designed for this purpose. - This scoreboard offers the possibility to be placed in two ways, in triangle and on the edge of a table.
+    - This product is good value for money, it is made of cardboard covered with nylon.
 - title: Tachikara Porta-Score Board
   image: "/porta-score.jpg"
   price: 55
