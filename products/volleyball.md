@@ -26,6 +26,14 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: Nylon Volleyball Net - 30 ft
+  image: "/vn3_n.jpg"
+  price: 40
+  description: |-
+    - Durable 2 mm polyethylene netting in 4" vinyl square mesh
+    - 2" White headband top with nylon rope cable for visibility and shape retention during gameplay
+    - 30'L x 3'H
+    - Black/White
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
