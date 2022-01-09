@@ -9,7 +9,7 @@ products:
 photos: []
 promotions:
 - title: Wilson Pickleball Net WR220000
-  image: "/Wilson WRR2200.jfif"
+  image: "/Wilson WRR220000.jfif"
   price: 210
   description: |-
     - Sturdy steel composition for base
