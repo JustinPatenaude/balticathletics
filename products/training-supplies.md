@@ -17,6 +17,10 @@ products:
 - Trainer Equipment
 photos: []
 promotions:
+- title: Medicine Balls - Rubber or Synthetic Leather
+  image: "/2022-01-06 12.02.27.jpg"
+  price: 
+  description: Synthetic Leather is special order
 - title: Fitness AB Wheel
   image: "/2022-01-06 12.12.50.jpg"
   price: 
