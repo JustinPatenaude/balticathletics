@@ -20,6 +20,16 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: Rhino Skin RXD8SET 8" Low Bounce Dodgeball Set
+  image: "/rxd8set_n.jpg"
+  price: 199.5
+  description: |-
+    - RHINO Skin® coating for exceptional tear-resistance
+    - Low-density, low-bounce foam core and soft exterior
+    - 8"D
+    - Ball weight: 175 g
+    - Foam density: 28 kg/m3
+    - Set of six: one of each in red, orange, yellow, green, blue and purple
 - title: 'CLEARANCE - Cosom 3 lb Rubber Bowling Ball CM-050526-00 '
   image: "/2022-01-06 12.11.06.jpg"
   price: 45
