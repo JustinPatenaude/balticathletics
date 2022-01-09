@@ -19,6 +19,12 @@ products:
 photos: []
 suppliers: []
 date: '2019-03-29T23:00:55.000+00:00'
-promotions: []
+promotions:
+- image: "/V3.0 playerhelmet.png"
+  price: 65
+  title: 'Tek2 3.0 ADULT Player Helmet '
+  description: |-
+    Senior M, L, XL in stock in BLACK only.
+    Other colours are special order.
 
 ---
