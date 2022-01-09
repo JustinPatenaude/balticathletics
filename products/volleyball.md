@@ -51,7 +51,7 @@ promotions:
     - V-Tec seams
     - Official size and weight
     - 1 available
-- title: Mikasa VSL215PNK Indoor/Outdoor Volleyball
+- title: CLEARANCE - Mikasa VSL215PNK Indoor/Outdoor Volleyball
   image: "/VSL215PNK_1-Z.jpg"
   price: 26
   description: |-
