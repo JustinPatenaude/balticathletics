@@ -17,6 +17,10 @@ products:
 - Trainer Equipment
 photos: []
 promotions:
+- title: SKLZ Shot Spots - Basketball Training Aid
+  image: "/2022-01-06 12.14.55.jpg"
+  price: 
+  description: ''
 - title: SKLZ Training Products
   image: "/2022-01-06 12.15.19.jpg"
   price: 
