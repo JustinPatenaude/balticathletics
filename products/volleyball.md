@@ -42,36 +42,6 @@ promotions:
     Only white as shown
 
     9 available
-- title: Champion VB5 Synthetic Leather Volleyball
-  image: "/vb5-front-l.jpg"
-  price: 18.75
-  description: |-
-    - Official size and weight volleyball
-    - Deluxe synthetic leather cover for comfort and durability
-    - Nylon wound 2-ply butyl bladder for exceptional air retention
-    - Designed for indoor and outdoor use
-    - White
-
-    6 available
-- title: ChampionVB2GB Composite Volleyball
-  image: "/vb2gb-front-l.jpg"
-  price: 22
-  description: |-
-    - Official size and weight volleyball
-    - Top of the line Cordley® composite synthetic leather soft touch cover for comfort and durability
-    - Two-Ply cotton wrapped butyl bladder for added comfort during serves and returns
-    - Meets all NFHS, NCAA, IVBF, USAV and FIVB specifications and standards
-    - Gray/Blue/White
-
-    1 available
-- title: Concorde VB88B Super Soft Volleyballs - 8 inch
-  image: "/VB88.jpg"
-  price: 6.5
-  description: |-
-    - This special “no sting” volleyball is only 8.5 oz., making it 40% lighter than a regulation volleyball.
-    - Ideal for new, recreational, or younger players.
-
-    1 blue available
 - title: Wilson I-COR Power Touch Volleyball
   image: "/I Cor Power touch volleyball.jpg"
   price: 49.5
@@ -89,7 +59,7 @@ promotions:
     - Wound, cloth-wrapped (CW) carcass construction for extended durability
     - V-Tec seams
     - Official size and weight
-    - 5 available
+    - 1 available
 - title: Mikasa VSL215PNK Indoor/Outdoor Volleyball
   image: "/VSL215PNK_1-Z.jpg"
   price: 26
