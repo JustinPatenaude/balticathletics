@@ -35,22 +35,13 @@ promotions:
     • Laminating construction and covering with sponge material enable the ball to combine the perfect water proofness and softness in extremely low temperature
 
     • FOB Winnipeg
-- title: Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
+- title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
   description: |-
     Only white as shown
 
     9 available
-- title: Wilson I-COR Power Touch Volleyball
-  image: "/I Cor Power touch volleyball.jpg"
-  price: 49.5
-  description: |-
-    - Microfibre composite Leather cover
-    - Latex power lining creates a trampoline effect so the ball explodes off a player's hands at impact for maximum speed
-    - Butyl rubber bladder
-
-    4 available (assorted colours)
 - title: CLEARANCE - Wilson 84-7967 Prestige Indoor Volleyball
   image: "/prestige red.white.jpg"
   price: 27
