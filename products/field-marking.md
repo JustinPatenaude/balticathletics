@@ -16,7 +16,7 @@ promotions:
     - can be used to line a wide variety of multi-sport fields.
     - is compatible with the 6A401 Wet Striper.
     - ONE only in stock
-- title: Kwik Goal 6A62 Athletic Line Paint (White)
+- title: Kwik Goal 6A62 Field Line Paint (White)
   image: "/line paint.jpeg"
   price: 105
   description: |
