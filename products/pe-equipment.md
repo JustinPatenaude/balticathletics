@@ -20,39 +20,20 @@ products:
 - Tether Balls
 photos: []
 promotions:
-- title: Rhino Skin 6" Low Bounce Dodgeball Set
-  image: "/rxd6set_n.jpg"
-  price: 118
+- title: Rhino Skin RXD7SET 7" Low Bounce Dodgeball Set
+  image: "/rxd7set_n.jpg"
+  price: 164
   description: |-
     - RHINO Skin® coating for exceptional tear-resistance
     - Low-density, low-bounce foam core and soft exterior
-    - 6.3"D
-    - Ball weight: 83 g
+    - 7" D
+    - Ball weight: 115 g
     - Foam density: 28 kg/m3
-    - Set of 6 balls (1 of each): Red, Orange, Yellow, Green, Royal Blue, Purple
+    - Set of 6 balls (1 of each) Red, Orange, Yellow, Green, Royal Blue, Purple
 - title: 'CLEARANCE - Cosom 3 lb Rubber Bowling Ball CM-050526-00 '
   image: "/2022-01-06 12.11.06.jpg"
   price: 45
   description: "- 2 available only"
-- title: Cosom CM741722-00 Gym Tennis Balls
-  image: "/2020-04-16 16.31.55.jpg"
-  price: 1.5
-  description: |-
-    - dense foam
-    - yellow
-
-    21 available
-- title: Mikasa P500 Playground Ball - 5 inch
-  image: "/P500LIME_1-Z.jpg"
-  price: 8
-  description: |-
-    - Perfect for any kind of surface, indoors or outdoors
-    - Its resistance and bounce are out of this world!
-    - Size: 5" (12.7 cm)
-    - Premium rubber cover
-    - Latex-free
-
-    1 Lime Green available
 - title: Rhino Skin RS5 Micro Playball - 5 inch
   image: "/rs5_l.jpg"
   price: 15.95
@@ -65,26 +46,16 @@ promotions:
     - Recommended age: 10 years and up
 
     1 Orange available
-- title: 360 SPG6Y Rubber Playground Balls - 6 inch
-  image: "/SPG6Y.jpg"
-  price: 5.75
+- title: Rhino Skin 6" Low Bounce Dodgeball Set
+  image: "/rxd6set_n.jpg"
+  price: 118
   description: |-
-    - Classic rubber play ball.
-    - Essential for classrooms, playgrounds and kickball.
-    - Nylon wound with 3-ply rubber cover for extra durability.
-
-    1 available
-- title: Jeffix PR600 Playground Rubber Ball - 6 inch
-  image: "/PR600_1-Z.jpg"
-  price: 5.75
-  description: |-
-    - Deluxe playground ball
-    - 4 ply. Nylon winding under tough rubber cover
-    - Softer, better bounce and durability!
-    - 6" (15 cm)
-    - Available in orange color only
-
-    5 available
+    - RHINO Skin® coating for exceptional tear-resistance
+    - Low-density, low-bounce foam core and soft exterior
+    - 6.3"D
+    - Ball weight: 83 g
+    - Foam density: 28 kg/m3
+    - Set of 6 balls (1 of each): Red, Orange, Yellow, Green, Royal Blue, Purple
 - title: Rhino Skin RS65 Low Bounce Softi Foam Ball - 6 inch
   image: "/rs65_l.jpg"
   price: 17
@@ -97,42 +68,6 @@ promotions:
     - Recommended age: 10 years and up
 
     1 Royal Blue available
-- title: Softex P60Y Playball - 6 inch
-  image: "/P60Y.jpg"
-  price: 3.5
-  description: |-
-    - Soft inflatable vinyl balls are extra thick
-    - best sellers for young school aged children
-    - Can be used for a variety of games and activities.
-
-    2 yellow available
-- title: Concorde GPG7 Grippy Playground Ball - 7 inch
-  image: "/2020-04-17 09.01.39.jpg"
-  price: 6.75
-  description: 1 available
-- title: Dimple-Tech DFPG7 Playground Ball - 7 inch
-  image: "/2020-04-17 09.16.11.jpg"
-  price: 12
-  description: |-
-    - cotton wrap conferring incredible flexibility
-    - coated with PVC foam for comfort and unmatched feel
-    - a unique dimpled finish, eliminating pinching and producing a silent rebound and a reliable path.
-    - Size: 7" (18 cm)
-
-    1 purple available
-- title: Jeffix PR700 Playground Rubber Ball - 7 inch
-  image: "/PR700-R_1-Z.jpg.png"
-  price: 6.5
-  description: |-
-    - Deluxe playground ball
-    - 4 ply Nylon winding under tough rubber cover
-    - Softer, better bounce and durability!
-    - Size: 7” (18 cm)
-
-    Available:
-    - 1 Blue
-    - 1 Green
-    - 1 Red
 - title: Rhino PG7RD Rubber Playground Ball - 7 inch
   image: "/pg7rd_l.jpg"
   price: 7.25
@@ -173,16 +108,90 @@ promotions:
     - Recommended age: 10 years and up
 
     1 Blue available
-- title: Dimple-Tech DFPG8 Playground Ball - 8 inch
-  image: "/2020-04-17 09.17.16.jpg"
-  price: 15.25
+- title: Rhino PG85PR Rubber Playground Ball - 8.5 inch
+  image: "/pg85pr_l.jpg"
+  price: 8.5
   description: |-
-    - made with cotton wrap conferring incredible flexibility
-    - coated with PVC foam for comfort and unmatched feel
-    - unique dimpled finish, eliminating pinching and producing a silent rebound and a reliable path.
-    - Size: 8" (21 cm)
+    - high bouncing 2-ply balls are nylon wound
+    - feature an easy grip textured surface
+    - durable 8.5” purple playground ball is always a popular choice!
 
-    1 blue available
+    2 purple available
+- title: Cosom CM741722-00 Gym Tennis Balls
+  image: "/2020-04-16 16.31.55.jpg"
+  price: 1.5
+  description: |-
+    - dense foam
+    - yellow
+
+    21 available
+- title: Mikasa P500 Playground Ball - 5 inch
+  image: "/P500LIME_1-Z.jpg"
+  price: 8
+  description: |-
+    - Perfect for any kind of surface, indoors or outdoors
+    - Its resistance and bounce are out of this world!
+    - Size: 5" (12.7 cm)
+    - Premium rubber cover
+    - Latex-free
+
+    1 Lime Green available
+- title: 360 SPG6Y Rubber Playground Balls - 6 inch
+  image: "/SPG6Y.jpg"
+  price: 5.75
+  description: |-
+    - Classic rubber play ball.
+    - Essential for classrooms, playgrounds and kickball.
+    - Nylon wound with 3-ply rubber cover for extra durability.
+
+    1 available
+- title: Jeffix PR600 Playground Rubber Ball - 6 inch
+  image: "/PR600_1-Z.jpg"
+  price: 5.75
+  description: |-
+    - Deluxe playground ball
+    - 4 ply. Nylon winding under tough rubber cover
+    - Softer, better bounce and durability!
+    - 6" (15 cm)
+    - Available in orange color only
+
+    5 available
+- title: Softex P60Y Playball - 6 inch
+  image: "/P60Y.jpg"
+  price: 3.5
+  description: |-
+    - Soft inflatable vinyl balls are extra thick
+    - best sellers for young school aged children
+    - Can be used for a variety of games and activities.
+
+    2 yellow available
+- title: Concorde GPG7 Grippy Playground Ball - 7 inch
+  image: "/2020-04-17 09.01.39.jpg"
+  price: 6.75
+  description: 1 available
+- title: Dimple-Tech DFPG7 Playground Ball - 7 inch
+  image: "/2020-04-17 09.16.11.jpg"
+  price: 12
+  description: |-
+    - cotton wrap conferring incredible flexibility
+    - coated with PVC foam for comfort and unmatched feel
+    - a unique dimpled finish, eliminating pinching and producing a silent rebound and a reliable path.
+    - Size: 7" (18 cm)
+
+    1 purple available
+- title: Jeffix PR700 Playground Rubber Ball - 7 inch
+  image: "/PR700-R_1-Z.jpg.png"
+  price: 6.5
+  description: |-
+    - Deluxe playground ball
+    - 4 ply Nylon winding under tough rubber cover
+    - Softer, better bounce and durability!
+    - Size: 7” (18 cm)
+
+    Available:
+    - 1 Blue
+    - 1 Green
+    - 1 Red
 - title: Jeffix PR850 Playground Rubber Ball - 8.5 inch
   image: "/PR850-Y_1-Z.png"
   price: 8
@@ -196,6 +205,16 @@ promotions:
     - 1 Green
     - 1 Yellow
     - 1 Purple
+- title: Dimple-Tech DFPG8 Playground Ball - 8 inch
+  image: "/2020-04-17 09.17.16.jpg"
+  price: 15.25
+  description: |-
+    - made with cotton wrap conferring incredible flexibility
+    - coated with PVC foam for comfort and unmatched feel
+    - unique dimpled finish, eliminating pinching and producing a silent rebound and a reliable path.
+    - Size: 8" (21 cm)
+
+    1 blue available
 - title: Mikasa P850 Four Square Playground Ball - 8.5 inch
   image: "/P850PINK_1-Z (1).jpg.png"
   price: 10
@@ -207,15 +226,6 @@ promotions:
     - Latex-free
 
     1 Pink available
-- title: Rhino PG85PR Rubber Playground Ball - 8.5 inch
-  image: "/pg85pr_l.jpg"
-  price: 8.5
-  description: |-
-    - high bouncing 2-ply balls are nylon wound
-    - feature an easy grip textured surface
-    - durable 8.5” purple playground ball is always a popular choice!
-
-    2 purple available
 - title: Swiftflyte 53118 Playground Ball - 8.5 inch
   image: "/2020-04-17 08.49.47.jpg"
   price: 6
