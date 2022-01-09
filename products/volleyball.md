@@ -26,6 +26,16 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: Champion VN700 Olympic Power Volleyball Net
+  image: "/vn700-a-main_n.jpg"
+  price: 160
+  description: |-
+    - Olympic-style power net for professional and tournament play
+    - Durable rip-resistant 3 mm knot-less nylon netting
+    - 2.5" White headband top and bottom for visibility and shape retention during gameplay
+    - Durable side pockets with dowels to maintain net's shape
+    - Net Dimensions: 32' x 3.125' (1 meter)
+    - Black/White
 - title: Champion Tournament Volleyball Net - 32 ft
   image: "/vn600_n.jpg"
   price: 150
