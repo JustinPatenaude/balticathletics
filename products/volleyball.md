@@ -26,6 +26,17 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: Champion Tournament Volleyball Net - 32 ft
+  image: "/vn600_n.jpg"
+  price: 150
+  description: |-
+    - Regulation size requirements for professional and tournament play
+    - Durable rip-resistant 3 mm knot less nylon netting
+    - 2.5" White headband top and bottom for visibility and shape retention during gameplay
+    - Vinyl-coated steel cable top and bottom for added stability and support
+    - Side pockets and dowels maintain net's shape after regular use
+    - Net dimensions: 32' x 3'
+    - Black/White
 - title: Nylon Volleyball Net - 30 ft
   image: "/vn3_n.jpg"
   price: 40
