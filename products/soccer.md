@@ -17,7 +17,7 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: CLEARANCE - Franklin Soccer Goal
+- title: CLEARANCE - FRK-SOC-5660P1 Franklin Soccer Goal
   image: "/2022-01-06 17.09.02.jpg"
   price: 99
   description: |-
