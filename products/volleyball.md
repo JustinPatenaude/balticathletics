@@ -194,7 +194,7 @@ promotions:
     - Inserts into the top of 2" badminton posts for mini-volleyball play
     - 4 easy height adjustments
     - 2 eyelets for side by side courts
-- title: CLEARANCE - 360 World Competition Volleyball Net
+- title: CLEARANCE - 360 VN790 World Competition Volleyball Net
   image: "/VN790-Volleyball-WorldCompetitionNet-800x1000px-600x750.jpg"
   price: 325
   description: |-
