@@ -21,6 +21,5 @@ photos:
 - title: 3 person Sled
   photo: "/2022-01-06 17.12.03.jpg"
 promotions: []
-published: false
 
 ---
