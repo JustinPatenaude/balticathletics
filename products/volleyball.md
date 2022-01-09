@@ -38,7 +38,7 @@ promotions:
     - Tension kit.
     - Size: 32’ x 1’ cable top, bottom and side headbands.
 
-    ONE only available
+    ONE available
 - title: Tachikara TV6 Volleyball Briefcase
   image: "/tv6.jpg"
   price: 37
