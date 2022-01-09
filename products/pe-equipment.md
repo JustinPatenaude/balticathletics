@@ -20,7 +20,11 @@ products:
 - Tether Balls
 photos: []
 promotions:
-- title: Rhino Skin RS5 5" Micro Playball Orange
+- title: 'CLEARANCE - Cosom 3 lb Rubber Bowling Ball CM-050526-00 '
+  image: "/2022-01-06 12.11.06.jpg"
+  price: 45
+  description: "- 2 available only"
+- title: Rhino Skin RS5 Micro Playball Orange - 5 inch
   image: "/rs5_n.jpg"
   price: 17.45
   description: |-
@@ -31,22 +35,6 @@ promotions:
     - Foam density: 65 kg/m3
     - Recommended age: 10 years and up
     - Orange only
-- title: 'CLEARANCE - Cosom 3 lb Rubber Bowling Ball CM-050526-00 '
-  image: "/2022-01-06 12.11.06.jpg"
-  price: 45
-  description: "- 2 available only"
-- title: Rhino Skin RS5 Micro Playball - 5 inch
-  image: "/rs5_l.jpg"
-  price: 15.95
-  description: |-
-    - Rhino Skin® coating for exceptional tear-resistance
-    - Low-density foam core and soft exterior to prevent injury when hit with the ball
-    - Size: 5" D
-    - Ball weight: 66 g
-    - Foam density: 65 kg/m3
-    - Recommended age: 10 years and up
-
-    1 Orange available
 - title: Rhino Skin 6" Low Bounce Dodgeball Set
   image: "/rxd6set_n.jpg"
   price: 118
