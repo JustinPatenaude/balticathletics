@@ -22,6 +22,10 @@ products:
 - Uniforms
 photos: []
 promotions:
+- title: Various Indoor and Outdoor Shot Puts
+  image: "/2022-01-05 16.56.29.jpg"
+  price: 
+  description: ''
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 245
