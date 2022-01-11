@@ -16,6 +16,8 @@ products:
 - Replacement Parts for Kits
 - Trainer Equipment
 photos:
+- title: First Aid Kits
+  photo: "/2022-01-05 16.41.14.jpg"
 - title: First Aid
   photo: "/2022-01-05 16.52.07.jpg"
 promotions:
