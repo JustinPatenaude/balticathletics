@@ -6,15 +6,6 @@ products:
 - Bowling Shirts
 photos: []
 promotions:
-- title: Plastic Bowling Pin Set BP10 - White
-  image: "/bp10-a-main_n.jpg"
-  price: 71
-  description: |-
-    - Set of 10 plastic pins
-    - Pattern stat sheet and score pad
-    - Fill with sand for added weight
-    - Ball not included
-    - White
 - title: CLEARANCE - Penguin Bowling Set PENBBS
   image: "/PENBBS-Penguin-Bowling-Ball-Set-800x1000px-600x750.jpg"
   price: 65
@@ -46,7 +37,16 @@ promotions:
     - One BP45 bowling ball
     - Set-up sheet and score pad included
     - Fill with sand for added weight
-- title: Multicoloured Plastic Bowling Pin Set BP10CLR
+- title: Plastic Bowling Pin Set BP10 - White
+  image: "/bp10-a-main_n.jpg"
+  price: 71
+  description: |-
+    - Set of 10 plastic pins
+    - Pattern stat sheet and score pad
+    - Fill with sand for added weight
+    - Ball not included
+    - White
+- title: Multicoloured Plastic Bowling Pin Set BP10CLR - Multicoloured
   image: "/bp10clr-a-main_n.jpg"
   price: 73
   description: |-
