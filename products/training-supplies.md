@@ -21,14 +21,12 @@ photos:
 - title: First Aid Kits
   photo: "/2022-01-05 16.41.14.jpg"
 promotions:
-- title: Agility/Speed Ladder 92129-1
-  image: "/92129-1_A_Agility_Ladder4m_combo.jpg"
-  price: 34.75
-  description: |-
-    Improve acceleration, foot speed, lateral movement, while enhancing core balance & strength
-    - 4.3m ladder
-    - 10 flat rungs, adjustable distance
-    - Carry / storage bag included
+- title: Iron Body Weighted Jump Rope 92107-9
+  image: "/2022-01-06 11.39.00.jpg"
+  price: 12.5
+  description: "- 9 ft PVC rope\n- Length adjustable \n- Durable contour handles for
+    comfort\n- Weighted iron bars: 165g in each handle provide added resistance and
+    are removable\n- High speed ball bearings provide smooth rotation"
 - title: "*NEW ITEM* CoreFX Suspension Trainer CFXST"
   image: "/CFXST-COREFX-Suspension-Trainer-800x1000px-600x750.jpg"
   price: 78.75
@@ -106,6 +104,14 @@ promotions:
     - Increases muscle flexibility and strength
     - Strengthens and tones your body
     - Will not burst if punctured
+- title: Agility/Speed Ladder 92129-1
+  image: "/92129-1_A_Agility_Ladder4m_combo.jpg"
+  price: 34.75
+  description: |-
+    Improve acceleration, foot speed, lateral movement, while enhancing core balance & strength
+    - 4.3m ladder
+    - 10 flat rungs, adjustable distance
+    - Carry / storage bag included
 - title: York 76000 High-Density Roll Mat - 24" x 72"
   image: "/2020-03-07 12.30.18.jpg"
   price: 18
