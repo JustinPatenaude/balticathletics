@@ -6,13 +6,14 @@ products:
 - Bowling Shirts
 photos: []
 promotions:
-- title: Foam Bowling Set FBBSET
-  image: "/fbbset-a-main_n.jpg"
-  price: 147
+- title: Rhino Skin Bowling Ball RSFB25 - 2.5 lb
+  image: "/rsfb25-a-main_n.jpg"
+  price: 52.5
   description: |-
-    - One set of FBPINSET RHINO Skin® foam bowling pins
-    - One RSBX RHINO Skin® bowling ball
-    - Convenient storage bag
+    - Resists peeling, cracking, and moisture with low rebound qualities
+    - Two sets of 3-finger hole patterns fit multiple hand and finger sizes
+    - 2.5 lbs
+    - Royal Blue
 - title: CLEARANCE - Penguin Bowling Set PENBBS
   image: "/PENBBS-Penguin-Bowling-Ball-Set-800x1000px-600x750.jpg"
   price: 65
@@ -63,5 +64,12 @@ promotions:
     - Set of 10 pins: two of each in red, orange, yellow, green, and blue
     - does NOT include a ball
     - can be filled with sand for added weight
+- title: Foam Bowling Set FBBSET
+  image: "/fbbset-a-main_n.jpg"
+  price: 147
+  description: |-
+    - One set of FBPINSET RHINO Skin® foam bowling pins
+    - One RSBX RHINO Skin® bowling ball
+    - Convenient storage bag
 
 ---
