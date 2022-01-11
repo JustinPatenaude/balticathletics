@@ -6,18 +6,18 @@ products:
 - Bowling Shirts
 photos: []
 promotions:
-- title: CLEARANCE - Cosom Rubber Bowling Ball CM-050526-00 - 3 lb
-  image: "/2022-01-06 12.11.06.jpg"
-  price: 45
-  description: |-
-    - Pink only
-    - 2 available
 - title: CLEARANCE - Penguin Bowling Set PENBBS
   image: "/PENBBS-Penguin-Bowling-Ball-Set-800x1000px-600x750.jpg"
   price: 65
   description: |-
     - 5 sets available
     - while quantities last (Reg $169)
+- title: CLEARANCE - Cosom Rubber Bowling Ball CM-050526-00 - 3 lb
+  image: "/2022-01-06 12.11.06.jpg"
+  price: 45
+  description: |-
+    - Pink only
+    - 2 available
 - title: Rubber Bowling Ball BP25 - 2.5 lb
   image: "/bp25-a-main_n.jpg"
   price: 42
