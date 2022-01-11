@@ -6,6 +6,15 @@ products:
 - Bowling Shirts
 photos: []
 promotions:
+- title: Multicoloured Plastic Bowling Pin Set BP10CLR
+  image: "/bp10clr-a-main_n.jpg"
+  price: 73
+  description: |-
+    - Set of multi-color plastic pins
+    - Pattern stat sheet and score pad
+    - Fill with sand for added weight
+    - Set of 10 pins: two of each in red, orange, yellow, green, and blue
+    - does NOT include a ball
 - title: CLEARANCE - Penguin Bowling Set PENBBS
   image: "/PENBBS-Penguin-Bowling-Ball-Set-800x1000px-600x750.jpg"
   price: 65
