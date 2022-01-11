@@ -17,22 +17,6 @@ products:
 - Trainer Equipment
 photos: []
 promotions:
-- title: Robic 12 Memory Stopwatch TSW505
-  image: "/2022-01-06 11.58.29.jpg"
-  price: 69.5
-  description: |-
-    - recalls previous 12 time readings
-    - automatically counts up to 199 readings
-    - 1st - 12th place Finish Time
-    - Lap or Split Times to 24 hours
-    - 30m water resistant
-- title: Champion Tally Counter
-  image: "/2022-01-06 11.58.17.jpg"
-  price: 6
-  description: |-
-    - metal chrome housing
-    - instant reset knob
-    - four digit display up to 9999
 - title: Medicine Balls - Rubber or Synthetic Leather
   image: "/2022-01-06 12.02.27.jpg"
   price: 
@@ -166,22 +150,6 @@ promotions:
     - lacrosse
 
     1 available
-- title: Champion Stopwatches 910N
-  image: "/910neonset_l.jpg.png"
-  price: 9
-  description: |-
-    - 1/100 Second precision with lap counter (first 30 minutes)
-    - 12/24 hr format with calendar & time
-    - Daily alarm
-    - Hourly chime
-    - Big digit display
-    - Water & shock resistant structure
-
-    4 available:
-    - 1 yellow
-    - 1 orange
-    - 1 pink
-    - 1 green
 - title: Heart Rate Monitor (HRM1)
   image: "/HRM1 Heart Rate Monitor.jpg"
   price: 49
@@ -204,6 +172,31 @@ promotions:
   image: "/2020-04-17 14.51.41.jpg"
   price: 19
   description: 1 available
+- title: Champion Stopwatches 910N
+  image: "/910neonset_l.jpg.png"
+  price: 9
+  description: |-
+    - 1/100 Second precision with lap counter (first 30 minutes)
+    - 12/24 hr format with calendar & time
+    - Daily alarm
+    - Hourly chime
+    - Big digit display
+    - Water & shock resistant structure
+
+    4 available:
+    - 1 yellow
+    - 1 orange
+    - 1 pink
+    - 1 green
+- title: Robic 12 Memory Stopwatch TSW505
+  image: "/2022-01-06 11.58.29.jpg"
+  price: 69.5
+  description: |-
+    - recalls previous 12 time readings
+    - automatically counts up to 199 readings
+    - 1st - 12th place Finish Time
+    - Lap or Split Times to 24 hours
+    - 30m water resistant
 - title: Champion PD1SET Pedometer (Set of 6)
   image: "/pd1set_l.jpg"
   price: 82.5
@@ -217,6 +210,13 @@ promotions:
     - Set of 6 (1 of each):Blue, Green, Orange, Purple, Red & Yellow
 
     2 available
+- title: Champion Tally Counter
+  image: "/2022-01-06 11.58.17.jpg"
+  price: 6
+  description: |-
+    - metal chrome housing
+    - instant reset knob
+    - four digit display up to 9999
 - title: 'Lowry #264 - 6 - 1L Waterbottles with Case'
   image: "/2020-04-16 14.24.44.jpg"
   price: 30
