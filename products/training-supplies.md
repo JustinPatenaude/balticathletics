@@ -21,14 +21,6 @@ photos:
 - title: First Aid Kits
   photo: "/2022-01-05 16.41.14.jpg"
 promotions:
-- title: Yoga Block 92481-0
-  image: "/92481-0_yoga_block_new_2018.jpg"
-  price: 5.95
-  description: |-
-    - Made from strong resilient EVA foam
-    - Size 9” x 6” x 3”
-    - Shrink wrapped with full colour label
-    - Used when tightness prevents hands from reaching the floor or balance is challenged.
 - title: "*NEW ITEM* CoreFX Suspension Trainer CFXST"
   image: "/CFXST-COREFX-Suspension-Trainer-800x1000px-600x750.jpg"
   price: 78.75
@@ -44,10 +36,6 @@ promotions:
   description: Synthetic Leather is special order
 - title: Fitness AB Wheel
   image: "/2022-01-06 12.12.50.jpg"
-  price: 
-  description: ''
-- title: SKLZ Shot Spots - Basketball Training Aid
-  image: "/2022-01-06 12.14.55.jpg"
   price: 
   description: ''
 - title: SKLZ Training Products
@@ -72,6 +60,10 @@ promotions:
     - 7.5" saucer cones
 
     8 available
+- title: SKLZ Shot Spots - Basketball Training Aid
+  image: "/2022-01-06 12.14.55.jpg"
+  price: 
+  description: ''
 - title: Saucer Cone Set CM36P - 4 colour/36 pack
   image: "/2020-04-09 19.14.58.jpg"
   price: 18
@@ -142,6 +134,14 @@ promotions:
   description: |-
     54 inches
     Professional quality resistance sprint trainer
+- title: Yoga Block 92481-0
+  image: "/92481-0_yoga_block_new_2018.jpg"
+  price: 5.95
+  description: |-
+    - Made from strong resilient EVA foam
+    - Size 9” x 6” x 3”
+    - Shrink wrapped with full colour label
+    - Used when tightness prevents hands from reaching the floor or balance is challenged.
 - title: Fox40 Ecoblast Rechargeable Air Horn & Air Pump 9509AZ
   image: "/Fox40 9509AZ ecoblast horn.jpg"
   price: 28
