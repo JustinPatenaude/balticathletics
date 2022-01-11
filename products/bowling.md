@@ -15,6 +15,7 @@ promotions:
     - Fill with sand for added weight
     - Set of 10 pins: two of each in red, orange, yellow, green, and blue
     - does NOT include a ball
+    - can be filled with sand for added weight
 - title: CLEARANCE - Penguin Bowling Set PENBBS
   image: "/PENBBS-Penguin-Bowling-Ball-Set-800x1000px-600x750.jpg"
   price: 65
