@@ -16,11 +16,19 @@ products:
 - Replacement Parts for Kits
 - Trainer Equipment
 photos:
-- title: First Aid Kits
-  photo: "/2022-01-05 16.41.14.jpg"
 - title: First Aid
   photo: "/2022-01-05 16.52.07.jpg"
+- title: First Aid Kits
+  photo: "/2022-01-05 16.41.14.jpg"
 promotions:
+- title: Yoga Block 92481-0
+  image: "/92481-0_yoga_block_new_2018.jpg"
+  price: 5.95
+  description: |-
+    - Made from strong resilient EVA foam
+    - Size 9” x 6” x 3”
+    - Shrink wrapped with full colour label
+    - Used when tightness prevents hands from reaching the floor or balance is challenged.
 - title: "*NEW ITEM* CoreFX Suspension Trainer CFXST"
   image: "/CFXST-COREFX-Suspension-Trainer-800x1000px-600x750.jpg"
   price: 78.75
