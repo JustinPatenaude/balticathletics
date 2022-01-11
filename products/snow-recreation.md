@@ -8,6 +8,8 @@ products:
 - Sleds
 - Snow saws
 photos:
+- title: Snow Saws
+  photo: "/2022-01-10 11.21.02.jpg"
 - title: Brick molds
   photo: "/2022-01-06 16.17.54.jpg"
 - title: Scoops and Trowels
