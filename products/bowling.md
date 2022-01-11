@@ -6,6 +6,15 @@ products:
 - Bowling Shirts
 photos: []
 promotions:
+- title: Plastic Bowling Ball & Pin Set BPSET
+  image: "/bpset-a-main_n.jpg"
+  price: 141
+  description: |-
+    - Plastic Bowling Set
+    - One set of BP10 pins
+    - One BP45 bowling ball
+    - Set-up sheet and score pad included
+    - Fill with sand for added weight
 - title: Multicoloured Plastic Bowling Pin Set BP10CLR
   image: "/bp10clr-a-main_n.jpg"
   price: 73
