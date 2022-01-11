@@ -22,10 +22,6 @@ products:
 - Uniforms
 photos: []
 promotions:
-- title: Various Indoor and Outdoor Shot Puts
-  image: "/2022-01-05 16.56.29.jpg"
-  price: 
-  description: ''
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 245
@@ -127,6 +123,10 @@ promotions:
   image: "/training hurdles.jpg"
   price: 9
   description: 3 available
+- title: Various Indoor and Outdoor Shot Puts
+  image: "/2022-01-05 16.56.29.jpg"
+  price: 
+  description: ''
 - title: Track & Field Measuring Tape MT100 - 30 metres
   image: "/MT100 FT measuring tape.jpg"
   price: 12
