@@ -17,6 +17,13 @@ products:
 - Trainer Equipment
 photos: []
 promotions:
+- title: Champion Tally Counter
+  image: "/2022-01-06 11.58.17.jpg"
+  price: 6
+  description: |-
+    - metal chrome housing
+    - instant reset knob
+    - four digit display up to 9999
 - title: Medicine Balls - Rubber or Synthetic Leather
   image: "/2022-01-06 12.02.27.jpg"
   price: 
