@@ -21,13 +21,6 @@ photos:
 - title: First Aid Kits
   photo: "/2022-01-05 16.41.14.jpg"
 promotions:
-- title: Lightweight Skip Rope 92101-7
-  image: "/92101-7_B_Light_JumpRope_alone_open.jpg"
-  price: 3.3
-  description: |-
-    - 9’ adjustable length
-    - Blended PVC cord
-    - Contoured handles
 - title: "*NEW ITEM* CoreFX Suspension Trainer CFXST"
   image: "/CFXST-COREFX-Suspension-Trainer-800x1000px-600x750.jpg"
   price: 78.75
@@ -37,6 +30,13 @@ promotions:
     - integrated door anchor
     - extension strap with clip (35.5″)
     - anti-slip TPE rubber rubber handles
+- title: Lightweight Skip Rope 92101-7
+  image: "/92101-7_B_Light_JumpRope_alone_open.jpg"
+  price: 3.3
+  description: |-
+    - 9’ adjustable length
+    - Blended PVC cord
+    - Contoured handles
 - title: Iron Body High Speed Skip Rope 92105-5
   image: "/92105-5_highspeed_jump_rope_combo_2020.jpg"
   price: 6.55
