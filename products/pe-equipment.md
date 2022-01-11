@@ -20,17 +20,6 @@ products:
 - Tether Balls
 photos: []
 promotions:
-- title: Target Net Set TNM18SET
-  image: "/tnm18set_n.jpg"
-  price: 195
-  description: |-
-    - Multi-purpose target hoop
-    - Powder coated steel construction
-    - Pivots for practicing
-    - Any type of shot from golf to discs to bean bags
-    - Opening is 20" D
-    - Assembly required
-    - Set of six: one of each in red, orange, yellow, green, blue and purple
 - title: Ultra Skin 360 Dodgeballs - 3.5", 6", 7", 8", 8.3"
   image: "/FX83R-Ultraskin-Balls-800x1000px-600x750.jpg"
   price: 7.5
@@ -362,6 +351,17 @@ promotions:
   image: "/2022-01-06 16.59.24.jpg"
   price: 0
   description: Many brands and sizes available.
+- title: Target Net Set TNM18SET
+  image: "/tnm18set_n.jpg"
+  price: 195
+  description: |-
+    - Multi-purpose target hoop
+    - Powder coated steel construction
+    - Pivots for practicing
+    - Any type of shot from golf to discs to bean bags
+    - Opening is 20" D
+    - Assembly required
+    - Set of six: one of each in red, orange, yellow, green, blue and purple
 - title: Exercise Station Activity Riser (Hoop holder) w/Base & Wand Posts
   image: ''
   price: 
