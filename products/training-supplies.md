@@ -17,6 +17,15 @@ products:
 - Trainer Equipment
 photos: []
 promotions:
+- title: "*NEW ITEM* CoreFX Suspension Trainer CFXST"
+  image: "/CFXST-COREFX-Suspension-Trainer-800x1000px-600x750.jpg"
+  price: 78.75
+  description: |-
+    - takes up very little space.
+    - It is easily adjustable from 58–72″ to meet the needs of your workout.
+    - integrated door anchor
+    - extension strap with clip (35.5″)
+    - anti-slip TPE rubber rubber handles
 - title: Medicine Balls - Rubber or Synthetic Leather
   image: "/2022-01-06 12.02.27.jpg"
   price: 
