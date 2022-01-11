@@ -6,6 +6,13 @@ products:
 - Bowling Shirts
 photos: []
 promotions:
+- title: Foam Bowling Set FBBSET
+  image: "/fbbset-a-main_n.jpg"
+  price: 147
+  description: |-
+    - One set of FBPINSET RHINO Skin® foam bowling pins
+    - One RSBX RHINO Skin® bowling ball
+    - Convenient storage bag
 - title: CLEARANCE - Penguin Bowling Set PENBBS
   image: "/PENBBS-Penguin-Bowling-Ball-Set-800x1000px-600x750.jpg"
   price: 65
