@@ -9,7 +9,7 @@ products:
 - Snow saws
 photos:
 - title: Brick molds
-  photo: "/2022-01-06 16.17.54.jpg"
+  photo: "/2022-01-06 16.17.540.jpg"
 - title: Scoops and Trowels
   photo: "/2022-01-06 16.14.220.jpg"
 - title: Snow Saws $18 each
