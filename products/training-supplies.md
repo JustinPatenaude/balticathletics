@@ -21,6 +21,13 @@ photos:
 - title: First Aid Kits
   photo: "/2022-01-05 16.41.14.jpg"
 promotions:
+- title: Iron Body High Speed Skip Rope 92105-5
+  image: "/92105-5_highspeed_jump_rope_combo_2020.jpg"
+  price: 6.55
+  description: |-
+    - 9’ adjustable rope length
+    - Heavy duty PVC cord
+    - 100% sealed precision ball bearing
 - title: Iron Body Weighted Jump Rope 92107-9
   image: "/2022-01-06 11.39.00.jpg"
   price: 12.5
