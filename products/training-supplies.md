@@ -17,6 +17,15 @@ products:
 - Trainer Equipment
 photos: []
 promotions:
+- title: Robic 12 Memory Stopwatch TSW505
+  image: "/2022-01-06 11.58.29.jpg"
+  price: 69.5
+  description: |-
+    - recalls previous 12 time readings
+    - automatically counts up to 199 readings
+    - 1st - 12th place Finish Time
+    - Lap or Split Times to 24 hours
+    - 30m water resistant
 - title: Champion Tally Counter
   image: "/2022-01-06 11.58.17.jpg"
   price: 6
