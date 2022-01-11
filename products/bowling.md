@@ -20,7 +20,7 @@ promotions:
   description: |-
     - 5 sets available
     - while quantities last (Reg $169)
-- title: BP25 Rubber Bowling Ball
+- title: Rubber Bowling Ball BP25 - 2.5 lb
   image: "/bp25-a-main_n.jpg"
   price: 42
   description: |-
