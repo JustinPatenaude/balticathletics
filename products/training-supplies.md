@@ -197,6 +197,7 @@ promotions:
     - 1st - 12th place Finish Time
     - Lap or Split Times to 24 hours
     - 30m water resistant
+    - 2 available
 - title: Champion PD1SET Pedometer (Set of 6)
   image: "/pd1set_l.jpg"
   price: 82.5
