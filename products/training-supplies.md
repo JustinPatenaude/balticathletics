@@ -21,6 +21,14 @@ photos:
 - title: First Aid Kits
   photo: "/2022-01-05 16.41.14.jpg"
 promotions:
+- title: Agility/Speed Ladder 92129-1
+  image: "/92129-1_A_Agility_Ladder4m_combo.jpg"
+  price: 34.75
+  description: |-
+    Improve acceleration, foot speed, lateral movement, while enhancing core balance & strength
+    - 4.3m ladder
+    - 10 flat rungs, adjustable distance
+    - Carry / storage bag included
 - title: "*NEW ITEM* CoreFX Suspension Trainer CFXST"
   image: "/CFXST-COREFX-Suspension-Trainer-800x1000px-600x750.jpg"
   price: 78.75
