@@ -15,7 +15,9 @@ products:
 - Pylons
 - Replacement Parts for Kits
 - Trainer Equipment
-photos: []
+photos:
+- title: First Aid
+  photo: "/2022-01-05 16.52.07.jpg"
 promotions:
 - title: "*NEW ITEM* CoreFX Suspension Trainer CFXST"
   image: "/CFXST-COREFX-Suspension-Trainer-800x1000px-600x750.jpg"
