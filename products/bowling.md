@@ -6,6 +6,14 @@ products:
 - Bowling Shirts
 photos: []
 promotions:
+- title: Rubber Bowling Ball BP45 - 5 lb
+  image: "/bp45-a-main_n.jpg"
+  price: 69
+  description: |-
+    - Lightweight rubber bowling ball suited for any population
+    - Multiple finger position with 2-thumb hole pattern
+    - 5 lb
+    - Blue/Red swirl design
 - title: CLEARANCE - Penguin Bowling Set PENBBS
   image: "/PENBBS-Penguin-Bowling-Ball-Set-800x1000px-600x750.jpg"
   price: 65
