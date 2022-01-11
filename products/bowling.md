@@ -6,14 +6,6 @@ products:
 - Bowling Shirts
 photos: []
 promotions:
-- title: Rhino Skin Bowling Ball RSFB25 - 2.5 lb
-  image: "/rsfb25-a-main_n.jpg"
-  price: 52.5
-  description: |-
-    - Resists peeling, cracking, and moisture with low rebound qualities
-    - Two sets of 3-finger hole patterns fit multiple hand and finger sizes
-    - 2.5 lbs
-    - Royal Blue
 - title: CLEARANCE - Penguin Bowling Set PENBBS
   image: "/PENBBS-Penguin-Bowling-Ball-Set-800x1000px-600x750.jpg"
   price: 65
@@ -28,6 +20,14 @@ promotions:
     - Multiple finger position with 2-thumb hole pattern
     - 2.5 lb
     - Blue/Red swirl design
+- title: Rhino Skin Bowling Ball RSFB25 - 2.5 lb
+  image: "/rsfb25-a-main_n.jpg"
+  price: 52.5
+  description: |-
+    - Resists peeling, cracking, and moisture with low rebound qualities
+    - Two sets of 3-finger hole patterns fit multiple hand and finger sizes
+    - 2.5 lbs
+    - Royal Blue
 - title: Rubber Bowling Ball BP45 - 5 lb
   image: "/bp45-a-main_n.jpg"
   price: 69
