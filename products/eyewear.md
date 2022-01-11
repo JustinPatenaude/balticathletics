@@ -3,7 +3,9 @@ layout: product
 permalink: "/products/eyewear/"
 title: Eyewear
 products: []
-photos: []
+photos:
+- title: ''
+  photo: "/2022-01-06 11.51.54.jpg"
 suppliers: []
 date: '2019-03-29T18:15:09.000-05:00'
 promotions:
