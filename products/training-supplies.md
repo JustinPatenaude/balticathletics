@@ -21,6 +21,22 @@ photos:
 - title: First Aid Kits
   photo: "/2022-01-05 16.41.14.jpg"
 promotions:
+- title: Lightweight Skip Rope 92101-7
+  image: "/92101-7_B_Light_JumpRope_alone_open.jpg"
+  price: 3.3
+  description: |-
+    - 9’ adjustable length
+    - Blended PVC cord
+    - Contoured handles
+- title: "*NEW ITEM* CoreFX Suspension Trainer CFXST"
+  image: "/CFXST-COREFX-Suspension-Trainer-800x1000px-600x750.jpg"
+  price: 78.75
+  description: |-
+    - takes up very little space.
+    - It is easily adjustable from 58–72″ to meet the needs of your workout.
+    - integrated door anchor
+    - extension strap with clip (35.5″)
+    - anti-slip TPE rubber rubber handles
 - title: Iron Body High Speed Skip Rope 92105-5
   image: "/92105-5_highspeed_jump_rope_combo_2020.jpg"
   price: 6.55
@@ -34,19 +50,6 @@ promotions:
   description: "- 9 ft PVC rope\n- Length adjustable \n- Durable contour handles for
     comfort\n- Weighted iron bars: 165g in each handle provide added resistance and
     are removable\n- High speed ball bearings provide smooth rotation"
-- title: "*NEW ITEM* CoreFX Suspension Trainer CFXST"
-  image: "/CFXST-COREFX-Suspension-Trainer-800x1000px-600x750.jpg"
-  price: 78.75
-  description: |-
-    - takes up very little space.
-    - It is easily adjustable from 58–72″ to meet the needs of your workout.
-    - integrated door anchor
-    - extension strap with clip (35.5″)
-    - anti-slip TPE rubber rubber handles
-- title: Medicine Balls - Rubber or Synthetic Leather
-  image: "/2022-01-06 12.02.27.jpg"
-  price: 
-  description: Synthetic Leather is special order
 - title: Fitness AB Wheel
   image: "/2022-01-06 12.12.50.jpg"
   price: 
@@ -111,6 +114,14 @@ promotions:
     - Increases muscle flexibility and strength
     - Strengthens and tones your body
     - Will not burst if punctured
+- title: Medicine Balls - Rubber or Synthetic Leather
+  image: "/2022-01-06 12.02.27.jpg"
+  price: 
+  description: Synthetic Leather is special order
+- title: 360 MR1K Rubber Medicine Ball - 1 kg
+  image: "/2020-04-17 14.51.41.jpg"
+  price: 19
+  description: 1 available
 - title: Agility/Speed Ladder 92129-1
   image: "/92129-1_A_Agility_Ladder4m_combo.jpg"
   price: 34.75
@@ -210,10 +221,6 @@ promotions:
     - Spigot on bottom
 
     1 available
-- title: 360 MR1K Rubber Medicine Ball - 1 kg
-  image: "/2020-04-17 14.51.41.jpg"
-  price: 19
-  description: 1 available
 - title: Champion Stopwatches 910N
   image: "/910neonset_l.jpg.png"
   price: 9
