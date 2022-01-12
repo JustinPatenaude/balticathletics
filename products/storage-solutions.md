@@ -11,7 +11,17 @@ promotions:
 - title: Custom Steel Racquet Cart - Small
   image: "/2022-01-10 11.10.28.jpg"
   price: 425
-  description: ''
+  description: |-
+    - 32"L  X 16" W X 32" T
+    - Holds approx 30 racquets
+    - suitable size for elementary/middle school
+    - swivel casters
+    - plastic bin included on bottom shelf
+    - welded steel - much stronger and more durable than PVC plastic
+    - available in BLACK, BLUE, GREEN, GREY, RED
+    - racquets & shuttles in photo not included
+
+    CUSTOM ITEM (allow 3-4 weeks for manufacturing)
 - title: Blue Ball Carrier
   image: "/BSU-100 Ball Storage Cart.jpg"
   price: 350
