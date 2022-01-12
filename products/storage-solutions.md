@@ -8,6 +8,10 @@ products:
 - Ball carts
 photos: []
 promotions:
+- title: Custom Steel Racquet Cart - Small
+  image: "/2022-01-10 11.10.28.jpg"
+  price: 425
+  description: ''
 - title: Blue Ball Carrier
   image: "/BSU-100 Ball Storage Cart.jpg"
   price: 350
