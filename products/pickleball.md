@@ -7,7 +7,7 @@ products:
 - Nets
 - Paddles
 photos:
-- title: ''
+- title: Various Pickleball items
   photo: "/2022-01-05 15.15.14.jpg"
 promotions:
 - title: Champion Pickleball Net PBNET
