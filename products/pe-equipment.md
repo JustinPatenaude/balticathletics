@@ -20,6 +20,10 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: Inflatables
+  image: "/2022-01-05 15.43.49.jpg"
+  price: 
+  description: ''
 - title: 360 Cricket Set G209
   image: "/2022-01-05 16.18.05.jpg"
   price: 54.25
