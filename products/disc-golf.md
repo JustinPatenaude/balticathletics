@@ -19,7 +19,7 @@ promotions:
     Maestro Mid-Range\nActive Line Soft Magician Driver"
 - title: Dynamic Discs Cadet Backpack
   image: "/2022-01-05 15.22.25.jpg"
-  price: 
+  price: 45
   description: ''
 
 ---
