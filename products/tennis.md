@@ -11,9 +11,9 @@ photos: []
 suppliers: []
 date: '2019-03-29T23:04:26.000+00:00'
 promotions:
-- title: Wilson Championship Tennis Balls - Pkg of 3
-  image: ''
-  price: 
+- title: Wilson Championship Tennis Balls - Tube of 3
+  image: "/2022-01-05 14.49.20.jpg"
+  price: 6.25
   description: "- Extra duty"
 - title: Wilson Foam Starter Tennis Balls WRZ - Set of 3
   image: "/2022-01-05 15.07.59.jpg"
