@@ -20,6 +20,12 @@ tags:
 - Arrows
 - Targets
 promotions:
+- title: Snake Recurve Bow 42405BK - 60"
+  image: "/2022-01-05 15.27.22.jpg"
+  price: 70
+  description: |-
+    - ambidextrous
+    - 25 lbs
 - price: 79
   description: |-
     - with string
