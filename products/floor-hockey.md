@@ -19,27 +19,14 @@ promotions:
     power\nFor both indoor and outdoor use, Plus it is an ideal for playing ball hockey
     and  practicing hockey skill and trick      \n\n* A100 model weight 260g,  with
     shaft 100cm Flex 26mm is suggested for player’s height 5’8” and above"
-- title: Cosom Floor Hockey Sticks CH-700963-BK (w/fiberglass rod) 42"
-  image: "/CosomPowerShaftHockeyStick 42.jpg"
-  price: 11.5
-  description: |-
-    - 42" black shaft
-    - blade over shaft, with fiberglass rod inside, makes this stick stronger
-    - green or orange blades
 - title: Cosom Floor Hockey Stick CH-700833-BK - 42"
   image: "/2020-06-02 12.57.52.jpg"
-  price: 8.75
+  price: 9.75
   description: |-
     - 42" black shaft (also available in 36")
     - recommended for grades 4-7
     - blade inserted into shaft
     - green or orange blades
-- title: Cosom Floor Hockey Sticks CH-700953-00 (w/fiberglass rod) 47"
-  image: "/CosomPowerShaftHockeyStick.jpg"
-  price: 14
-  description: |-
-    Black shaft with Green or Orange blades
-    75 available
 - title: Cosom Floor Hockey Goalie Stick CH-700845-00
   image: "/2020-04-14 12.23.00.jpg"
   price: 10
@@ -49,12 +36,6 @@ promotions:
     - plastic butt end
 
     6 available
-- title: High Density Mini Hockey Balls FI1017 - 2"
-  image: "/2020-03-07 12.21.31.jpg"
-  price: ".90"
-  description: |-
-    Blue only
-    26 available
 - title: D-Gel 350P Street Hockey Ball - Orange (set of 2)
   image: "/2020-04-16 17.08.39.jpg"
   price: 8
