@@ -11,6 +11,24 @@ photos:
   photo: "/2022-01-05 15.01.12.jpg"
 suppliers: []
 promotions:
+- title: Axiom Pro HD Target Basket
+  image: "/37249_source_1627052127.jpg"
+  price: 225
+  description: |-
+    SPECIFICATIONS
+    - Seamless Bright Colors
+    - Electrophoresed first stage followed with tough powder coated outer shell for extra durability and protection
+    - 24 high visibility zinc coated heavy duty course weighted chains in three tiers
+    - 8mm wire construction vs. 6mm on Axiom Pro
+    - 12 outer and 12 inner course weighted chains equidistantly oriented for zero weak pockets – reducing cut-throughs and pole bounces
+    - PDGA Approved and built to standard PDGA height and size regulation
+    - Sturdy all-metal construction, all joints welded
+    - Uniquely engineered design – assembles or disassembles in under 1 minute
+    - Compact easily transportable disassembled unit
+    - Threaded tension connections for a sturdy assembly without any distracting wobble or play
+    - Standard load distributed base
+    - 2″ tall header band – 25.5″ regulation diameter
+    - 21″ outer chain tier diameter, 15″ inner chain tier diameter
 - title: Assorted Brands and Models of Discs
   image: "/2022-01-05 15.01.12.jpg"
   price: 
