@@ -65,6 +65,7 @@ promotions:
     - Half a court illustration and line-up chart on the other side
     - Complete with dry erase marker
     - Board line-up box on the back
+    - Also available in: Baseball, Football, Hockey, Lacrosse, Soccer, Volleyball
 - title: Volleyball Coaches Board VLBOARD
   image: "/vlboard-main-n.jpg"
   price: 22
