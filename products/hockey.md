@@ -20,6 +20,12 @@ photos: []
 suppliers: []
 date: '2019-03-29T23:00:55.000+00:00'
 promotions:
+- title: FOX40 Hockey Cones - Set of 10
+  image: "/2022-01-05 15.48.44.jpg"
+  price: 59
+  description: |-
+    - PVC weighted bottom with ice stumps
+    - Set of 10
 - image: "/V3.0 playerhelmet.png"
   price: 65
   title: 'Tek2 3.0 ADULT Player Helmet '
