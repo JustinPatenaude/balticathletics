@@ -11,6 +11,10 @@ photos: []
 suppliers: []
 date: '2019-03-29T23:04:26.000+00:00'
 promotions:
+- title: Wilson Foam Starter Tennis Balls WRZ - Set of 3
+  image: "/2022-01-05 15.07.59.jpg"
+  price: 
+  description: ''
 - title: T999 Tennis Racquet
   image: "/T2999 tennis racquet.jpg"
   price: 29
