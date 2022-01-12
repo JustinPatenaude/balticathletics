@@ -32,14 +32,6 @@ promotions:
     - Titanium Alloy/Steel Racquet
 
     1 available
-- title: Black Knight Airstream 660 Badminton Racquet
-  image: "/2020-03-09 11.50.18.jpg"
-  price: 35
-  description: |-
-    - Graphite/Aluminum racquet
-    - Single piece racquet
-
-    20 available
 - title: Badminton Centre Posts LO-B733
   image: "/LO-Bad Center.jpg"
   price: 95
