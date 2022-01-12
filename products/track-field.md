@@ -27,7 +27,9 @@ promotions:
 - title: Award Ribbons - Pkg of 25
   image: "/2020.03 ribbons in stock.jpg"
   price: 12.5
-  description: ''
+  description: |-
+    - English or en français
+    - For close up photos see "Ribbons" catagory
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 245
