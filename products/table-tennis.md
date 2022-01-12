@@ -27,7 +27,7 @@ promotions:
     - 20 sets available
 - title: Table Tennis Set TT3S
   image: "/TT3S Table Tennis set.jpg"
-  price: 22
+  price: 30
   description: |-
     2 player set with paddles, balls, net and clamps
     - 8 available
