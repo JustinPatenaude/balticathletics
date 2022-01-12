@@ -11,6 +11,10 @@ photos:
   photo: "/2022-01-05 15.01.12.jpg"
 suppliers: []
 promotions:
+- title: Assorted Brands and Models of Discs
+  image: "/2022-01-05 15.01.12.jpg"
+  price: 
+  description: ''
 - title: Discmania Disc Golf Set DMSET - Set of 3 discs
   image: "/2022-01-05 14.54.10.jpg"
   price: 37.95
