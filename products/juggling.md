@@ -9,6 +9,10 @@ products:
 photos:
 - photo: "/2022-01-05 16.24.09.jpg"
   title: Various Juggling Items
-promotions: []
+promotions:
+- title: Various Juggling Items
+  image: "/2022-01-05 16.24.09.jpg"
+  price: 0
+  description: ''
 
 ---
