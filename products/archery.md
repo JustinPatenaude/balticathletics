@@ -20,12 +20,10 @@ tags:
 - Arrows
 - Targets
 promotions:
-- title: Snake Recurve Bow 42405BK - 60"
-  image: "/2022-01-05 15.27.22.jpg"
-  price: 70
-  description: |-
-    - ambidextrous
-    - 25 lbs
+- title: Genesis Compound Bow GEN10476
+  image: "/2022-01-05 15.29.11.jpg"
+  price: 270
+  description: "- Right hand"
 - price: 79
   description: |-
     - with string
@@ -33,10 +31,22 @@ promotions:
     - fibre glass recurve
   image: "/2022-01-05 15.28.36.jpg"
   title: Titan Recurve Bow - 60"
-- title: Genesis Compound Bow GEN10476
-  image: "/2022-01-05 15.29.11.jpg"
-  price: 270
-  description: "- Right hand"
+- title: Snake Recurve Bow 42405BK - 60"
+  image: "/2022-01-05 15.27.22.jpg"
+  price: 70
+  description: |-
+    - ambidextrous
+    - 25 lbs
+- title: Ragim RG-WC62 Wildcat Recurve Takedown Bow
+  image: "/Wildcat Recurve Takedown Bow.png"
+  price: 150
+  description: |-
+    - Right hand
+    - 26 lb draw weight
+    - 62" tall
+    - includes string
+
+    1 available
 - title: Youth Archery Target Box AWSYT
   image: "/AWSYT.jpg"
   price: 75
@@ -66,15 +76,5 @@ promotions:
     Heavy duty tripod
     Holds up to 48"
     4 in stock
-- title: Ragim RG-WC62 Wildcat Recurve Takedown Bow
-  image: "/Wildcat Recurve Takedown Bow.png"
-  price: 150
-  description: |-
-    - Right hand
-    - 26 lb draw weight
-    - 62" tall
-    - includes string
-
-    1 available
 
 ---
