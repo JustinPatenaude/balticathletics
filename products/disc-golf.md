@@ -9,6 +9,26 @@ products:
 photos: []
 suppliers: []
 promotions:
+- title: Prodigy ACE Disc Golf Set
+  image: "/ace_line_set_collage_700x.jpg"
+  price: 45
+  description: |-
+    INCLUDES:
+
+    F Model S - Fairway Driver (138 - 140 g)
+    10 | 5 | 1 | 3
+
+    M Model OS - Midrange Disc (138 - 140 g)
+    6 | 4 | -1 | 3
+
+    P Model S - Putt & Approach Disc (138 - 140 g)
+    3 | 5 | 0 | 2
+
+    Starter bag
+
+    Mini marker disc
+
+    Disc color & foils are assorted, and will vary.
 - title: Discmania Disc Golf Set DMSET - Set of 3 discs
   image: "/2022-01-05 14.54.10.jpg"
   price: 37.95
