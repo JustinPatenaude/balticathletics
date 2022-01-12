@@ -11,6 +11,7 @@ products:
 - Dodgeballs
 - Games
 - Hoops & Rings
+- Inflatables
 - Outdoor Balls
 - Paddles & Scoops
 - Parachute
@@ -20,21 +21,6 @@ products:
 - Tether Balls
 photos: []
 promotions:
-- title: Inflatables
-  image: "/2022-01-05 15.43.49.jpg"
-  price: 
-  description: ''
-- title: 360 Cricket Set G209
-  image: "/2022-01-05 16.18.05.jpg"
-  price: 54.25
-  description: "- Suitable for indoor or outdoor use"
-- title: CLEARANCE - Cricket Set FCRS29
-  image: "/2022-01-05 16.37.44.jpg"
-  price: 40
-  description: |-
-    - Outdoor use
-    - High Density Foam
-    - Includes bat, 4 - 18 inch in-ground outdoor spike stumps, 2 balls, 2 bales
 - title: CLEARANCE - Katch-a-Cup PX-500088-00 - Set of 6
   image: "/2022-01-05 16.35.37.jpg"
   price: 18
@@ -51,6 +37,21 @@ promotions:
   description: |-
     - Set includes (3) 20” L clubs. Red, Yellow and Blue
     - High Density foam covered provides a better grip and extra durability.
+- title: CLEARANCE - Cricket Set FCRS29
+  image: "/2022-01-05 16.37.44.jpg"
+  price: 40
+  description: |-
+    - Outdoor use
+    - High Density Foam
+    - Includes bat, 4 - 18 inch in-ground outdoor spike stumps, 2 balls, 2 bales
+- title: 360 Cricket Set G209
+  image: "/2022-01-05 16.18.05.jpg"
+  price: 54.25
+  description: "- Suitable for indoor or outdoor use"
+- title: Inflatables
+  image: "/2022-01-05 15.43.49.jpg"
+  price: 
+  description: ''
 - title: Aerobie Rocket Football 65186-0
   image: "/65186-0_aerobie_rocket_football_group(1).jpg"
   price: 12.5
