@@ -26,7 +26,8 @@ promotions:
   price: 56.5
   description: |-
     - This is a gorgeous and fun set of 26 vinyl multi-coloured balls that feature a letter of the alphabet printed on them (in both upper and lower case).
-    - This set is a great tool to get kids thinking about language and movement. - -- - Each ball measures 2.5” diameter and weighs 36 grams.
+    - This set is a great tool to get kids thinking about language and movement.
+    - Each ball measures 2.5” diameter and weighs 36 grams.
 - title: CLEARANCE - Inflatable Hurdles - 18" - Set of 6
   image: "/2022-01-05 15.54.24.jpg"
   price: 20
