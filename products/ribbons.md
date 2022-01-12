@@ -31,7 +31,7 @@ promotions:
   image: "/2020.03 ribbons in stock.jpg"
   price: 13
   description: |-
-    English or French
-    See "Ribbons" catagory for close up photos
+    - English or en français
+    - For close up photos see "Ribbons" catagory
 
 ---
