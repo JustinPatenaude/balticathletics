@@ -14,6 +14,14 @@ promotions:
   image: "/2022-01-05 15.15.14.jpg"
   price: 
   description: ''
+- title: Franklin FRK-PIC-52710 Pickleball-X Volt Set
+  image: "/2020-04-13 10.31.20.jpg"
+  price: 40
+  description: |-
+    - includes 2 laminated wood, padded handle, plastic edge paddles
+    - includes 2 balls
+
+    3 sets available
 - title: Champion Pickleball Net PBNET
   image: "/pbnet-main-n.jpg"
   price: 210
@@ -31,14 +39,6 @@ promotions:
     Adjustable net height between 33\"H and 63\"H\nThe 33-inch pickleball/tennis height
     can be adjusted to a full 63-inch height for badminton and other over the net
     sports. \n- Width: 20' (240\")"
-- title: Franklin FRK-PIC-52710 Pickleball-X Volt Set
-  image: "/2020-04-13 10.31.20.jpg"
-  price: 40
-  description: |-
-    - includes 2 laminated wood, padded handle, plastic edge paddles
-    - includes 2 balls
-
-    3 sets available
 - title: Wilson Pickleball Net WR220000
   image: "/Wilson WRR220000.jfif"
   price: 210
