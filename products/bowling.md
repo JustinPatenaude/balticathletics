@@ -9,7 +9,7 @@ products:
 - Bocce
 photos: []
 promotions:
-- title: Swiftflyte Classic Bocce Set
+- title: Swiftflyte Classic Bocce Set 65626-1
   image: "/2022-01-05 16.28.28.jpg"
   price: 58
   description: |-
