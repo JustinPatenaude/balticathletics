@@ -6,7 +6,7 @@ products: []
 photos:
 - title: Track 2nd English
   photo: "/BRAWETR322 Track 2nd.jpg"
-- title: Track 1st
+- title: Track 1st English
   photo: "/BRAWETR321 Track 1st.jpg"
 - title: English or French Award Ribbons
   photo: "/2020.03 ribbons in stock.jpg"
