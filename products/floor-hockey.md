@@ -65,14 +65,6 @@ promotions:
     - comes with net
 
     2 available
-- title: Bauer Floor Hockey Goal Pads - 27"
-  image: "/2020-03-07 12.05.49.jpg"
-  price: 65
-  description: |-
-    - 4 Snap straps
-    - Deep leg channel
-
-    1 - Blue/White/Red pair available
 - title: Replacement Street/Floor Hockey Net - Black - 4' x 6'
   image: "/NET46_1-Z.jpg"
   price: 48
