@@ -19,6 +19,7 @@ products:
 - Stacking Cups
 - Team Games
 - Tether Balls
+- Whiffle balls
 photos: []
 promotions:
 - title: Whiffle Balls 3" PSCW950 - Coloured or White - Set of 50
