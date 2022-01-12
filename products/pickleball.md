@@ -10,6 +10,10 @@ photos:
 - title: Various Pickleball items
   photo: "/2022-01-05 15.15.14.jpg"
 promotions:
+- title: Various Pickleball Items
+  image: "/2022-01-05 15.15.14.jpg"
+  price: 
+  description: ''
 - title: Champion Pickleball Net PBNET
   image: "/pbnet-main-n.jpg"
   price: 210
