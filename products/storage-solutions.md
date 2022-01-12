@@ -127,12 +127,13 @@ promotions:
   description: |-
     - holds approximately 50 racquets
     - 25" Long, 34" Tall, 12" wide
-- title: Custom Steel Racquet Cart
+- title: Custom Steel Racquet Cart - Large
   image: "/20200401 racquet cart.jpg"
   price: 460
   description: |
     - 44"L  X 20" W X 42" T
-    - Holds approx 100 racquets
+    - Holds approx 50 racquets
+    - suitable size for high school
     - swivel & fixed casters
     - plastic bin included on bottom shelf
     - welded steel - much stronger and more durable than PVC plastic
