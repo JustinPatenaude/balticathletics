@@ -15,10 +15,6 @@ promotions:
   image: "/Amz_MVPProHD__22962.1640016989.jpg"
   price: 250
   description: |-
-    For added convenience and protection for your basket, the Black Hole® Transit Case is here. This heavy duty bag features two pole slots, two storage pockets, and is constructed with heavy duty woven nylon with a 1680D polyester lining to store protect your basket on the way to the field or course.
-
-    Also included with the Black Hole® Transit case is a smaller bag for the header band and pro chain rack. Both bags have reinforced padded handles to provide a comfortable grip. For home practice, field work, or temporary courses, the Black Hole® Pro with Transit bag is the disc golfer’s best choice. Protect your Black Hole® Pro with the heavy duty Black Hole® Transit Bag. (Basket not included
-
     The Black Hole Pro features:
 
     Seamless Matte Black color
@@ -40,6 +36,10 @@ promotions:
     Reinforced padded handles provide a comfortable grip while you transport your equipment
     Constructed of heavy-duty woven nylon with a 1680D Polyester lining for added protection
     For convenient conveyance to the backyard, practice field, or out on the course, the Black Hole® Pro Transit Case is the disc golfer’s best choice
+
+    For added convenience and protection for your basket, the Black Hole® Transit Case is here. This heavy duty bag features two pole slots, two storage pockets, and is constructed with heavy duty woven nylon with a 1680D polyester lining to store protect your basket on the way to the field or course.
+
+    Also included with the Black Hole® Transit case is a smaller bag for the header band and pro chain rack. Both bags have reinforced padded handles to provide a comfortable grip. For home practice, field work, or temporary courses, the Black Hole® Pro with Transit bag is the disc golfer’s best choice. Protect your Black Hole® Pro with the heavy duty Black Hole® Transit Bag. (Basket not included
 - title: Axiom Pro HD Target Basket
   image: "/37249_source_1627052127.jpg"
   price: 225
