@@ -4,7 +4,7 @@ permalink: "/products/ribbons/"
 title: Ribbons
 products: []
 photos:
-- title: ''
+- title: English or French Award Ribbons
   photo: "/2020.03 ribbons in stock.jpg"
 promotions:
 - title: Award Ribbons Pkg of 25
