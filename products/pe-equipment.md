@@ -20,6 +20,10 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: 360 Cricket Set G209
+  image: "/2022-01-05 16.18.05.jpg"
+  price: 54.25
+  description: "- Suitable for indoor or outdoor use"
 - title: CLEARANCE - Cricket Set FCRS29
   image: "/2022-01-05 16.37.44.jpg"
   price: 40
