@@ -4,6 +4,8 @@ permalink: "/products/ribbons/"
 title: Ribbons
 products: []
 photos:
+- title: Victory 1st English
+  photo: "/BRAWEVF301 Victory 1st.jpg"
 - title: Track 3rd English
   photo: "/BRAWETR323 Track 3rd.jpg"
 - title: Track 2nd English
