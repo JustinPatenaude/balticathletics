@@ -20,7 +20,7 @@ products:
 - Tether Balls
 photos: []
 promotions:
-- title: Cricket Set FCRS29
+- title: CLEARANCE - Cricket Set FCRS29
   image: "/2022-01-05 16.37.44.jpg"
   price: 40
   description: |-
