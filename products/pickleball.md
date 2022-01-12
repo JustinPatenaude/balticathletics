@@ -6,20 +6,10 @@ products:
 - Balls
 - Nets
 - Paddles
-photos: []
+photos:
+- title: ''
+  photo: "/2022-01-05 15.15.14.jpg"
 promotions:
-- title: Wilson Pickleball Net WR220000
-  image: "/Wilson WRR220000.jfif"
-  price: 210
-  description: |-
-    - Sturdy steel composition for base
-    - Thick and durable netting
-    - Curved side legs help prevent tripping
-    - Carrying bag included
-    - Approved by USAPA
-    - 22 feet long x 3 feet high
-
-    1 available in stock
 - title: Champion Pickleball Net PBNET
   image: "/pbnet-main-n.jpg"
   price: 210
@@ -45,5 +35,17 @@ promotions:
     - includes 2 balls
 
     3 sets available
+- title: Wilson Pickleball Net WR220000
+  image: "/Wilson WRR220000.jfif"
+  price: 210
+  description: |-
+    - Sturdy steel composition for base
+    - Thick and durable netting
+    - Curved side legs help prevent tripping
+    - Carrying bag included
+    - Approved by USAPA
+    - 22 feet long x 3 feet high
+
+    1 available in stock
 
 ---
