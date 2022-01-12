@@ -20,6 +20,10 @@ tags:
 - Arrows
 - Targets
 promotions:
+- title: Genesis Compound Bow
+  image: "/2022-01-05 15.29.11.jpg"
+  price: 0
+  description: ''
 - title: Youth Archery Target Box AWSYT
   image: "/AWSYT.jpg"
   price: 75
