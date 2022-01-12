@@ -32,6 +32,6 @@ promotions:
   price: 13
   description: |-
     - English or en français
-    - For close up photos see "Ribbons" catagory
+    - For close up photos see "Ribbons" category
 
 ---
