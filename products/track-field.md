@@ -24,6 +24,10 @@ photos:
 - title: Track & Field
   photo: "/2022-01-05 16.08.54.jpg"
 promotions:
+- title: Award Ribbons - Pkg of 25
+  image: "/2020.03 ribbons in stock.jpg"
+  price: 12.5
+  description: ''
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 245
