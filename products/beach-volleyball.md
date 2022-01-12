@@ -19,12 +19,12 @@ promotions:
   description: ''
 - title: Spikeball & Spikeball PRO
   image: "/2022-01-05 16.50.13.jpg"
-  price: 
+  price: 85
   description: |-
-    Spikeball:
+    Spikeball $85.00
     Standard kit with 3 balls
 
-    Spikeball PRO:
+    Spikeball PRO $135.00
     This is the official tournament set of the Spikeball Roundnet Association. A sturdier body design keeps the set stable and net taught during the harshest of plays. A new material and added texture on the Pro Balls help players add topspin on their kills and back spin on their drop shots.
 
     What's Included:
