@@ -21,6 +21,12 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: CLEARANCE - 360 Playground Balls 7" SPG7 - Set of 6
+  image: "/2022-01-05 14.48.310.jpg"
+  price: 57.5
+  description: |-
+    - Set of 6 colours - Blue, green, orange, purple, red, yellow
+    - SIX SETS AVAILABLE ONLY
 - title: CLEARANCE - Inflatable Hurdles - 18" - Set of 6
   image: "/2022-01-05 15.54.24.jpg"
   price: 20
