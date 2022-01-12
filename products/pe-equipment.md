@@ -21,6 +21,10 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: Inflatable Hurdles
+  image: "/2022-01-05 15.54.24.jpg"
+  price: 0
+  description: ''
 - title: CLEARANCE - Katch-a-Cup PX-500088-00 - Set of 6
   image: "/2022-01-05 16.35.37.jpg"
   price: 18
