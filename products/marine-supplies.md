@@ -11,6 +11,10 @@ photos:
 - title: Marine/Boating Equipment
   photo: "/2022-01-05 16.42.56.jpg"
 promotions:
+- title: Marine/Boating Equipment
+  image: "/2022-01-05 16.42.56.jpg"
+  price: 
+  description: ''
 - title: Fox40 Telescopic Paddle 7928-0206
   image: "/Fox40 Telescoping Paddle 7928-0206.PNG"
   price: 16
