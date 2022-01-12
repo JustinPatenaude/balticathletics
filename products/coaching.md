@@ -76,5 +76,6 @@ promotions:
     - Half-court illustration on the back
     - Clip to hold papers on the full court side
     - Dry erase marker included
+    - Also available in: Baseball, Basketball, Football, Hockey, Lacrosse, Soccer
 
 ---
