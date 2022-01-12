@@ -4,6 +4,8 @@ permalink: "/products/ribbons/"
 title: Ribbons
 products: []
 photos:
+- title: Piste et Pelouse 3ème en français
+  photo: "/BRAWFTF313 Victory en francais 3eme.jpg"
 - title: Piste et Pelouse 2ème en français
   photo: "/BRAWFTF312 Victory en francais 2eme.jpg"
 - title: Piste et Pelouse 1er en français
