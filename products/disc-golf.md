@@ -11,20 +11,6 @@ photos:
   photo: "/2022-01-05 15.01.12.jpg"
 suppliers: []
 promotions:
-- title: Innova DISCatcher Traveler
-  image: "/traveler_yellow__79937.1641579190.jpg"
-  price: 240
-  description: |-
-    DISCatcher® Traveler Features
-    - Simple one-action set up
-    - At just 6.8 kilograms, the DISCatcher® Traveler is the lightest portable target available from INNOVA
-    - Pentagonal shape provides a more natural looking and catching basket from all angles
-    - New in 2011: The chain assembly features 12 real chains to better simulate a permanent DISCatcher target
-    - The extra wide basket tray is made of a lightweight yet durable, quick-drying mesh fabric
-    - Five legs provide a wide sturdy base. Attached anchor rings and included anchor stakes serve to secure target on uneven surfaces and on windy days
-    - Available in three eye-catching colors: Yellow, Red, Blue (Subject to availability)
-    - Comes with matching tote bag for easy transportation and storage
-    - Includes removable flag for easy visibility and wind direction indication
 - title: Assorted Brands and Models of Discs
   image: "/2022-01-05 15.01.12.jpg"
   price: 
@@ -122,6 +108,20 @@ promotions:
     The Hive Practice Basket is a very economical option for disc golfers looking to sharpen their putting skills. It's also a great option for temporary pins at tournaments, tournament prizes, schools, or anyone getting started with disc golf.
 
     The Double Chain version of the Hive Practice Basket features 24 total chains, arranged in two tiers of 12 chains each for reliable catching. Threaded tension connections and light weight make the Hive Practice Basket easy to set up, break down, and bring to your next disc golf adventure.
+- title: Innova DISCatcher Traveler
+  image: "/traveler_yellow__79937.1641579190.jpg"
+  price: 240
+  description: |-
+    DISCatcher® Traveler Features
+    - Simple one-action set up
+    - At just 6.8 kilograms, the DISCatcher® Traveler is the lightest portable target available from INNOVA
+    - Pentagonal shape provides a more natural looking and catching basket from all angles
+    - New in 2011: The chain assembly features 12 real chains to better simulate a permanent DISCatcher target
+    - The extra wide basket tray is made of a lightweight yet durable, quick-drying mesh fabric
+    - Five legs provide a wide sturdy base. Attached anchor rings and included anchor stakes serve to secure target on uneven surfaces and on windy days
+    - Available in three eye-catching colors: Yellow, Red, Blue (Subject to availability)
+    - Comes with matching tote bag for easy transportation and storage
+    - Includes removable flag for easy visibility and wind direction indication
 - title: Dynamic Discs Cadet Backpack
   image: "/2022-01-05 15.22.25.jpg"
   price: 45
