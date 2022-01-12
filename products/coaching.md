@@ -7,7 +7,7 @@ products:
 - Whistles
 photos:
 - title: Coaches Boards - Various sports available (V-ball & B-ball in stock)
-  photo: "/vlboard-main-n.jpg"
+  photo: "/2022-01-05 16.46.21.jpg"
 - photo: "/2022-01-06 16.34.31.jpg"
   title: FOX40, Mikasa, Whizball Whistles (more under "Whistles")
 promotions:
