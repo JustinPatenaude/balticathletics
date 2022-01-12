@@ -30,6 +30,8 @@ promotions:
 - title: Award Ribbons Pkg of 25
   image: "/2020.03 ribbons in stock.jpg"
   price: 13
-  description: English or French
+  description: |-
+    English or French
+    See "Ribbons" catagory for close up photos
 
 ---
