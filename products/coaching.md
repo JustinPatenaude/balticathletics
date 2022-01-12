@@ -21,7 +21,7 @@ promotions:
     - Half a court illustration and line-up chart on the other side
     - Complete with dry erase marker
     - Board line-up box on the back
-- title: Volleyball Coaches Board
+- title: Volleyball Coaches Board VLBOARD
   image: "/vlboard-main-n.jpg"
   price: 22
   description: |-
