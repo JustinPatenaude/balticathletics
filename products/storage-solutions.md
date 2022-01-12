@@ -148,13 +148,13 @@ promotions:
     - 44"L  X 20" W X 42" T
     - Holds approx 50 racquets
     - suitable size for high school
-    - swivel & fixed casters
+    - swivel casters
     - plastic bin included on bottom shelf
     - welded steel - much stronger and more durable than PVC plastic
-    - black
+    - available in BLACK, BLUE, GREEN, GREY, RED
     - racquets & shuttles in photo not included
 
-    CUSTOM ITEM (allow 2-3 weeks for manufacturing)
+    CUSTOM ITEM (allow 3-4 weeks for manufacturing)
 - title: Custom Hula Hoop Cart
   image: "/20200401 hula hoop cart.jpg"
   price: 
