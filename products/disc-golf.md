@@ -9,7 +9,7 @@ products:
 photos: []
 suppliers: []
 promotions:
-- title: Prodigy ACE Disc Golf Set
+- title: Prodigy ACE Disc Golf Set - 140g
   image: "/ace_line_set_collage_700x.jpg"
   price: 45
   description: |-
