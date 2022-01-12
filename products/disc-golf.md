@@ -4,9 +4,14 @@ permalink: "/products/disc-golf/"
 title: Disc Golf
 products:
 - Discs
+- Disc Back Packs
 - Disc Catchers
 photos: []
 suppliers: []
-promotions: []
+promotions:
+- title: Dynamic Discs Cadet Backpack
+  image: "/2022-01-05 15.22.25.jpg"
+  price: 
+  description: ''
 
 ---
