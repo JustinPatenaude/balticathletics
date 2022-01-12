@@ -5,8 +5,16 @@ permalink: "/products/archery/"
 suppliers:
 - suppliers/court-1.md
 - suppliers/monsens-sporting-goods-limited.md
-products: []
-photos: []
+products:
+- Arrows
+- Bows
+- Curtains
+- Foam Targets
+- Paper Targets
+- Accessories
+photos:
+- title: Various Archery Items
+  photo: "/2022-01-05 15.18.55.jpg"
 tags:
 - Bows
 - Arrows
