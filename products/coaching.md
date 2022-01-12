@@ -11,6 +11,16 @@ photos:
 - photo: "/2022-01-06 16.34.31.jpg"
   title: FOX40, Mikasa, Whizball Whistles
 promotions:
+- title: Basketball Coaches Board BKBOARD
+  image: "/bkboard-main-n.jpg"
+  price: 22
+  description: |-
+    - IN STOCK
+    - Easy wipe coaching board
+    - Large, highly visible 10"x 16" full court illustration to share plays during games and practices
+    - Half a court illustration and line-up chart on the other side
+    - Complete with dry erase marker
+    - Board line-up box on the back
 - title: Volleyball Coaches Board
   image: "/vlboard-main-n.jpg"
   price: 22
