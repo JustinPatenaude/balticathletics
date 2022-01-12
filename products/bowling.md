@@ -9,6 +9,13 @@ products:
 - Bocce
 photos: []
 promotions:
+- title: Swiftflyte Advanced Bocce Set 65622
+  image: "/65622_A_Bocce.Adv.jpg"
+  price: 42
+  description: |-
+    - Balls: Eight 90mm all weather moulded bocce balls
+    - One 40mm jack
+    - Package: Canvas Carry Bag
 - title: Swiftflyte Classic Bocce Set 65626-1
   image: "/2022-01-05 16.28.28.jpg"
   price: 58
