@@ -20,6 +20,10 @@ photos:
   photo: "/2022-01-06 17.10.18.jpg"
 - title: 3 person Sled
   photo: "/2022-01-06 17.12.03.jpg"
-promotions: []
+promotions:
+- title: Snow Saws
+  image: "/2022-01-10 11.21.02.jpg"
+  price: 18
+  description: ''
 
 ---
