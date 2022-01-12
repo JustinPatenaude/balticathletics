@@ -9,6 +9,10 @@ photos: []
 suppliers: []
 date: '2019-03-29T23:04:56.000+00:00'
 promotions:
+- title: Aerobie Super Disc
+  image: "/2022-01-05 16.13.09.jpg"
+  price: 15
+  description: Good for beginners
 - title: Innova Pulsar Discs PID
   image: "/2022-01-05 16.12.09.jpg"
   price: 13.5
