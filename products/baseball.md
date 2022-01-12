@@ -26,17 +26,6 @@ promotions:
     - Soft & supple, very flexible (broken in feel)
 
     13 available (black/purple)
-- title: Easton BMG13 Glove - 13" Left hand catch
-  image: "/2020-03-07 11.14.30.jpg"
-  price: 35
-  description: |-
-    - Soft composite leather
-
-    9 available
-- title: Franklin FRK-BB-22600 Fieldmaster Glove - 14" Left hand catch
-  image: "/2020-04-13 14.19.33.jpg"
-  price: 28
-  description: 3 available - Blonde/Black
 - title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
   image: "/2020-04-11 14.51.18.jpg"
   price: 60
@@ -88,7 +77,7 @@ promotions:
     12 available.
 - title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
   image: "/234DBMK_GRAY.jpg"
-  price: 22
+  price: 18
   description: |-
     Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
     Belt not included
