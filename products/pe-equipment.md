@@ -20,6 +20,15 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: Swing Ball Set SBSET
+  image: "/sbset-a-main_n.jpg"
+  price: 22
+  description: |-
+    - Fun cardio game for all ages
+    - The lightweight plastic ball swings easily without hurting ankles on impact
+    - The cord is 18" long and is durable but gentle on legs
+    - Ankle ring is 5.5" D and slips over most feet easily
+    - Set of six colors: one of each in red, orange, yellow, green, blue and purple
 - title: Ultra Skin 360 Dodgeballs - 3.5", 6", 7", 8", 8.3"
   image: "/FX83R-Ultraskin-Balls-800x1000px-600x750.jpg"
   price: 7.5
