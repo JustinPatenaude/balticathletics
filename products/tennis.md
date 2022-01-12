@@ -18,7 +18,12 @@ promotions:
 - title: Wilson Foam Starter Tennis Balls WRZ - Set of 3
   image: "/2022-01-05 15.07.59.jpg"
   price: 
-  description: ''
+  description: |-
+    - Oversized, soft foam ball
+    - Makes learning easier
+    - Designated for 36' courts, driveways and playgrounds
+    - Foam 90mm ball
+    - High quality soft foam ball for 10 and under and easy learning
 - title: T999 Tennis Racquet
   image: "/T2999 tennis racquet.jpg"
   price: 29
