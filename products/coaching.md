@@ -9,7 +9,7 @@ photos:
 - title: Coaches Boards - Various sports available (V-ball & B-ball in stock)
   photo: "/2022-01-05 16.46.21.jpg"
 - photo: "/2022-01-06 16.34.31.jpg"
-  title: FOX40, Mikasa, Whizball Whistles (more under "Whistles")
+  title: FOX40, Mikasa, Whizball Whistles (see more under "Whistles")
 promotions:
 - title: Fox40 Smartcoach Pro POCKET Clipboard - Soccer only
   image: "/fox40 smart coach pro pocket clipboard.PNG"
