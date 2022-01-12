@@ -28,6 +28,21 @@ promotions:
     - This is a gorgeous and fun set of 26 vinyl multi-coloured balls that feature a letter of the alphabet printed on them (in both upper and lower case).
     - This set is a great tool to get kids thinking about language and movement.
     - Each ball measures 2.5” diameter and weighs 36 grams.
+
+    GAME IDEAS
+
+    Cats in the Corner
+    • Mark off square play area.
+    • The ball roller will be in the center of the square.
+    • There are safe zones at each of the corners where all the players called ‘Cats’ will be.
+    • When the bowler calls “Cats In The Corner”, the Cats have to run from one corner to another without getting hit by the rolling ball on your feet.
+    • They can go any direction including diagonal as long as they do not get hit.
+    • Any “Cat” player hit by the ball is out and goes into the centre to be a ball bowler
+    • If you have a large group, you can have several balls and a couple bowlers
+
+    Say and Catch
+
+    With at least 2 players, decide on a category, like animals, or countries or math question for example. Toss the ball back and forth among the players, and each time a player catches the ball, he must name something from the category chosen or he is out
 - title: CLEARANCE - Inflatable Hurdles - 18" - Set of 6
   image: "/2022-01-05 15.54.24.jpg"
   price: 20
