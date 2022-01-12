@@ -20,6 +20,13 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: Cricket Set FCRS29
+  image: "/2022-01-05 16.37.44.jpg"
+  price: 40
+  description: |-
+    - Outdoor use
+    - High Density Foam
+    - Includes bat, 4 - 18 inch in-ground outdoor spike stumps, 2 balls, 2 bales
 - title: CLEARANCE - Katch-a-Cup PX-500088-00 - Set of 6
   image: "/2022-01-05 16.35.37.jpg"
   price: 18
