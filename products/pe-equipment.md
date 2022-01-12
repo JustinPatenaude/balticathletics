@@ -343,19 +343,6 @@ promotions:
     - Obstacle course, high jump, target etc
 
     5 available
-- title: Champion MGSET Mini Golf Set
-  image: "/mgset-a-main_l.jpg"
-  price: 82.5
-  description: |-
-    - Made of durable plastic shaft and head foam grips
-    - Solid foam balls
-    - 3 plastic target holes to develop golf skills
-    - Six 24" putters
-    - 18 Targets
-    - 18 Foam balls
-    - 6 colours - Red, Orange, Yellow, Green, Blue, and Purple
-
-    1 available
 - title: Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
   image: "/2020-03-07 12.12.53.jpg"
   price: 48
