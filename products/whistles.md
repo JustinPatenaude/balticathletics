@@ -3,7 +3,9 @@ layout: product
 permalink: "/products/whistles/"
 title: Whistles
 products: []
-photos: []
+photos:
+- photo: "/2022-01-06 16.34.31.jpg"
+  title: Various Whistles
 promotions:
 - title: 'Fox40 Epik CMG Whistle w/Lanyard '
   image: "/Fox40 epik whistle 8803-0108.PNG"
