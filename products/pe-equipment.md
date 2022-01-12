@@ -20,15 +20,10 @@ products:
 - Tether Balls
 photos: []
 promotions:
-- title: Aerobie Rocket Football 65186-0
-  image: "/65186-0_aerobie_rocket_football_group(1).jpg"
-  price: 12.5
-  description: |-
-    - Patented curved fins for spectacular spirals
-    - Aerodynamic design for long distance flights
-    - Soft squeezable foam for easy catches
-    - Compact 6 inch size fits all hands
-    - Eye-catching two tone neon colors look great in flight
+- title: CLEARANCE - Katch-a-Cup PX-500088-00 - Set of 6
+  image: "/2022-01-05 16.35.37.jpg"
+  price: 18
+  description: ''
 - title: CLEARANCE - Egg Stack Set FES
   image: "/FES-Egg-Stack-Set-800x1000px-600x750.jpg"
   price: 12
@@ -41,6 +36,15 @@ promotions:
   description: |-
     - Set includes (3) 20” L clubs. Red, Yellow and Blue
     - High Density foam covered provides a better grip and extra durability.
+- title: Aerobie Rocket Football 65186-0
+  image: "/65186-0_aerobie_rocket_football_group(1).jpg"
+  price: 12.5
+  description: |-
+    - Patented curved fins for spectacular spirals
+    - Aerodynamic design for long distance flights
+    - Soft squeezable foam for easy catches
+    - Compact 6 inch size fits all hands
+    - Eye-catching two tone neon colors look great in flight
 - title: Swing Ball Set SBSET
   image: "/sbset-a-main_n.jpg"
   price: 22
