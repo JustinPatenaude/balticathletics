@@ -6,7 +6,9 @@ products:
 - Discs
 - Disc Back Packs
 - Disc Catchers
-photos: []
+photos:
+- title: Assorted Brands and Models of Discs
+  photo: "/2022-01-05 15.01.12.jpg"
 suppliers: []
 promotions:
 - title: Discmania Disc Golf Set DMSET - Set of 3 discs
