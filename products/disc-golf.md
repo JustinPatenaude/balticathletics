@@ -11,6 +11,13 @@ photos:
   photo: "/2022-01-05 15.01.12.jpg"
 suppliers: []
 promotions:
+- title: Innova Skillshot Disc Golf Target
+  image: "/Innova Skillshot target.png"
+  price: 260
+  description: |-
+    - Heavy duty
+    - Portage
+    - can set on uneven surfaces
 - title: Assorted Brands and Models of Discs
   image: "/2022-01-05 15.01.12.jpg"
   price: 
