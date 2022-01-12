@@ -20,6 +20,12 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: CLEARANCE - Juggling Clubs FJC3 - Set of 3
+  image: "/FJC3-Juggling-FoamJugglingClubs-800x1000px-600x750.jpg"
+  price: 45
+  description: |-
+    - Set includes (3) 20” L clubs. Red, Yellow and Blue
+    - High Density foam covered provides a better grip and extra durability.
 - title: Swing Ball Set SBSET
   image: "/sbset-a-main_n.jpg"
   price: 22
