@@ -11,7 +11,7 @@ photos: []
 suppliers: []
 date: '2019-03-29T23:04:26.000+00:00'
 promotions:
-- title: Plastic Tennis Racquets CM-051310-00 - Set of 6
+- title: Cosom Plastic Tennis Racquets CM-051310-00 - Set of 6
   image: "/2022-01-05 15.25.04.jpg"
   price: 24
   description: ''
