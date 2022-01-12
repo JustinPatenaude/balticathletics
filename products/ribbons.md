@@ -3,7 +3,9 @@ layout: product
 permalink: "/products/ribbons/"
 title: Ribbons
 products: []
-photos: []
+photos:
+- title: ''
+  photo: "/2020.03 ribbons in stock.jpg"
 promotions:
 - title: Award Ribbons Pkg of 25
   image: "/2020.03 ribbons in stock.jpg"
