@@ -133,7 +133,7 @@ promotions:
     - 25" Long, 34" Tall, 12" wide
 - title: Custom Steel Racquet Cart - Large
   image: "/20200401 racquet cart.jpg"
-  price: 460
+  price: 475
   description: |
     - 44"L  X 20" W X 42" T
     - Holds approx 50 racquets
