@@ -29,7 +29,7 @@ promotions:
   price: 12.5
   description: |-
     - English or en français
-    - For close up photos see "Ribbons" catagory
+    - For close up photos see "Ribbons" category
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
   price: 245
