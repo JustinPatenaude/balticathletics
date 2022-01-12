@@ -6,7 +6,9 @@ products:
 - Beach Volleyballs
 - Nets
 - Portable Systems
-photos: []
+photos:
+- title: Beach Volleyball Promo found under "Volleyball"
+  photo: "/Beach volleyball sign.png"
 suppliers: []
 date: '2019-03-29T22:55:40.000+00:00'
 promotions:
