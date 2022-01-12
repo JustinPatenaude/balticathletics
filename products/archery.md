@@ -20,8 +20,13 @@ tags:
 - Arrows
 - Targets
 promotions:
-- price: 0
-  description: ''
+- price: 79
+  description: |-
+    - with string
+    - 22-28 lbs
+    - fibre glass recurve
+  image: "/2022-01-05 15.28.36.jpg"
+  title: Titan Recurve Bow - 60"
 - title: Genesis Compound Bow GEN10476
   image: "/2022-01-05 15.29.11.jpg"
   price: 270
