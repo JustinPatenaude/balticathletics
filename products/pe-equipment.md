@@ -20,6 +20,12 @@ products:
 - Tether Balls
 photos: []
 promotions:
+- title: CLEARANCE - Egg Stack Set FES
+  image: "/FES-Egg-Stack-Set-800x1000px-600x750.jpg"
+  price: 12
+  description: Challenge and develop fine motor skills by using chopsticks to stack
+    irregular egg pieces. A great quiet team building activity, or perfect for indoor
+    recess!
 - title: CLEARANCE - Juggling Clubs FJC3 - Set of 3
   image: "/FJC3-Juggling-FoamJugglingClubs-800x1000px-600x750.jpg"
   price: 45
