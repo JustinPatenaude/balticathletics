@@ -21,10 +21,12 @@ products:
 - Tether Balls
 photos: []
 promotions:
-- title: Inflatable Hurdles
+- title: CLEARANCE - Inflatable Hurdles - 18" - Set of 6
   image: "/2022-01-05 15.54.24.jpg"
-  price: 0
-  description: ''
+  price: 20
+  description: |-
+    - 18" high
+    - 6 colours per set
 - title: CLEARANCE - Katch-a-Cup PX-500088-00 - Set of 6
   image: "/2022-01-05 16.35.37.jpg"
   price: 18
