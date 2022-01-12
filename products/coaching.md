@@ -11,26 +11,6 @@ photos:
 - photo: "/2022-01-06 16.34.31.jpg"
   title: FOX40, Mikasa, Whizball Whistles
 promotions:
-- title: Basketball Coaches Board BKBOARD
-  image: "/bkboard-main-n.jpg"
-  price: 22
-  description: |-
-    - IN STOCK
-    - Easy wipe coaching board
-    - Large, highly visible 10"x 16" full court illustration to share plays during games and practices
-    - Half a court illustration and line-up chart on the other side
-    - Complete with dry erase marker
-    - Board line-up box on the back
-- title: Volleyball Coaches Board VLBOARD
-  image: "/vlboard-main-n.jpg"
-  price: 22
-  description: |-
-    - IN STOCK
-    - Easy wipe volleyball coaching clipboard
-    - Large, highly visible 10"x 16" full court illustration on the front
-    - Half-court illustration on the back
-    - Clip to hold papers on the full court side
-    - Dry erase marker included
 - title: Fox40 Smartcoach Pro POCKET Clipboard - Soccer only
   image: "/fox40 smart coach pro pocket clipboard.PNG"
   price: 2.5
@@ -75,5 +55,25 @@ promotions:
     - 12 - Soccer
     - 6 - Volleyball
     - Other sports shown are available to order.
+- title: Basketball Coaches Board BKBOARD
+  image: "/bkboard-main-n.jpg"
+  price: 22
+  description: |-
+    - IN STOCK
+    - Easy wipe coaching board
+    - Large, highly visible 10"x 16" full court illustration to share plays during games and practices
+    - Half a court illustration and line-up chart on the other side
+    - Complete with dry erase marker
+    - Board line-up box on the back
+- title: Volleyball Coaches Board VLBOARD
+  image: "/vlboard-main-n.jpg"
+  price: 22
+  description: |-
+    - IN STOCK
+    - Easy wipe volleyball coaching clipboard
+    - Large, highly visible 10"x 16" full court illustration on the front
+    - Half-court illustration on the back
+    - Clip to hold papers on the full court side
+    - Dry erase marker included
 
 ---
