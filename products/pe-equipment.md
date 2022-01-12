@@ -135,25 +135,6 @@ promotions:
     - durable 8.5” purple playground ball is always a popular choice!
 
     2 purple available
-- title: Cosom CM741722-00 Gym Tennis Balls
-  image: "/2020-04-16 16.31.55.jpg"
-  price: 1.5
-  description: |-
-    - dense foam
-    - yellow
-
-    21 available
-- title: Mikasa P500 Playground Ball - 5 inch
-  image: "/P500LIME_1-Z.jpg"
-  price: 8
-  description: |-
-    - Perfect for any kind of surface, indoors or outdoors
-    - Its resistance and bounce are out of this world!
-    - Size: 5" (12.7 cm)
-    - Premium rubber cover
-    - Latex-free
-
-    1 Lime Green available
 - title: 360 SPG6Y Rubber Playground Balls - 6 inch
   image: "/SPG6Y.jpg"
   price: 5.75
@@ -244,10 +225,6 @@ promotions:
     - Latex-free
 
     1 Pink available
-- title: Swiftflyte 53118 Playground Ball - 8.5 inch
-  image: "/2020-04-17 08.49.47.jpg"
-  price: 6
-  description: 1 available
 - title: Mikasa T8000 Rubber Cover Tetherball
   image: "/T8000_1-Z.jpg"
   price: 22
@@ -322,10 +299,6 @@ promotions:
   image: "/hackysack2.jpg"
   price: 3
   description: 12 available in assorted colours
-- title: Sponge Dice PX-501332-00 (Colour dot sides)
-  image: "/PX-501332-00 Sponge Dice (colour dot sides).jpg"
-  price: 4.5
-  description: 5 available
 - title: Tchoukball TRN2 SET (Red) - Sold as a set
   image: "/TRN2-rebounder-360athl.jpg"
   price: 375
