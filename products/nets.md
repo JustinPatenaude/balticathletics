@@ -13,7 +13,9 @@ products:
 - Soccer
 - Tennis
 - Volleyball
-photos: []
+photos:
+- title: Promo Nets under each Sport
+  photo: ''
 promotions:
 - title: Promo Nets under each Sport
   image: "/Nets sign.png"
