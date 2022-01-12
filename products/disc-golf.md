@@ -11,6 +11,13 @@ photos:
   photo: "/2022-01-05 15.01.12.jpg"
 suppliers: []
 promotions:
+- title: Hive Double Chain Practice Basket
+  image: "/doublechain-modal__35873.1640185528.png"
+  price: 150
+  description: |-
+    The Hive Practice Basket is a very economical option for disc golfers looking to sharpen their putting skills. It's also a great option for temporary pins at tournaments, tournament prizes, schools, or anyone getting started with disc golf.
+
+    The Double Chain version of the Hive Practice Basket features 24 total chains, arranged in two tiers of 12 chains each for reliable catching. Threaded tension connections and light weight make the Hive Practice Basket easy to set up, break down, and bring to your next disc golf adventure.
 - title: Hive Cross Chain Practice Basket
   image: "/crosschain-modal__37003.1638919344.png"
   price: 150
