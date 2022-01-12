@@ -7,7 +7,9 @@ products:
 - Horns
 - Lifesaving Equipment
 - Whistles
-photos: []
+photos:
+- title: Marine/Boating Equipment
+  photo: "/2022-01-05 16.42.56.jpg"
 promotions:
 - title: Fox40 Telescopic Paddle 7928-0206
   image: "/Fox40 Telescoping Paddle 7928-0206.PNG"
