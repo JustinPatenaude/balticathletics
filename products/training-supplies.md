@@ -203,15 +203,6 @@ promotions:
     - lacrosse
 
     1 available
-- title: Heart Rate Monitor (HRM1)
-  image: "/HRM1 Heart Rate Monitor.jpg"
-  price: 49
-  description: "Let this Heart Rate Monitor guide your intensity and take the guess
-    work out of your training sessions! \nFeatures: 3 selectable heart rate zones,
-    average heart rate, audio & visual alarm in target zone, upper & lower heart rate
-    zone alarm, calories burned counter, chronograph, exercise data recall, exercise
-    timer, in-zone timer, % of maximum heart rate, maximum heart rate, EL backlight.\n\n1
-    available"
 - title: Rubbermaid Drink Station
   image: "/2020-04-11 14.32.44.jpg"
   price: 40
