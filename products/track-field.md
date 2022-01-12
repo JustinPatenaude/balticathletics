@@ -20,7 +20,9 @@ products:
 - Starter Pistols
 - Stopwatches
 - Uniforms
-photos: []
+photos:
+- title: Track & Field
+  photo: "/2022-01-05 16.08.54.jpg"
 promotions:
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
