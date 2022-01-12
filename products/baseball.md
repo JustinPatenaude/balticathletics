@@ -75,7 +75,8 @@ promotions:
     - Attach base straps onto clip
 
     12 available.
-- title: Russell Baseball Pants - 234DBMK (baseball grey only - assorted sizes)
+- title: CLEARANCE - Russell Baseball Pants - 234DBMK (baseball grey only - assorted
+    sizes)
   image: "/234DBMK_GRAY.jpg"
   price: 18
   description: |-
