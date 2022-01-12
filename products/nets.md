@@ -15,12 +15,8 @@ products:
 - Volleyball
 photos:
 - title: Promo Nets under each Sport
-  photo: ''
-promotions:
-- title: Promo Nets under each Sport
-  image: "/Nets sign.png"
-  price: 
-  description: ''
+  photo: "/Nets sign.png"
+promotions: []
 date: '2019-03-29T23:07:41.000+00:00'
 
 ---
