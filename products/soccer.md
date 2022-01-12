@@ -55,21 +55,6 @@ promotions:
     - 7 Blue
     - 6 Orange
     - 6 Green
-- title: Adidas Nativo 25 Soccer Ball - Size 5
-  image: "/Adidas Nativo 25.jpg"
-  price: 30
-  description: |-
-    - Machine-stitched surface
-    - Durable MLS football
-    - Butyl bladder for best air retention
-    - 2 available
-- title: Adidas Top Capitano Soccer Ball - Size 5
-  image: "/Adidas Capitano.jpg"
-  price: 30
-  description: |-
-    - Nylon-wounded carcass reinforces shape for long-lasting performance and durability
-    - TPU cover holds strong against potential tears and abrasions for extended play
-    - 10 available
 - title: Adidas Krasava Soccer Ball - Size 5
   image: "/KRASAVA Adidas SB size 5.jpg"
   price: 45
@@ -110,29 +95,6 @@ promotions:
     - Recommended for age 12 and up
     - Size: 5
     - Purple
-
-    1 available
-- title: Diadora 881520 Magnifico Game Soccer Ball - Size 5
-  image: "/881520---Magnifico-Game-020301-White-Red-Black-.jpg"
-  price: 32
-  description: |-
-    - Match quality ball
-    - Soft Polyurethane Cover
-    - Hand stitched
-    - Butyl Bladder & Valve for superior air retention
-    - Size 5
-
-    1 available
-- title: Diadora Gara III 881810 Soccer Ball - Size 5
-  image: "/2020-04-14 16.26.09.jpg"
-  price: 29
-  description: |-
-    - Match quality ball
-    - Microfiber polyurethane cover
-    - High tenacity polyester filament stitching provides excellent durability
-    - Closed cell air mattress ensures soft touch under all temperature conditions
-    - Butyl bladder and valve
-    - Size 5
 
     1 available
 - title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
