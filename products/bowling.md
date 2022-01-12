@@ -1,11 +1,25 @@
 ---
 layout: product
 permalink: "/products/bowling/"
-title: Bowling
+title: Bowling/Bocce
 products:
+- Balls
+- Pin Sets
 - Bowling Shirts
+- Bocce
 photos: []
 promotions:
+- title: Swiftflyte Classic Bocce Set
+  image: "/2022-01-05 16.28.28.jpg"
+  price: 58
+  description: |-
+    - Balls: Eight 100mm bocce balls (4 burgundy, 4 green)
+    - Solid Poly-resin composite construction
+    - High durability, chip resistance
+    - Balls are etched for easy team identification
+    - One 50mm jack
+    - comes in carry bag
+    - 4 ONLY AVAILABLE at $58 price
 - title: CLEARANCE - Penguin Bowling Set PENBBS
   image: "/PENBBS-Penguin-Bowling-Ball-Set-800x1000px-600x750.jpg"
   price: 65
