@@ -20,6 +20,6 @@ promotions:
 - title: Dynamic Discs Cadet Backpack
   image: "/2022-01-05 15.22.25.jpg"
   price: 45
-  description: ''
+  description: 8 available
 
 ---
