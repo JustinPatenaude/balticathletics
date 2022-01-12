@@ -56,17 +56,5 @@ promotions:
     - Sonik Blast CMG Pealess Whistle
 
     2 available
-- title: 360 Electronic Whistle WE1
-  image: "/WE1_-_Electronic_Whistle.jpg"
-  price: 19
-  description: |-
-    - A great replacement for a starting pistol with two powerful whistle tones
-    - 1 lock button
-    - Anti-slip design
-    - 67 g, 5.5” L x 1.75” W diameter (at widest point).
-    - Includes 4 x CR2032 batteries
-    - ** Warning: extremely loud. Do not use close to ears.
-
-    12 available
 
 ---
