@@ -16,7 +16,7 @@ promotions:
   description: Championship shuttlecock
 - title: Victor Badminton Shuttles NS3000 - Tube of 6
   image: "/2022-01-04 15.43.37.jpg"
-  price: 14
+  price: 14.5
   description: "- Yellow skirt / Blue bands"
 - title: Champion PA20SET Port-A-Net
   image: "/pa20set-front-n.jpg"
