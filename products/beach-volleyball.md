@@ -17,6 +17,13 @@ photos:
 suppliers: []
 date: '2019-03-29T22:55:40.000+00:00'
 promotions:
+- title: Crossnet 4Square Volleyball
+  image: "/4Square Meets Volleyball Image_V2.png"
+  price: 189.99
+  description: "CROSSNET is the world's first four square volleyball game. Set up
+    within minutes in sand, grass, or indoors. \n\nHeight adjustable for men (7'11\"),
+    women (7'4\"), and children (5'6\")\nPerfect for backyards, beach days, and BBQs\nAll
+    orders come with an official CROSSNET™️ four-way net, poles, and volleyball"
 - title: Crossnet H20
   image: "/crossnet-h2o-228421.jpg"
   price: 150
@@ -26,13 +33,6 @@ promotions:
     PARTY STARTER: CROSSNET H2O is the perfect game for your pool days this Spring & Summer! Fun for all ages & occasions!
     WHAT’S INCLUDED: H2O includes our 4-way net, floating base, travel duffle bag, inflatable neoprene ball, and pump. Dimensions are 11.5' x 11.5’ fits in most pools
     ALL OCCASIONS: Ideal for pool parties, BBQs, birthday parties, family reunions, get-togethers, & much more!
-- title: Crossnet 4Square Volleyball
-  image: "/4Square Meets Volleyball Image_V2.png"
-  price: 189.99
-  description: "CROSSNET is the world's first four square volleyball game. Set up
-    within minutes in sand, grass, or indoors. \n\nHeight adjustable for men (7'11\"),
-    women (7'4\"), and children (5'6\")\nPerfect for backyards, beach days, and BBQs\nAll
-    orders come with an official CROSSNET™️ four-way net, poles, and volleyball"
 - title: Cobra Outdoor Volleyball System
   image: "/Cobra_hammock_2__53306.1518111135.1280.1280.jpg"
   price: 750
