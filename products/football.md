@@ -15,12 +15,12 @@ products:
 - Uniforms
 - Yardage Markers
 photos:
-- title: Wilson Composite Footballs - TD Series
-  photo: "/2022-01-04 15.52.19.jpg"
 - title: Champion FXSeries Footballs
   photo: "/fx600_n.jpg"
 - title: Tachikara Rubber Football - SF Series
   photo: "/sf3r.jpg"
+- title: Wilson Composite Footballs - TD Series
+  photo: "/2022-01-04 15.52.19.jpg"
 promotions:
 - title: CLEARANCE - Football Kit (Package only - Not sold separately)
   image: "/2022-01-04 16.15.43.jpg"
