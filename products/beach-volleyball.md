@@ -8,6 +8,8 @@ products:
 - Nets
 - Portable Systems
 photos:
+- title: Cobra Outdoor Volleyball System
+  photo: "/cobra on sand.JPG"
 - title: Beach Volleyball Promo found under "Volleyball"
   photo: "/Beach volleyball sign.png"
 suppliers: []
