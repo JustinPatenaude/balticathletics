@@ -23,7 +23,7 @@ promotions:
     - butyl bladder
     - raised tacky laces
     - deep pebbled grain
-    - 12 available
+    - 18 available
 - title: CLEARANCE - Football Kit (Package only - Not sold separately)
   image: "/2022-01-04 16.15.43.jpg"
   price: 150
