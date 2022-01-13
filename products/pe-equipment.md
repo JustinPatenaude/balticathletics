@@ -22,6 +22,10 @@ products:
 - Whiffle balls
 photos: []
 promotions:
+- title: Foam Football Set FFSET - Set of 6
+  image: "/2022-01-04 16.06.45.jpg"
+  price: 30
+  description: ''
 - title: Whiffle Balls 3" PSCW950 - Coloured or White - Set of 50
   image: "/2022-01-05 14.50.20.jpg"
   price: 60
