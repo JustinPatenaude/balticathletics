@@ -23,6 +23,8 @@ photos:
   photo: "/4Square Meets Volleyball Image_V2.png"
 - title: Crossnet Indoor Bases - Set of 4
   photo: "/crossnet-bases-716383.jpg"
+- title: Crossnet Doubles Net (Add-on)
+  photo: "/crossnet-doubles-net-add-on-874889.jpg"
 - title: Mikasa Volleyballs
   photo: "/2022-01-06 17.30.12.jpg"
 - title: Wilson Volleyballs
@@ -32,6 +34,16 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: Crossnet Doubles Net (Add-on)
+  image: "/crossnet-doubles-net-add-on-874889.jpg"
+  price: 80
+  description: "Pick a partner! CROSSNET is now a team sport, just double the length
+    and double the fun! Gameplay now allows for three hits per team. \n\n8-PERSON
+    GAME: 4 teams compete with up to 3 hits per side to get the ball over the net
+    and become the king or queen of the court \n23-FOOT LONG NET: Extra large net
+    grows the size of each square to 11.5 x 11.5 feet to allow for plenty of room\nORIGINAL
+    SET REQUIRED: Our add-on net is conveniently interchangeable with the original
+    set and is required for use *"
 - title: Cobra Outdoor Volleyball System
   image: "/cobra on grass.JPG"
   price: 750
