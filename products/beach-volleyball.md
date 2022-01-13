@@ -17,6 +17,15 @@ photos:
 suppliers: []
 date: '2019-03-29T22:55:40.000+00:00'
 promotions:
+- title: Crossnet H20
+  image: "/crossnet-h2o-228421.jpg"
+  price: 150
+  description: |-
+    Now you can truly play CROSSNET anywhere! All the same great CROSSNET fun, now in the water!
+
+    PARTY STARTER: CROSSNET H2O is the perfect game for your pool days this Spring & Summer! Fun for all ages & occasions!
+    WHAT’S INCLUDED: H2O includes our 4-way net, floating base, travel duffle bag, inflatable neoprene ball, and pump. Dimensions are 11.5' x 11.5’ fits in most pools
+    ALL OCCASIONS: Ideal for pool parties, BBQs, birthday parties, family reunions, get-togethers, & much more!
 - title: Crossnet 4Square Volleyball
   image: "/4Square Meets Volleyball Image_V2.png"
   price: 189.99
