@@ -32,19 +32,6 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
-- title: Crossnet Indoor Bases - Set of 4
-  image: "/crossnet-bases-716383.jpg"
-  price: 139
-  description: |-
-    Perfect for gymnasium floors, tailgates, black tops, and driveways, pair these four fillable bases with our standard CROSSNET kit to play four square volleyball indoors
-
-    What's included:
-    - Four 27x16x6" water or sand fillable heavy-duty bases
-
-    - Each base weighs 4.4lbs when empty and can hold 75lbs of sand or water
-    - Designed for easy set up and break down
-    - Used as a permanent indoor training tool for volleyball teams and classrooms
-    - CROSSNET sold separately
 - title: Cobra Outdoor Volleyball System
   image: "/cobra on grass.JPG"
   price: 750
@@ -66,6 +53,19 @@ promotions:
     within minutes in sand, grass, or indoors. \n\nHeight adjustable for men (7'11\"),
     women (7'4\"), and children (5'6\")\nPerfect for backyards, beach days, and BBQs\nAll
     orders come with an official CROSSNET™️ four-way net, poles, and volleyball"
+- title: Crossnet Indoor Bases - Set of 4
+  image: "/crossnet-bases-716383.jpg"
+  price: 139
+  description: |-
+    Perfect for gymnasium floors, tailgates, black tops, and driveways, pair these four fillable bases with our standard CROSSNET kit to play four square volleyball indoors
+
+    What's included:
+    - Four 27x16x6" water or sand fillable heavy-duty bases
+
+    - Each base weighs 4.4lbs when empty and can hold 75lbs of sand or water
+    - Designed for easy set up and break down
+    - Used as a permanent indoor training tool for volleyball teams and classrooms
+    - CROSSNET sold separately
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
