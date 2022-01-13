@@ -16,6 +16,14 @@ products:
 - Yardage Markers
 photos: []
 promotions:
+- title: CLEARANCE - 360 Composite Football - Size 9
+  image: "/2022-01-04 15.57.14.jpg"
+  price: 19.5
+  description: |-
+    - butyl bladder
+    - raised tacky laces
+    - deep pebbled grain
+    - 18 available
 - title: CLEARANCE - Football Kit (Package only - Not sold separately)
   image: "/2022-01-04 16.15.43.jpg"
   price: 150
