@@ -82,7 +82,7 @@ promotions:
   description: |-
     Pebbled tacky laces
     7 available
-- title: Spalding 72-6548C Advance Pro Composite Football
+- title: Spalding 72-6548C Advance Pro Composite Football - Size 9
   image: "/726548C Advance Pro Spalding FB.jpg"
   price: 30
   description: |-
