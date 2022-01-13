@@ -8,6 +8,8 @@ products:
 - Nets
 - Portable Systems
 photos:
+- title: Crossnet 4Square Volleyball
+  photo: "/CROSSNET Display Photo Resized.jpg"
 - title: Cobra Outdoor Volleyball System
   photo: "/cobra on sand.JPG"
 - title: Beach Volleyball Promo found under "Volleyball"
