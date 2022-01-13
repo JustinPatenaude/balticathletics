@@ -16,6 +16,18 @@ products:
 - Yardage Markers
 photos: []
 promotions:
+- title: CLEARANCE - Football Kit (Package only - Not sold separately)
+  image: "/2022-01-04 16.15.43.jpg"
+  price: 150
+  description: |-
+    Kit Includes:
+    - 1 Russell padded 5 pc girdle RAIGRI - Size Medium
+    - 1 Russell non-padded girdle RAGR45 - Size Large
+    - 4 pairs small Russell knee pads RPIKPMK
+    - 5 pairs large Russell knee pads RPIKPMI
+    - 3 Russell three window wrist coaches RAWC30
+    - 1 360 helmet pump YZ15
+    - 2 Rawlings helmet pumps AIRPUMP
 - title: Spalding J5Y Classic Football - Size 7
   image: "/J5Y Classic Football.jpg"
   price: 36
