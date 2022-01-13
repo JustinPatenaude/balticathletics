@@ -18,14 +18,6 @@ photos:
 - title: Champion FXSeries Footballs
   photo: "/fx600_n.jpg"
 promotions:
-- title: CLEARANCE - 360 Composite Football - Size 9
-  image: "/2022-01-04 15.57.14.jpg"
-  price: 19.5
-  description: |-
-    - butyl bladder
-    - raised tacky laces
-    - deep pebbled grain
-    - 18 available
 - title: CLEARANCE - Football Kit (Package only - Not sold separately)
   image: "/2022-01-04 16.15.43.jpg"
   price: 150
@@ -38,23 +30,14 @@ promotions:
     - 3 Russell three window wrist coaches RAWC30
     - 1 360 helmet pump YZ15
     - 2 Rawlings helmet pumps AIRPUMP
-- title: Wilson CFL Ultimate Composite Football WTF1905XB
-  image: "/2022-01-04 15.53.05.jpg"
-  price: 38
-  description: "- tacky laces"
-- title: Wilson Composite Footballs - TD Series
-  image: "/2022-01-04 15.52.19.jpg"
-  price: 33
+- title: CLEARANCE - 360 Composite Football - Size 9
+  image: "/2022-01-04 15.57.14.jpg"
+  price: 19.5
   description: |-
-    Junior $33.00
-    Youth $34.00
-    Senior (Size 9) $35.00
-- title: Tachikara Rubber Football - SF Series
-  image: "/sf3r.jpg"
-  price: 12
-  description: |-
-    Top grade rubber football with raised laces for sure grip & yarn winding for durability.
-    - Available in Junior (Mini) SF2R $10, Intermediate SF3R $11, Senior SF4R $12
+    - butyl bladder
+    - raised tacky laces
+    - deep pebbled grain
+    - 18 available
 - title: Champion FXComp Football - FX Series
   image: "/fx600_n.jpg"
   price: 24
@@ -64,6 +47,23 @@ promotions:
     - 2-Ply butyl bladder for superior air retention
     - Tackified laces provide a better grip
     - Available in Junior $23.00, Intermediate $23.50, Senior $24.00
+- title: Tachikara Rubber Football - SF Series
+  image: "/sf3r.jpg"
+  price: 12
+  description: |-
+    Top grade rubber football with raised laces for sure grip & yarn winding for durability.
+    - Available in Junior (Mini) SF2R $10, Intermediate SF3R $11, Senior SF4R $12
+- title: Wilson Composite Footballs - TD Series
+  image: "/2022-01-04 15.52.19.jpg"
+  price: 33
+  description: |-
+    Junior $33.00
+    Youth $34.00
+    Senior (Size 9) $35.00
+- title: Wilson CFL Ultimate Composite Football WTF1905XB
+  image: "/2022-01-04 15.53.05.jpg"
+  price: 38
+  description: "- tacky laces"
 - title: Spalding J5Y Classic Football - Size 7
   image: "/J5Y Classic Football.jpg"
   price: 36
