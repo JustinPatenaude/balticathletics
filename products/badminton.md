@@ -10,14 +10,14 @@ products:
 - Shuttles
 photos: []
 promotions:
-- title: Victor Badminton Shuttles NS3000 - Tube of 6
-  image: "/2022-01-04 15.43.37.jpg"
-  price: 14
-  description: "- Yellow skirt / Blue bands"
 - title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
   image: "/2022-01-04 15.42.36.jpg"
   price: 6
   description: Championship shuttlecock
+- title: Victor Badminton Shuttles NS3000 - Tube of 6
+  image: "/2022-01-04 15.43.37.jpg"
+  price: 14
+  description: "- Yellow skirt / Blue bands"
 - title: Champion PA20SET Port-A-Net
   image: "/pa20set-front-n.jpg"
   price: 240
