@@ -15,6 +15,8 @@ products:
 - Uniforms
 - Yardage Markers
 photos:
+- title: Tachikara Rubber Football - SF Series
+  photo: "/sf3r.jpg"
 - title: Champion FXSeries Footballs
   photo: "/fx600_n.jpg"
 promotions:
