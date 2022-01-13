@@ -15,8 +15,8 @@ promotions:
   price: 13.5
   description: |-
     Available:
-    2 Blue (medium speed)
     5 Green (slow speed)
+    2 Blue (medium speed)
 - title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
   image: "/2022-01-04 15.42.36.jpg"
   price: 6
