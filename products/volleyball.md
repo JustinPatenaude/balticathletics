@@ -13,8 +13,6 @@ products:
 - Uniforms
 - Volleyballs
 photos:
-- title: Crossnet Indoor Bases - Set of 4
-  photo: "/crossnet-bases-716383.jpg"
 - photo: "/VQ200W-CAN MHSAA ball 2021.png"
   title: "**New** 2021 MHSAA Official Volleyball - $68.00"
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
@@ -23,6 +21,8 @@ photos:
   photo: "/Cobra_hammock_2__53306.1518111135.1280.1280.jpg"
 - title: Crossnet 4Square Volleyball
   photo: "/4Square Meets Volleyball Image_V2.png"
+- title: Crossnet Indoor Bases - Set of 4
+  photo: "/crossnet-bases-716383.jpg"
 - title: Mikasa Volleyballs
   photo: "/2022-01-06 17.30.12.jpg"
 - title: Wilson Volleyballs
@@ -32,6 +32,17 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: Crossnet Indoor Bases - Set of 4
+  image: "/crossnet-bases-716383.jpg"
+  price: 139
+  description: |-
+    Perfect for gymnasium floors, tailgates, black tops, and driveways, pair these four fillable bases with our standard CROSSNET kit to play four square volleyball indoors. What's included:
+
+    Four 27x16x6" water or sand fillable heavy-duty bases
+    Each base weighs 4.4lbs when empty and can hold 75lbs of sand or water
+    Designed for easy set up and break down
+    Used as a permanent indoor training tool for volleyball teams and classrooms
+    CROSSNET sold separately
 - title: Cobra Outdoor Volleyball System
   image: "/cobra on grass.JPG"
   price: 750
