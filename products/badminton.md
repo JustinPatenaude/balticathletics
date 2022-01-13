@@ -10,7 +10,7 @@ products:
 - Shuttles
 photos: []
 promotions:
-- title: 360 JEX700 Badminton Shuttles - Tube of 6
+- title: CLEARANCE - 360 JEX700 Badminton Shuttles - Tube of 6
   image: "/2022-01-04 15.44.29.jpg"
   price: 13.5
   description: |-
