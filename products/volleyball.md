@@ -34,16 +34,6 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
-- title: Crossnet Doubles Net (Add-on)
-  image: "/crossnet-doubles-net-add-on-874889.jpg"
-  price: 79
-  description: "Pick a partner! CROSSNET is now a team sport, just double the length
-    and double the fun! Gameplay now allows for three hits per team. \n\n8-PERSON
-    GAME: 4 teams compete with up to 3 hits per side to get the ball over the net
-    and become the king or queen of the court \n23-FOOT LONG NET: Extra large net
-    grows the size of each square to 11.5 x 11.5 feet to allow for plenty of room\nORIGINAL
-    SET REQUIRED: Our add-on net is conveniently interchangeable with the original
-    set and is required for use *"
 - title: Cobra Outdoor Volleyball System
   image: "/cobra on grass.JPG"
   price: 750
@@ -78,6 +68,16 @@ promotions:
     - Designed for easy set up and break down
     - Used as a permanent indoor training tool for volleyball teams and classrooms
     - CROSSNET sold separately
+- title: Crossnet Doubles Net (Add-on)
+  image: "/crossnet-doubles-net-add-on-874889.jpg"
+  price: 79
+  description: "Pick a partner! CROSSNET is now a team sport, just double the length
+    and double the fun! Gameplay now allows for three hits per team. \n\n8-PERSON
+    GAME: 4 teams compete with up to 3 hits per side to get the ball over the net
+    and become the king or queen of the court \n23-FOOT LONG NET: Extra large net
+    grows the size of each square to 11.5 x 11.5 feet to allow for plenty of room\nORIGINAL
+    SET REQUIRED: Our add-on net is conveniently interchangeable with the original
+    set and is required for use *"
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
