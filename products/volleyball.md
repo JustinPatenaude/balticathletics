@@ -29,7 +29,7 @@ photos:
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
 - title: Cobra Outdoor Volleyball System
-  image: "/Cobra_hammock_2__53306.1518111135.1280.1280.jpg"
+  image: "/cobra on grass.JPG"
   price: 750
   description: "What sets Cobra apart:\n- World’s only self-supporting outdoor volleyball
     net system\n- Industry’s only Lifetime Warranty outdoor net systems\n- Superior
