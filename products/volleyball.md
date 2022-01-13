@@ -13,12 +13,12 @@ products:
 - Uniforms
 - Volleyballs
 photos:
-- title: Cobra Outdoor Volleyball System
-  photo: "/cobra on grass.JPG"
 - photo: "/VQ200W-CAN MHSAA ball 2021.png"
   title: "**New** 2021 MHSAA Official Volleyball - $68.00"
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
   photo: "/2020.01.05 Mikasa MHSAA gift with purchase promo 04.png"
+- title: Cobra Outdoor Volleyball System
+  photo: "/cobra on grass.JPG"
 - title: Mikasa Volleyballs
   photo: "/2022-01-06 17.30.12.jpg"
 - title: Wilson Volleyballs
@@ -28,6 +28,20 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: Cobra Outdoor Volleyball System
+  image: "/Cobra_hammock_2__53306.1518111135.1280.1280.jpg"
+  price: 750
+  description: "What sets Cobra apart:\n- World’s only self-supporting outdoor volleyball
+    net system\n- Industry’s only Lifetime Warranty outdoor net systems\n- Superior
+    net play – stays tight all game\n- Fast one person set up & safety – no hazardous
+    wires & peg. Don’t let injuries like this happen to you.\n- Most versatile net
+    system – play 5 games on 1 system\n\nThe Cobra Volleyball Nets come with 3 official
+    volleyball height settings: \nMen’s (8′), Women’s (7′ 4″) and Junior’s (7′) plus
+    height settings for beach/lawn tennis (5′ 10″) and badminton (5′). Pickleball/tennis
+    height can be added at no charge. Just ask us!\n\nCustom Size Nets Available.
+    Installation on artificial turf, sport courts, and more. Call us to customize!\n\n2-for-1
+    system. Components may be purchased to convert your outdoor system for indoor
+    use as well.\n\nPlay on the beach, in the park or your backyard."
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
