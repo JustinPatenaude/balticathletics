@@ -13,14 +13,14 @@ products:
 - Uniforms
 - Volleyballs
 photos:
-- title: Crossnet 4Square Volleyball
-  photo: "/4Square Meets Volleyball Image_V2.png"
 - photo: "/VQ200W-CAN MHSAA ball 2021.png"
   title: "**New** 2021 MHSAA Official Volleyball - $68.00"
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
   photo: "/2020.01.05 Mikasa MHSAA gift with purchase promo 04.png"
 - title: Cobra Outdoor Volleyball System
   photo: "/Cobra_hammock_2__53306.1518111135.1280.1280.jpg"
+- title: Crossnet 4Square Volleyball
+  photo: "/4Square Meets Volleyball Image_V2.png"
 - title: Mikasa Volleyballs
   photo: "/2022-01-06 17.30.12.jpg"
 - title: Wilson Volleyballs
@@ -30,6 +30,13 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: Crossnet 4Square Volleyball
+  image: "/Crossnet Hero Image_V2.png"
+  price: 189.99
+  description: "CROSSNET is the world's first four square volleyball game. Set up
+    within minutes in sand, grass, or indoors. \n\nHeight adjustable for men (7'11\"),
+    women (7'4\"), and children (5'6\")\nPerfect for backyards, beach days, and BBQs\nAll
+    orders come with an official CROSSNET™️ four-way net, poles, and volleyball"
 - title: Cobra Outdoor Volleyball System
   image: "/cobra on grass.JPG"
   price: 750
