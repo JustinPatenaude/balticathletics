@@ -8,15 +8,22 @@ products:
 - Nets
 - Portable Systems
 photos:
-- title: Crossnet 4Square Volleyball
-  photo: "/CROSSNET Display Photo Resized.jpg"
 - title: Cobra Outdoor Volleyball System
   photo: "/cobra on sand.JPG"
+- title: Crossnet 4Square Volleyball
+  photo: "/CROSSNET Display Photo Resized.jpg"
 - title: Beach Volleyball Promo found under "Volleyball"
   photo: "/Beach volleyball sign.png"
 suppliers: []
 date: '2019-03-29T22:55:40.000+00:00'
 promotions:
+- title: Crossnet 4Square Volleyball
+  image: "/4Square Meets Volleyball Image_V2.png"
+  price: 189.99
+  description: "CROSSNET is the world's first four square volleyball game. Set up
+    within minutes in sand, grass, or indoors. \n\nHeight adjustable for men (7'11\"),
+    women (7'4\"), and children (5'6\")\nPerfect for backyards, beach days, and BBQs\nAll
+    orders come with an official CROSSNET™️ four-way net, poles, and volleyball"
 - title: Cobra Outdoor Volleyball System
   image: "/Cobra_hammock_2__53306.1518111135.1280.1280.jpg"
   price: 750
