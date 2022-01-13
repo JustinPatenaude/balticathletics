@@ -36,7 +36,7 @@ photos:
 promotions:
 - title: Crossnet Doubles Net (Add-on)
   image: "/crossnet-doubles-net-add-on-874889.jpg"
-  price: 80
+  price: 79
   description: "Pick a partner! CROSSNET is now a team sport, just double the length
     and double the fun! Gameplay now allows for three hits per team. \n\n8-PERSON
     GAME: 4 teams compete with up to 3 hits per side to get the ball over the net
