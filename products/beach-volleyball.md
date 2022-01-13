@@ -15,6 +15,20 @@ photos:
 suppliers: []
 date: '2019-03-29T22:55:40.000+00:00'
 promotions:
+- title: Cobra Outdoor Volleyball System
+  image: "/Cobra_hammock_2__53306.1518111135.1280.1280.jpg"
+  price: 750
+  description: "What sets Cobra apart:\n- World’s only self-supporting outdoor volleyball
+    net system\n- Industry’s only Lifetime Warranty outdoor net systems\n- Superior
+    net play – stays tight all game\n- Fast one person set up & safety – no hazardous
+    wires & peg. Don’t let injuries like this happen to you.\n- Most versatile net
+    system – play 5 games on 1 system\n\nThe Cobra Volleyball Nets come with 3 official
+    volleyball height settings: \nMen’s (8′), Women’s (7′ 4″) and Junior’s (7′) plus
+    height settings for beach/lawn tennis (5′ 10″) and badminton (5′). Pickleball/tennis
+    height can be added at no charge. Just ask us!\n\nCustom Size Nets Available.
+    Installation on artificial turf, sport courts, and more. Call us to customize!\n\n2-for-1
+    system. Components may be purchased to convert your outdoor system for indoor
+    use as well.\n\nPlay on the beach, in the park or your backyard."
 - title: CLEARANCE - Slammo SL01
   image: "/2022-01-05 16.51.01.jpg"
   price: 75
