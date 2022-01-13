@@ -36,13 +36,15 @@ promotions:
   image: "/crossnet-bases-716383.jpg"
   price: 139
   description: |-
-    Perfect for gymnasium floors, tailgates, black tops, and driveways, pair these four fillable bases with our standard CROSSNET kit to play four square volleyball indoors. What's included:
+    Perfect for gymnasium floors, tailgates, black tops, and driveways, pair these four fillable bases with our standard CROSSNET kit to play four square volleyball indoors
 
-    Four 27x16x6" water or sand fillable heavy-duty bases
-    Each base weighs 4.4lbs when empty and can hold 75lbs of sand or water
-    Designed for easy set up and break down
-    Used as a permanent indoor training tool for volleyball teams and classrooms
-    CROSSNET sold separately
+    What's included:
+    - Four 27x16x6" water or sand fillable heavy-duty bases
+
+    - Each base weighs 4.4lbs when empty and can hold 75lbs of sand or water
+    - Designed for easy set up and break down
+    - Used as a permanent indoor training tool for volleyball teams and classrooms
+    - CROSSNET sold separately
 - title: Cobra Outdoor Volleyball System
   image: "/cobra on grass.JPG"
   price: 750
