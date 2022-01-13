@@ -13,6 +13,8 @@ products:
 - Uniforms
 - Volleyballs
 photos:
+- title: Crossnet Indoor Bases - Set of 4
+  photo: "/crossnet-bases-716383.jpg"
 - photo: "/VQ200W-CAN MHSAA ball 2021.png"
   title: "**New** 2021 MHSAA Official Volleyball - $68.00"
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
@@ -30,13 +32,6 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
-- title: Crossnet 4Square Volleyball
-  image: "/Crossnet Hero Image_V2.png"
-  price: 189.99
-  description: "CROSSNET is the world's first four square volleyball game. Set up
-    within minutes in sand, grass, or indoors. \n\nHeight adjustable for men (7'11\"),
-    women (7'4\"), and children (5'6\")\nPerfect for backyards, beach days, and BBQs\nAll
-    orders come with an official CROSSNET™️ four-way net, poles, and volleyball"
 - title: Cobra Outdoor Volleyball System
   image: "/cobra on grass.JPG"
   price: 750
@@ -51,6 +46,13 @@ promotions:
     Installation on artificial turf, sport courts, and more. Call us to customize!\n\n2-for-1
     system. Components may be purchased to convert your outdoor system for indoor
     use as well.\n\nPlay on the beach, in the park or your backyard."
+- title: Crossnet 4Square Volleyball
+  image: "/Crossnet Hero Image_V2.png"
+  price: 189.99
+  description: "CROSSNET is the world's first four square volleyball game. Set up
+    within minutes in sand, grass, or indoors. \n\nHeight adjustable for men (7'11\"),
+    women (7'4\"), and children (5'6\")\nPerfect for backyards, beach days, and BBQs\nAll
+    orders come with an official CROSSNET™️ four-way net, poles, and volleyball"
 - title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
   image: "/2020-03-30 11.33.27.jpg"
   price: 4
