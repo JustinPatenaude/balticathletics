@@ -18,6 +18,12 @@ photos:
 - title: Champion FXSeries Footballs
   photo: "/fx600_n.jpg"
 promotions:
+- title: Tachikara Rubber Football - SF Series
+  image: "/sf3r.jpg"
+  price: 12
+  description: |-
+    Top grade rubber football with raised laces for sure grip & yarn winding for durability.
+    - Available in Junior (Mini) SF2R $10, Intermediate SF3R $11, Senior SF4R $12
 - title: Champion FXComp Football - FX Series
   image: "/fx600_n.jpg"
   price: 24
