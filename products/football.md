@@ -26,7 +26,7 @@ promotions:
     - Water-resistant composite easy grip cover helps the ball stand up to both indoor and outdoor use
     - 2-Ply butyl bladder for superior air retention
     - Tackified laces provide a better grip
-    - Available in Junior, Intermediate, Senior
+    - Available in Junior $23.00, Intermediate $23.50, Senior $24.00
 - title: CLEARANCE - 360 Composite Football - Size 9
   image: "/2022-01-04 15.57.14.jpg"
   price: 19.5
