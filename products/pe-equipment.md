@@ -22,17 +22,6 @@ products:
 - Whiffle balls
 photos: []
 promotions:
-- title: CLEARANCE - Rhino Soft-Eeze Football Set - Set of 6
-  image: "/rs1set_n.jpg"
-  price: 99
-  description: |-
-    - Regular $120
-    - RHINO Skin® coated inflatable ball for exceptional tear-resistance
-    - Tacky cover for a soft feel and classic football design
-    - Rubber/butyl bladder for superior air retention
-    - Size: 8" D
-    - Set of 6 balls (1 of each) Red/Black, Orange/Black, Yellow/Black, Green/Black, Royal Blue/Black, Purple/Black
-    - ONE SET AVAILABLE at this price
 - title: Whiffle Balls 3" PSCW950 - Coloured or White - Set of 50
   image: "/2022-01-05 14.50.20.jpg"
   price: 60
@@ -49,6 +38,17 @@ promotions:
   image: "/2022-01-04 16.06.45.jpg"
   price: 30
   description: 2 sets available only
+- title: CLEARANCE - Rhino Soft-Eeze Football Set - Set of 6
+  image: "/rs1set_n.jpg"
+  price: 99
+  description: |-
+    - Regular $120
+    - RHINO Skin® coated inflatable ball for exceptional tear-resistance
+    - Tacky cover for a soft feel and classic football design
+    - Rubber/butyl bladder for superior air retention
+    - Size: 8" D
+    - Set of 6 balls (1 of each) Red/Black, Orange/Black, Yellow/Black, Green/Black, Royal Blue/Black, Purple/Black
+    - ONE SET AVAILABLE at this price
 - title: CLEARANCE - Inflatable Hurdles - 18" - Set of 6
   image: "/2022-01-05 15.54.24.jpg"
   price: 20
