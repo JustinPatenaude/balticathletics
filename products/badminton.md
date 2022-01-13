@@ -10,6 +10,10 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
+  image: "/2022-01-04 15.42.36.jpg"
+  price: 6
+  description: Championship shuttlecock
 - title: CLEARANCE - 360 JEX700 Badminton Shuttles - Tube of 6
   image: "/2022-01-04 15.44.29.jpg"
   price: 13.5
@@ -17,10 +21,6 @@ promotions:
     Available:
     5 Green (slow speed)
     2 Blue (medium speed)
-- title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
-  image: "/2022-01-04 15.42.36.jpg"
-  price: 6
-  description: Championship shuttlecock
 - title: Victor Badminton Shuttles NS3000 - Tube of 6
   image: "/2022-01-04 15.43.37.jpg"
   price: 14.5
