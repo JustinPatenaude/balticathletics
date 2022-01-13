@@ -18,6 +18,10 @@ photos:
 - title: Champion FXSeries Footballs
   photo: "/fx600_n.jpg"
 promotions:
+- title: Wilson CFL Ultimate Composite Football WTF1905XB
+  image: "/2022-01-04 15.53.05.jpg"
+  price: 38
+  description: "- tacky laces"
 - title: CLEARANCE - 360 Composite Football - Size 9
   image: "/2022-01-04 15.57.14.jpg"
   price: 19.5
