@@ -13,6 +13,8 @@ products:
 - Uniforms
 - Volleyballs
 photos:
+- title: Crossnet 4Square Volleyball
+  photo: "/4Square Meets Volleyball Image_V2.png"
 - photo: "/VQ200W-CAN MHSAA ball 2021.png"
   title: "**New** 2021 MHSAA Official Volleyball - $68.00"
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
