@@ -13,6 +13,8 @@ products:
 - Uniforms
 - Volleyballs
 photos:
+- title: Cobra Outdoor Volleyball System
+  photo: "/cobra on grass.JPG"
 - photo: "/VQ200W-CAN MHSAA ball 2021.png"
   title: "**New** 2021 MHSAA Official Volleyball - $68.00"
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
