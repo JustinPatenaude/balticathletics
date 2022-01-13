@@ -18,7 +18,7 @@ photos:
 - title: Free Volleyball Merch with purchase of 6 or more VQ200W-CAN Volleyballs
   photo: "/2020.01.05 Mikasa MHSAA gift with purchase promo 04.png"
 - title: Cobra Outdoor Volleyball System
-  photo: "/cobra on grass.JPG"
+  photo: "/Cobra_hammock_2__53306.1518111135.1280.1280.jpg"
 - title: Mikasa Volleyballs
   photo: "/2022-01-06 17.30.12.jpg"
 - title: Wilson Volleyballs
