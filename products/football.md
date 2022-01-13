@@ -18,6 +18,13 @@ photos:
 - title: Champion FXSeries Footballs
   photo: "/fx600_n.jpg"
 promotions:
+- title: Wilson Composite Footballs - TD Series
+  image: "/2022-01-04 15.52.19.jpg"
+  price: 33
+  description: |-
+    Junior $33.00
+    Youth $33.75
+    Senior (Size 9) $35.00
 - title: Wilson CFL Ultimate Composite Football WTF1905XB
   image: "/2022-01-04 15.53.05.jpg"
   price: 38
