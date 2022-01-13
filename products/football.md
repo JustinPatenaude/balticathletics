@@ -14,7 +14,9 @@ products:
 - Pylons
 - Uniforms
 - Yardage Markers
-photos: []
+photos:
+- title: Champion FXSeries Footballs
+  photo: "/fx600_n.jpg"
 promotions:
 - title: Champion FXComp Football - FX Series
   image: "/fx600_n.jpg"
