@@ -10,6 +10,10 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
+  image: "/2022-01-04 15.42.36.jpg"
+  price: 6
+  description: Championship shuttlecock
 - title: Champion PA20SET Port-A-Net
   image: "/pa20set-front-n.jpg"
   price: 240
