@@ -88,7 +88,7 @@ promotions:
   description: |-
     Advance Pro Soft Tack Varsity Size 9 Composite Football
     - 8 available
-- title: Spalding 72-6218C TF-COMP Football
+- title: Spalding 72-6218C TF-COMP Football - Size 9
   image: "/726218C TF-COMP Spalding FB.jpg"
   price: 30
   description: |-
