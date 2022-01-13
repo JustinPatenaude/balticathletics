@@ -18,21 +18,6 @@ photos:
 - title: Champion FXSeries Footballs
   photo: "/fx600_n.jpg"
 promotions:
-- title: Tachikara Rubber Football - SF Series
-  image: "/sf3r.jpg"
-  price: 12
-  description: |-
-    Top grade rubber football with raised laces for sure grip & yarn winding for durability.
-    - Available in Junior (Mini) SF2R $10, Intermediate SF3R $11, Senior SF4R $12
-- title: Champion FXComp Football - FX Series
-  image: "/fx600_n.jpg"
-  price: 24
-  description: |-
-    - Designed to play and feel like a leather game ball
-    - Water-resistant composite easy grip cover helps the ball stand up to both indoor and outdoor use
-    - 2-Ply butyl bladder for superior air retention
-    - Tackified laces provide a better grip
-    - Available in Junior $23.00, Intermediate $23.50, Senior $24.00
 - title: CLEARANCE - 360 Composite Football - Size 9
   image: "/2022-01-04 15.57.14.jpg"
   price: 19.5
@@ -53,6 +38,21 @@ promotions:
     - 3 Russell three window wrist coaches RAWC30
     - 1 360 helmet pump YZ15
     - 2 Rawlings helmet pumps AIRPUMP
+- title: Tachikara Rubber Football - SF Series
+  image: "/sf3r.jpg"
+  price: 12
+  description: |-
+    Top grade rubber football with raised laces for sure grip & yarn winding for durability.
+    - Available in Junior (Mini) SF2R $10, Intermediate SF3R $11, Senior SF4R $12
+- title: Champion FXComp Football - FX Series
+  image: "/fx600_n.jpg"
+  price: 24
+  description: |-
+    - Designed to play and feel like a leather game ball
+    - Water-resistant composite easy grip cover helps the ball stand up to both indoor and outdoor use
+    - 2-Ply butyl bladder for superior air retention
+    - Tackified laces provide a better grip
+    - Available in Junior $23.00, Intermediate $23.50, Senior $24.00
 - title: Spalding J5Y Classic Football - Size 7
   image: "/J5Y Classic Football.jpg"
   price: 36
