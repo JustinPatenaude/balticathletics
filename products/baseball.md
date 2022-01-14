@@ -14,21 +14,10 @@ photos:
 - title: 2021 Softball Uniform Flyer
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
-- title: CLEARANCE - Champion Catchers Chest Pad P100SBK - Adult
+- title: CLEARANCE - Champion Pro Catchers Chest Pad P100SBK - Adult
   image: "/2022-01-04 15.14.17.jpg"
   price: 75
   description: ONE available
-- title: SKLZ Soft Hands Fielding Training Aid SH01-000-04
-  image: "/cb0srcz8f0zmzprchkjo_800x800.jpg"
-  price: 14
-  description: |-
-    Improves fielding skills teaches a "soft receiving" technique and the transition from glove to throwing hand.
-
-    ONE available at $14
-- title: Louisville Slugger Genesis LHC only - 11"
-  image: "/2022-01-04 15.16.59.jpg"
-  price: 37
-  description: 12 available
 - title: CLEARANCE - Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
   image: "/Rawlings HFP125BP Baseball Glove.jpg"
   price: 40
@@ -44,6 +33,17 @@ promotions:
   description: |-
     Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
     Belt not included
+- title: SKLZ Soft Hands Fielding Training Aid SH01-000-04
+  image: "/cb0srcz8f0zmzprchkjo_800x800.jpg"
+  price: 14
+  description: |-
+    Improves fielding skills teaches a "soft receiving" technique and the transition from glove to throwing hand.
+
+    ONE available at $14
+- title: Louisville Slugger Genesis LHC only - 11"
+  image: "/2022-01-04 15.16.59.jpg"
+  price: 37
+  description: 12 available
 - title: Wilson A360 RHC & LHC - 11", 12" and 13"
   image: "/2022-01-04 15.19.08.jpg"
   price: 43
