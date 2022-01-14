@@ -16,7 +16,7 @@ photos:
 promotions:
 - title: Louisville Slugger Genesis LHC only - 11"
   image: "/2022-01-04 15.16.59.jpg"
-  price: 43
+  price: 37
   description: 12 available
 - title: CLEARANCE - Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
   image: "/Rawlings HFP125BP Baseball Glove.jpg"
