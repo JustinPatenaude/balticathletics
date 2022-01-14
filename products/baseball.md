@@ -14,6 +14,13 @@ photos:
 - title: 2021 Softball Uniform Flyer
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
+- title: CLEARANCE - SKLZ Batting BT360-100-02
+  image: "/2022-01-04 14.46.04.jpg"
+  price: 36
+  description: |-
+    ONE available.
+
+    Promote proper swing mechanics and body positioning using the 360 Tee. It swivels to various pitch locations for full plate coverage. Practice hitting outside, middle, inside, high and low pitches. The slanted rubber cup is designed to hold the ball in place in any position.
 - title: Champion Slo-Pitch Softball Fielders Face Mask FMA - Adult
   image: "/2022-01-04 15.13.40.jpg"
   price: 35
