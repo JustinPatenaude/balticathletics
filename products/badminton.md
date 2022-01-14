@@ -10,10 +10,14 @@ products:
 - Shuttles
 photos: []
 promotions:
-- title: Black Knight Lime green
+- title: Black Knight BA250 Racquet
   image: "/2022-01-04 15.25.48.jpg"
-  price: 
-  description: ''
+  price: 19.25
+  description: "Designed for: Novice players looking an economical racquet with moderate
+    weight\n \nFrame: Aluminium head, steel shaft\nString: Lonfibre SX21\nString Tension:
+    12-17lbs\nAFW: 110g\nOverall length: 66.5cm\nWarranty: 6-months (includes 45-day
+    “No fault” Guarantee*)\n \nCharacteristic: Excellent value for the novice player
+    with moderate weight, headcover."
 - title: 'CLEARANCE - Black Knight Super Nano Racquet BA417 '
   image: "/2022-01-04 15.26.24.jpg"
   price: 42
