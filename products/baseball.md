@@ -14,32 +14,6 @@ photos:
 - title: 2021 Softball Uniform Flyer
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
-- title: Easton Incrediballs - 9", 11", 12"
-  image: "/2022-01-04 14.44.56.jpg"
-  price: 8
-  description: |-
-    Nylon cover
-    9" Training Baseball - $8.00
-    11" Training Softball - $10.50
-    12" Training Softball - $10.50
-- title: SKLZ Bullet Ball
-  image: "/Bullet-Ball_672x672.jpg"
-  price: 19
-  description: |-
-    ONE available at $19.00, Regular $25.00
-    Salesman sample - couple grass stains
-    Works perfect
-
-    Get instant feedback at your pitch speed with the SKLZ Bullet Ball. The ideal pitching trainer for any age or skill level, the Bullet Ball measures velocities up to 120 mph. Perfect for use on the field or in the backyard, the ball can be thrown to another player or into a net. Adjusting to distance from 46’ to 60’ 6”, the ball is perfect for use both on the field or in the backyard. Throw it to another player or into a net, the Bullet Ball makes the perfect training aid all year round.
-- title: Champion Umpire Indicator SI4-1
-  image: "/2022-01-04 14.45.21.jpg"
-  price: 7.85
-  description: |-
-    - 4-Wheel umpire indicator for counting balls, strikes, outs, and innings
-    - Made of stainless steel for exceptional durability on the field
-    - Small size fits easily in a pocket
-    - Pack of 12 for multiple teams or staff members
-    - Silver with optic yellow digits
 - title: CLEARANCE - SKLZ Batting BT360-100-02
   image: "/2022-01-04 14.46.04.jpg"
   price: 36
@@ -47,15 +21,6 @@ promotions:
     ONE available.
 
     Promote proper swing mechanics and body positioning using the 360 Tee. It swivels to various pitch locations for full plate coverage. Practice hitting outside, middle, inside, high and low pitches. The slanted rubber cup is designed to hold the ball in place in any position.
-- title: Champion Slo-Pitch Softball Fielders Face Mask FMA - Adult
-  image: "/2022-01-04 15.13.40.jpg"
-  price: 35
-  description: |-
-    - Open design offers wide field of vision
-    - Adjustable harness with back opening for a secure fit
-    - Removable liner for comfort
-    - Movable chin cup
-    - Sized for adult players
 - title: CLEARANCE - Champion Pro Catchers Chest Pad P100SBK - Adult
   image: "/2022-01-04 15.14.17.jpg"
   price: 75
@@ -75,21 +40,14 @@ promotions:
   description: |-
     Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
     Belt not included
-- title: SKLZ Soft Hands Fielding Training Aid SH01-000-04
-  image: "/cb0srcz8f0zmzprchkjo_800x800.jpg"
-  price: 14
-  description: |-
-    Improves fielding skills teaches a "soft receiving" technique and the transition from glove to throwing hand.
-
-    ONE available at $14
-- title: Louisville Slugger Genesis LHC only - 11"
-  image: "/2022-01-04 15.16.59.jpg"
-  price: 37
-  description: 12 available
 - title: Wilson A360 RHC & LHC - 11", 12" and 13"
   image: "/2022-01-04 15.19.08.jpg"
   price: 43
   description: Various colours
+- title: Louisville Slugger Genesis LHC only - 11"
+  image: "/2022-01-04 15.16.59.jpg"
+  price: 37
+  description: 12 available
 - title: Easton Synergy Elite Baseball Glove - 12.5" Left Hand Catch
   image: "/Easton Synergy Elite Baseball Glove.jpg"
   price: 49
@@ -98,6 +56,21 @@ promotions:
   image: "/2020-04-11 14.51.18.jpg"
   price: 60
   description: "- All leather"
+- title: SKLZ Soft Hands Fielding Training Aid SH01-000-04
+  image: "/cb0srcz8f0zmzprchkjo_800x800.jpg"
+  price: 14
+  description: |-
+    Improves fielding skills teaches a "soft receiving" technique and the transition from glove to throwing hand.
+
+    ONE available at $14
+- title: Easton Incrediballs - 9", 11", 12"
+  image: "/2022-01-04 14.44.56.jpg"
+  price: 8
+  description: |-
+    Nylon cover
+    9" Training Baseball - $8.00
+    11" Training Softball - $10.50
+    12" Training Softball - $10.50
 - title: Spalding 100 Leather Baseball
   image: "/spalding 100 baseball.jpg"
   price: 5
@@ -113,22 +86,32 @@ promotions:
   image: "/plbb-enhanced-1_l.jpg"
   price: 1.5
   description: ''
-- title: Champion Full Size Double First Base M155 w/spikes
-  image: "/M155_double-base.png"
-  price: 63.95
-  description: 7 available
+- title: Champion Slo-Pitch Softball Fielders Face Mask FMA - Adult
+  image: "/2022-01-04 15.13.40.jpg"
+  price: 35
+  description: |-
+    - Open design offers wide field of vision
+    - Adjustable harness with back opening for a secure fit
+    - Removable liner for comfort
+    - Movable chin cup
+    - Sized for adult players
 - title: Champion M500P Molded Rubber Base Plug - Set of 3
   image: "/m500p-lifestyle1-l.jpg"
   price: 18.25
   description: 1 set available
+- title: SKLZ Bullet Ball
+  image: "/Bullet-Ball_672x672.jpg"
+  price: 19
+  description: |-
+    ONE available at $19.00, Regular $25.00
+    Salesman sample - couple grass stains
+    Works perfect
+
+    Get instant feedback at your pitch speed with the SKLZ Bullet Ball. The ideal pitching trainer for any age or skill level, the Bullet Ball measures velocities up to 120 mph. Perfect for use on the field or in the backyard, the ball can be thrown to another player or into a net. Adjusting to distance from 46’ to 60’ 6”, the ball is perfect for use both on the field or in the backyard. Throw it to another player or into a net, the Bullet Ball makes the perfect training aid all year round.
 - title: Champion M500A Pro Anchor Base Replacement Pin - Set of 3
   image: "/m500a-enhanced-2-l.jpg"
   price: 31.75
   description: 1 set available
-- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
-  image: "/2020-04-13 10.34.14.jpg"
-  price: 10
-  description: 2 sets available
 - title: Base Spikes HDB-NN-RNAIL10 & HDB Super Anchorhead Clips HDB-BB-SASH
   image: "/2020-04-14 09.55.03.jpg"
   price: 5
@@ -143,24 +126,6 @@ promotions:
     - Attach base straps onto clip
 
     12 available.
-- title: Champion BP2040 Baseball Backpack
-  image: "/bp2040-front_l.jpg"
-  price: 42.95
-  description: |-
-    - Features two bat holders, glove and helmet pockets, drink sleeve and large main chamber
-    - Adjustable shoulder and back strap with shoe and cleat compartment
-    - Hooks onto fence
-    - 17"H x 14"W x 10"D
-    - Black
-
-    1 available
-- title: Baseball Scorebook
-  image: "/SC1 Baseball Scorebook.jpg"
-  price: 7
-  description: "- Keeps track of in-game statistics for up to 15 players for 25 games\n-
-    Heavy cardboard back and spiral bound cover is durable enough to last all season
-    \n- Includes batting average chart, roster, and line-up pages for quick access
-    to statistics\n- Suitable for all baseball and softball games"
 - title: Dudley 4A135 Thunder Heat Leather COR40 Softball - 12"
   image: "/2020-04-11 14.41.37.jpg"
   price: 
@@ -203,6 +168,41 @@ promotions:
     • Black
 
     1 available
+- title: Baseball Scorebook
+  image: "/SC1 Baseball Scorebook.jpg"
+  price: 7
+  description: "- Keeps track of in-game statistics for up to 15 players for 25 games\n-
+    Heavy cardboard back and spiral bound cover is durable enough to last all season
+    \n- Includes batting average chart, roster, and line-up pages for quick access
+    to statistics\n- Suitable for all baseball and softball games"
+- title: Champion BP2040 Baseball Backpack
+  image: "/bp2040-front_l.jpg"
+  price: 42.95
+  description: |-
+    - Features two bat holders, glove and helmet pockets, drink sleeve and large main chamber
+    - Adjustable shoulder and back strap with shoe and cleat compartment
+    - Hooks onto fence
+    - 17"H x 14"W x 10"D
+    - Black
+
+    1 available
+- title: Champion Umpire Indicator SI4-1
+  image: "/2022-01-04 14.45.21.jpg"
+  price: 7.85
+  description: |-
+    - 4-Wheel umpire indicator for counting balls, strikes, outs, and innings
+    - Made of stainless steel for exceptional durability on the field
+    - Small size fits easily in a pocket
+    - Pack of 12 for multiple teams or staff members
+    - Silver with optic yellow digits
+- title: Champion Full Size Double First Base M155 w/spikes
+  image: "/M155_double-base.png"
+  price: 63.95
+  description: 7 available
+- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
+  image: "/2020-04-13 10.34.14.jpg"
+  price: 10
+  description: 2 sets available
 date: '2019-03-29T22:54:55.000+00:00'
 
 ---
