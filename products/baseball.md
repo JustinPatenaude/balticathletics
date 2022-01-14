@@ -14,6 +14,15 @@ photos:
 - title: 2021 Softball Uniform Flyer
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
+- title: Champion Softball Fielders Face Mask FMA - Adult
+  image: "/2022-01-04 15.13.40.jpg"
+  price: 35
+  description: |-
+    - Open design offers wide field of vision
+    - Adjustable harness with back opening for a secure fit
+    - Removable liner for comfort
+    - Movable chin cup
+    - Sized for adult players
 - title: CLEARANCE - Champion Pro Catchers Chest Pad P100SBK - Adult
   image: "/2022-01-04 15.14.17.jpg"
   price: 75
