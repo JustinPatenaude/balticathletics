@@ -10,10 +10,6 @@ products:
 - Shuttles
 photos: []
 promotions:
-- title: Victor Badminton Racquet Bag
-  image: "/2022-01-04 15.23.14.jpg"
-  price: 45
-  description: Holds up to 16 racquets.
 - title: CLEARANCE - Black Knight Diamond D100 Racquet
   image: "/2022-01-04 15.25.08.jpg"
   price: 39
@@ -56,6 +52,10 @@ promotions:
     Available:
     5 Green (slow speed)
     2 Blue (medium speed)
+- title: CLEARANCE - Victor Badminton Racquet Bag
+  image: "/2022-01-04 15.23.14.jpg"
+  price: 45
+  description: Holds up to 16 racquets.
 - title: Black Knight Graphite BA190DG Racquet
   image: "/2022-01-04 15.26.48.jpg"
   price: 30.95
