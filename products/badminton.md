@@ -12,7 +12,7 @@ photos: []
 promotions:
 - title: Black Knight Tornado Junior Racquet BA230JR
   image: "/2022-01-04 15.27.57.jpg"
-  price: 
+  price: 18
   description: "Designed to: Benefit young players or people with coordination problems.
     Suitable for primary school use, and for casual play by children, generally up
     to about 10 years of age, depending on the child’s size. \n \nFrame: Wide-body
