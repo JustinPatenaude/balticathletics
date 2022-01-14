@@ -14,6 +14,10 @@ photos:
 - title: 2021 Softball Uniform Flyer
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
+- title: ''
+  image: ''
+  price: 
+  description: ''
 - title: Wilson A360 RHC & LHC - 11", 12" and 13"
   image: "/2022-01-04 15.20.24.jpg"
   price: 43
