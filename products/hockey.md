@@ -20,6 +20,10 @@ photos: []
 suppliers: []
 date: '2019-03-29T23:00:55.000+00:00'
 promotions:
+- title: 'Lowry Carrier with 6 - 1L bottles 264-PK '
+  image: "/2022-01-04 15.13.28.jpg"
+  price: 32
+  description: ''
 - title: FOX40 Hockey Cones - Set of 10
   image: "/2022-01-05 15.48.44.jpg"
   price: 59
