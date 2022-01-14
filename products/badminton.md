@@ -10,10 +10,6 @@ products:
 - Shuttles
 photos: []
 promotions:
-- title: Badminton Grips GR200
-  image: "/2022-01-04 15.41.51.jpg"
-  price: 3
-  description: 41 available
 - title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
   image: "/2022-01-04 15.42.36.jpg"
   price: 6
@@ -25,6 +21,10 @@ promotions:
     Available:
     5 Green (slow speed)
     2 Blue (medium speed)
+- title: Victor Badminton Grips GR200
+  image: "/2022-01-04 15.41.51.jpg"
+  price: 3
+  description: 41 available
 - title: Victor Badminton Shuttles NS3000 - Tube of 6
   image: "/2022-01-04 15.43.37.jpg"
   price: 14.5
