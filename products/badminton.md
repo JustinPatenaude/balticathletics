@@ -10,6 +10,10 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: CLEARANCE - Black Knight Diamond D100 Racquet
+  image: "/2022-01-04 15.25.08.jpg"
+  price: 39
+  description: TWO available
 - title: CLEARANCE - Black Knight BA250 Racquet
   image: "/2022-01-04 15.25.48.jpg"
   price: 18
