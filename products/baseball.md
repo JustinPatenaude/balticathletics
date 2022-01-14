@@ -175,14 +175,14 @@ promotions:
   image: "/M155_double-base.png"
   price: 63.95
   description: 7 available
-- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
-  image: "/2020-04-13 10.34.14.jpg"
-  price: 10
-  description: 2 sets available
 - title: Champion M500P Molded Rubber Base Plug - Set of 3
   image: "/m500p-lifestyle1-l.jpg"
   price: 18.25
   description: 1 set available
+- title: Baseball Base Spikes WCS w/strap attachments - Set of 3
+  image: "/2020-04-13 10.34.14.jpg"
+  price: 10
+  description: 2 sets available
 - title: Base Spikes HDB-NN-RNAIL10 & HDB Super Anchorhead Clips HDB-BB-SASH
   image: "/2020-04-14 09.55.03.jpg"
   price: 5
