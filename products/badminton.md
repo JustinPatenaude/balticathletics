@@ -10,10 +10,17 @@ products:
 - Shuttles
 photos: []
 promotions:
-- title: ''
-  image: ''
+- title: Black Knight Tornado Junior Racquet BA230JR
+  image: "/2022-01-04 15.27.57.jpg"
   price: 
-  description: ''
+  description: "Designed to: Benefit young players or people with coordination problems.
+    Suitable for primary school use, and for casual play by children, generally up
+    to about 10 years of age, depending on the child’s size. \n \nFrame: Wide-body
+    aluminum head, steel shaft, 60 cm (versus the standard 67 cm).\nString: Lonfibre
+    SX21\nString Tension: 12-17 lbs.\nAFW: 110g\nOverall length: 60 cm\nWarranty:
+    6-months (includes 45-day “No Fault” Guarantee*)\n\nThe short length makes it
+    much easier to learn proper technique and to enjoy playing badminton. This racquet
+    is sold with a headcover."
 - title: Junior Mini Racquet BA151JR
   image: "/2022-01-04 15.28.27.jpg"
   price: 18
