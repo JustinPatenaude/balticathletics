@@ -14,6 +14,10 @@ photos:
 - title: 2021 Softball Uniform Flyer
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
+- title: CLEARANCE - Champion Catchers Chest Pad P100SBK - Adult
+  image: "/2022-01-04 15.14.17.jpg"
+  price: 75
+  description: ONE available
 - title: SKLZ Soft Hands Fielding Training Aid SH01-000-04
   image: "/cb0srcz8f0zmzprchkjo_800x800.jpg"
   price: 14
