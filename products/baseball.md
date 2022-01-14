@@ -10,9 +10,7 @@ products:
 - Helmets
 - Jerseys
 - Pants
-photos:
-- title: 2021 Softball Uniform Flyer
-  photo: "/2021 Softball Uniform Flyer.pdf"
+photos: []
 promotions:
 - title: CLEARANCE - SKLZ Batting BT360-100-02
   image: "/2022-01-04 14.46.04.jpg"
