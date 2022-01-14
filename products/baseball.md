@@ -14,18 +14,10 @@ photos:
 - title: 2021 Softball Uniform Flyer
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
-- title: ''
-  image: "/2022-01-04 15.17.29.jpg"
-  price: 
-  description: ''
-- title: Wilson A360 RHC & LHC - 11", 12" and 13"
-  image: "/2022-01-04 15.19.08.jpg"
+- title: Louisville Slugger Genesis LHC only - 11"
+  image: "/2022-01-04 15.16.59.jpg"
   price: 43
-  description: Various colours
-- title: Easton Synergy Elite Baseball Glove - 12.5" Left Hand Catch
-  image: "/Easton Synergy Elite Baseball Glove.jpg"
-  price: 49
-  description: Full grain genuine leather. 12.5" Left hand catch only.
+  description: 12 available
 - title: CLEARANCE - Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
   image: "/Rawlings HFP125BP Baseball Glove.jpg"
   price: 40
@@ -34,6 +26,21 @@ promotions:
     - Soft & supple, very flexible (broken in feel)
 
     12 available (black/purple)
+- title: CLEARANCE - Russell Baseball Pants - 234DBMK (baseball grey only - assorted
+    sizes)
+  image: "/234DBMK_GRAY.jpg"
+  price: 18
+  description: |-
+    Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
+    Belt not included
+- title: Wilson A360 RHC & LHC - 11", 12" and 13"
+  image: "/2022-01-04 15.19.08.jpg"
+  price: 43
+  description: Various colours
+- title: Easton Synergy Elite Baseball Glove - 12.5" Left Hand Catch
+  image: "/Easton Synergy Elite Baseball Glove.jpg"
+  price: 49
+  description: Full grain genuine leather. 12.5" Left hand catch only.
 - title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
   image: "/2020-04-11 14.51.18.jpg"
   price: 60
@@ -83,13 +90,6 @@ promotions:
     - Attach base straps onto clip
 
     12 available.
-- title: CLEARANCE - Russell Baseball Pants - 234DBMK (baseball grey only - assorted
-    sizes)
-  image: "/234DBMK_GRAY.jpg"
-  price: 18
-  description: |-
-    Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
-    Belt not included
 - title: Champion BP2040 Baseball Backpack
   image: "/bp2040-front_l.jpg"
   price: 42.95
