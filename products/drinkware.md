@@ -4,11 +4,7 @@ permalink: "/products/drinkware/"
 title: Drinkware
 products: []
 photos: []
-promotions:
-- title: ''
-  image: ''
-  price: 
-  description: ''
+promotions: []
 date: '2019-03-29T23:13:37.000+00:00'
 
 ---
