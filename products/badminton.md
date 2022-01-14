@@ -24,7 +24,7 @@ promotions:
     short length and the light aluminum head make the racquet easy to handle for the
     young player. The overall length is 53 cm, versus the standard 66.5 cm.  This
     racquet is sold with a headcover."
-- title: Yonex Muscle Power Junior Racquet MP2JR
+- title: CLEARANCE - Yonex Muscle Power Junior Racquet MP2JR
   image: "/2022-01-04 15.31.27.jpg"
   price: 25
   description: "A shorter junior racquet for easy handling\n\nFrame\tAluminum\nShaft\tSteel\nLength\t21
