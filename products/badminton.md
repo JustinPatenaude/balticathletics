@@ -10,6 +10,16 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: Junior Mini Racquet BA151JR
+  image: "/2022-01-04 15.28.27.jpg"
+  price: 18
+  description: "Designed for: Early primary school use, and for casual play by children
+    up to about 8 years of age, depending on the child’s size. \n\nFrame: Aluminum
+    head and steel shaft.\nString: Lonfibre SX21\nString Tension: 12 - 15 lbs.\nAFW:
+    115g\nOverall length: 53cm\nWarranty: 6-months (includes 45-day “No Fault” Guarantee*)\n\nThe
+    short length and the light aluminum head make the racquet easy to handle for the
+    young player. The overall length is 53 cm, versus the standard 66.5 cm.  This
+    racquet is sold with a headcover.\n\nONE available"
 - title: Yonex Muscle Power Junior Racquet MP2JR
   image: "/2022-01-04 15.31.27.jpg"
   price: 25
