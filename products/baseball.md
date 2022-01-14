@@ -15,7 +15,7 @@ photos:
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
 - title: SKLZ Soft Hands Fielding Training Aid SH01-000-04
-  image: "/2022-01-04 15.15.04.jpg"
+  image: "/cb0srcz8f0zmzprchkjo_800x800.jpg"
   price: 14
   description: |-
     Improves fielding skills teaches a "soft receiving" technique and the transition from glove to throwing hand.
