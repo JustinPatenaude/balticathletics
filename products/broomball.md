@@ -8,6 +8,16 @@ products:
 - Broomball Sticks
 photos: []
 promotions:
+- title: D-Gel 996
+  image: "/2022-01-04 14.47.34.jpg"
+  price: 95
+  description: |-
+    The reference for over 40 years, our Gripper™ shoes get a newsole compound to improve resistance, while offering the same reliable traction on ice.
+
+    - Gripper™ sole (interior)
+    - Isolated upper
+    - Re-inforced toe cap
+    - Ankle protection
 - title: Acacia Grip-inator Broomball Shoes 49-204 - Sizes 6-13
   image: "/2022-01-04 14.47.06.jpg"
   price: 90
