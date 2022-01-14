@@ -8,7 +8,7 @@ products:
 - Broomball Sticks
 photos: []
 promotions:
-- title: D-Gel 996
+- title: D-Gel Gripper Broomball Shoes 886
   image: "/2022-01-04 14.47.34.jpg"
   price: 95
   description: |-
