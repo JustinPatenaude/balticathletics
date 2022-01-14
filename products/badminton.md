@@ -10,13 +10,10 @@ products:
 - Shuttles
 photos: []
 promotions:
-- title: Black Knight Badminton Overgrip - 2/pk
-  image: "/2022-01-04 15.40.19.jpg"
-  price: 6
-  description: "- A tacky polyurethane coating over a cotton base provides an instantly
-    secure grip.\n- Thin enough to hardly effect grip size, Ultra Grip is  thick enough
-    to add important cushioning and moisture absorption. \n- Ultra Grip is sold in
-    packages of two grips.\n- Thickness: 0.7 mm. Length:110 cm"
+- title: Victor Stand Alone Badminton Net C-7041
+  image: "/75284_1_20201124061631.jpg"
+  price: 115
+  description: ''
 - title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
   image: "/2022-01-04 15.42.36.jpg"
   price: 6
@@ -32,6 +29,13 @@ promotions:
   image: "/2022-01-04 15.41.51.jpg"
   price: 3
   description: 41 available
+- title: Black Knight Badminton Overgrip - 2/pk
+  image: "/2022-01-04 15.40.19.jpg"
+  price: 6
+  description: "- A tacky polyurethane coating over a cotton base provides an instantly
+    secure grip.\n- Thin enough to hardly effect grip size, Ultra Grip is  thick enough
+    to add important cushioning and moisture absorption. \n- Ultra Grip is sold in
+    packages of two grips.\n- Thickness: 0.7 mm. Length:110 cm"
 - title: Victor Badminton Shuttles NS3000 - Tube of 6
   image: "/2022-01-04 15.43.37.jpg"
   price: 14.5
