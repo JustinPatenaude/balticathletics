@@ -79,10 +79,10 @@ promotions:
 - title: Spalding 41003 Official League Synthetic Cover Baseball (sold in case of
     12)
   image: "/2020-03-07 11.09.54.jpg"
-  price: 36
+  price: 48
   description: |-
     stitched seams
-    5 dozen available
+    4 dozen available
 - title: Wiffle Ball CX040630-00 - 9" circ / 3" dia (baseball size)
   image: "/plbb-enhanced-1_l.jpg"
   price: 1.5
