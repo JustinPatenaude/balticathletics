@@ -17,15 +17,16 @@ promotions:
 - title: Black Knight Graphite BA190DG Racquet
   image: "/2022-01-04 15.26.48.jpg"
   price: 30.95
-  description: "ONE available at $30.95\n\nDesigned for: Institutional use where importance
-    is placed on playability, such as team use.  \n \nFrame: Strong wide body aluminum
-    head, graphite shaft, reinforced aluminum “T”, special “Double Grip” (DG) System.\nString:
-    Lonfibre SX21\nString Tension: 17-21 lbs.\nAFW: 96g\nOverall length: 66.5cm\nWarranty:
-    6-months (includes 45-day “No Fault” Guarantee*)\n \nCharacteristics:\n\nHigh
-    quality graphite shaft reduces overall frame weight and outperforms steel shaft.\nDouble
-    length butt cap; solid wooden handle; durable nylon grommets.\nDouble Grip (DG)
-    System: If the original grip wrap wears out, that grip wrap plus the underlying
-    plastic can be removed to reveal a fresh new grip. "
+  description: "ONE available at $30.95, Regular $38.00\n\nDesigned for: Institutional
+    use where importance is placed on playability, such as team use.  \n \nFrame:
+    Strong wide body aluminum head, graphite shaft, reinforced aluminum “T”, special
+    “Double Grip” (DG) System.\nString: Lonfibre SX21\nString Tension: 17-21 lbs.\nAFW:
+    96g\nOverall length: 66.5cm\nWarranty: 6-months (includes 45-day “No Fault” Guarantee*)\n
+    \nCharacteristics:\n\nHigh quality graphite shaft reduces overall frame weight
+    and outperforms steel shaft.\nDouble length butt cap; solid wooden handle; durable
+    nylon grommets.\nDouble Grip (DG) System: If the original grip wrap wears out,
+    that grip wrap plus the underlying plastic can be removed to reveal a fresh new
+    grip. "
 - title: Black Knight BK150 Sceptre Racquet
   image: "/2022-01-04 15.27.09.jpg"
   price: 24
