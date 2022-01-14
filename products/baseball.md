@@ -12,13 +12,6 @@ products:
 - Pants
 photos: []
 promotions:
-- title: CLEARANCE - SKLZ Batting BT360-100-02
-  image: "/2022-01-04 14.46.04.jpg"
-  price: 36
-  description: |-
-    ONE available.
-
-    Promote proper swing mechanics and body positioning using the 360 Tee. It swivels to various pitch locations for full plate coverage. Practice hitting outside, middle, inside, high and low pitches. The slanted rubber cup is designed to hold the ball in place in any position.
 - title: CLEARANCE - Champion Pro Catchers Chest Pad P100SBK - Adult
   image: "/2022-01-04 15.14.17.jpg"
   price: 75
@@ -38,6 +31,13 @@ promotions:
   description: |-
     Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
     Belt not included
+- title: CLEARANCE - SKLZ Batting BT360-100-02
+  image: "/2022-01-04 14.46.04.jpg"
+  price: 36
+  description: |-
+    ONE available.
+
+    Promote proper swing mechanics and body positioning using the 360 Tee. It swivels to various pitch locations for full plate coverage. Practice hitting outside, middle, inside, high and low pitches. The slanted rubber cup is designed to hold the ball in place in any position.
 - title: Wilson A360 RHC & LHC - 11", 12" and 13"
   image: "/2022-01-04 15.19.08.jpg"
   price: 43
@@ -84,19 +84,6 @@ promotions:
   image: "/plbb-enhanced-1_l.jpg"
   price: 1.5
   description: ''
-- title: Champion Slo-Pitch Softball Fielders Face Mask FMA - Adult
-  image: "/2022-01-04 15.13.40.jpg"
-  price: 35
-  description: |-
-    - Open design offers wide field of vision
-    - Adjustable harness with back opening for a secure fit
-    - Removable liner for comfort
-    - Movable chin cup
-    - Sized for adult players
-- title: Champion M500P Molded Rubber Base Plug - Set of 3
-  image: "/m500p-lifestyle1-l.jpg"
-  price: 18.25
-  description: 1 set available
 - title: SKLZ Bullet Ball
   image: "/Bullet-Ball_672x672.jpg"
   price: 19
@@ -110,20 +97,6 @@ promotions:
   image: "/m500a-enhanced-2-l.jpg"
   price: 31.75
   description: 1 set available
-- title: Base Spikes HDB-NN-RNAIL10 & HDB Super Anchorhead Clips HDB-BB-SASH
-  image: "/2020-04-14 09.55.03.jpg"
-  price: 5
-  description: |-
-    - Heavy duty steel 10" spike
-    - 1/4" dia heavy duty Clip for base strap
-    - Eliminates the wear on base straps from hammering spikes into the ground while attached to the base straps.
-    - Allows bases and straps to last longer.
-
-    TWO STEP PROCESS:
-    - Hammer spike with clip into ground
-    - Attach base straps onto clip
-
-    12 available.
 - title: Dudley 4A135 Thunder Heat Leather COR40 Softball - 12"
   image: "/2020-04-11 14.41.37.jpg"
   price: 
@@ -166,13 +139,15 @@ promotions:
     • Black
 
     1 available
-- title: Baseball Scorebook
-  image: "/SC1 Baseball Scorebook.jpg"
-  price: 7
-  description: "- Keeps track of in-game statistics for up to 15 players for 25 games\n-
-    Heavy cardboard back and spiral bound cover is durable enough to last all season
-    \n- Includes batting average chart, roster, and line-up pages for quick access
-    to statistics\n- Suitable for all baseball and softball games"
+- title: Champion Slo-Pitch Softball Fielders Face Mask FMA - Adult
+  image: "/2022-01-04 15.13.40.jpg"
+  price: 35
+  description: |-
+    - Open design offers wide field of vision
+    - Adjustable harness with back opening for a secure fit
+    - Removable liner for comfort
+    - Movable chin cup
+    - Sized for adult players
 - title: Champion BP2040 Baseball Backpack
   image: "/bp2040-front_l.jpg"
   price: 42.95
@@ -184,6 +159,13 @@ promotions:
     - Black
 
     1 available
+- title: Baseball Scorebook
+  image: "/SC1 Baseball Scorebook.jpg"
+  price: 7
+  description: "- Keeps track of in-game statistics for up to 15 players for 25 games\n-
+    Heavy cardboard back and spiral bound cover is durable enough to last all season
+    \n- Includes batting average chart, roster, and line-up pages for quick access
+    to statistics\n- Suitable for all baseball and softball games"
 - title: Champion Umpire Indicator SI4-1
   image: "/2022-01-04 14.45.21.jpg"
   price: 7.85
@@ -201,6 +183,24 @@ promotions:
   image: "/2020-04-13 10.34.14.jpg"
   price: 10
   description: 2 sets available
+- title: Champion M500P Molded Rubber Base Plug - Set of 3
+  image: "/m500p-lifestyle1-l.jpg"
+  price: 18.25
+  description: 1 set available
+- title: Base Spikes HDB-NN-RNAIL10 & HDB Super Anchorhead Clips HDB-BB-SASH
+  image: "/2020-04-14 09.55.03.jpg"
+  price: 5
+  description: |-
+    - Heavy duty steel 10" spike
+    - 1/4" dia heavy duty Clip for base strap
+    - Eliminates the wear on base straps from hammering spikes into the ground while attached to the base straps.
+    - Allows bases and straps to last longer.
+
+    TWO STEP PROCESS:
+    - Hammer spike with clip into ground
+    - Attach base straps onto clip
+
+    12 available.
 date: '2019-03-29T22:54:55.000+00:00'
 
 ---
