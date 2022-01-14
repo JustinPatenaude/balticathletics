@@ -11,7 +11,7 @@ products:
 photos: []
 promotions:
 - title: Black Knight Badminton Overgrip - 2/pk
-  image: "/2022-01-04 15.40.27.jpg"
+  image: "/2022-01-04 15.40.19.jpg"
   price: 6
   description: "- A tacky polyurethane coating over a cotton base provides an instantly
     secure grip.\n- Thin enough to hardly effect grip size, Ultra Grip is  thick enough
