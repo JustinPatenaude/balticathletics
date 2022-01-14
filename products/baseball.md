@@ -17,7 +17,7 @@ promotions:
 - title: Wilson A360 RHC & LHC - 11", 12" and 13"
   image: "/2022-01-04 15.20.24.jpg"
   price: 43
-  description: ''
+  description: Various colours
 - title: Easton Synergy Elite Baseball Glove - 12.5" Left Hand Catch
   image: "/Easton Synergy Elite Baseball Glove.jpg"
   price: 49
