@@ -12,7 +12,7 @@ photos: []
 promotions:
 - title: Black Knight Graphite BA190DG Racquet
   image: "/2022-01-04 15.26.48.jpg"
-  price: 35
+  price: 30.95
   description: "Designed for: Institutional use where importance is placed on playability,
     such as team use.  \n \nFrame: Strong wide body aluminum head, graphite shaft,
     reinforced aluminum “T”, special “Double Grip” (DG) System.\nString: Lonfibre
@@ -21,7 +21,7 @@ promotions:
     quality graphite shaft reduces overall frame weight and outperforms steel shaft.\nDouble
     length butt cap; solid wooden handle; durable nylon grommets.\nDouble Grip (DG)
     System: If the original grip wrap wears out, that grip wrap plus the underlying
-    plastic can be removed to reveal a fresh new grip. \n\nONE available at $35.00"
+    plastic can be removed to reveal a fresh new grip. \n\nONE available at $30.95"
 - title: Black Knight BK150 Sceptre Racquet
   image: "/2022-01-04 15.27.09.jpg"
   price: 24
