@@ -14,7 +14,7 @@ photos:
 - title: 2021 Softball Uniform Flyer
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
-- title: Champion Softball Fielders Face Mask FMA - Adult
+- title: Champion Slo-Pitch Softball Fielders Face Mask FMA - Adult
   image: "/2022-01-04 15.13.40.jpg"
   price: 35
   description: |-
