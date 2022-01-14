@@ -10,6 +10,11 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: Yonex B4000 Racquet
+  image: "/2022-01-04 15.32.19.jpg"
+  price: 24
+  description: "Frame\tAluminum\nShaft\tSteel\nWeight / Grip\tU (105g and below) G4\nStringing
+    Advice\tU: 16 - 20 lbs\n\n6 available"
 - title: Yonex CAB6000N Racquet
   image: "/2022-01-04 15.32.57.jpg"
   price: 49
