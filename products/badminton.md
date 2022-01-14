@@ -10,10 +10,40 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: Black Knight Lime green
+  image: "/2022-01-04 15.25.48.jpg"
+  price: 
+  description: ''
 - title: 'CLEARANCE - Black Knight Super Nano Racquet BA417 '
   image: "/2022-01-04 15.26.24.jpg"
   price: 42
   description: ONE available.
+- title: CLEARANCE - Yonex Muscle Power Junior Racquet MP2JR
+  image: "/2022-01-04 15.31.27.jpg"
+  price: 25
+  description: "A shorter junior racquet for easy handling\n\nFrame\tAluminum\nShaft\tSteel\nLength\t21
+    in.\nWeight / Grip\t4U (Avg. 83g) G5\nStringing Advice\t4U: 14 - 18 lbs\n\nONE
+    available"
+- title: CLEARANCE - Yonex CAB6000N Racquet
+  image: "/2022-01-04 15.32.57.jpg"
+  price: 49
+  description: "The round-shape head with box-shape frame cross section gives Carbonex
+    a unique and solid feeling. For players who seek a solid feel from the strings
+    at impact. At impact, Elastic Ti resists deformation, stretching then recovering
+    its shape quickly to launch accurate shots with the full energy of the swing.\n\nFrame\tAluminum\nShaft\tSteel
+    / CARBON NANOTUBE\nWeight / Grip\tU (105g and below) G4\nStringing Advice\tU:
+    16 - 20 lbs\nColor(s)\tBlack / Yellow\n\n3 available"
+- title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
+  image: "/2022-01-04 15.42.36.jpg"
+  price: 6
+  description: Championship shuttlecock
+- title: CLEARANCE - 360 JEX700 Badminton Shuttles - Tube of 6
+  image: "/2022-01-04 15.44.29.jpg"
+  price: 13.5
+  description: |-
+    Available:
+    5 Green (slow speed)
+    2 Blue (medium speed)
 - title: Black Knight Graphite BA190DG Racquet
   image: "/2022-01-04 15.26.48.jpg"
   price: 30.95
@@ -58,45 +88,22 @@ promotions:
     short length and the light aluminum head make the racquet easy to handle for the
     young player. The overall length is 53 cm, versus the standard 66.5 cm.  This
     racquet is sold with a headcover."
-- title: CLEARANCE - Yonex Muscle Power Junior Racquet MP2JR
-  image: "/2022-01-04 15.31.27.jpg"
-  price: 25
-  description: "A shorter junior racquet for easy handling\n\nFrame\tAluminum\nShaft\tSteel\nLength\t21
-    in.\nWeight / Grip\t4U (Avg. 83g) G5\nStringing Advice\t4U: 14 - 18 lbs\n\nONE
-    available"
 - title: Yonex B4000 Racquet
   image: "/2022-01-04 15.32.19.jpg"
   price: 24
   description: "Frame\tAluminum\nShaft\tSteel\nWeight / Grip\tU (105g and below) G4\nStringing
     Advice\tU: 16 - 20 lbs\n\n6 available"
-- title: CLEARANCE - Yonex CAB6000N Racquet
-  image: "/2022-01-04 15.32.57.jpg"
-  price: 49
-  description: "The round-shape head with box-shape frame cross section gives Carbonex
-    a unique and solid feeling. For players who seek a solid feel from the strings
-    at impact. At impact, Elastic Ti resists deformation, stretching then recovering
-    its shape quickly to launch accurate shots with the full energy of the swing.\n\nFrame\tAluminum\nShaft\tSteel
-    / CARBON NANOTUBE\nWeight / Grip\tU (105g and below) G4\nStringing Advice\tU:
-    16 - 20 lbs\nColor(s)\tBlack / Yellow\n\n3 available"
 - title: Victor Aeropower Racquet AP9000
   image: "/2022-01-04 15.34.42.jpg"
   price: 65
   description: One available
-- title: Victor Stand Alone Badminton Net C-7041
-  image: "/75284_1_20201124061631.jpg"
-  price: 115
-  description: Assembles very quickly
-- title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
-  image: "/2022-01-04 15.42.36.jpg"
-  price: 6
-  description: Championship shuttlecock
-- title: CLEARANCE - 360 JEX700 Badminton Shuttles - Tube of 6
-  image: "/2022-01-04 15.44.29.jpg"
-  price: 13.5
+- title: Carlton ISO4.3 Midi-Blade Badminton Racquet
+  image: "/Carlton ISO4.3 Midi-Blade Badminton Racquet.jpg"
+  price: 15
   description: |-
-    Available:
-    5 Green (slow speed)
-    2 Blue (medium speed)
+    - Titanium Alloy/Steel Racquet
+
+    1 available
 - title: Victor Badminton Grips GR200
   image: "/2022-01-04 15.41.51.jpg"
   price: 3
@@ -112,6 +119,17 @@ promotions:
   image: "/2022-01-04 15.43.37.jpg"
   price: 14.5
   description: "- Yellow skirt / Blue bands"
+- title: Yonex Mavis 300 Shuttles
+  image: "/yonex mavis 300.jpg"
+  price: 14
+  description: |-
+    - Yellow skirt, Blue band
+    - Tube of 6
+    - Limited quantities
+- title: Victor Stand Alone Badminton Net C-7041
+  image: "/75284_1_20201124061631.jpg"
+  price: 115
+  description: Assembles very quickly
 - title: Champion PA20SET Port-A-Net
   image: "/pa20set-front-n.jpg"
   price: 240
@@ -120,20 +138,6 @@ promotions:
     Adjustable net height between 33\"H and 63\"H\nThe 33-inch pickleball/tennis height
     can be adjusted to a full 63-inch height for badminton and other over the net
     sports. \n- Width: 20' (240\")"
-- title: Yonex Mavis 300 Shuttles
-  image: "/yonex mavis 300.jpg"
-  price: 14
-  description: |-
-    - Yellow skirt, Blue band
-    - Tube of 6
-    - Limited quantities
-- title: Carlton ISO4.3 Midi-Blade Badminton Racquet
-  image: "/Carlton ISO4.3 Midi-Blade Badminton Racquet.jpg"
-  price: 15
-  description: |-
-    - Titanium Alloy/Steel Racquet
-
-    1 available
 - title: Badminton Centre Posts LO-B733
   image: "/LO-Bad Center.jpg"
   price: 95
