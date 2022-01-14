@@ -15,7 +15,7 @@ photos:
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
 - title: ''
-  image: ''
+  image: "/2022-01-04 15.17.29.jpg"
   price: 
   description: ''
 - title: Wilson A360 RHC & LHC - 11", 12" and 13"
@@ -26,14 +26,14 @@ promotions:
   image: "/Easton Synergy Elite Baseball Glove.jpg"
   price: 49
   description: Full grain genuine leather. 12.5" Left hand catch only.
-- title: Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
+- title: CLEARANCE - Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
   image: "/Rawlings HFP125BP Baseball Glove.jpg"
-  price: 38
+  price: 40
   description: |-
     - All leather shell
     - Soft & supple, very flexible (broken in feel)
 
-    13 available (black/purple)
+    12 available (black/purple)
 - title: Louisville Fastpitch Catcher's Glove CM1 - Left hand catch
   image: "/2020-04-11 14.51.18.jpg"
   price: 60
