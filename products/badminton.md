@@ -13,7 +13,7 @@ promotions:
 - title: Victor Stand Alone Badminton Net C-7041
   image: "/75284_1_20201124061631.jpg"
   price: 115
-  description: ''
+  description: Assembles very quickly
 - title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
   image: "/2022-01-04 15.42.36.jpg"
   price: 6
