@@ -14,6 +14,15 @@ photos:
 - title: 2021 Softball Uniform Flyer
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
+- title: Champion Umpire Indicator SI4
+  image: "/2022-01-04 14.45.21.jpg"
+  price: 7.85
+  description: |-
+    - 4-Wheel umpire indicator for counting balls, strikes, outs, and innings
+    - Made of stainless steel for exceptional durability on the field
+    - Small size fits easily in a pocket
+    - Pack of 12 for multiple teams or staff members
+    - Silver with optic yellow digits
 - title: CLEARANCE - SKLZ Batting BT360-100-02
   image: "/2022-01-04 14.46.04.jpg"
   price: 36
