@@ -61,6 +61,15 @@ promotions:
     Improves fielding skills teaches a "soft receiving" technique and the transition from glove to throwing hand.
 
     ONE available at $14
+- title: SKLZ Bullet Ball
+  image: "/Bullet-Ball_672x672.jpg"
+  price: 19
+  description: |-
+    ONE available at $19.00, Regular $25.00
+    Salesman sample - couple grass stains
+    Works perfect
+
+    Get instant feedback at your pitch speed with the SKLZ Bullet Ball. The ideal pitching trainer for any age or skill level, the Bullet Ball measures velocities up to 120 mph. Perfect for use on the field or in the backyard, the ball can be thrown to another player or into a net. Adjusting to distance from 46’ to 60’ 6”, the ball is perfect for use both on the field or in the backyard. Throw it to another player or into a net, the Bullet Ball makes the perfect training aid all year round.
 - title: Easton Incrediballs - 9", 11", 12"
   image: "/2022-01-04 14.44.56.jpg"
   price: 8
@@ -80,23 +89,6 @@ promotions:
   description: |-
     stitched seams
     4 dozen available
-- title: Wiffle Ball CX040630-00 - 9" circ / 3" dia (baseball size)
-  image: "/plbb-enhanced-1_l.jpg"
-  price: 1.5
-  description: ''
-- title: SKLZ Bullet Ball
-  image: "/Bullet-Ball_672x672.jpg"
-  price: 19
-  description: |-
-    ONE available at $19.00, Regular $25.00
-    Salesman sample - couple grass stains
-    Works perfect
-
-    Get instant feedback at your pitch speed with the SKLZ Bullet Ball. The ideal pitching trainer for any age or skill level, the Bullet Ball measures velocities up to 120 mph. Perfect for use on the field or in the backyard, the ball can be thrown to another player or into a net. Adjusting to distance from 46’ to 60’ 6”, the ball is perfect for use both on the field or in the backyard. Throw it to another player or into a net, the Bullet Ball makes the perfect training aid all year round.
-- title: Champion M500A Pro Anchor Base Replacement Pin - Set of 3
-  image: "/m500a-enhanced-2-l.jpg"
-  price: 31.75
-  description: 1 set available
 - title: Dudley 4A135 Thunder Heat Leather COR40 Softball - 12"
   image: "/2020-04-11 14.41.37.jpg"
   price: 
@@ -117,6 +109,10 @@ promotions:
     - Optic yellow with red stitch
 
     3 available
+- title: Wiffle Ball CX040630-00 - 9" circ / 3" dia (baseball size)
+  image: "/plbb-enhanced-1_l.jpg"
+  price: 1.5
+  description: ''
 - title: Wiffle Ball CX040650-00 - 12" circ / 4" dia (softball size)
   image: "/plsb-lifestyle-1_l.jpg"
   price: 1.5
@@ -201,6 +197,10 @@ promotions:
     - Attach base straps onto clip
 
     12 available.
+- title: Champion M500A Pro Anchor Base Replacement Pin - Set of 3
+  image: "/m500a-enhanced-2-l.jpg"
+  price: 31.75
+  description: 1 set available
 date: '2019-03-29T22:54:55.000+00:00'
 
 ---
