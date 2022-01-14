@@ -14,7 +14,7 @@ photos:
 - title: 2021 Softball Uniform Flyer
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
-- title: Champion Umpire Indicator SI4
+- title: Champion Umpire Indicator SI4-1
   image: "/2022-01-04 14.45.21.jpg"
   price: 7.85
   description: |-
