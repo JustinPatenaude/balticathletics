@@ -10,6 +10,10 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: Victor Aeropower Racquet AP9000
+  image: "/2022-01-04 15.34.42.jpg"
+  price: 65
+  description: One available
 - title: Victor Stand Alone Badminton Net C-7041
   image: "/75284_1_20201124061631.jpg"
   price: 115
