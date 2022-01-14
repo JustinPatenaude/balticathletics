@@ -10,6 +10,13 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: Black Knight Badminton Overgrip - 2/pk
+  image: "/2022-01-04 15.40.27.jpg"
+  price: 6
+  description: "- A tacky polyurethane coating over a cotton base provides an instantly
+    secure grip.\n- Thin enough to hardly effect grip size, Ultra Grip is  thick enough
+    to add important cushioning and moisture absorption. \n- Ultra Grip is sold in
+    packages of two grips.\n- Thickness: 0.7 mm. Length:110 cm"
 - title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
   image: "/2022-01-04 15.42.36.jpg"
   price: 6
