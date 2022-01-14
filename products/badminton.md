@@ -10,6 +10,15 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: Yonex CAB6000N Racquet
+  image: "/2022-01-04 15.32.57.jpg"
+  price: 49
+  description: "The round-shape head with box-shape frame cross section gives Carbonex
+    a unique and solid feeling. For players who seek a solid feel from the strings
+    at impact. At impact, Elastic Ti resists deformation, stretching then recovering
+    its shape quickly to launch accurate shots with the full energy of the swing.\n\nFrame\tAluminum\nShaft\tSteel
+    / CARBON NANOTUBE\nWeight / Grip\tU (105g and below) G4\nStringing Advice\tU:
+    16 - 20 lbs\nColor(s)\tBlack / Yellow"
 - title: Victor Aeropower Racquet AP9000
   image: "/2022-01-04 15.34.42.jpg"
   price: 65
