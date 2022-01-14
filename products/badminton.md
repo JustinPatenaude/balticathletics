@@ -35,7 +35,7 @@ promotions:
   price: 24
   description: "Frame\tAluminum\nShaft\tSteel\nWeight / Grip\tU (105g and below) G4\nStringing
     Advice\tU: 16 - 20 lbs\n\n6 available"
-- title: Yonex CAB6000N Racquet
+- title: CLEARANCE - Yonex CAB6000N Racquet
   image: "/2022-01-04 15.32.57.jpg"
   price: 49
   description: "The round-shape head with box-shape frame cross section gives Carbonex
