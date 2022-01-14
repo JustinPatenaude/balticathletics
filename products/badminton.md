@@ -30,13 +30,13 @@ promotions:
 - title: Black Knight BK150 Sceptre Racquet
   image: "/2022-01-04 15.27.09.jpg"
   price: 24
-  description: "Designed for: Rugged school play. The SCEPTRE is used extensively
-    in institutional programs from the secondary school level up.\n \nFrame: AG10
-    Aluminum head with a heavy-duty “T” joint.  SG20 steel shaft.\nString: Lonfibre
-    SX21\nString Tension: 17 - 21 lbs.\nAFW: 110g\nOverall length: 66.5cm\nWarranty:
+  description: "ONE Available\n\nDesigned for: Rugged school play. The SCEPTRE is
+    used extensively in institutional programs from the secondary school level up.\n
+    \nFrame: AG10 Aluminum head with a heavy-duty “T” joint.  SG20 steel shaft.\nString:
+    Lonfibre SX21\nString Tension: 17 - 21 lbs.\nAFW: 110g\nOverall length: 66.5cm\nWarranty:
     6-months (includes 45-day “No Fault” Guarantee*)\n \nCharacteristics: Light and
     strong aluminum head; double length butt cap; solid wooden handle; durable nylon
-    grommets. Good weight/strength ratio.\n\nONE Available"
+    grommets. Good weight/strength ratio."
 - title: Black Knight Tornado Junior Racquet BA230JR
   image: "/2022-01-04 15.27.57.jpg"
   price: 18
