@@ -10,6 +10,10 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: ''
+  image: ''
+  price: 
+  description: ''
 - title: Junior Mini Racquet BA151JR
   image: "/2022-01-04 15.28.27.jpg"
   price: 18
@@ -19,7 +23,7 @@ promotions:
     115g\nOverall length: 53cm\nWarranty: 6-months (includes 45-day “No Fault” Guarantee*)\n\nThe
     short length and the light aluminum head make the racquet easy to handle for the
     young player. The overall length is 53 cm, versus the standard 66.5 cm.  This
-    racquet is sold with a headcover.\n\nONE available"
+    racquet is sold with a headcover."
 - title: Yonex Muscle Power Junior Racquet MP2JR
   image: "/2022-01-04 15.31.27.jpg"
   price: 25
