@@ -14,6 +14,13 @@ photos:
 - title: 2021 Softball Uniform Flyer
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
+- title: SKLZ Bullet Ball
+  image: "/Bullet-Ball_672x672.jpg"
+  price: 19
+  description: |-
+    ONE available at $19.00, Regular $25.00
+    Salesman sample - couple grass stains
+    Works perfect
 - title: Champion Umpire Indicator SI4-1
   image: "/2022-01-04 14.45.21.jpg"
   price: 7.85
