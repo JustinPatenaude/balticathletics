@@ -14,6 +14,14 @@ photos:
 - title: 2021 Softball Uniform Flyer
   photo: "/2021 Softball Uniform Flyer.pdf"
 promotions:
+- title: Easton Incrediballs - 9", 11", 12"
+  image: "/2022-01-04 14.44.56.jpg"
+  price: 8
+  description: |-
+    Nylon cover
+    9" Training Baseball - $8.00
+    11" Training Softball - $10.50
+    12" Training Softball - $10.50
 - title: SKLZ Bullet Ball
   image: "/Bullet-Ball_672x672.jpg"
   price: 19
