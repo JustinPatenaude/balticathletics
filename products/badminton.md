@@ -10,6 +10,10 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: 'CLEARANCE - Black Knight Super Nano Racquet BA417 '
+  image: "/2022-01-04 15.26.24.jpg"
+  price: 42
+  description: ONE available.
 - title: Black Knight Graphite BA190DG Racquet
   image: "/2022-01-04 15.26.48.jpg"
   price: 30.95
