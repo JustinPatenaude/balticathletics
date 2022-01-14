@@ -10,6 +10,12 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: Yonex Muscle Power Junior Racquet MP2JR
+  image: "/2022-01-04 15.31.27.jpg"
+  price: 25
+  description: "A shorter junior racquet for easy handling\n\nFrame\tAluminum\nShaft\tSteel\nLength\t21
+    in.\nWeight / Grip\t4U (Avg. 83g) G5\nStringing Advice\t4U: 14 - 18 lbs\n\nONE
+    available"
 - title: Yonex B4000 Racquet
   image: "/2022-01-04 15.32.19.jpg"
   price: 24
