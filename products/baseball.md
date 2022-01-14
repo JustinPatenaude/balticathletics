@@ -21,6 +21,8 @@ promotions:
     ONE available at $19.00, Regular $25.00
     Salesman sample - couple grass stains
     Works perfect
+
+    Get instant feedback at your pitch speed with the SKLZ Bullet Ball. The ideal pitching trainer for any age or skill level, the Bullet Ball measures velocities up to 120 mph. Perfect for use on the field or in the backyard, the ball can be thrown to another player or into a net. Adjusting to distance from 46’ to 60’ 6”, the ball is perfect for use both on the field or in the backyard. Throw it to another player or into a net, the Bullet Ball makes the perfect training aid all year round.
 - title: Champion Umpire Indicator SI4-1
   image: "/2022-01-04 14.45.21.jpg"
   price: 7.85
