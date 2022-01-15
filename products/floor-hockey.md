@@ -11,22 +11,10 @@ products:
 - Player Sticks
 photos: []
 promotions:
-- title: EXEL - Assorted Floorball Sticks Available
-  image: "/2022-01-04 14.32.52.jpg"
-  price: 
-  description: Shown in photo are Rookie & University styles
 - title: CLEARANCE - Salming Matrix Canada Floorball Stick - 103 cm RH
   image: "/2022-01-04 14.33.51.jpg"
   price: 40
-  description: |-
-    1 available for $40, Regular $45
-
-    Flex: 32
-    BladeText: Mblade
-    GripText: Campus base grip
-    Length: 82, 87 cm
-    SKU: 3106128
-    Licensed by Hockey Canada. Coated composite shaft. X3M profiled grip. Powered with Mblade. Left and right hand cavity.
+  description: ''
 - title: CLEARANCE - Salming Canada Matrix Floorball Stick - 87 cm RH
   image: "/2022-01-04 14.34.16.jpg"
   price: 40
@@ -48,7 +36,7 @@ promotions:
     power\nFor both indoor and outdoor use, Plus it is an ideal for playing ball hockey
     and  practicing hockey skill and trick      \n\n* A100 model weight 260g,  with
     shaft 100cm Flex 26mm is suggested for player’s height 5’8” and above"
-- title: Cosom Floor Hockey Stick CH-700833-BK - 42"
+- title: CLEARANCE - Cosom Floor Hockey Stick CH-700833-BK - 42"
   image: "/2020-06-02 12.57.52.jpg"
   price: 9.75
   description: |-
