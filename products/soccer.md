@@ -294,7 +294,7 @@ promotions:
   image: "/2020-04-16 16.08.01.jpg"
   price: 9.5
   description: 1 available
-- title: Admiral Pro Soccer Socks - colour GOLD only
+- title: CLEARANCE - Admiral Pro Soccer Socks - GOLD only
   image: "/admiral gold soccer sock.jpg"
   price: 8
   description: |-
