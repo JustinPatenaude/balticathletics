@@ -17,6 +17,15 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: Champion Soccer Linesman Flags LF3 (Set of 2)
+  image: "/lf3_n.jpg"
+  price: 12
+  description: |-
+    - Heavy-duty material for durability in outdoor environments
+    - Custom foam handles for added grip and comfort
+    - Advanced swivel design to prevent flags from becoming wound around
+    - Official diamond patterned flag designed with a bright red and yellow diamond pattern
+    - Custom carrying case for easy and convenient transportation
 - title: CLEARANCE - FRK-SOC-5660P1 Franklin Soccer Goal
   image: "/2022-01-06 17.09.02.jpg"
   price: 99
