@@ -11,6 +11,10 @@ products:
 - Player Sticks
 photos: []
 promotions:
+- title: CLEARANCE - Salming Matrix Canada Floorball Stick - 103 cm RH
+  image: "/2022-01-04 14.33.51.jpg"
+  price: 40
+  description: ''
 - title: CLEARANCE - Salming Canada Matrix Floorball Stick - 87 cm RH
   image: "/2022-01-04 14.34.16.jpg"
   price: 40
