@@ -17,6 +17,12 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Umbro Neo Trainer Soccer Ball - Size 5
+  image: "/2022-01-04 11.49.14.jpg"
+  price: 21
+  description: |-
+    Soft Touch,12 panels, Butyl Bladder, White/Marine/Black
+    Available in size 4 and 5
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
