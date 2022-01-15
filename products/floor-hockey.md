@@ -11,35 +11,6 @@ products:
 - Player Sticks
 photos: []
 promotions:
-- title: Linwood Plastic Goals FI-1420
-  image: "/FI-1420.png"
-  price: 49
-  description: |-
-    - 72" x 48" x 24"
-    - Strong nylon netting
-    - Durable 1 1/4" plastic full frame
-    - Back-Centre Support Bar
-- title: Linwood Plastic Goals FI-1400
-  image: "/FI-1400.png"
-  price: 43
-  description: |-
-    - 54" x 44" x 24"
-    - Strong nylon netting
-    - Durable 1 1/4" plastic full frame
-    - Back-Centre Support Bar
-- title: Road Warrior 24" Street Hockey Goalie Set ROA-HOC-RWBGS-24RG
-  image: "/6196EB8A_1_be4dc3e8-5046-4431-87eb-11bfc20ed9e3_590x.png"
-  price: 120
-  description: |-
-    - 2 available.
-    - The 24” Goalie Set from Road Warrior is designed specifically for youth aged 9-14.
-    - The set features 24” pre-curved goalie pads with durable, thick foam padding. - The set also includes a large, pro-style blocker, a deep-catch designed trapper, a chest protector with adjustable straps, and a junior mask with full coverage. This set offers supreme protection for street hockey play.
-
-    Pre-Curved Foam Goalie Pads
-    Pro-Style Blocker
-    Pro-Style Trapper
-    Adjustable Chest Protector
-    Junior Mask
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
@@ -107,6 +78,19 @@ promotions:
   image: "/2022-01-03 16.20.35.jpg"
   price: 25
   description: ONE pair available.
+- title: Road Warrior 24" Street Hockey Goalie Set ROA-HOC-RWBGS-24RG
+  image: "/6196EB8A_1_be4dc3e8-5046-4431-87eb-11bfc20ed9e3_590x.png"
+  price: 120
+  description: |-
+    - 2 available.
+    - The 24” Goalie Set from Road Warrior is designed specifically for youth aged 9-14.
+    - The set features 24” pre-curved goalie pads with durable, thick foam padding. - The set also includes a large, pro-style blocker, a deep-catch designed trapper, a chest protector with adjustable straps, and a junior mask with full coverage. This set offers supreme protection for street hockey play.
+
+    Pre-Curved Foam Goalie Pads
+    Pro-Style Blocker
+    Pro-Style Trapper
+    Adjustable Chest Protector
+    Junior Mask
 - title: Linwood FI-1224 Street Hawk Canada Set - 23" pads
   image: "/2022-01-03 16.20.27.jpg"
   price: 59
@@ -122,6 +106,22 @@ promotions:
     Goals are 33"x22"x12" and are easy to assemble
     Mini Hockey Net Set is great for kids
     Lightweight and portable so you can pack it up and play anywhere
+- title: Linwood Plastic Goals FI-1400
+  image: "/FI-1400.png"
+  price: 43
+  description: |-
+    - 54" x 44" x 24"
+    - Strong nylon netting
+    - Durable 1 1/4" plastic full frame
+    - Back-Centre Support Bar
+- title: Linwood Plastic Goals FI-1420
+  image: "/FI-1420.png"
+  price: 49
+  description: |-
+    - 72" x 48" x 24"
+    - Strong nylon netting
+    - Durable 1 1/4" plastic full frame
+    - Back-Centre Support Bar
 - title: Road Warrior ROA-HOC-RWSG54 Floor Hockey Goal - 54"
   image: "/ROA-HOC-RWSG54-2.jpg"
   price: 65
