@@ -17,13 +17,6 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: CLEARANCE - Puma Shock Soccer Ball - Size 5
-  image: "/2022-01-04 12.02.59.jpg"
-  price: 23
-  description: |-
-    6 available
-    Soft Touch
-    Yellow/Black
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -220,6 +213,13 @@ promotions:
   description: |-
     The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
     excellent shape bounce and flight characteristics.
+- title: CLEARANCE - Puma Shock Soccer Ball - Size 5
+  image: "/2022-01-04 12.02.59.jpg"
+  price: 23
+  description: |-
+    6 available
+    Soft Touch
+    Yellow/Black
 - price: 48
   description: |-
     - Set of 6 soccer balls
