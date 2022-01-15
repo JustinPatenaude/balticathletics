@@ -17,10 +17,16 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: ''
-  image: ''
-  price: 
-  description: ''
+- title: CLEARANCE - Uhlsport Copacabana Beach Soccer Ball - Size 5
+  image: "/2022-01-04 12.23.05.jpg"
+  price: 30
+  description: |-
+    - ONE available
+
+    - Soft Touch
+    - Lower compression
+    - Suitable to be played bare-footed
+    - Orange
 - title: CLEARANCE - Uhlsport Elysia Match Pro Soccer Ball - Size 5
   price: 80
   description: "- 2 available\n- Pro Playing characteristics, less H20 retention\nadditional
@@ -232,27 +238,6 @@ promotions:
 
     3 available - Size 4
     2 available - Size 5
-- title: Deluxe Bungee Net Fastener (Pkg of 30)
-  image: "/10B3501_1-scaled-600x400.jpg"
-  price: 62
-  description: |-
-    4 pkgs available
-
-    The Deluxe Bungee Net Fasteners are designed to secure nets to any soccer goal with 4” x 2” or 4” x 4” square posts, and/or a round post that is greater than 3”. The bungee net fasteners feature a thick, black, elastic cord with knobs. The durable, elastic cord is UV-resistant which helps increase the longevity of each fastener.
-- title: 360 SVS10 Soccer Net Attachments (Pkg of 10)
-  image: "/SVS10-Soccer-VelcroNetAttachmentSet-800x1000px-600x750.jpg"
-  price: 16
-  description: These double-sided Velcro strips make attaching soccer nets to goal
-    posts much easier. With 10 pieces in the set, these durable Soccer Net Attachments
-    are bright orange and measure 22” in length and 1” in height.
-- title: Kwik Goal 2B7 Infinity Pop Up Goals - 48" and 72" (Sold in eaches)
-  image: "/2B7106_1_IMG_0101-600x400.jpg"
-  price: 78
-  description: |-
-    48" - $78.00
-    72" - $95.00
-
-    With the simple action of crossing and uncrossing your arms, the Infinity Pop-up Soccer Goals can be ready for play or get packed away. Infinity goals are ideal for small-sided training or simple backyard play. These goals includes a Polyester travel bag, Nylon pegs (for anchoring on grass surfaces), Elastic anchor tethers and Velcro fasteners (to hold goal in folded position).
 - title: Nike NKFC Total FC Soccer Ball - Size 4 & 5
   image: "/2020-04-14 16.27.06.jpg"
   price: 27
@@ -319,6 +304,27 @@ promotions:
     Nylon carry bag included. Set of 2.
 
     Color of products may vary.
+- title: Deluxe Bungee Net Fastener (Pkg of 30)
+  image: "/10B3501_1-scaled-600x400.jpg"
+  price: 62
+  description: |-
+    4 pkgs available
+
+    The Deluxe Bungee Net Fasteners are designed to secure nets to any soccer goal with 4” x 2” or 4” x 4” square posts, and/or a round post that is greater than 3”. The bungee net fasteners feature a thick, black, elastic cord with knobs. The durable, elastic cord is UV-resistant which helps increase the longevity of each fastener.
+- title: Kwik Goal 2B7 Infinity Pop Up Goals - 48" and 72" (Sold in eaches)
+  image: "/2B7106_1_IMG_0101-600x400.jpg"
+  price: 78
+  description: |-
+    48" - $78.00
+    72" - $95.00
+
+    With the simple action of crossing and uncrossing your arms, the Infinity Pop-up Soccer Goals can be ready for play or get packed away. Infinity goals are ideal for small-sided training or simple backyard play. These goals includes a Polyester travel bag, Nylon pegs (for anchoring on grass surfaces), Elastic anchor tethers and Velcro fasteners (to hold goal in folded position).
+- title: 360 SVS10 Soccer Net Attachments (Pkg of 10)
+  image: "/SVS10-Soccer-VelcroNetAttachmentSet-800x1000px-600x750.jpg"
+  price: 16
+  description: These double-sided Velcro strips make attaching soccer nets to goal
+    posts much easier. With 10 pieces in the set, these durable Soccer Net Attachments
+    are bright orange and measure 22” in length and 1” in height.
 - title: Uhlsport Elysia Replica - Size 5
   image: "/Uhlsport Replica.jpg"
   price: 25
