@@ -405,10 +405,12 @@ promotions:
   image: "/hackysack2.jpg"
   price: 3
   description: 12 available in assorted colours
-- title: Tchoukball TRN2 SET (Red) - Sold as a set
+- title: CLEARANCE - Tchoukball TRN2 SET (Red) - Sold as a set
   image: "/TRN2-rebounder-360athl.jpg"
-  price: 375
+  price: 395
   description: |
+    8 sets available only.
+
     Includes:
     - 2 RED frames
     - 2 balls (sizes 0, 1, 2 or 3) - Extra balls can be purchased separately.
@@ -416,8 +418,6 @@ promotions:
 
     FITB approved! Drawn steel tube with rounded corners and a strong foldable
     support mechanism keeps the frame stable during play. 10 angle adjustments on bar. Net is held by 52 steel “S” hooks spread around the frame. Non-marking guards at the bottom. Frame size is 1 m x 1 m and features rust-proof steel net rings.
-
-    Limited quantities.
 
     FOB Winnipeg
 
