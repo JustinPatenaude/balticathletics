@@ -17,10 +17,15 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: CL
+- title: ''
+  image: ''
   price: 
   description: ''
-  image: ''
+- title: CLEARANCE - Uhlsport Elysia Match Pro Soccer Ball - Size 5
+  price: 80
+  description: "- 2 available\n- Pro Playing characteristics, less H20 retention\nadditional
+    foam lamination for optimized ball control, HAR Bladder \nFIFA QUALITY PRO certified"
+  image: "/2022-01-04 12.23.41.jpg"
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
