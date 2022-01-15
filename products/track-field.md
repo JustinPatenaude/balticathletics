@@ -127,10 +127,6 @@ promotions:
     - High impact plastic cross board
     - Powder coated 1" steel legs
     - White/Red
-- title: Training Hurdles SH9 - 9" Orange
-  image: "/training hurdles.jpg"
-  price: 9
-  description: 3 available
 - title: Various Indoor and Outdoor Shot Puts
   image: "/2022-01-05 16.56.29.jpg"
   price: 
