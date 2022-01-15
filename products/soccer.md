@@ -17,6 +17,10 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Uhlsport Starter Soft Goalkeeper Gloves 101106302 - Size 7
+  image: "/2022-01-04 13.48.28.jpg"
+  price: 25
+  description: ''
 - title: CLEARANCE - Uhlsport Eliminator Soft Rollfinger UHL-0179 - Sizes 8, 9, 10
   image: "/100017901_back-714x500.jpg"
   price: 50
