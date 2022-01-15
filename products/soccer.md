@@ -17,19 +17,6 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: CLEARANCE - Puma One Protect 3 RC Goalkeeper Gloves - Size 8, 9, 10
-  image: "/Puma-OneProtect1RCGoalkeeperGloves_04165702_-01_720x.jpg"
-  price: 45
-  description: "Available:\n- 3 of Size 8\n- 3 of Size 9\n- 3 of Size 10\n\n- Soccer
-    goalkeeper gloves\n- Thumb wrap for added dexterity\n- Hook-and-loop closure at
-    wrist for secure fit and easy on/off\n- Puma ONE and Puma Cat logos at back of
-    hand and strap\n- Product Material: 56% Latex, 43% Polyester, 1% Polyurethane\n-
-    Product Colour: Yellow / Black / White "
-- title: CLEARANCE - Uhlsport UHL-0192 Eliminator Starter Graphit Goalkeeper Gloves
-    - Size 8
-  image: "/2022-01-04 13.46.39.jpg"
-  price: 35
-  description: 2 of Size 8 available
 - title: CLEARANCE - Admiral Pro Soccer Socks - GOLD only
   image: "/admiral gold soccer sock.jpg"
   price: 8
@@ -65,6 +52,50 @@ promotions:
     - 4" square mesh
     - Easy to assemble
     - Includes stakes
+- title: CLEARANCE - Acacia Inferno Goalkeeper Gloves - Size 8
+  image: "/inferno_lime.jpg"
+  price: 13
+  description: 'INFERNO KEEPER GLOVES: Designed for beginner and junior level players.
+    Polyester/ cotton micro-air material and a latex foam palm provides excellent
+    grip and durability. Made with a Velcro wrist strap closure for a secure fit.'
+- title: CLEARANCE - Eletto Flip V Flat Goalkeeper Gloves EG-2020 - Size 8, 9, 10
+  image: "/2022-01-04 13.52.02.jpg"
+  price: 19
+  description: |-
+    Available:
+    - 2 - Size 8
+    - 2 of Size 9
+    - 2 of Size 10
+
+    - 3mm latex foam palm
+    - Backside molded foam
+    - V-Notch with half-strap around wrist.
+
+    BENEFITS: Good feel and grip; Comfortable and durable.
+- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
+  image: "/2020-04-16 16.16.51.jpg"
+  price: 39
+  description: 1 available
+- title: CLEARANCE - Puma One Protect 3 RC Goalkeeper Gloves - Size 8, 9, 10
+  image: "/Puma-OneProtect1RCGoalkeeperGloves_04165702_-01_720x.jpg"
+  price: 45
+  description: "Available:\n- 3 of Size 8\n- 3 of Size 9\n- 3 of Size 10\n\n- Soccer
+    goalkeeper gloves\n- Thumb wrap for added dexterity\n- Hook-and-loop closure at
+    wrist for secure fit and easy on/off\n- Puma ONE and Puma Cat logos at back of
+    hand and strap\n- Product Material: 56% Latex, 43% Polyester, 1% Polyurethane\n-
+    Product Colour: Yellow / Black / White "
+- title: CLEARANCE - Puma Future Grip 5.4 Goalkeeper Gloves - Size 6, 7
+  image: "/2022-01-04 13.52.42.jpg"
+  price: 39
+  description: |-
+    Available:
+    - 4 - Size 6
+    - 1 - Size 7
+- title: CLEARANCE - Uhlsport UHL-0192 Eliminator Starter Graphit Goalkeeper Gloves
+    - Size 8
+  image: "/2022-01-04 13.46.39.jpg"
+  price: 35
+  description: 2 of Size 8 available
 - title: CLEARANCE - Uhlsport Cerberus Starter Graphit 100036101 - Size 8, 9
   image: "/2022-01-04 13.47.29.jpg"
   price: 30
@@ -100,33 +131,6 @@ promotions:
     4 available in Size 10
 
     FANGHAND SOFT is the replica model of the FANGHAND ADVANCE and in terms of design and colours, it looks basically the same as the top model. Its cut: Classic. Its inside hand? Our SOFT foam was extended to cover the side of the hand to expand the palm. The very comfortable PU material, which is slightly abraded on the inside, ensures an optimal wearing sensation. The fastener? Classic full bandage with wraparound strap made of EVA. The backhand? Made of embossed latex.
-- title: CLEARANCE - Acacia Inferno Goalkeeper Gloves - Size 8
-  image: "/inferno_lime.jpg"
-  price: 13
-  description: 'INFERNO KEEPER GLOVES: Designed for beginner and junior level players.
-    Polyester/ cotton micro-air material and a latex foam palm provides excellent
-    grip and durability. Made with a Velcro wrist strap closure for a secure fit.'
-- title: CLEARANCE - Eletto Flip V Flat Goalkeeper Gloves EG-2020 - Size 8, 9, 10
-  image: "/2022-01-04 13.52.02.jpg"
-  price: 19
-  description: |-
-    Available:
-    - 2 - Size 8
-    - 2 of Size 9
-    - 2 of Size 10
-
-    - 3mm latex foam palm
-    - Backside molded foam
-    - V-Notch with half-strap around wrist.
-
-    BENEFITS: Good feel and grip; Comfortable and durable.
-- title: CLEARANCE - Puma Future Grip 5.4 Goalkeeper Gloves - Size 6, 7
-  image: "/2022-01-04 13.52.42.jpg"
-  price: 39
-  description: |-
-    Available:
-    - 4 - Size 6
-    - 1 - Size 7
 - title: 'CLEARANCE - Uhlsport 0150 Ergonomic Starter Graphit Soccer Goal Keeper Gloves
     - Size 7 '
   image: "/2020-04-16 16.01.43.jpg"
@@ -141,10 +145,6 @@ promotions:
     9
   image: "/2020-04-16 15.56.28.jpg"
   price: 45
-  description: 1 available
-- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
-  image: "/2020-04-16 16.16.51.jpg"
-  price: 39
   description: 1 available
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
