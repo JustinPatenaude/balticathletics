@@ -122,14 +122,6 @@ promotions:
     - Strong nylon netting
     - Durable 1 1/4" plastic full frame
     - Back-Centre Support Bar
-- title: Road Warrior ROA-HOC-RWSG54 Floor Hockey Goal - 54"
-  image: "/ROA-HOC-RWSG54-2.jpg"
-  price: 65
-  description: |-
-    - steel frame
-    - comes with net
-
-    2 available
 - title: Replacement Street/Floor Hockey Net - Black - 4' x 6'
   image: "/NET46_1-Z.jpg"
   price: 48
