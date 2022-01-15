@@ -17,6 +17,13 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Puma Future Grip 5.4 Goalkeeper Gloves - Size 6, 7
+  image: ''
+  price: 39
+  description: |-
+    Available:
+    - 4 - Size 6
+    - 1 - Size 7
 - title: CLEARANCE - FRK-SOC-5660P1 Franklin Soccer Goal
   image: "/2022-01-06 17.09.02.jpg"
   price: 99
