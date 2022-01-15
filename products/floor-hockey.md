@@ -11,6 +11,14 @@ products:
 - Player Sticks
 photos: []
 promotions:
+- title: Linwood Plastic Goals FI-1420
+  image: "/FI-1420.png"
+  price: 49
+  description: |-
+    72" x 48" x 24"
+    - Strong nylon netting
+    - Durable 1 1/4" plastic full frame
+    - Back-Centre Support Bar
 - title: Linwood Plastic Goals FI-1400
   image: "/FI-1400.png"
   price: 43
