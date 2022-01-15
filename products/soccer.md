@@ -17,7 +17,7 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: Spring Loaded Soccer Corner Flags w/bases USC4
+- title: Spring Loaded Soccer Corner Flags w/bases USC4 (Set of 4)
   image: "/usc4-a-main_n.jpg"
   price: 105
   description: |-
