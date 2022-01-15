@@ -18,8 +18,8 @@ photos:
   photo: "/soccer-ball-sizes.jpg"
 promotions:
 - title: CLEARANCE - Puma One Protect 3 RC Goalkeeper Gloves - Size 8, 9, 10
-  image: "/Puma-OneGrip1RCGoalkeeperGloves_04165102_-01_720x.jpg"
-  price: 
+  image: "/Puma-OneProtect1RCGoalkeeperGloves_04165702_-01_720x.jpg"
+  price: 45
   description: "Available:\n- 3 of Size 8\n- 3 of Size 9\n- 3 of Size 10\n\n- Soccer
     goalkeeper gloves\n- Thumb wrap for added dexterity\n- Hook-and-loop closure at
     wrist for secure fit and easy on/off\n- Puma ONE and Puma Cat logos at back of
