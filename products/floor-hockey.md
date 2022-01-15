@@ -11,6 +11,10 @@ products:
 - Player Sticks
 photos: []
 promotions:
+- title: EXEL - Assorted Floorball Sticks Available
+  image: "/2022-01-04 14.32.52.jpg"
+  price: 
+  description: Shown in photo are Rookie & University styles
 - title: CLEARANCE - Salming Matrix Canada Floorball Stick - 103 cm RH
   image: "/2022-01-04 14.33.51.jpg"
   price: 40
