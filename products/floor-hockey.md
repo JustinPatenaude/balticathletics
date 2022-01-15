@@ -4,12 +4,23 @@ permalink: "/products/floor-hockey/"
 title: Floor Hockey
 products:
 - Balls
+- Floorball
 - Goals
 - Goalie Protection
 - Goalie Sticks
 - Player Sticks
 photos: []
 promotions:
+- title: Salming Canada Matrix Floorball Stick - 87 cm RH
+  image: "/2022-01-04 14.34.16.jpg"
+  price: 45
+  description: |-
+    Flex: 32
+    BladeText: Mblade
+    GripText: Campus base grip
+    Length: 82, 87 cm
+    SKU: 3106128
+    Licensed by Hockey Canada. Coated composite shaft. X3M profiled grip. Powered with Mblade. Left and right hand cavity.
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
