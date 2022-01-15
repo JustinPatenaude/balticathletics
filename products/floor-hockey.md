@@ -15,7 +15,7 @@ promotions:
   image: "/FI-1420.png"
   price: 49
   description: |-
-    72" x 48" x 24"
+    - 72" x 48" x 24"
     - Strong nylon netting
     - Durable 1 1/4" plastic full frame
     - Back-Centre Support Bar
