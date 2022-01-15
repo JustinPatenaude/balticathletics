@@ -11,7 +11,7 @@ products:
 - Player Sticks
 photos: []
 promotions:
-- title: Vaughn Top Shelf Mini Hockey Net Set BAU-HOC-VMNS4
+- title: Vaughn Top Shelf Mini Hockey Net Set VAU-HOC-VMNS4
   image: "/2022-01-03 16.18.14.jpg"
   price: 69
   description: |-
