@@ -11,6 +11,10 @@ products:
 - Player Sticks
 photos: []
 promotions:
+- title: Linwood Canada Floor Hockey Pads - 23"
+  image: "/2022-01-03 16.20.35.jpg"
+  price: 25
+  description: ONE pair available.
 - title: CLEARANCE - Salming Matrix Canada Floorball Stick - 103 cm RH
   image: "/2022-01-04 14.33.51.jpg"
   price: 40
