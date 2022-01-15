@@ -17,14 +17,6 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: Spring Loaded Soccer Corner Flags w/bases USC4 (Set of 4)
-  image: "/usc4-a-main_n.jpg"
-  price: 105
-  description: |-
-    - Versatile design for indoor or outdoor use
-    - Yellow hollow base to be filled with sand for added stability
-    - Spring-loaded base bends upon impact
-    - Red
 - title: CLEARANCE - FRK-SOC-5660P1 Franklin Soccer Goal
   image: "/2022-01-06 17.09.02.jpg"
   price: 99
@@ -326,6 +318,14 @@ promotions:
     - DryForm Technology for wicking away sweat.
 
     9 pairs available
+- title: Spring Loaded Soccer Corner Flags w/bases USC4 (Set of 4)
+  image: "/usc4-a-main_n.jpg"
+  price: 105
+  description: |-
+    - Versatile design for indoor or outdoor use
+    - Yellow hollow base to be filled with sand for added stability
+    - Spring-loaded base bends upon impact
+    - Red
 - title: Franklin FRK-SOC-30125X Premier Steel Soccer Goal 12' x 6'
   image: "/5680.PNG"
   price: 380
