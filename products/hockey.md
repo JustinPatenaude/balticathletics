@@ -20,6 +20,14 @@ photos: []
 suppliers: []
 date: '2019-03-29T23:00:55.000+00:00'
 promotions:
+- title: Sherwood Intermediate Hockey Goal - 54" (sold in eaches)
+  image: "/2022-01-04 14.15.21.jpg"
+  price: 59
+  description: |-
+    - Sherwood Steel Hockey Net with a pro style top shelf
+    - Features 1-1/4" steel and 5,000D netting
+    - Sleeve netting system for easy assembly
+    - Assembled Dimensions: 54" x 44" x 24" (137 x 111.7 x 61 cm)
 - title: 'CLEARANCE - Lowry Carrier with 6 - 1L bottles 264-PK '
   image: "/2022-01-04 15.13.28.jpg"
   price: 32
