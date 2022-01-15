@@ -17,10 +17,11 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: Eletto Pop Up Goal Set - 2 sizes available (Sold as a pair)
+- title: Eletto Pop Up Goal Set - 3 sizes available (Sold as a pair)
   image: "/b8561d_695bdb543d6a401da2c6fee2e5c696eb_mv2.webp"
   price: 92
   description: |-
+    AC0066 Small 30" wide x 18" tall - $75.00 (Special Order)
     AC0064 Medium 48" wide x 30" tall - $92.00
     AC0065 Large 72" wide x 42" tall - $116.00
 
