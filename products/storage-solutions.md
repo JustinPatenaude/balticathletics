@@ -10,13 +10,15 @@ photos: []
 promotions:
 - title: Champion BK25BK Deluxe Basketball Carry Bag
   image: "/bk25bk_n.jpg"
-  price: 26
+  price: 37
   description: |-
     - Durable 600 Denier nylon stands up to heavy loads
     - Heavy-duty construction for longer life
     - Removable and adjustable shoulder strap allows for comfortable carrying
     - Holds up to 6 basketballs
     - 29"x 20"x 11"
+
+    - Available for FREE with a purchase of 8 or more Wilson Evolution basketballs
 
     8 available
 - title: Mesh Ball Bag / Laundry Bag L40
