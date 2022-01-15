@@ -16,14 +16,6 @@ photos:
 - title: Basketball Sizing Chart
   photo: "/Basketball Sizing Chart.PNG"
 promotions:
-- title: Wilson Evolution Basketball - Size 5, 6, 7
-  image: "/evolution.png"
-  price: 78
-  description: |-
-    - Size 5 - Special Order
-    - Size 6 & 7 - In Stock
-
-    - Receive a FREE Champion Ball Bag (BK25BK) when you purchase 8+ Wilson Evolution balls.
 - title: CLEARANCE - Spalding All Conference Basketball 76-8988C - Size 7
   image: "/2022-01-04 14.03.42.jpg"
   price: 27
@@ -38,6 +30,14 @@ promotions:
   description: |-
     - 9 available only
     - Indoor/Outdoor
+- title: Wilson Evolution Basketball - Size 5, 6, 7
+  image: "/evolution.png"
+  price: 78
+  description: |-
+    - Size 5 - Special Order
+    - Size 6 & 7 - In Stock
+
+    - Receive a FREE Champion Ball Bag (BK25BK) when you purchase 8+ Wilson Evolution balls.
 - title: Spalding Precision Basketball - Available in Size 6 & 7
   image: "/spalding precision.png"
   price: 49.5
