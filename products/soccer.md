@@ -17,7 +17,7 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: 360 Super Nova S36403 Soccer Ball - Size 3
+- title: CLEARANCE - 360 Super Nova S36403 Soccer Ball - Size 3
   image: "/2022-01-04 11.41.27.jpg"
   price: 15.95
   description: |-
