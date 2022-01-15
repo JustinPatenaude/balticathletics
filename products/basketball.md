@@ -16,13 +16,6 @@ photos:
 - title: Basketball Sizing Chart
   photo: "/Basketball Sizing Chart.PNG"
 promotions:
-- title: SKLZ D-Man Basketball Trainer DMBK-000-02
-  image: "/d-man_672x672.jpg"
-  price: 76.75
-  description: D-Man, the portable hands-up defensive mannequin, is the perfect practice
-    partner. Learn to shoot or pass over or around the hands-up defending position.
-    Use multiple D-Men to practice dribbling, driving and positioning with a defender.
-    Ideal for solo practice or team settings.
 - title: CLEARANCE - Spalding All Conference Basketball 76-8988C - Size 7
   image: "/2022-01-04 14.03.42.jpg"
   price: 27
@@ -69,6 +62,13 @@ promotions:
   image: "/Tachikara BB.jpg"
   price: 10
   description: "- 8 available"
+- title: SKLZ D-Man Basketball Trainer DMBK-000-02
+  image: "/d-man_672x672.jpg"
+  price: 76.75
+  description: D-Man, the portable hands-up defensive mannequin, is the perfect practice
+    partner. Learn to shoot or pass over or around the hands-up defending position.
+    Use multiple D-Men to practice dribbling, driving and positioning with a defender.
+    Ideal for solo practice or team settings.
 date: '2019-03-29T22:55:10.000+00:00'
 
 ---
