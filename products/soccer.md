@@ -17,6 +17,13 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: Uhlsport Elysia Ballon Replica
+  image: "/2022-01-04 12.07.19.jpg"
+  price: 35
+  description: |-
+    32 available
+    Fluorescent Yellow / Orange / Navy Blue
+    Soft Touch cushioned panels, Butyl Bladder, Superior bounce and control,
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -195,6 +202,10 @@ promotions:
   description: |-
     Soft touch, training ball
     38 available
+- title: Puma Arsenal Soccer Ball - Size 5
+  image: "/ARSENAL Puma SB size 5.jpg"
+  price: 25
+  description: Only 1 available
 - title: Puma Trainer Soccer Ball - Size 4
   image: "/2020-04-11 14.30.31.jpg"
   price: 25
@@ -209,6 +220,16 @@ promotions:
   description: |-
     The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
     excellent shape bounce and flight characteristics.
+- title: Uhlsport Elysia Replica Soccer Ball - Size 5
+  image: "/Uhlsport Replica.jpg"
+  price: 25
+  description: |-
+    - Match and training ball with new synergy technology
+    - Ligue 1 design with a 32 panel construction
+    - Thanks to the synergy technology best playing characteristics and durability
+    provides outstanding roundness and extremely low water uptake
+    - Durable structured PU material with additional foam-layer
+    - HAR bladder with excellent air retention
 - title: Uhlsport 1503 M-Konzept TEAM Soccer Ball - Size 4, 5
   image: "/100150312_fv-714x500.jpg"
   price: 25
@@ -230,6 +251,20 @@ promotions:
     - Lower compression
     - Suitable to be played bare-footed
     - Orange
+- price: 48
+  description: |-
+    - Set of 6 soccer balls
+    - SPEEDSKIN polyurethane covered high density foam.
+    - Size: #4
+    - Assorted colors
+
+    1 set available
+  title: Speedskin Soft Soccer Ball Set of 6 - Size 4
+  image: "/SSSOCCERKIT_1-Z.jpg"
+- title: Sporteck BOCA Soccer Ball - Size 4
+  image: "/BOCA-2.jpg"
+  price: 28
+  description: 1 available
 - title: CLEARANCE - Uhlsport Top Soccer Ball 100151201 - Size 5
   image: "/2022-01-04 12.25.23.jpg"
   price: 40
@@ -269,6 +304,15 @@ promotions:
   image: "/2022-01-04 12.27.05.jpg"
   price: 27
   description: 4 available
+- title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
+  image: "/2020-04-14 16.23.55.jpg"
+  price: 29
+  description: |-
+    - Made with new abrasion resistant, environmentally friendly, kid grain PVC upper material
+    - Low rebound characteristic
+    - Butyl bladder for good air retention
+
+    3 available
 - title: Umbro Neo-Swerve Soccer Ball - Sizes 4, 5
   image: "/2022-01-04 13.39.36.jpg"
   price: 25
@@ -279,40 +323,16 @@ promotions:
     Construction: Machine Stitched Bladder: Latex
     Panels: 16
     Weight: 410-450
-- title: Uhlsport Elysia Replica Soccer Ball - Size 5
-  image: "/Uhlsport Replica.jpg"
+- title: Diadora Nurnberg Ball Bag
+  image: "/2022-01-04 14.00.09.jpg"
   price: 25
-  description: |-
-    - Match and training ball with new synergy technology
-    - Ligue 1 design with a 32 panel construction
-    - Thanks to the synergy technology best playing characteristics and durability
-    provides outstanding roundness and extremely low water uptake
-    - Durable structured PU material with additional foam-layer
-    - HAR bladder with excellent air retention
+  description: Holds 10-12 Balls
 - title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
   image: "/koaq7uwwxfpikdddykcn_800x800.jpg"
   price: 180
   description: |-
     12 ft wide x 6 ft tall
     Get your practice going in under 2 minutes. The Quickster is easy to setup and ultra-portable, yet durable and stable for youth and elite players alike. The unique Tension-Tite poles create a sturdy frame, while the easy velcro net attachments and steel ground stakes ensure the net will stay put. Carry bag is included for easy, compact storage.
-- title: Puma Arsenal Soccer Ball - Size 5
-  image: "/ARSENAL Puma SB size 5.jpg"
-  price: 25
-  description: Only 1 available
-- price: 48
-  description: |-
-    - Set of 6 soccer balls
-    - SPEEDSKIN polyurethane covered high density foam.
-    - Size: #4
-    - Assorted colors
-
-    1 set available
-  title: Speedskin Soft Soccer Ball Set of 6 - Size 4
-  image: "/SSSOCCERKIT_1-Z.jpg"
-- title: Sporteck BOCA Soccer Ball - Size 4
-  image: "/BOCA-2.jpg"
-  price: 28
-  description: 1 available
 - title: Eletto Pop Up Goal Set - 3 sizes available (Sold as a pair)
   image: "/b8561d_695bdb543d6a401da2c6fee2e5c696eb_mv2.webp"
   price: 92
@@ -325,13 +345,6 @@ promotions:
     Nylon carry bag included. Set of 2.
 
     Color of products may vary.
-- title: Deluxe Bungee Net Fastener (Pkg of 30)
-  image: "/10B3501_1-scaled-600x400.jpg"
-  price: 62
-  description: |-
-    4 pkgs available
-
-    The Deluxe Bungee Net Fasteners are designed to secure nets to any soccer goal with 4” x 2” or 4” x 4” square posts, and/or a round post that is greater than 3”. The bungee net fasteners feature a thick, black, elastic cord with knobs. The durable, elastic cord is UV-resistant which helps increase the longevity of each fastener.
 - title: Kwik Goal 2B7 Infinity Pop Up Goals - 48" and 72" (Sold in eaches)
   image: "/2B7106_1_IMG_0101-600x400.jpg"
   price: 78
@@ -340,6 +353,13 @@ promotions:
     72" - $95.00
 
     With the simple action of crossing and uncrossing your arms, the Infinity Pop-up Soccer Goals can be ready for play or get packed away. Infinity goals are ideal for small-sided training or simple backyard play. These goals includes a Polyester travel bag, Nylon pegs (for anchoring on grass surfaces), Elastic anchor tethers and Velcro fasteners (to hold goal in folded position).
+- title: Deluxe Bungee Net Fastener (Pkg of 30)
+  image: "/10B3501_1-scaled-600x400.jpg"
+  price: 62
+  description: |-
+    4 pkgs available
+
+    The Deluxe Bungee Net Fasteners are designed to secure nets to any soccer goal with 4” x 2” or 4” x 4” square posts, and/or a round post that is greater than 3”. The bungee net fasteners feature a thick, black, elastic cord with knobs. The durable, elastic cord is UV-resistant which helps increase the longevity of each fastener.
 - title: 360 SVS10 Soccer Net Attachments (Pkg of 10)
   image: "/SVS10-Soccer-VelcroNetAttachmentSet-800x1000px-600x750.jpg"
   price: 16
@@ -350,19 +370,6 @@ promotions:
   image: "/b8561d_7d098c39842c4f16bded2c59ffac0f94_mv2.webp"
   price: 155
   description: 12 poles plus carry bag (photo not accurate)
-- title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
-  image: "/2020-04-14 16.23.55.jpg"
-  price: 29
-  description: |-
-    - Made with new abrasion resistant, environmentally friendly, kid grain PVC upper material
-    - Low rebound characteristic
-    - Butyl bladder for good air retention
-
-    3 available
-- title: Diadora Nurnberg Ball Bag
-  image: "/2022-01-04 14.00.09.jpg"
-  price: 25
-  description: Holds 10-12 Balls
 - title: CLEARANCE - Uhlsport UHL-0192 Eliminator Starter Graphit Goalkeeper Gloves
     - Size 8
   image: "/2022-01-04 13.46.39.jpg"
