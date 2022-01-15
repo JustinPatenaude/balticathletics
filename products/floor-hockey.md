@@ -27,6 +27,14 @@ promotions:
     Length: 82, 87 cm
     SKU: 3106128
     Licensed by Hockey Canada. Coated composite shaft. X3M profiled grip. Powered with Mblade. Left and right hand cavity.
+- title: CLEARANCE - Cosom Floor Hockey Stick CH-700833-BK - 42"
+  image: "/2020-06-02 12.57.52.jpg"
+  price: 9.75
+  description: |-
+    - 42" black shaft (also available in 36")
+    - recommended for grades 4-7
+    - blade inserted into shaft
+    - green or orange blades
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
@@ -36,14 +44,6 @@ promotions:
     power\nFor both indoor and outdoor use, Plus it is an ideal for playing ball hockey
     and  practicing hockey skill and trick      \n\n* A100 model weight 260g,  with
     shaft 100cm Flex 26mm is suggested for player’s height 5’8” and above"
-- title: CLEARANCE - Cosom Floor Hockey Stick CH-700833-BK - 42"
-  image: "/2020-06-02 12.57.52.jpg"
-  price: 9.75
-  description: |-
-    - 42" black shaft (also available in 36")
-    - recommended for grades 4-7
-    - blade inserted into shaft
-    - green or orange blades
 - title: Cosom Floor Hockey Goalie Stick CH-700845-00
   image: "/2020-04-14 12.23.00.jpg"
   price: 10
