@@ -17,6 +17,13 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Uhlsport Cerberus Starter Graphit 100036101 - Size 8, 9
+  image: "/2022-01-04 13.47.29.jpg"
+  price: 30
+  description: |-
+    Available:
+    - 2 of Size 8
+    - 2 of Size 9
 - title: CLEARANCE - Uhlsport Starter Soft Goalkeeper Gloves 101106302 - Size 7
   image: "/2022-01-04 13.48.28.jpg"
   price: 35
