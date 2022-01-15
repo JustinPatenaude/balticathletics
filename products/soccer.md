@@ -17,6 +17,13 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Uhlsport Fang Hand Soft UHL-0965 - Size 10
+  image: "/100096501_fv-1000x700.jpg"
+  price: 30
+  description: |-
+    4 available in Size 10
+
+    FANGHAND SOFT is the replica model of the FANGHAND ADVANCE and in terms of design and colours, it looks basically the same as the top model. Its cut: Classic. Its inside hand? Our SOFT foam was extended to cover the side of the hand to expand the palm. The very comfortable PU material, which is slightly abraded on the inside, ensures an optimal wearing sensation. The fastener? Classic full bandage with wraparound strap made of EVA. The backhand? Made of embossed latex.
 - title: CLEARANCE - Acacia Inferno Goalkeeper Gloves - Size 8
   image: "/inferno_lime.jpg"
   price: 13
