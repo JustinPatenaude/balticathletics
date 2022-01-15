@@ -19,7 +19,7 @@ photos:
 promotions:
 - title: CLEARANCE - Uhlsport Tri Concept League Soccer Ball - Size 5
   image: "/2022-01-04 12.26.52.jpg"
-  price: 75
+  price: 60
   description: |-
     White/Blue
     FIFA Approved, single chamber bladder, Soft PU backing, 4-Ply lamination abrasion resistant, superior flight and bounce characteristics, good air retention
