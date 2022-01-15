@@ -16,6 +16,10 @@ photos:
 - title: Basketball Sizing Chart
   photo: "/Basketball Sizing Chart.PNG"
 promotions:
+- title: CLEARANCE - Spalding TF-750 Composite Basketball 74-7938C
+  image: "/2022-01-04 14.21.27.jpg"
+  price: 45
+  description: "- ONE available only\n"
 - title: CLEARANCE - Spalding Super Flite NBA Basketball - Size 7 Mens 29.5
   image: "/2022-01-04 14.21.39.jpg"
   price: 19.95
