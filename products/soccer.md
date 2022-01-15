@@ -21,8 +21,9 @@ promotions:
   image: "/2022-01-04 11.41.03.jpg"
   price: 14.95
   description: |-
-    2.7mm with 2 ply cloth backing, Butyl bladder
-    Orange
+    - 2.7mm with 2 ply cloth backing
+    - Butyl bladder
+    - Orange
 - title: 360 Attack Soccer Ball - Sizes 3, 4, 5
   image: "/ATTACK4-Soccer-AttackSoccerBall-Size4-800x1000px-600x750.jpg"
   price: 12.95
