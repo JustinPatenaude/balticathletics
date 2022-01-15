@@ -72,6 +72,31 @@ promotions:
     - Outdoor use
     - High Density Foam
     - Includes bat, 4 - 18 inch in-ground outdoor spike stumps, 2 balls, 2 bales
+- title: CLEARANCE - Tchoukball TRN2 SET (Red) - Sold as a set
+  image: "/TRN2-rebounder-360athl.jpg"
+  price: 395
+  description: |
+    8 sets available only.
+
+    Includes:
+    - 2 RED frames
+    - 2 balls (sizes 0, 1, 2 or 3) - Extra balls can be purchased separately.
+    - Game instructions (in English or French)
+
+    FITB approved! Drawn steel tube with rounded corners and a strong foldable
+    support mechanism keeps the frame stable during play. 10 angle adjustments on bar. Net is held by 52 steel “S” hooks spread around the frame. Non-marking guards at the bottom. Frame size is 1 m x 1 m and features rust-proof steel net rings.
+
+    FOB Winnipeg
+
+    Tchoukball Ball circumferences:
+    - #0 - 18 1/4" / 46 cm
+    - #1 - 20 3/4" / 53 cm
+    - #2 - 21 3/4" / 55 cm
+    - #3 - 22 3/4" / 58 cm
+- title: Tchoukballs/Handballs, Assorted
+  image: "/2022-01-06 16.59.24.jpg"
+  price: 0
+  description: Many brands and sizes available.
 - title: 360 Cricket Set G209
   image: "/2022-01-05 16.18.05.jpg"
   price: 54.25
@@ -405,31 +430,6 @@ promotions:
   image: "/hackysack2.jpg"
   price: 3
   description: 12 available in assorted colours
-- title: CLEARANCE - Tchoukball TRN2 SET (Red) - Sold as a set
-  image: "/TRN2-rebounder-360athl.jpg"
-  price: 395
-  description: |
-    8 sets available only.
-
-    Includes:
-    - 2 RED frames
-    - 2 balls (sizes 0, 1, 2 or 3) - Extra balls can be purchased separately.
-    - Game instructions (in English or French)
-
-    FITB approved! Drawn steel tube with rounded corners and a strong foldable
-    support mechanism keeps the frame stable during play. 10 angle adjustments on bar. Net is held by 52 steel “S” hooks spread around the frame. Non-marking guards at the bottom. Frame size is 1 m x 1 m and features rust-proof steel net rings.
-
-    FOB Winnipeg
-
-    Tchoukball Ball circumferences:
-    - #0 - 18 1/4" / 46 cm
-    - #1 - 20 3/4" / 53 cm
-    - #2 - 21 3/4" / 55 cm
-    - #3 - 22 3/4" / 58 cm
-- title: Tchoukballs/Handballs, Assorted
-  image: "/2022-01-06 16.59.24.jpg"
-  price: 0
-  description: Many brands and sizes available.
 - title: Target Net Set TNM18SET
   image: "/tnm18set_n.jpg"
   price: 195
