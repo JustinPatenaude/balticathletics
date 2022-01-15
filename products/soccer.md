@@ -20,7 +20,7 @@ promotions:
 - title: Uhlsport Pro Ligue Elysia Training Ball - Size 5
   image: "/2022-01-04 12.28.24.jpg"
   price: 48
-  description: ''
+  description: Pro training ball
 - title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
   image: "/koaq7uwwxfpikdddykcn_800x800.jpg"
   price: 180
