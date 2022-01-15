@@ -17,6 +17,17 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: Eletto Pop Up Goal Set - 2 sizes available (Sold as a pair)
+  image: "/b8561d_695bdb543d6a401da2c6fee2e5c696eb_mv2.webp"
+  price: 92
+  description: |-
+    AC0064 Medium 48" wide x 30" tall - $92.00
+    AC0065 Large 72" wide x 42" tall - $116.00
+
+    Net pops up in seconds and can be easily flattened for transport. Great Net for training drills, accuracy as well as for beaches, backyards or fields. Polyester net, 15mm mesh. Floor corner in metal for durability covered in nylon for protection. Elastic hooks to lock to ground with pegs included). Velcro® fastener to hold goal in fold position.
+    Nylon carry bag included. Set of 2.
+
+    Color of products may vary.
 - title: Kwik Goal 2B7 Infinity Pop Up Goals - 48" and 72" (Sold in eaches)
   image: "/2B7106_1_IMG_0101-600x400.jpg"
   price: 78
