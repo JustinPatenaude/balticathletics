@@ -17,15 +17,6 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: Uhlsport Elysia Ballon Replica Soccer Ball - Size 5
-  image: "/2022-01-04 12.07.19.jpg"
-  price: 35
-  description: |-
-    - 32 available
-    - Fluorescent Yellow / Orange / Navy Blue
-    - Soft Touch cushioned panels
-    - Butyl Bladder
-    - Superior bounce and control
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -222,37 +213,6 @@ promotions:
   description: |-
     The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
     excellent shape bounce and flight characteristics.
-- title: Uhlsport Elysia Replica Soccer Ball - Size 5
-  image: "/Uhlsport Replica.jpg"
-  price: 25
-  description: |-
-    - Match and training ball with new synergy technology
-    - Ligue 1 design with a 32 panel construction
-    - Thanks to the synergy technology best playing characteristics and durability
-    provides outstanding roundness and extremely low water uptake
-    - Durable structured PU material with additional foam-layer
-    - HAR bladder with excellent air retention
-- title: Uhlsport 1503 M-Konzept TEAM Soccer Ball - Size 4, 5
-  image: "/100150312_fv-714x500.jpg"
-  price: 25
-  description: |-
-    - Available in Orange, Yellow, Green and Blue
-    - Excellent, machine stitched training and individual skill ball
-    - New 22 panel shape
-    - Long lasting and Soft TPU material with Additional foam lamination
-    - High rebound Butyl bladder for best air retention and playing characteristics
-    Material:
-    - TPU 20%, Rubber 40 %, EVA 30% , PES 10 %
-- title: CLEARANCE - Uhlsport Copacabana Beach Soccer Ball - Size 5
-  image: "/2022-01-04 12.23.05.jpg"
-  price: 30
-  description: |-
-    - ONE available
-
-    - Soft Touch
-    - Lower compression
-    - Suitable to be played bare-footed
-    - Orange
 - price: 48
   description: |-
     - Set of 6 soccer balls
@@ -267,6 +227,55 @@ promotions:
   image: "/BOCA-2.jpg"
   price: 28
   description: 1 available
+- title: Uhlsport 1503 M-Konzept TEAM Soccer Ball - Size 4, 5
+  image: "/100150312_fv-714x500.jpg"
+  price: 25
+  description: |-
+    - Available in Orange, Yellow, Green and Blue
+    - Excellent, machine stitched training and individual skill ball
+    - New 22 panel shape
+    - Long lasting and Soft TPU material with Additional foam lamination
+    - High rebound Butyl bladder for best air retention and playing characteristics
+    Material:
+    - TPU 20%, Rubber 40 %, EVA 30% , PES 10 %
+- title: Uhlsport Elysia Replica Soccer Ball - Size 5
+  image: "/Uhlsport Replica.jpg"
+  price: 25
+  description: |-
+    - Match and training ball with new synergy technology
+    - Ligue 1 design with a 32 panel construction
+    - Thanks to the synergy technology best playing characteristics and durability
+    provides outstanding roundness and extremely low water uptake
+    - Durable structured PU material with additional foam-layer
+    - HAR bladder with excellent air retention
+- title: Uhlsport Elysia Ballon Replica Soccer Ball - Size 5
+  image: "/2022-01-04 12.07.19.jpg"
+  price: 35
+  description: |-
+    - 32 available
+    - Fluorescent Yellow / Orange / Navy Blue
+    - Soft Touch cushioned panels
+    - Butyl Bladder
+    - Superior bounce and control
+- title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
+  image: "/2020-04-14 16.23.55.jpg"
+  price: 29
+  description: |-
+    - Made with new abrasion resistant, environmentally friendly, kid grain PVC upper material
+    - Low rebound characteristic
+    - Butyl bladder for good air retention
+
+    3 available
+- title: CLEARANCE - Uhlsport Copacabana Beach Soccer Ball - Size 5
+  image: "/2022-01-04 12.23.05.jpg"
+  price: 30
+  description: |-
+    - ONE available
+
+    - Soft Touch
+    - Lower compression
+    - Suitable to be played bare-footed
+    - Orange
 - title: CLEARANCE - Uhlsport Top Soccer Ball 100151201 - Size 5
   image: "/2022-01-04 12.25.23.jpg"
   price: 40
@@ -306,15 +315,6 @@ promotions:
   image: "/2022-01-04 12.27.05.jpg"
   price: 27
   description: 4 available
-- title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
-  image: "/2020-04-14 16.23.55.jpg"
-  price: 29
-  description: |-
-    - Made with new abrasion resistant, environmentally friendly, kid grain PVC upper material
-    - Low rebound characteristic
-    - Butyl bladder for good air retention
-
-    3 available
 - title: Umbro Neo-Swerve Soccer Ball - Sizes 4, 5
   image: "/2022-01-04 13.39.36.jpg"
   price: 25
