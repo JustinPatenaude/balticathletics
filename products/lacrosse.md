@@ -13,14 +13,14 @@ date: '2019-03-29T23:01:07.000+00:00'
 promotions:
 - title: Champion Lacrosse Goal LNGL44
   image: "/lngl44_n.jpg"
-  price: 105
+  price: 110
   description: |-
-    Small-sized lacrosse goal designed for younger players or practice sessions
-    Heavy duty 1.5"D steel tubing for added durability and stability
-    Velcro® straps attach net to frame in seconds
-    Includes high quality 2.3 mm braided polyethylene lacrosse net that can withstand regular use
-    Orange frame and black net provides better visibility for players and spectators
-    Official size
+    - Small-sized lacrosse goal designed for younger players or practice sessions
+    - Heavy duty 1.5"D steel tubing for added durability and stability
+    - Velcro® straps attach net to frame in seconds
+    - Includes high quality 2.3 mm braided polyethylene lacrosse net that can withstand regular use
+    - Orange frame and black net provides better visibility for players and spectators
+    - Official size
 - title: CLEARANCE - GAIT6000 Lacrosse Stick - Adult
   image: "/2022-01-04 14.30.51.jpg"
   price: 45
