@@ -27,7 +27,7 @@ promotions:
     - Size 4
 
     1 available
-- title: Eletto CINCO Futsal Ball
+- title: Eletto CINCO Futsal Ball - Size 4
   image: "/2020-03-30 12.15.56.jpg"
   price: 23
   description: 1 available
