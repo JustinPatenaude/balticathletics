@@ -17,12 +17,6 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: CLEARANCE - Adidas Nativo XXV Soccer Ball - Size 5
-  image: "/2022-01-04 11.40.47.jpg"
-  price: 23
-  description: |-
-    Green/Teal/Black
-    Soft touch
 - title: 360 Attack Soccer Ball - Sizes 3, 4, 5
   image: "/ATTACK4-Soccer-AttackSoccerBall-Size4-800x1000px-600x750.jpg"
   price: 12.95
@@ -99,6 +93,12 @@ promotions:
   description: |-
     Soft touch ball for game or training.
     10 available
+- title: CLEARANCE - Adidas Nativo XXV Soccer Ball - Size 5
+  image: "/2022-01-04 11.40.47.jpg"
+  price: 23
+  description: |-
+    Green/Teal/Black
+    Soft touch
 - title: CLEARANCE - Campea C1190 Tempest Soccer Ball - Size 3
   image: "/2022-01-04 11.42.57.jpg"
   price: 15
