@@ -8,6 +8,31 @@ products:
 - Ball carts
 photos: []
 promotions:
+- title: Mesh Ball Bag / Laundry Bag L40
+  image: "/L40_-_Laundry_Bags.jpg"
+  price: 7.5
+  description: |-
+    - Large maroon nylon mesh bag
+    - With drawstring closure and barrel lock
+    - 42” x 34”
+    - Holds 10-12 size 7 basketballs
+    - Can be used for laundry or for storage
+    - Balls not included
+
+    12 available
+- title: Ball Carrying Net L16
+  image: "/L16_-_Net_Carry_Bag-WEB.jpg"
+  price: 6.75
+  description: |-
+    - Large weave, soft braided nylon bag
+    - Drawstring closure
+    - 48” in size with 4” square mesh
+    - Holds 12 size 5 soccer balls or 10 basketballs
+    - Balls not included
+
+    This is a great economical storage and transporting solution for balls.
+
+    9 available
 - title: Champion BK25BK Deluxe Basketball Carry Bag
   image: "/bk25bk_n.jpg"
   price: 37
@@ -21,18 +46,6 @@ promotions:
     - Available for FREE with a purchase of 8 or more Wilson Evolution basketballs
 
     8 available
-- title: Mesh Ball Bag / Laundry Bag L40
-  image: "/L40_-_Laundry_Bags.jpg"
-  price: 7.5
-  description: |-
-    - Large maroon nylon mesh bag
-    - With drawstring closure and barrel lock
-    - 42” x 34”
-    - Holds 10-12 size 7 basketballs
-    - Can be used for laundry or for storage
-    - Balls not included
-
-    12 available
 - title: Volleyball Carrying Bag (L6V)
   image: "/l6v.jpg"
   price: 15
@@ -50,19 +63,6 @@ promotions:
     - completely collapsible for easy storage.
     - Black in stock
     - Scarlet, Navy or Royal is special order.
-- title: Ball Carrying Net L16
-  image: "/L16_-_Net_Carry_Bag-WEB.jpg"
-  price: 6.75
-  description: |-
-    - Large weave, soft braided nylon bag
-    - Drawstring closure
-    - 48” in size with 4” square mesh
-    - Holds 12 size 5 soccer balls or 10 basketballs
-    - Balls not included
-
-    This is a great economical storage and transporting solution for balls.
-
-    9 available
 - title: Tachikara BIKSP Ball Cart
   image: "/biksp.jpg"
   price: 180
