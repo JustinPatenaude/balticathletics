@@ -17,6 +17,10 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: Adidas Tango Glider Soccer Ball - Size 5
+  image: "/2022-01-04 12.25.47.jpg"
+  price: 35
+  description: ''
 - title: CLEARANCE - Uhlsport Tri Concept League Soccer Ball - Size 5
   image: "/2022-01-04 12.26.52.jpg"
   price: 60
