@@ -17,7 +17,8 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: Uhlsport 100158801 Rebell Tri-Concept 2.0 Soccer Ball - Size 5
+- title: CLEARANCE - Uhlsport 100158801 Rebell Tri-Concept 2.0 Soccer Ball - Size
+    5
   image: "/2022-01-04 12.27.54.jpg"
   price: 45
   description: |-
