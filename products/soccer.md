@@ -339,7 +339,7 @@ promotions:
   image: "/2022-01-04 14.00.09.jpg"
   price: 25
   description: Holds 10-12 Balls
-- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
+- title: CLEARANCE - Eletto EG1440 Legend Soccer Goal Gloves - Size 8
   image: "/2020-04-16 16.16.51.jpg"
   price: 39
   description: 1 available
