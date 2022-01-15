@@ -8,6 +8,8 @@ products:
 - Soft Lacrosse Sticks
 - Game Sticks
 photos:
+- title: ''
+  photo: ''
 - title: STX Stallion 50 Lacrosse Stick
   photo: "/STX-STK-ST05-2_590x.jpg"
 suppliers: []
@@ -15,7 +17,7 @@ date: '2019-03-29T23:01:07.000+00:00'
 promotions:
 - title: STX Stallion 200 A/M Complete Stick STX-STK-ST20-18-A-W
   image: "/STX-STK-ST20-A-2_590x.jpg"
-  price: 55
+  price: 56
   description: |-
     - Inspired by the elite Stallion U 550 head
     - Complete stick only - includes NEW STX 6000 series alloy handle featuring tonal "Memory Marker" graphics
