@@ -17,6 +17,10 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: Diadora Nurnberg Ball Bag
+  image: "/2022-01-04 14.00.09.jpg"
+  price: 25
+  description: Holds 10-12 Balls
 - title: CLEARANCE - FRK-SOC-5660P1 Franklin Soccer Goal
   image: "/2022-01-06 17.09.02.jpg"
   price: 99
