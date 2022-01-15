@@ -20,6 +20,10 @@ photos: []
 suppliers: []
 date: '2019-03-29T23:00:55.000+00:00'
 promotions:
+- title: Winnwell Hockey Net 48" x 72" (Sold as eaches)
+  image: "/2022-01-04 14.16.16.jpg"
+  price: 90
+  description: ''
 - title: CLEARANCE - Replacement Hockey Net 48"H x 72"L (Sold as a pair)
   image: "/NET46_1-Z.jpg"
   price: 79
