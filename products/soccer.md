@@ -17,18 +17,6 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: Acacia Galaxy Training Ball 24-205 - Size 5
-  image: "/2022-01-04 11.47.33.jpg"
-  price: 19
-  description: 'GALAXY BEACH: 32 Panel machine sewn ball with a durable, super-soft
-    microfiber foam outer shell. An excellent game level team ball for the beach/grass
-    soccer with a 4-ply poly/cotton backing. Excellent in all weather conditions.'
-- title: CLEARANCE - Umbro Neo Trainer Soccer Ball - Size 5
-  image: "/2022-01-04 11.49.14.jpg"
-  price: 21
-  description: |-
-    Soft Touch,12 panels, Butyl Bladder, White/Marine/Black
-    Available in size 4 and 5
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -56,6 +44,12 @@ promotions:
     - 7 Blue
     - 6 Orange
     - 6 Green
+- title: Acacia Galaxy Training Ball 24-205 - Size 5
+  image: "/2022-01-04 11.47.33.jpg"
+  price: 19
+  description: 'GALAXY BEACH: 32 Panel machine sewn ball with a durable, super-soft
+    microfiber foam outer shell. An excellent game level team ball for the beach/grass
+    soccer with a 4-ply poly/cotton backing. Excellent in all weather conditions.'
 - title: Adidas Krasava Soccer Ball - Size 5
   image: "/KRASAVA Adidas SB size 5.jpg"
   price: 45
@@ -351,6 +345,12 @@ promotions:
     Construction: Machine Stitched Bladder: Latex
     Panels: 16
     Weight: 410-450
+- title: CLEARANCE - Umbro Neo Trainer Soccer Ball - Size 5
+  image: "/2022-01-04 11.49.14.jpg"
+  price: 21
+  description: |-
+    Soft Touch,12 panels, Butyl Bladder, White/Marine/Black
+    Available in size 4 and 5
 - title: Diadora Nurnberg Ball Bag
   image: "/2022-01-04 14.00.09.jpg"
   price: 25
