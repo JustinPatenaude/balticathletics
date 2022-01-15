@@ -11,10 +11,12 @@ products:
 - Player Sticks
 photos: []
 promotions:
-- title: Salming Canada Matrix Floorball Stick - 87 cm RH
+- title: CLEARANCE - Salming Canada Matrix Floorball Stick - 87 cm RH
   image: "/2022-01-04 14.34.16.jpg"
-  price: 45
+  price: 40
   description: |-
+    1 available for $40, Regular $45
+
     Flex: 32
     BladeText: Mblade
     GripText: Campus base grip
