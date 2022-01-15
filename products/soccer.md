@@ -17,6 +17,10 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Uhlsport Top Soccer Ball 100151201 - Size 5
+  image: "/2022-01-04 12.25.23.jpg"
+  price: 40
+  description: Purple/White/Black
 - title: Adidas Tango Glider Soccer Ball - Size 5
   image: "/2022-01-04 12.25.47.jpg"
   price: 35
