@@ -97,8 +97,9 @@ promotions:
   image: "/2022-01-04 11.40.47.jpg"
   price: 23
   description: |-
-    Green/Teal/Black
-    Soft touch
+    - 9 available
+    - Green/Teal/Black
+    - Soft touch
 - title: CLEARANCE - Campea C1190 Tempest Soccer Ball - Size 3
   image: "/2022-01-04 11.42.57.jpg"
   price: 15
