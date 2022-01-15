@@ -11,6 +11,19 @@ products:
 - Player Sticks
 photos: []
 promotions:
+- title: Road Warrior 24" Street Hockey Goalie Set ROA-HOC-RWBGS-24RG
+  image: "/6196EB8A_1_be4dc3e8-5046-4431-87eb-11bfc20ed9e3_590x.png"
+  price: 120
+  description: |-
+    - 2 available.
+    - The 24” Goalie Set from Road Warrior is designed specifically for youth aged 9-14.
+    - The set features 24” pre-curved goalie pads with durable, thick foam padding. - The set also includes a large, pro-style blocker, a deep-catch designed trapper, a chest protector with adjustable straps, and a junior mask with full coverage. This set offers supreme protection for street hockey play.
+
+    Pre-Curved Foam Goalie Pads
+    Pro-Style Blocker
+    Pro-Style Trapper
+    Adjustable Chest Protector
+    Junior Mask
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
