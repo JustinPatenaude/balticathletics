@@ -17,6 +17,10 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Training Hurdles SH9 - 9" Orange
+  image: "/2022-01-04 13.10.45.jpg"
+  price: 9
+  description: 3 available
 - title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
   image: "/koaq7uwwxfpikdddykcn_800x800.jpg"
   price: 180
