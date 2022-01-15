@@ -17,6 +17,12 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Wilson Impatto Soccer Ball - Size 5
+  image: "/2022-01-04 11.43.55.jpg"
+  price: 17
+  description: |-
+    2 available.
+    30 panels, machine stitched, Synthetic cover with new graphics, Panels lined with soft TPE foam for enhanced touch and control
 - title: 360 Attack Soccer Ball - Sizes 3, 4, 5
   image: "/ATTACK4-Soccer-AttackSoccerBall-Size4-800x1000px-600x750.jpg"
   price: 12.95
