@@ -17,10 +17,15 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: 'CLEARANCE - Uhlsport '
+- title: CLEARANCE - Uhlsport Eliminator Soft Rollfinger - Sizes 8, 9, 10
   image: "/100017901_back-714x500.jpg"
   price: 
   description: |-
+    Available:
+    - 1 of Size 8
+    - 1 of Size 9
+    - 1 of Size 10
+
     PALM: patented SOFT latex foam in energy blue
     BACKHAND: embossed, soft EVA
     CUT: classic cut provides a maximised catching area
