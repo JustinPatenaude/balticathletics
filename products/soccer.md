@@ -17,6 +17,12 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: 360 SVS10 Soccer Net Attachments (Pkg of 10)
+  image: "/SVS10-Soccer-VelcroNetAttachmentSet-800x1000px-600x750.jpg"
+  price: 16
+  description: These double-sided Velcro strips make attaching soccer nets to goal
+    posts much easier. With 10 pieces in the set, these durable Soccer Net Attachments
+    are bright orange and measure 22” in length and 1” in height.
 - title: Deluxe Bungee Net Fastener (Pkg of 30)
   image: "/10B3501_1-scaled-600x400.jpg"
   price: 62
