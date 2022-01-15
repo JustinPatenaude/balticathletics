@@ -17,6 +17,13 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: 360 Attack Soccer Ball - Sizes 3, 4, 5
+  image: "/ATTACK4-Soccer-AttackSoccerBall-Size4-800x1000px-600x750.jpg"
+  price: 12.95
+  description: Featuring a butyl bladder with maximum air retention, the Attack Soccer
+    Balls are great training balls for intermediate players. These soccer balls are
+    available in three sizes that will fit the requirements of your league, age group,
+    or skill level.
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
