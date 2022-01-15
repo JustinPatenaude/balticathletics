@@ -11,6 +11,14 @@ products:
 - Player Sticks
 photos: []
 promotions:
+- title: Linwood Plastic Goals FI-1400
+  image: "/FI-1400.png"
+  price: 43
+  description: |-
+    - 54" x 44" x 24"
+    - Strong nylon netting
+    - Durable 1 1/4" plastic full frame
+    - Back-Centre Support Bar
 - title: Road Warrior 24" Street Hockey Goalie Set ROA-HOC-RWBGS-24RG
   image: "/6196EB8A_1_be4dc3e8-5046-4431-87eb-11bfc20ed9e3_590x.png"
   price: 120
