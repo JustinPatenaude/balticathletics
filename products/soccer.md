@@ -17,6 +17,12 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Uhlsport Tri Concept League Soccer Ball - Size 5
+  image: "/2022-01-04 12.26.52.jpg"
+  price: 75
+  description: |-
+    White/Blue
+    FIFA Approved, single chamber bladder, Soft PU backing, 4-Ply lamination abrasion resistant, superior flight and bounce characteristics, good air retention
 - title: CLEARANCE - Uhlsport Ligue 1 Conforama Soccer Ball - Size 5
   image: "/2022-01-04 12.27.05.jpg"
   price: 27
