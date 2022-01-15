@@ -17,6 +17,12 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: Acacia Galaxy Training Ball 24-205
+  image: "/2022-01-04 11.47.33.jpg"
+  price: 19
+  description: 'GALAXY BEACH: 32 Panel machine sewn ball with a durable, super-soft
+    microfiber foam outer shell. An excellent game level team ball for the beach soccer
+    with a 4-ply poly/cotton backing. Excellent in all weather conditions.'
 - title: CLEARANCE - Umbro Neo Trainer Soccer Ball - Size 5
   image: "/2022-01-04 11.49.14.jpg"
   price: 21
