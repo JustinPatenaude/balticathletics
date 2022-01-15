@@ -17,6 +17,17 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: Uhlsport 1503 M-Konzept TEAM Soccer Ball - Size 4, 5
+  image: "/100150312_fv-714x500.jpg"
+  price: 25
+  description: |-
+    - Available in Orange, Yellow, Green and Blue
+    - Excellent, machine stitched training and individual skill ball
+    - New 22 panel shape
+    - Long lasting and Soft TPU material with Additional foam lamination
+    - High rebound Butyl bladder for best air retention and playing characteristics
+    Material:
+    - TPU 20%, Rubber 40 %, EVA 30% , PES 10 %
 - title: CLEARANCE - Uhlsport Copacabana Beach Soccer Ball - Size 5
   image: "/2022-01-04 12.23.05.jpg"
   price: 30
