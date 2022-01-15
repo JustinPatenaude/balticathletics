@@ -18,7 +18,7 @@ photos:
   photo: "/soccer-ball-sizes.jpg"
 promotions:
 - title: CLEARANCE - Puma Future Grip 5.4 Goalkeeper Gloves - Size 6, 7
-  image: ''
+  image: "/2022-01-04 13.52.42.jpg"
   price: 39
   description: |-
     Available:
