@@ -17,10 +17,6 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: ''
-  image: ''
-  price: 
-  description: ''
 - title: CLEARANCE - Uhlsport Eliminator Soft Rollfinger UHL-0179 - Sizes 8, 9, 10
   image: "/100017901_back-714x500.jpg"
   price: 50
@@ -336,8 +332,8 @@ promotions:
   image: "/2020-04-16 16.16.51.jpg"
   price: 39
   description: 1 available
-- title: 'Uhlsport 0150 Ergonomic Starter Graphit Soccer Goal Keeper Gloves - Size
-    7 '
+- title: 'CLEARANCE - Uhlsport 0150 Ergonomic Starter Graphit Soccer Goal Keeper Gloves
+    - Size 7 '
   image: "/2020-04-16 16.01.43.jpg"
   price: 25
   description: 1 available
