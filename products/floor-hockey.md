@@ -11,6 +11,17 @@ products:
 - Player Sticks
 photos: []
 promotions:
+- title: Vaughn Top Shelf Mini Hockey Net Set BAU-HOC-VMNS4
+  image: "/2022-01-03 16.18.14.jpg"
+  price: 69
+  description: |-
+    Vaughn's Mini Hockey Two Goal Combo offers an easy-to-assemble, quick-to-play mini hockey experience. This mini hockey combo comes with everything you need to start a mini hockey tournament. The set comes complete with 2 pro-curved sticks that react like their full-sized counterparts, 1 high density foam ball, and 2 33 inch goals. Vaughn's Mini Hockey Two Goal Combo is everything you need to have fun and play mini hockey indoors.
+
+    This set includes 2 mini nets, 2 curved pro-style player sticks, and 1 mini foam balls, and a carry bag, Everything you need for a mini hockey game or tournament
+    Great for indoor or outdoor Hockey use
+    Goals are 33"x22"x12" and are easy to assemble
+    Mini Hockey Net Set is great for kids
+    Lightweight and portable so you can pack it up and play anywhere
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
