@@ -78,6 +78,10 @@ promotions:
   image: "/2022-01-03 16.20.35.jpg"
   price: 25
   description: ONE pair available.
+- title: Linwood FI-1224 Street Hawk Canada Set - 23" pads
+  image: "/2022-01-03 16.20.27.jpg"
+  price: 59
+  description: Includes Blocker, Trapper, Goal Pads
 - title: Road Warrior 24" Street Hockey Goalie Set ROA-HOC-RWBGS-24RG
   image: "/6196EB8A_1_be4dc3e8-5046-4431-87eb-11bfc20ed9e3_590x.png"
   price: 120
@@ -91,10 +95,6 @@ promotions:
     Pro-Style Trapper
     Adjustable Chest Protector
     Junior Mask
-- title: Linwood FI-1224 Street Hawk Canada Set - 23" pads
-  image: "/2022-01-03 16.20.27.jpg"
-  price: 59
-  description: Includes Blocker, Trapper, Goal Pads
 - title: Vaughn Top Shelf Mini Hockey Net Set VAU-HOC-VMNS4
   image: "/2022-01-03 16.18.14.jpg"
   price: 69
