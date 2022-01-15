@@ -10,6 +10,12 @@ products:
 - Futsal Balls
 photos: []
 promotions:
+- title: CLEARANCE - Puma 08297403 Futsal 1 Trainer Ball - Size 4
+  image: "/2022-01-04 12.02.38.jpg"
+  price: 25
+  description: |-
+    - Yellow/Silver
+    - Low bounce
 - title: CLEARANCE - Adidas Team Sala Futsal Ball CZ2231 - Size 4
   image: "/2022-01-04 12.23.53.jpg"
   price: 32
