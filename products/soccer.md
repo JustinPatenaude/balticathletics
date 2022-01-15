@@ -348,7 +348,7 @@ promotions:
   image: "/2020-04-16 16.01.43.jpg"
   price: 25
   description: 1 available
-- title: CLEARANCE - Uhlsport Cerberus Start Soccer Goal Keeper Gloves 100022201  -
+- title: CLEARANCE - Uhlsport 100022201 Cerberus Start Soccer Goal Keeper Gloves -
     Size 9
   image: "/2020-04-16 15.59.31.jpg"
   price: 30
