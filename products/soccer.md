@@ -253,16 +253,6 @@ promotions:
   description: |-
     White/Blue
     FIFA Approved, single chamber bladder, Soft PU backing, 4-Ply lamination abrasion resistant, superior flight and bounce characteristics, good air retention
-- title: Umbro Neo-Swerve Soccer Ball - Sizes 4, 5
-  image: "/2022-01-04 13.39.36.jpg"
-  price: 25
-  description: |-
-    Outer casing material: Embossed TPU
-    Material Thickness: 0.15mm
-    Internal Layers: 2
-    Construction: Machine Stitched Bladder: Latex
-    Panels: 16
-    Weight: 410-450
 - title: CLEARANCE - Uhlsport 100158801 Rebell Tri-Concept 2.0 Soccer Ball - Size
     5
   image: "/2022-01-04 12.27.54.jpg"
@@ -279,6 +269,26 @@ promotions:
   image: "/2022-01-04 12.27.05.jpg"
   price: 27
   description: 4 available
+- title: Umbro Neo-Swerve Soccer Ball - Sizes 4, 5
+  image: "/2022-01-04 13.39.36.jpg"
+  price: 25
+  description: |-
+    Outer casing material: Embossed TPU
+    Material Thickness: 0.15mm
+    Internal Layers: 2
+    Construction: Machine Stitched Bladder: Latex
+    Panels: 16
+    Weight: 410-450
+- title: Uhlsport Elysia Replica Soccer Ball - Size 5
+  image: "/Uhlsport Replica.jpg"
+  price: 25
+  description: |-
+    - Match and training ball with new synergy technology
+    - Ligue 1 design with a 32 panel construction
+    - Thanks to the synergy technology best playing characteristics and durability
+    provides outstanding roundness and extremely low water uptake
+    - Durable structured PU material with additional foam-layer
+    - HAR bladder with excellent air retention
 - title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
   image: "/koaq7uwwxfpikdddykcn_800x800.jpg"
   price: 180
@@ -336,16 +346,6 @@ promotions:
   description: These double-sided Velcro strips make attaching soccer nets to goal
     posts much easier. With 10 pieces in the set, these durable Soccer Net Attachments
     are bright orange and measure 22” in length and 1” in height.
-- title: Uhlsport Elysia Replica - Size 5
-  image: "/Uhlsport Replica.jpg"
-  price: 25
-  description: |-
-    - Match and training ball with new synergy technology
-    - Ligue 1 design with a 32 panel construction
-    - Thanks to the synergy technology best playing characteristics and durability
-    provides outstanding roundness and extremely low water uptake
-    - Durable structured PU material with additional foam-layer
-    - HAR bladder with excellent air retention
 - title: Eletto Training Poles AC-0113 (Set of 12)
   image: "/b8561d_7d098c39842c4f16bded2c59ffac0f94_mv2.webp"
   price: 155
