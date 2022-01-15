@@ -17,6 +17,18 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: 'CLEARANCE - Uhlsport '
+  image: "/100017901_back-714x500.jpg"
+  price: 
+  description: |-
+    PALM: patented SOFT latex foam in energy blue
+    BACKHAND: embossed, soft EVA
+    CUT: classic cut provides a maximised catching area
+    GLOVE BODY: elastic textile for good wearing comfort
+    FASTENING: Wrap-around EVA strap and half bandage
+    DESIGN: ELIMINATOR design with design highlights
+    Material:
+    45% latex, 14% EVA, 34% polyester, 7% nylon
 - title: CLEARANCE - Uhlsport Fang Hand Soft UHL-0965 - Size 10
   image: "/100096501_fv-1000x700.jpg"
   price: 30
