@@ -124,10 +124,6 @@ promotions:
   description: |-
     Also available in sizes 3 & 4
     1 available
-- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
-  image: "/2020-04-16 16.16.51.jpg"
-  price: 39
-  description: 1 available
 - title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
   image: "/Eletto LNA-350 soccer ball.jpg"
   price: 22
@@ -425,6 +421,10 @@ promotions:
   image: "/b8561d_7d098c39842c4f16bded2c59ffac0f94_mv2.webp"
   price: 155
   description: 12 poles plus carry bag (photo not accurate)
+- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
+  image: "/2020-04-16 16.16.51.jpg"
+  price: 39
+  description: 1 available
 - title: CLEARANCE - Uhlsport UHL-0192 Eliminator Starter Graphit Goalkeeper Gloves
     - Size 8
   image: "/2022-01-04 13.46.39.jpg"
