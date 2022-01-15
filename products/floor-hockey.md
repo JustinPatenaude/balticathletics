@@ -11,14 +11,6 @@ products:
 - Player Sticks
 photos: []
 promotions:
-- title: Linwood FI-1224 Street Hawk Canada Set - 23" pads
-  image: "/2022-01-03 16.20.27.jpg"
-  price: 59
-  description: Includes Blocker, Trapper, Goal Pads
-- title: Linwood FI-1223 Street Hawk Canada Floor Hockey Pads - 23"
-  image: "/2022-01-03 16.20.35.jpg"
-  price: 25
-  description: ONE pair available.
 - title: CLEARANCE - Salming Matrix Canada Floorball Stick - 103 cm RH
   image: "/2022-01-04 14.33.51.jpg"
   price: 40
@@ -82,6 +74,14 @@ promotions:
     - Medium hardness - 0-15 degrees Celsius
 
     1 pair available
+- title: Linwood FI-1223 Street Hawk Canada Floor Hockey Pads - 23"
+  image: "/2022-01-03 16.20.35.jpg"
+  price: 25
+  description: ONE pair available.
+- title: Linwood FI-1224 Street Hawk Canada Set - 23" pads
+  image: "/2022-01-03 16.20.27.jpg"
+  price: 59
+  description: Includes Blocker, Trapper, Goal Pads
 - title: Road Warrior ROA-HOC-RWSG54 Floor Hockey Goal - 54"
   image: "/ROA-HOC-RWSG54-2.jpg"
   price: 65
