@@ -467,7 +467,7 @@ promotions:
   image: "/2020-04-16 15.56.28.jpg"
   price: 45
   description: 1 available
-- title: CLEARANCE - Uhlsport Fang Hand Soft UHL-0965 - Size 10
+- title: CLEARANCE - Uhlsport Fang Hand Soft Goalkeeper Gloves UHL-0965 - Size 10
   image: "/100096501_fv-1000x700.jpg"
   price: 30
   description: |-
