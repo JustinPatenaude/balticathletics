@@ -20,10 +20,11 @@ photos: []
 suppliers: []
 date: '2019-03-29T23:00:55.000+00:00'
 promotions:
-- title: iPLAY Hockey Net - 72" x 48" HG724832
+- title: iPLAY Hockey Net - 72" x 48" x 32" HG724832
   image: "/2022-01-04 14.12.17.jpg"
   price: 75
   description: |
+    - 5 available
     - 1 1/4" steel frame construction
     - Polyester rope netting (White)
     - easy to transport
