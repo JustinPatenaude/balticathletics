@@ -24,6 +24,22 @@ promotions:
     Balls are great training balls for intermediate players. These soccer balls are
     available in three sizes that will fit the requirements of your league, age group,
     or skill level.
+- title: 360 PGS4B Playground Series Soccer Ball - Size 4
+  image: "/PGS4B-web.jpg"
+  price: 7.75
+  description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
+    for classroom use.\n\n5 available"
+- title: 360 PS5RB Diamond Tek Soccer Ball - Size 5
+  image: "/PS5RBG_Green_Diamond_Dek_Soccer_Ball_13980_0231.jpg"
+  price: 19
+  description: |-
+    - textured outer shell, making the ball tough, durable and waterproof
+    - Great for outdoor use in all conditions and surfaces.
+
+    Available:
+    - 7 Blue
+    - 6 Orange
+    - 6 Green
 - title: CLEARANCE - 360 Screamer Soccer Ball - Size 3
   image: "/2022-01-04 11.41.03.jpg"
   price: 14.95
@@ -42,22 +58,6 @@ promotions:
     - 2 ply cloth backing
 
     1 available
-- title: 360 PGS4B Playground Series Soccer Ball - Size 4
-  image: "/PGS4B-web.jpg"
-  price: 7.75
-  description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
-    for classroom use.\n\n5 available"
-- title: 360 PS5RB Diamond Tek Soccer Ball - Size 5
-  image: "/PS5RBG_Green_Diamond_Dek_Soccer_Ball_13980_0231.jpg"
-  price: 19
-  description: |-
-    - textured outer shell, making the ball tough, durable and waterproof
-    - Great for outdoor use in all conditions and surfaces.
-
-    Available:
-    - 7 Blue
-    - 6 Orange
-    - 6 Green
 - title: CLEARANCE - 360 Super Nova S36403 Soccer Ball - Size 3
   image: "/2022-01-04 11.41.27.jpg"
   price: 15.95
