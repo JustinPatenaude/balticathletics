@@ -107,40 +107,6 @@ promotions:
   image: "/Eletto LIGA comp soccer ball.jpg"
   price: 29
   description: ''
-- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
-  image: "/2020-04-16 16.16.51.jpg"
-  price: 39
-  description: 1 available
-- title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
-  image: "/koaq7uwwxfpikdddykcn_800x800.jpg"
-  price: 180
-  description: |-
-    12 ft wide x 6 ft tall
-    Get your practice going in under 2 minutes. The Quickster is easy to setup and ultra-portable, yet durable and stable for youth and elite players alike. The unique Tension-Tite poles create a sturdy frame, while the easy velcro net attachments and steel ground stakes ensure the net will stay put. Carry bag is included for easy, compact storage.
-- title: Eletto Training Poles AC-0113 (Set of 12)
-  image: "/b8561d_7d098c39842c4f16bded2c59ffac0f94_mv2.webp"
-  price: 155
-  description: 12 poles plus carry bag (photo not accurate)
-- title: CLEARANCE - Uhlsport 100158801 Rebell Tri-Concept 2.0 Soccer Ball - Size
-    5
-  image: "/2022-01-04 12.27.54.jpg"
-  price: 45
-  description: |-
-    6 available
-    Training and individual skill ball for hard ground pitches and artificial turf, abrasion resistant, soft PVC material, 4 layer PES/PV lamination, Butyl bladder
-    White/Black/Neon Green
-- title: CLEARANCE - Uhlsport Tri Concept League Soccer Ball - Size 5
-  image: "/2022-01-04 12.26.52.jpg"
-  price: 60
-  description: |-
-    White/Blue
-    FIFA Approved, single chamber bladder, Soft PU backing, 4-Ply lamination abrasion resistant, superior flight and bounce characteristics, good air retention
-- title: CLEARANCE - Uhlsport Elysia Ballon Replica Ligue 1 Soccer Ball 1001685012019
-    - Size 5
-  image: "/2022-01-04 12.25.11.jpg"
-  price: 27
-  description: "ONE available\nYellow/Black/Silver \nCushioned panels, Butyl Bladder,
-    Replica ball of the France Ligue 1 Official ball"
 - title: CLEARANCE - Uhlsport Top Soccer Ball 100151201 - Size 5
   image: "/2022-01-04 12.25.23.jpg"
   price: 40
@@ -153,6 +119,10 @@ promotions:
   description: |-
     Also available in sizes 3 & 4
     1 available
+- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
+  image: "/2020-04-16 16.16.51.jpg"
+  price: 39
+  description: 1 available
 - title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
   image: "/Eletto LNA-350 soccer ball.jpg"
   price: 22
@@ -177,6 +147,32 @@ promotions:
     - Ideal for the school yard
 
     1 available
+- title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
+  image: "/koaq7uwwxfpikdddykcn_800x800.jpg"
+  price: 180
+  description: |-
+    12 ft wide x 6 ft tall
+    Get your practice going in under 2 minutes. The Quickster is easy to setup and ultra-portable, yet durable and stable for youth and elite players alike. The unique Tension-Tite poles create a sturdy frame, while the easy velcro net attachments and steel ground stakes ensure the net will stay put. Carry bag is included for easy, compact storage.
+- title: CLEARANCE - Uhlsport 100158801 Rebell Tri-Concept 2.0 Soccer Ball - Size
+    5
+  image: "/2022-01-04 12.27.54.jpg"
+  price: 45
+  description: |-
+    6 available
+    Training and individual skill ball for hard ground pitches and artificial turf, abrasion resistant, soft PVC material, 4 layer PES/PV lamination, Butyl bladder
+    White/Black/Neon Green
+- title: CLEARANCE - Uhlsport Tri Concept League Soccer Ball - Size 5
+  image: "/2022-01-04 12.26.52.jpg"
+  price: 60
+  description: |-
+    White/Blue
+    FIFA Approved, single chamber bladder, Soft PU backing, 4-Ply lamination abrasion resistant, superior flight and bounce characteristics, good air retention
+- title: CLEARANCE - Uhlsport Elysia Ballon Replica Ligue 1 Soccer Ball 1001685012019
+    - Size 5
+  image: "/2022-01-04 12.25.11.jpg"
+  price: 27
+  description: "ONE available\nYellow/Black/Silver \nCushioned panels, Butyl Bladder,
+    Replica ball of the France Ligue 1 Official ball"
 - title: Jeffix S5R Rubber Recreative Soccer Ball - Size 5
   image: "/S4RKIT_1-ZA.jpg"
   price: 9
@@ -257,18 +253,6 @@ promotions:
     72" - $95.00
 
     With the simple action of crossing and uncrossing your arms, the Infinity Pop-up Soccer Goals can be ready for play or get packed away. Infinity goals are ideal for small-sided training or simple backyard play. These goals includes a Polyester travel bag, Nylon pegs (for anchoring on grass surfaces), Elastic anchor tethers and Velcro fasteners (to hold goal in folded position).
-- title: Eletto Pop Up Goal Set - 3 sizes available (Sold as a pair)
-  image: "/b8561d_695bdb543d6a401da2c6fee2e5c696eb_mv2.webp"
-  price: 92
-  description: |-
-    AC0066 Small 30" wide x 18" tall - $75.00 (Special Order)
-    AC0064 Medium 48" wide x 30" tall - $92.00
-    AC0065 Large 72" wide x 42" tall - $116.00
-
-    Net pops up in seconds and can be easily flattened for transport. Great Net for training drills, accuracy as well as for beaches, backyards or fields. Polyester net, 15mm mesh. Floor corner in metal for durability covered in nylon for protection. Elastic hooks to lock to ground with pegs included). Velcro® fastener to hold goal in fold position.
-    Nylon carry bag included. Set of 2.
-
-    Color of products may vary.
 - title: Nike NKFC Total FC Soccer Ball - Size 4 & 5
   image: "/2020-04-14 16.27.06.jpg"
   price: 27
@@ -299,7 +283,7 @@ promotions:
   image: "/2022-01-04 12.27.05.jpg"
   price: 27
   description: 4 available
-- title: Puma Final 6 - Size 5
+- title: Puma Final 6 Soccer Ball - Size 5
   image: "/Puma Final 6.jpg"
   price: 26
   description: |-
@@ -323,6 +307,18 @@ promotions:
   image: "/BOCA-2.jpg"
   price: 28
   description: 1 available
+- title: Eletto Pop Up Goal Set - 3 sizes available (Sold as a pair)
+  image: "/b8561d_695bdb543d6a401da2c6fee2e5c696eb_mv2.webp"
+  price: 92
+  description: |-
+    AC0066 Small 30" wide x 18" tall - $75.00 (Special Order)
+    AC0064 Medium 48" wide x 30" tall - $92.00
+    AC0065 Large 72" wide x 42" tall - $116.00
+
+    Net pops up in seconds and can be easily flattened for transport. Great Net for training drills, accuracy as well as for beaches, backyards or fields. Polyester net, 15mm mesh. Floor corner in metal for durability covered in nylon for protection. Elastic hooks to lock to ground with pegs included). Velcro® fastener to hold goal in fold position.
+    Nylon carry bag included. Set of 2.
+
+    Color of products may vary.
 - title: Uhlsport Elysia Replica - Size 5
   image: "/Uhlsport Replica.jpg"
   price: 25
@@ -333,6 +329,10 @@ promotions:
     provides outstanding roundness and extremely low water uptake
     - Durable structured PU material with additional foam-layer
     - HAR bladder with excellent air retention
+- title: Eletto Training Poles AC-0113 (Set of 12)
+  image: "/b8561d_7d098c39842c4f16bded2c59ffac0f94_mv2.webp"
+  price: 155
+  description: 12 poles plus carry bag (photo not accurate)
 - title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
   image: "/2020-04-14 16.23.55.jpg"
   price: 29
