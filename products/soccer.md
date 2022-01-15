@@ -299,37 +299,6 @@ promotions:
   image: "/2022-01-04 14.00.09.jpg"
   price: 25
   description: Holds 10-12 Balls
-- title: CLEARANCE - Uhlsport Cerberus Starter Graphit 100036101 - Size 8, 9
-  image: "/2022-01-04 13.47.29.jpg"
-  price: 30
-  description: |-
-    Available:
-    - 2 of Size 8
-    - 2 of Size 9
-- title: CLEARANCE - Adidas Ghost Shin Pads - Youth Sizes
-  image: "/2022-01-04 13.30.48.jpg"
-  price: 12
-  description: |-
-    Available:
-    - 4 of Size Yth Small
-    - 4 of Size Yth Medium
-    - 6 of Size Yth Large
-- title: CLEARANCE - 360 S6616 Shin Guard - Youth Sizes XS & S
-  image: "/2022-01-04 13.32.48.jpg"
-  price: 9
-  description: |-
-    Available:
-    - 4 of size Yth X-Small
-    - 7 of size Yth Small
-
-    Appropriate for ages 3 - 6 year old kids
-- title: CLEARANCE - Puma Future Grip 5.4 Goalkeeper Gloves - Size 6, 7
-  image: "/2022-01-04 13.52.42.jpg"
-  price: 39
-  description: |-
-    Available:
-    - 4 - Size 6
-    - 1 - Size 7
 - title: CLEARANCE - Uhlsport UHL-0192 Eliminator Starter Graphit Goalkeeper Gloves
     - Size 8
   image: "/2022-01-04 13.46.39.jpg"
@@ -348,31 +317,6 @@ promotions:
     - Adult size 10-13
     - High quality sock, padded foot, ribbed articulated ankle, arch support
     - 14 pairs available
-- title: CLEARANCE - FRK-SOC-5660P1 Franklin Soccer Goal
-  image: "/2022-01-06 17.09.02.jpg"
-  price: 99
-  description: |-
-    - 2 available only
-    - Sold in eaches
-    - Steel frame
-    - 72" x 48"
-    - 4" square mesh
-    - Easy to assemble
-    - Includes stakes
-- title: CLEARANCE - Eletto Flip V Flat Goalkeeper Gloves EG-2020 - Size 8, 9, 10
-  image: "/2022-01-04 13.52.02.jpg"
-  price: 19
-  description: |-
-    Available:
-    - 2 - Size 8
-    - 2 of Size 9
-    - 2 of Size 10
-
-    - 3mm latex foam palm
-    - Backside molded foam
-    - V-Notch with half-strap around wrist.
-
-    BENEFITS: Good feel and grip; Comfortable and durable.
 - title: CLEARANCE - Eletto SC-1100 Classic Pro Soccer Socks - WHITE - Size 7-9
   image: "/Eletto Classic Pro SC1100 sock.PNG"
   price: 8
@@ -402,6 +346,37 @@ promotions:
   image: "/2020-04-16 16.13.19.jpg"
   price: 14
   description: 1 available
+- title: CLEARANCE - 360 S6616 Shin Guard - Youth Sizes XS & S
+  image: "/2022-01-04 13.32.48.jpg"
+  price: 9
+  description: |-
+    Available:
+    - 4 of size Yth X-Small
+    - 7 of size Yth Small
+
+    Appropriate for ages 3 - 6 year old kids
+- title: CLEARANCE - Uhlsport Cerberus Starter Graphit 100036101 - Size 8, 9
+  image: "/2022-01-04 13.47.29.jpg"
+  price: 30
+  description: |-
+    Available:
+    - 2 of Size 8
+    - 2 of Size 9
+- title: CLEARANCE - Adidas Ghost Shin Pads - Youth Sizes
+  image: "/2022-01-04 13.30.48.jpg"
+  price: 12
+  description: |-
+    Available:
+    - 4 of Size Yth Small
+    - 4 of Size Yth Medium
+    - 6 of Size Yth Large
+- title: CLEARANCE - Puma Future Grip 5.4 Goalkeeper Gloves - Size 6, 7
+  image: "/2022-01-04 13.52.42.jpg"
+  price: 39
+  description: |-
+    Available:
+    - 4 - Size 6
+    - 1 - Size 7
 - title: Eletto SG1440 React Hard Shell Soccer Shin Guards - Size L
   image: "/2020-04-16 16.15.34.jpg"
   price: 8
@@ -423,6 +398,24 @@ promotions:
     protection                                                          \n\nBENEFITS\n•
     Great protection, lightweight\n• Comfortable, good ventilation\n• Keeps guard
     secure and comfortable\n• Light, comfortable protection"
+- title: Eletto GK0800 Soccer Goal Keeper Knee Pads - Size M
+  image: "/2020-04-16 16.08.01.jpg"
+  price: 9.5
+  description: 1 available
+- title: CLEARANCE - Eletto Flip V Flat Goalkeeper Gloves EG-2020 - Size 8, 9, 10
+  image: "/2022-01-04 13.52.02.jpg"
+  price: 19
+  description: |-
+    Available:
+    - 2 - Size 8
+    - 2 of Size 9
+    - 2 of Size 10
+
+    - 3mm latex foam palm
+    - Backside molded foam
+    - V-Notch with half-strap around wrist.
+
+    BENEFITS: Good feel and grip; Comfortable and durable.
 - title: CLEARANCE - Uhlsport 101106302 Starter Soft Goalkeeper Gloves - Size 7
   image: "/2022-01-04 13.48.28.jpg"
   price: 35
@@ -474,10 +467,6 @@ promotions:
     4 available in Size 10
 
     FANGHAND SOFT is the replica model of the FANGHAND ADVANCE and in terms of design and colours, it looks basically the same as the top model. Its cut: Classic. Its inside hand? Our SOFT foam was extended to cover the side of the hand to expand the palm. The very comfortable PU material, which is slightly abraded on the inside, ensures an optimal wearing sensation. The fastener? Classic full bandage with wraparound strap made of EVA. The backhand? Made of embossed latex.
-- title: Eletto GK0800 Soccer Goal Keeper Knee Pads - Size M
-  image: "/2020-04-16 16.08.01.jpg"
-  price: 9.5
-  description: 1 available
 - title: Franklin FRK-SOC-30125X Premier Steel Soccer Goal 12' x 6'
   image: "/5680.PNG"
   price: 380
@@ -487,6 +476,17 @@ promotions:
     - Ball not included
 
     1 pair available
+- title: CLEARANCE - FRK-SOC-5660P1 Franklin Soccer Goal
+  image: "/2022-01-06 17.09.02.jpg"
+  price: 99
+  description: |-
+    - 2 available only
+    - Sold in eaches
+    - Steel frame
+    - 72" x 48"
+    - 4" square mesh
+    - Easy to assemble
+    - Includes stakes
 - title: Jaypro NP-25 Steel Soccer Net Pegs (Set of 25)
   image: "/NP-25-1.jpg"
   price: 50
