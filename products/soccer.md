@@ -17,6 +17,12 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Acacia Inferno Goalkeeper Gloves - Size 8
+  image: "/inferno_lime.jpg"
+  price: 13
+  description: 'INFERNO KEEPER GLOVES: Designed for beginner and junior level players.
+    Polyester/ cotton micro-air material and a latex foam palm provides excellent
+    grip and durability. Made with a Velcro wrist strap closure for a secure fit.'
 - title: CLEARANCE - Eletto Flip V Flat Goalkeeper Gloves EG-2020 - Size 8, 9, 10
   image: "/2022-01-04 13.52.02.jpg"
   price: 19
