@@ -21,9 +21,11 @@ promotions:
   image: "/2022-01-04 12.07.19.jpg"
   price: 35
   description: |-
-    32 available
-    Fluorescent Yellow / Orange / Navy Blue
-    Soft Touch cushioned panels, Butyl Bladder, Superior bounce and control,
+    - 32 available
+    - Fluorescent Yellow / Orange / Navy Blue
+    - Soft Touch cushioned panels
+    - Butyl Bladder
+    - Superior bounce and control
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
