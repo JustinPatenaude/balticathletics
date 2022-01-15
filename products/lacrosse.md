@@ -8,8 +8,8 @@ products:
 - Soft Lacrosse Sticks
 - Game Sticks
 photos:
-- title: ''
-  photo: ''
+- title: STX Stallion 200 A/M Complete Stick
+  photo: "/STX-STK-ST20-A-2_590x.jpg"
 - title: STX Stallion 50 Lacrosse Stick
   photo: "/STX-STK-ST05-2_590x.jpg"
 suppliers: []
