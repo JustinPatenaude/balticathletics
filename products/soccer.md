@@ -17,10 +17,13 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: CLEARANCE - Eletto Flip V Goalkeeper Gloves EG-2020
+- title: CLEARANCE - Eletto Flip V Flat Goalkeeper Gloves EG-2020
   image: "/2022-01-04 13.52.02.jpg"
   price: 19
-  description: ''
+  description: |-
+    3mm latex foam palm; Backside molded foam; V-Notch with half-strap around wrist.
+
+    BENEFITS: Good feel and grip; Comfortable and durable.
 - title: CLEARANCE - Puma Future Grip 5.4 Goalkeeper Gloves - Size 6, 7
   image: "/2022-01-04 13.52.42.jpg"
   price: 39
