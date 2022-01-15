@@ -17,7 +17,8 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: Uhlsport Elysia Ballon Replica Ligue 1 Soccer Ball 1001685012019 - Size 5
+- title: CLEARANCE - Uhlsport Elysia Ballon Replica Ligue 1 Soccer Ball 1001685012019
+    - Size 5
   image: "/2022-01-04 12.25.11.jpg"
   price: 27
   description: "ONE available\nYellow/Black/Silver \nCushioned panels, Butyl Bladder,
