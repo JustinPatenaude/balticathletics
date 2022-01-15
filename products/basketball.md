@@ -16,6 +16,10 @@ photos:
 - title: Basketball Sizing Chart
   photo: "/Basketball Sizing Chart.PNG"
 promotions:
+- title: Spalding TF-500 Basketball - Sizes 5, 6, 7
+  image: "/TF150.png"
+  price: 12.75
+  description: ''
 - title: CLEARANCE - Spalding All Conference Basketball 76-8988C - Size 7
   image: "/2022-01-04 14.03.42.jpg"
   price: 27
