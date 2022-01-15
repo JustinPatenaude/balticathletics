@@ -13,6 +13,16 @@ photos:
 suppliers: []
 date: '2019-03-29T23:01:07.000+00:00'
 promotions:
+- title: STX Stallion 200 A/M Complete Stick STX-STK-ST20-18-A-W
+  image: "/STX-STK-ST20-A-2_590x.jpg"
+  price: 55
+  description: |-
+    - Inspired by the elite Stallion U 550 head
+    - Complete stick only - includes NEW STX 6000 series alloy handle featuring tonal "Memory Marker" graphics
+    - Designed to help players develop proper fundamentals
+    - Easy catching and ball control for all entry-level players
+    - Soft mesh stringing
+    - Meets NCAA and NFHS rules
 - title: STX Stallion 50 Complete Lacrosse Stick STX-STK-ST05-WB
   image: "/STX-STK-ST05-2_590.jpg"
   price: 45
