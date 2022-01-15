@@ -17,13 +17,6 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: CLEARANCE - Uhlsport Pro Match PT5 Soccer Ball - Size 5
-  image: "/2022-01-04 11.49.43.jpg"
-  price: 80
-  description: |-
-    6 available.
-    White/Grey/Red
-    FIFA approved for the highest levels of teams, 5 panel construction, abrasion resistant, low water intake, top in flight and bounce characteristics with ball lamination technology, three fold PES backing, with an additional layer of hi-tech foam
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -280,6 +273,13 @@ promotions:
     - Butyl bladder for good air retention
 
     3 available
+- title: CLEARANCE - Uhlsport Pro Match PT5 Soccer Ball - Size 5
+  image: "/2022-01-04 11.49.43.jpg"
+  price: 80
+  description: |-
+    6 available.
+    White/Grey/Red
+    FIFA approved for the highest levels of teams, 5 panel construction, abrasion resistant, low water intake, top in flight and bounce characteristics with ball lamination technology, three fold PES backing, with an additional layer of hi-tech foam
 - title: CLEARANCE - Uhlsport Copacabana Beach Soccer Ball - Size 5
   image: "/2022-01-04 12.23.05.jpg"
   price: 30
