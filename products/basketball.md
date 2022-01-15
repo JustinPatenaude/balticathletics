@@ -16,6 +16,12 @@ photos:
 - title: Basketball Sizing Chart
   photo: "/Basketball Sizing Chart.PNG"
 promotions:
+- title: CLEARANCE - Molded Backboard Padding LO-B73M (sold in eaches)
+  image: "/LO-B73M-6.jpg"
+  price: 325
+  description: "Molded Cushion Edge padding sold per backboard\n\nCushion Edge Padding
+    for bottom edge of 1829mm[72\"] wide Rectangular Glass Backboards Bolt on design.
+    Hardware included. \n\nBLACK only"
 - title: CLEARANCE - Spalding All Conference Basketball 76-8988C - Size 7
   image: "/2022-01-04 14.03.42.jpg"
   price: 27
