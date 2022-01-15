@@ -18,7 +18,7 @@ photos:
   photo: "/soccer-ball-sizes.jpg"
 promotions:
 - title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
-  image: "/2022-01-04 13.16.29.jpg"
+  image: "/koaq7uwwxfpikdddykcn_800x800.jpg"
   price: 180
   description: |-
     12 ft wide x 6 ft tall
