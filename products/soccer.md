@@ -25,7 +25,7 @@ promotions:
     - 4 of Size Yth Small
     - 4 of Size Yth Medium
     - 6 of Size Yth Large
-- title: 360 S6616 Shin Guard - Sizes XS, S
+- title: CLEARANCE - 360 S6616 Shin Guard - Youth Sizes XS, S
   image: "/2022-01-04 13.32.48.jpg"
   price: 9
   description: Appropriate for ages 3 - 6 year old kids
