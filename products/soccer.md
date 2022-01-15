@@ -17,6 +17,12 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
+  image: "/2022-01-04 13.16.29.jpg"
+  price: 180
+  description: |-
+    12 ft wide x 6 ft tall
+    Get your practice going in under 2 minutes. The Quickster is easy to setup and ultra-portable, yet durable and stable for youth and elite players alike. The unique Tension-Tite poles create a sturdy frame, while the easy velcro net attachments and steel ground stakes ensure the net will stay put. Carry bag is included for easy, compact storage.
 - title: Eletto Training Poles AC-0113 (Set of 12)
   image: "/b8561d_7d098c39842c4f16bded2c59ffac0f94_mv2.webp"
   price: 155
