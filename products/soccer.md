@@ -30,32 +30,6 @@ promotions:
     4 pkgs available
 
     The Deluxe Bungee Net Fasteners are designed to secure nets to any soccer goal with 4” x 2” or 4” x 4” square posts, and/or a round post that is greater than 3”. The bungee net fasteners feature a thick, black, elastic cord with knobs. The durable, elastic cord is UV-resistant which helps increase the longevity of each fastener.
-- title: CLEARANCE - Eletto SG2001 Victory IV Soft Shell Shinpads
-  image: "/b8561d_dd80a71d631143acae4b62da12c36703_mv2.webp"
-  price: 14
-  description: "Available:\n- 4 of size X-Small\n- 6 of size Small\n- 5 of size Medium\n-
-    4 of size Large\n- 4 of size XL\n\nFEATURES\n• Ultra durable soft shell\n• Backside:
-    sof EVA polyester fabric\n• Adjustable wraparound velcro strap\n• EVA ankle/achilles
-    protection                                                          \n\nBENEFITS\n•
-    Great protection, lightweight\n• Comfortable, good ventilation\n• Keeps guard
-    secure and comfortable\n• Light, comfortable protection"
-- title: CLEARANCE - Adidas Ghost Shin Pads - Youth Sizes
-  image: "/2022-01-04 13.30.48.jpg"
-  price: 12
-  description: |-
-    Available:
-    - 4 of Size Yth Small
-    - 4 of Size Yth Medium
-    - 6 of Size Yth Large
-- title: CLEARANCE - 360 S6616 Shin Guard - Youth Sizes XS & S
-  image: "/2022-01-04 13.32.48.jpg"
-  price: 9
-  description: |-
-    Available:
-    - 4 of size Yth X-Small
-    - 7 of size Yth Small
-
-    Appropriate for ages 3 - 6 year old kids
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -268,73 +242,6 @@ promotions:
     1 set available
   title: Speedskin Soft Soccer Ball Set of 6 - Size 4
   image: "/SSSOCCERKIT_1-Z.jpg"
-- title: CLEARANCE - Eletto Flip V Flat Goalkeeper Gloves EG-2020 - Size 8, 9, 10
-  image: "/2022-01-04 13.52.02.jpg"
-  price: 19
-  description: |-
-    Available:
-    - 2 - Size 8
-    - 2 of Size 9
-    - 2 of Size 10
-
-    - 3mm latex foam palm
-    - Backside molded foam
-    - V-Notch with half-strap around wrist.
-
-    BENEFITS: Good feel and grip; Comfortable and durable.
-- title: CLEARANCE - Uhlsport Cerberus Starter Graphit 100036101 - Size 8, 9
-  image: "/2022-01-04 13.47.29.jpg"
-  price: 30
-  description: |-
-    Available:
-    - 2 of Size 8
-    - 2 of Size 9
-- title: CLEARANCE - Puma Future Grip 5.4 Goalkeeper Gloves - Size 6, 7
-  image: "/2022-01-04 13.52.42.jpg"
-  price: 39
-  description: |-
-    Available:
-    - 4 - Size 6
-    - 1 - Size 7
-- title: CLEARANCE - Uhlsport UHL-0192 Eliminator Starter Graphit Goalkeeper Gloves
-    - Size 8
-  image: "/2022-01-04 13.46.39.jpg"
-  price: 35
-  description: 2 of Size 8 available
-- title: CLEARANCE - Acacia Inferno Goalkeeper Gloves - Size 8
-  image: "/inferno_lime.jpg"
-  price: 13
-  description: 'INFERNO KEEPER GLOVES: Designed for beginner and junior level players.
-    Polyester/ cotton micro-air material and a latex foam palm provides excellent
-    grip and durability. Made with a Velcro wrist strap closure for a secure fit.'
-- title: CLEARANCE - Admiral Pro Soccer Socks - GOLD only
-  image: "/admiral gold soccer sock.jpg"
-  price: 8
-  description: |-
-    - Adult size 10-13
-    - High quality sock, padded foot, ribbed articulated ankle, arch support
-    - 14 pairs available
-- title: CLEARANCE - Eletto SC-1100 Classic Pro Soccer Socks - WHITE - Size 7-9
-  image: "/Eletto Classic Pro SC1100 sock.PNG"
-  price: 8
-  description: |-
-    - Made of Polyester and spandex leg with elastic on ankle
-    - Foot made of polyester, spandex and lycra
-    - Eletto logo on foot only
-    - DryForm Technology for wicking away sweat.
-
-    9 pairs available
-- title: CLEARANCE - FRK-SOC-5660P1 Franklin Soccer Goal
-  image: "/2022-01-06 17.09.02.jpg"
-  price: 99
-  description: |-
-    - 2 available only
-    - Sold in eaches
-    - Steel frame
-    - 72" x 48"
-    - 4" square mesh
-    - Easy to assemble
-    - Includes stakes
 - title: Sporteck BOCA Soccer Ball - Size 4
   image: "/BOCA-2.jpg"
   price: 28
@@ -362,6 +269,99 @@ promotions:
   image: "/2022-01-04 14.00.09.jpg"
   price: 25
   description: Holds 10-12 Balls
+- title: CLEARANCE - FRK-SOC-5660P1 Franklin Soccer Goal
+  image: "/2022-01-06 17.09.02.jpg"
+  price: 99
+  description: |-
+    - 2 available only
+    - Sold in eaches
+    - Steel frame
+    - 72" x 48"
+    - 4" square mesh
+    - Easy to assemble
+    - Includes stakes
+- title: CLEARANCE - Eletto Flip V Flat Goalkeeper Gloves EG-2020 - Size 8, 9, 10
+  image: "/2022-01-04 13.52.02.jpg"
+  price: 19
+  description: |-
+    Available:
+    - 2 - Size 8
+    - 2 of Size 9
+    - 2 of Size 10
+
+    - 3mm latex foam palm
+    - Backside molded foam
+    - V-Notch with half-strap around wrist.
+
+    BENEFITS: Good feel and grip; Comfortable and durable.
+- title: CLEARANCE - Uhlsport Cerberus Starter Graphit 100036101 - Size 8, 9
+  image: "/2022-01-04 13.47.29.jpg"
+  price: 30
+  description: |-
+    Available:
+    - 2 of Size 8
+    - 2 of Size 9
+- title: CLEARANCE - Adidas Ghost Shin Pads - Youth Sizes
+  image: "/2022-01-04 13.30.48.jpg"
+  price: 12
+  description: |-
+    Available:
+    - 4 of Size Yth Small
+    - 4 of Size Yth Medium
+    - 6 of Size Yth Large
+- title: CLEARANCE - 360 S6616 Shin Guard - Youth Sizes XS & S
+  image: "/2022-01-04 13.32.48.jpg"
+  price: 9
+  description: |-
+    Available:
+    - 4 of size Yth X-Small
+    - 7 of size Yth Small
+
+    Appropriate for ages 3 - 6 year old kids
+- title: CLEARANCE - Puma Future Grip 5.4 Goalkeeper Gloves - Size 6, 7
+  image: "/2022-01-04 13.52.42.jpg"
+  price: 39
+  description: |-
+    Available:
+    - 4 - Size 6
+    - 1 - Size 7
+- title: CLEARANCE - Uhlsport UHL-0192 Eliminator Starter Graphit Goalkeeper Gloves
+    - Size 8
+  image: "/2022-01-04 13.46.39.jpg"
+  price: 35
+  description: 2 of Size 8 available
+- title: CLEARANCE - Acacia Inferno Goalkeeper Gloves - Size 8
+  image: "/inferno_lime.jpg"
+  price: 13
+  description: 'INFERNO KEEPER GLOVES: Designed for beginner and junior level players.
+    Polyester/ cotton micro-air material and a latex foam palm provides excellent
+    grip and durability. Made with a Velcro wrist strap closure for a secure fit.'
+- title: CLEARANCE - Admiral Pro Soccer Socks - GOLD only
+  image: "/admiral gold soccer sock.jpg"
+  price: 8
+  description: |-
+    - Adult size 10-13
+    - High quality sock, padded foot, ribbed articulated ankle, arch support
+    - 14 pairs available
+- title: CLEARANCE - Eletto SG2001 Victory IV Soft Shell Shinpads
+  image: "/b8561d_dd80a71d631143acae4b62da12c36703_mv2.webp"
+  price: 14
+  description: "Available:\n- 4 of size X-Small\n- 6 of size Small\n- 5 of size Medium\n-
+    4 of size Large\n- 4 of size XL\n\nFEATURES\n• Ultra durable soft shell\n• Backside:
+    sof EVA polyester fabric\n• Adjustable wraparound velcro strap\n• EVA ankle/achilles
+    protection                                                          \n\nBENEFITS\n•
+    Great protection, lightweight\n• Comfortable, good ventilation\n• Keeps guard
+    secure and comfortable\n• Light, comfortable protection"
+- title: CLEARANCE - Eletto SC-1100 Classic Pro Soccer Socks - WHITE - Size 7-9
+  image: "/Eletto Classic Pro SC1100 sock.PNG"
+  price: 8
+  description: |-
+    - Made of Polyester and spandex leg with elastic on ankle
+    - Foot made of polyester, spandex and lycra
+    - Eletto logo on foot only
+    - DryForm Technology for wicking away sweat.
+
+    9 pairs available
 - title: Diadora 152655 Xeres You Soccer Shin Guards - Size M
   image: "/2020-04-16 16.06.08.jpg"
   price: 9
