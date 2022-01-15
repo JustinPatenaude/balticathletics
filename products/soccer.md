@@ -17,7 +17,7 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: Uhlsport Elysia Ballon Replica
+- title: Uhlsport Elysia Ballon Replica Soccer Ball - Size 5
   image: "/2022-01-04 12.07.19.jpg"
   price: 35
   description: |-
