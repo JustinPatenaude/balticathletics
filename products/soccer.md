@@ -17,13 +17,6 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: CLEARANCE - Wilson Sportivo II Soccer Ball - Size 5
-  image: "/!wilson-sportivo-2-size-4-soccer-ball-home-hardware-a.jpg"
-  price: 18
-  description: |-
-    2 available.
-    Navy/Yellow
-    The Wilson NCAA Sportivo II soccer ball lets you take your game to a higher level. Featuring foam lined panels for enhanced touch and control, NCAA authenticity, and durable construction for dependability you can count on. Unique underglass cover material takes your game to a higher level. Innovation that wins.
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -358,6 +351,13 @@ promotions:
   description: |-
     Soft Touch,12 panels, Butyl Bladder, White/Marine/Black
     Available in size 4 and 5
+- title: CLEARANCE - Wilson Sportivo II Soccer Ball - Size 5
+  image: "/!wilson-sportivo-2-size-4-soccer-ball-home-hardware-a.jpg"
+  price: 18
+  description: |-
+    2 available.
+    Navy/Yellow
+    The Wilson NCAA Sportivo II soccer ball lets you take your game to a higher level. Featuring foam lined panels for enhanced touch and control, NCAA authenticity, and durable construction for dependability you can count on. Unique underglass cover material takes your game to a higher level. Innovation that wins.
 - title: Diadora Nurnberg Ball Bag
   image: "/2022-01-04 14.00.09.jpg"
   price: 25
