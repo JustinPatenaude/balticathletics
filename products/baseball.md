@@ -12,12 +12,13 @@ products:
 - Pants
 photos: []
 promotions:
-- title: Fat Bat and Ball FBFB27 - 27" and 29"
+- title: CLEARANCE - Fat Bat and Ball FBFB27 - 27" and 29"
   image: "/FBFB29-Fat-Bat-And-Ball-800x1000px-600x750.jpg"
   price: 19
   description: |-
-    27" - $19.00
-    29" - $20.00
+    6 available 27" - $19.00
+    6 available 29" - $20.00
+
 
     A great starter set and a classic take on the fat bat, this set features high density foam construction.
 - title: CLEARANCE - Champion Pro Catchers Chest Pad P100SBK - Adult
