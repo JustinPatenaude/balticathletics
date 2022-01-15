@@ -17,6 +17,15 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Eletto SG2001 Victory IV Soft Shell Shinpads
+  image: "/b8561d_dd80a71d631143acae4b62da12c36703_mv2.webp"
+  price: 14
+  description: "Available:\n- 4 of size X-Small\n- 6 of size Small\n- 5 of size Medium\n-
+    4 of size Large\n- 4 of size XL\n\nFEATURES\n• Ultra durable soft shell\n• Backside:
+    sof EVA polyester fabric\n• Adjustable wraparound velcro strap\n• EVA ankle/achilles
+    protection                                                          \n\nBENEFITS\n•
+    Great protection, lightweight\n• Comfortable, good ventilation\n• Keeps guard
+    secure and comfortable\n• Light, comfortable protection"
 - title: CLEARANCE - Adidas Ghost Shin Pads - Youth Sizes
   image: "/2022-01-04 13.30.48.jpg"
   price: 12
