@@ -20,7 +20,9 @@ promotions:
 - title: CLEARANCE - Uhlsport Top Soccer Ball 100151201 - Size 5
   image: "/2022-01-04 12.25.23.jpg"
   price: 40
-  description: Purple/White/Black
+  description: |-
+    Purple/White/Black
+    Match and training ball, soft PU cover with shiny finish, 5 layer PV lamination, high air retention, IMS (International Matchball Standard)
 - title: Adidas Tango Glider Soccer Ball - Size 5
   image: "/2022-01-04 12.25.47.jpg"
   price: 35
@@ -47,49 +49,6 @@ promotions:
   image: "/2022-01-04 12.28.24.jpg"
   price: 48
   description: Pro training ball
-- title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
-  image: "/koaq7uwwxfpikdddykcn_800x800.jpg"
-  price: 180
-  description: |-
-    12 ft wide x 6 ft tall
-    Get your practice going in under 2 minutes. The Quickster is easy to setup and ultra-portable, yet durable and stable for youth and elite players alike. The unique Tension-Tite poles create a sturdy frame, while the easy velcro net attachments and steel ground stakes ensure the net will stay put. Carry bag is included for easy, compact storage.
-- title: Eletto Training Poles AC-0113 (Set of 12)
-  image: "/b8561d_7d098c39842c4f16bded2c59ffac0f94_mv2.webp"
-  price: 155
-  description: 12 poles plus carry bag (photo not accurate)
-- title: Eletto Pop Up Goal Set - 3 sizes available (Sold as a pair)
-  image: "/b8561d_695bdb543d6a401da2c6fee2e5c696eb_mv2.webp"
-  price: 92
-  description: |-
-    AC0066 Small 30" wide x 18" tall - $75.00 (Special Order)
-    AC0064 Medium 48" wide x 30" tall - $92.00
-    AC0065 Large 72" wide x 42" tall - $116.00
-
-    Net pops up in seconds and can be easily flattened for transport. Great Net for training drills, accuracy as well as for beaches, backyards or fields. Polyester net, 15mm mesh. Floor corner in metal for durability covered in nylon for protection. Elastic hooks to lock to ground with pegs included). Velcro® fastener to hold goal in fold position.
-    Nylon carry bag included. Set of 2.
-
-    Color of products may vary.
-- title: Kwik Goal 2B7 Infinity Pop Up Goals - 48" and 72" (Sold in eaches)
-  image: "/2B7106_1_IMG_0101-600x400.jpg"
-  price: 78
-  description: |-
-    48" - $78.00
-    72" - $95.00
-
-    With the simple action of crossing and uncrossing your arms, the Infinity Pop-up Soccer Goals can be ready for play or get packed away. Infinity goals are ideal for small-sided training or simple backyard play. These goals includes a Polyester travel bag, Nylon pegs (for anchoring on grass surfaces), Elastic anchor tethers and Velcro fasteners (to hold goal in folded position).
-- title: 360 SVS10 Soccer Net Attachments (Pkg of 10)
-  image: "/SVS10-Soccer-VelcroNetAttachmentSet-800x1000px-600x750.jpg"
-  price: 16
-  description: These double-sided Velcro strips make attaching soccer nets to goal
-    posts much easier. With 10 pieces in the set, these durable Soccer Net Attachments
-    are bright orange and measure 22” in length and 1” in height.
-- title: Deluxe Bungee Net Fastener (Pkg of 30)
-  image: "/10B3501_1-scaled-600x400.jpg"
-  price: 62
-  description: |-
-    4 pkgs available
-
-    The Deluxe Bungee Net Fasteners are designed to secure nets to any soccer goal with 4” x 2” or 4” x 4” square posts, and/or a round post that is greater than 3”. The bungee net fasteners feature a thick, black, elastic cord with knobs. The durable, elastic cord is UV-resistant which helps increase the longevity of each fastener.
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -146,6 +105,24 @@ promotions:
     - Yellow/Black
 
     2 available
+- title: 360 SVS10 Soccer Net Attachments (Pkg of 10)
+  image: "/SVS10-Soccer-VelcroNetAttachmentSet-800x1000px-600x750.jpg"
+  price: 16
+  description: These double-sided Velcro strips make attaching soccer nets to goal
+    posts much easier. With 10 pieces in the set, these durable Soccer Net Attachments
+    are bright orange and measure 22” in length and 1” in height.
+- title: Eletto Pop Up Goal Set - 3 sizes available (Sold as a pair)
+  image: "/b8561d_695bdb543d6a401da2c6fee2e5c696eb_mv2.webp"
+  price: 92
+  description: |-
+    AC0066 Small 30" wide x 18" tall - $75.00 (Special Order)
+    AC0064 Medium 48" wide x 30" tall - $92.00
+    AC0065 Large 72" wide x 42" tall - $116.00
+
+    Net pops up in seconds and can be easily flattened for transport. Great Net for training drills, accuracy as well as for beaches, backyards or fields. Polyester net, 15mm mesh. Floor corner in metal for durability covered in nylon for protection. Elastic hooks to lock to ground with pegs included). Velcro® fastener to hold goal in fold position.
+    Nylon carry bag included. Set of 2.
+
+    Color of products may vary.
 - title: Champion EX5PR Extreme Soccer Ball - Size 5
   image: "/ex5pr-a-front_l.jpg"
   price: 15.5
@@ -171,6 +148,31 @@ promotions:
   image: "/Eletto LIGA comp soccer ball.jpg"
   price: 29
   description: ''
+- title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
+  image: "/koaq7uwwxfpikdddykcn_800x800.jpg"
+  price: 180
+  description: |-
+    12 ft wide x 6 ft tall
+    Get your practice going in under 2 minutes. The Quickster is easy to setup and ultra-portable, yet durable and stable for youth and elite players alike. The unique Tension-Tite poles create a sturdy frame, while the easy velcro net attachments and steel ground stakes ensure the net will stay put. Carry bag is included for easy, compact storage.
+- title: Eletto Training Poles AC-0113 (Set of 12)
+  image: "/b8561d_7d098c39842c4f16bded2c59ffac0f94_mv2.webp"
+  price: 155
+  description: 12 poles plus carry bag (photo not accurate)
+- title: Deluxe Bungee Net Fastener (Pkg of 30)
+  image: "/10B3501_1-scaled-600x400.jpg"
+  price: 62
+  description: |-
+    4 pkgs available
+
+    The Deluxe Bungee Net Fasteners are designed to secure nets to any soccer goal with 4” x 2” or 4” x 4” square posts, and/or a round post that is greater than 3”. The bungee net fasteners feature a thick, black, elastic cord with knobs. The durable, elastic cord is UV-resistant which helps increase the longevity of each fastener.
+- title: Kwik Goal 2B7 Infinity Pop Up Goals - 48" and 72" (Sold in eaches)
+  image: "/2B7106_1_IMG_0101-600x400.jpg"
+  price: 78
+  description: |-
+    48" - $78.00
+    72" - $95.00
+
+    With the simple action of crossing and uncrossing your arms, the Infinity Pop-up Soccer Goals can be ready for play or get packed away. Infinity goals are ideal for small-sided training or simple backyard play. These goals includes a Polyester travel bag, Nylon pegs (for anchoring on grass surfaces), Elastic anchor tethers and Velcro fasteners (to hold goal in folded position).
 - title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
   image: "/2020-03-30 12.26.05.jpg"
   price: 15
