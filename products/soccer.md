@@ -17,6 +17,46 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Uhlsport UHL-0192 Eliminator Starter Graphit Goalkeeper Gloves
+    - Size 8
+  image: "/2022-01-04 13.46.39.jpg"
+  price: 35
+  description: 2 of Size 8 available
+- title: CLEARANCE - Admiral Pro Soccer Socks - GOLD only
+  image: "/admiral gold soccer sock.jpg"
+  price: 8
+  description: |-
+    - Adult size 10-13
+    - High quality sock, padded foot, ribbed articulated ankle, arch support
+    - 14 pairs available
+- title: CLEARANCE - Eletto SC-1100 Classic Pro Soccer Socks - WHITE - Size 7-9
+  image: "/Eletto Classic Pro SC1100 sock.PNG"
+  price: 8
+  description: |-
+    - Made of Polyester and spandex leg with elastic on ankle
+    - Foot made of polyester, spandex and lycra
+    - Eletto logo on foot only
+    - DryForm Technology for wicking away sweat.
+
+    9 pairs available
+- title: CLEARANCE - Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
+  image: "/diadora finale sock.PNG"
+  price: 6.5
+  description: |-
+    - 80% Polyester, 10% Lycra, 10% Spandex
+
+    12 pairs available
+- title: CLEARANCE - FRK-SOC-5660P1 Franklin Soccer Goal
+  image: "/2022-01-06 17.09.02.jpg"
+  price: 99
+  description: |-
+    - 2 available only
+    - Sold in eaches
+    - Steel frame
+    - 72" x 48"
+    - 4" square mesh
+    - Easy to assemble
+    - Includes stakes
 - title: CLEARANCE - Uhlsport Cerberus Starter Graphit 100036101 - Size 8, 9
   image: "/2022-01-04 13.47.29.jpg"
   price: 30
@@ -79,41 +119,25 @@ promotions:
     Available:
     - 4 - Size 6
     - 1 - Size 7
-- title: CLEARANCE - FRK-SOC-5660P1 Franklin Soccer Goal
-  image: "/2022-01-06 17.09.02.jpg"
-  price: 99
-  description: |-
-    - 2 available only
-    - Sold in eaches
-    - Steel frame
-    - 72" x 48"
-    - 4" square mesh
-    - Easy to assemble
-    - Includes stakes
-- title: CLEARANCE - Eletto SC-1100 Classic Pro Soccer Socks - WHITE - Size 7-9
-  image: "/Eletto Classic Pro SC1100 sock.PNG"
-  price: 8
-  description: |-
-    - Made of Polyester and spandex leg with elastic on ankle
-    - Foot made of polyester, spandex and lycra
-    - Eletto logo on foot only
-    - DryForm Technology for wicking away sweat.
-
-    9 pairs available
-- title: CLEARANCE - Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
-  image: "/diadora finale sock.PNG"
-  price: 6.5
-  description: |-
-    - 80% Polyester, 10% Lycra, 10% Spandex
-
-    12 pairs available
-- title: CLEARANCE - Admiral Pro Soccer Socks - GOLD only
-  image: "/admiral gold soccer sock.jpg"
-  price: 8
-  description: |-
-    - Adult size 10-13
-    - High quality sock, padded foot, ribbed articulated ankle, arch support
-    - 14 pairs available
+- title: 'CLEARANCE - Uhlsport 0150 Ergonomic Starter Graphit Soccer Goal Keeper Gloves
+    - Size 7 '
+  image: "/2020-04-16 16.01.43.jpg"
+  price: 25
+  description: 1 available
+- title: CLEARANCE - Uhlsport 100022201 Cerberus Start Soccer Goal Keeper Gloves -
+    Size 9
+  image: "/2020-04-16 15.59.31.jpg"
+  price: 30
+  description: 1 available
+- title: CLEARANCE - Uhlsport 100054801 Eliminator Soccer Goal Keeper Gloves - Size
+    9
+  image: "/2020-04-16 15.56.28.jpg"
+  price: 45
+  description: 1 available
+- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
+  image: "/2020-04-16 16.16.51.jpg"
+  price: 39
+  description: 1 available
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -339,25 +363,6 @@ promotions:
   image: "/2022-01-04 14.00.09.jpg"
   price: 25
   description: Holds 10-12 Balls
-- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
-  image: "/2020-04-16 16.16.51.jpg"
-  price: 39
-  description: 1 available
-- title: 'CLEARANCE - Uhlsport 0150 Ergonomic Starter Graphit Soccer Goal Keeper Gloves
-    - Size 7 '
-  image: "/2020-04-16 16.01.43.jpg"
-  price: 25
-  description: 1 available
-- title: CLEARANCE - Uhlsport 100022201 Cerberus Start Soccer Goal Keeper Gloves -
-    Size 9
-  image: "/2020-04-16 15.59.31.jpg"
-  price: 30
-  description: 1 available
-- title: CLEARANCE - Uhlsport 100054801 Eliminator Soccer Goal Keeper Gloves - Size
-    9
-  image: "/2020-04-16 15.56.28.jpg"
-  price: 45
-  description: 1 available
 - title: Diadora 152655 Xeres You Soccer Shin Guards - Size M
   image: "/2020-04-16 16.06.08.jpg"
   price: 9
