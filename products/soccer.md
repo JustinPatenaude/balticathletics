@@ -17,32 +17,6 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: Uhlsport 1503 M-Konzept TEAM Soccer Ball - Size 4, 5
-  image: "/100150312_fv-714x500.jpg"
-  price: 25
-  description: |-
-    - Available in Orange, Yellow, Green and Blue
-    - Excellent, machine stitched training and individual skill ball
-    - New 22 panel shape
-    - Long lasting and Soft TPU material with Additional foam lamination
-    - High rebound Butyl bladder for best air retention and playing characteristics
-    Material:
-    - TPU 20%, Rubber 40 %, EVA 30% , PES 10 %
-- title: CLEARANCE - Uhlsport Copacabana Beach Soccer Ball - Size 5
-  image: "/2022-01-04 12.23.05.jpg"
-  price: 30
-  description: |-
-    - ONE available
-
-    - Soft Touch
-    - Lower compression
-    - Suitable to be played bare-footed
-    - Orange
-- title: CLEARANCE - Uhlsport Elysia Match Pro Soccer Ball - Size 5
-  price: 80
-  description: "- 2 available\n- Pro Playing characteristics, less H20 retention\nadditional
-    foam lamination for optimized ball control, HAR Bladder \nFIFA QUALITY PRO certified"
-  image: "/2022-01-04 12.23.41.jpg"
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -124,12 +98,6 @@ promotions:
   image: "/Eletto LIGA comp soccer ball.jpg"
   price: 29
   description: ''
-- title: CLEARANCE - Uhlsport Top Soccer Ball 100151201 - Size 5
-  image: "/2022-01-04 12.25.23.jpg"
-  price: 40
-  description: |-
-    Purple/White/Black
-    Match and training ball, soft PU cover with shiny finish, 5 layer PV lamination, high air retention, IMS (International Matchball Standard)
 - title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
   image: "/2020-03-30 12.26.05.jpg"
   price: 15
@@ -164,32 +132,6 @@ promotions:
     - Ideal for the school yard
 
     1 available
-- title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
-  image: "/koaq7uwwxfpikdddykcn_800x800.jpg"
-  price: 180
-  description: |-
-    12 ft wide x 6 ft tall
-    Get your practice going in under 2 minutes. The Quickster is easy to setup and ultra-portable, yet durable and stable for youth and elite players alike. The unique Tension-Tite poles create a sturdy frame, while the easy velcro net attachments and steel ground stakes ensure the net will stay put. Carry bag is included for easy, compact storage.
-- title: CLEARANCE - Uhlsport 100158801 Rebell Tri-Concept 2.0 Soccer Ball - Size
-    5
-  image: "/2022-01-04 12.27.54.jpg"
-  price: 45
-  description: |-
-    6 available
-    Training and individual skill ball for hard ground pitches and artificial turf, abrasion resistant, soft PVC material, 4 layer PES/PV lamination, Butyl bladder
-    White/Black/Neon Green
-- title: CLEARANCE - Uhlsport Tri Concept League Soccer Ball - Size 5
-  image: "/2022-01-04 12.26.52.jpg"
-  price: 60
-  description: |-
-    White/Blue
-    FIFA Approved, single chamber bladder, Soft PU backing, 4-Ply lamination abrasion resistant, superior flight and bounce characteristics, good air retention
-- title: CLEARANCE - Uhlsport Elysia Ballon Replica Ligue 1 Soccer Ball 1001685012019
-    - Size 5
-  image: "/2022-01-04 12.25.11.jpg"
-  price: 27
-  description: "ONE available\nYellow/Black/Silver \nCushioned panels, Butyl Bladder,
-    Replica ball of the France Ligue 1 Official ball"
 - title: Jeffix S5R Rubber Recreative Soccer Ball - Size 5
   image: "/S4RKIT_1-ZA.jpg"
   price: 9
@@ -223,16 +165,6 @@ promotions:
     - Deluxe cushioned cover
     - Butyl bladder
     - Available in a variety of colours
-- title: Umbro Neo-Swerve Soccer Ball - Sizes 4, 5
-  image: "/2022-01-04 13.39.36.jpg"
-  price: 25
-  description: |-
-    Outer casing material: Embossed TPU
-    Material Thickness: 0.15mm
-    Internal Layers: 2
-    Construction: Machine Stitched Bladder: Latex
-    Panels: 16
-    Weight: 410-450
 - title: Nike Pitch Soccer Ball - Size 4
   image: "/2020-04-14 16.26.42.jpg"
   price: 24
@@ -271,6 +203,74 @@ promotions:
     - Great bounce
 
     3 available (colours shown)
+- title: Puma Final 6 Soccer Ball - Size 5
+  image: "/Puma Final 6.jpg"
+  price: 26
+  description: |-
+    The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
+    excellent shape bounce and flight characteristics.
+- title: Uhlsport 1503 M-Konzept TEAM Soccer Ball - Size 4, 5
+  image: "/100150312_fv-714x500.jpg"
+  price: 25
+  description: |-
+    - Available in Orange, Yellow, Green and Blue
+    - Excellent, machine stitched training and individual skill ball
+    - New 22 panel shape
+    - Long lasting and Soft TPU material with Additional foam lamination
+    - High rebound Butyl bladder for best air retention and playing characteristics
+    Material:
+    - TPU 20%, Rubber 40 %, EVA 30% , PES 10 %
+- title: CLEARANCE - Uhlsport Copacabana Beach Soccer Ball - Size 5
+  image: "/2022-01-04 12.23.05.jpg"
+  price: 30
+  description: |-
+    - ONE available
+
+    - Soft Touch
+    - Lower compression
+    - Suitable to be played bare-footed
+    - Orange
+- title: CLEARANCE - Uhlsport Top Soccer Ball 100151201 - Size 5
+  image: "/2022-01-04 12.25.23.jpg"
+  price: 40
+  description: |-
+    Purple/White/Black
+    Match and training ball, soft PU cover with shiny finish, 5 layer PV lamination, high air retention, IMS (International Matchball Standard)
+- title: CLEARANCE - Uhlsport Elysia Match Pro Soccer Ball - Size 5
+  price: 80
+  description: "- 2 available\n- Pro Playing characteristics, less H20 retention\nadditional
+    foam lamination for optimized ball control, HAR Bladder \nFIFA QUALITY PRO certified"
+  image: "/2022-01-04 12.23.41.jpg"
+- title: CLEARANCE - Uhlsport Elysia Ballon Replica Ligue 1 Soccer Ball 1001685012019
+    - Size 5
+  image: "/2022-01-04 12.25.11.jpg"
+  price: 27
+  description: "ONE available\nYellow/Black/Silver \nCushioned panels, Butyl Bladder,
+    Replica ball of the France Ligue 1 Official ball"
+- title: CLEARANCE - Uhlsport Tri Concept League Soccer Ball - Size 5
+  image: "/2022-01-04 12.26.52.jpg"
+  price: 60
+  description: |-
+    White/Blue
+    FIFA Approved, single chamber bladder, Soft PU backing, 4-Ply lamination abrasion resistant, superior flight and bounce characteristics, good air retention
+- title: Umbro Neo-Swerve Soccer Ball - Sizes 4, 5
+  image: "/2022-01-04 13.39.36.jpg"
+  price: 25
+  description: |-
+    Outer casing material: Embossed TPU
+    Material Thickness: 0.15mm
+    Internal Layers: 2
+    Construction: Machine Stitched Bladder: Latex
+    Panels: 16
+    Weight: 410-450
+- title: CLEARANCE - Uhlsport 100158801 Rebell Tri-Concept 2.0 Soccer Ball - Size
+    5
+  image: "/2022-01-04 12.27.54.jpg"
+  price: 45
+  description: |-
+    6 available
+    Training and individual skill ball for hard ground pitches and artificial turf, abrasion resistant, soft PVC material, 4 layer PES/PV lamination, Butyl bladder
+    White/Black/Neon Green
 - title: CLEARANCE - Uhlsport Pro Ligue Elysia Training Ball - Size 5
   image: "/2022-01-04 12.28.24.jpg"
   price: 48
@@ -279,12 +279,12 @@ promotions:
   image: "/2022-01-04 12.27.05.jpg"
   price: 27
   description: 4 available
-- title: Puma Final 6 Soccer Ball - Size 5
-  image: "/Puma Final 6.jpg"
-  price: 26
+- title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
+  image: "/koaq7uwwxfpikdddykcn_800x800.jpg"
+  price: 180
   description: |-
-    The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
-    excellent shape bounce and flight characteristics.
+    12 ft wide x 6 ft tall
+    Get your practice going in under 2 minutes. The Quickster is easy to setup and ultra-portable, yet durable and stable for youth and elite players alike. The unique Tension-Tite poles create a sturdy frame, while the easy velcro net attachments and steel ground stakes ensure the net will stay put. Carry bag is included for easy, compact storage.
 - title: Puma Arsenal Soccer Ball - Size 5
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 25
