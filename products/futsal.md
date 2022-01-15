@@ -10,6 +10,10 @@ products:
 - Futsal Balls
 photos: []
 promotions:
+- title: CLEARANCE - Adidas Team Sala Futsal Ball CZ2231 - Size 4
+  image: "/2022-01-04 12.23.53.jpg"
+  price: 32
+  description: "- Padded cover\n- Low bounce, \n- White/Maroon/Blue"
 - title: Diadora Futsala ID II 881701 Futsal Ball - Size 4
   image: "/2020-04-14 16.25.24.jpg"
   price: 38
