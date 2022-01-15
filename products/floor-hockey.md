@@ -11,30 +11,6 @@ products:
 - Player Sticks
 photos: []
 promotions:
-- title: CLEARANCE - Salming Matrix Canada Floorball Stick - 103 cm RH
-  image: "/2022-01-04 14.33.51.jpg"
-  price: 40
-  description: ''
-- title: CLEARANCE - Salming Canada Matrix Floorball Stick - 87 cm RH
-  image: "/2022-01-04 14.34.16.jpg"
-  price: 40
-  description: |-
-    1 available for $40, Regular $45
-
-    Flex: 32
-    BladeText: Mblade
-    GripText: Campus base grip
-    Length: 82, 87 cm
-    SKU: 3106128
-    Licensed by Hockey Canada. Coated composite shaft. X3M profiled grip. Powered with Mblade. Left and right hand cavity.
-- title: CLEARANCE - Cosom Floor Hockey Stick CH-700833-BK - 42"
-  image: "/2020-06-02 12.57.52.jpg"
-  price: 9.75
-  description: |-
-    - 42" black shaft (also available in 36")
-    - recommended for grades 4-7
-    - blade inserted into shaft
-    - green or orange blades
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
@@ -53,6 +29,30 @@ promotions:
     - plastic butt end
 
     6 available
+- title: CLEARANCE - Cosom Floor Hockey Stick CH-700833-BK - 42"
+  image: "/2020-06-02 12.57.52.jpg"
+  price: 9.75
+  description: |-
+    - 42" black shaft (also available in 36")
+    - recommended for grades 4-7
+    - blade inserted into shaft
+    - green or orange blades
+- title: CLEARANCE - Salming Matrix Canada Floorball Stick - 103 cm RH
+  image: "/2022-01-04 14.33.51.jpg"
+  price: 40
+  description: ''
+- title: CLEARANCE - Salming Canada Matrix Floorball Stick - 87 cm RH
+  image: "/2022-01-04 14.34.16.jpg"
+  price: 40
+  description: |-
+    1 available for $40, Regular $45
+
+    Flex: 32
+    BladeText: Mblade
+    GripText: Campus base grip
+    Length: 82, 87 cm
+    SKU: 3106128
+    Licensed by Hockey Canada. Coated composite shaft. X3M profiled grip. Powered with Mblade. Left and right hand cavity.
 - title: D-Gel 350P Street Hockey Ball - Orange (set of 2)
   image: "/2020-04-16 17.08.39.jpg"
   price: 8
