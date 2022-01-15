@@ -16,18 +16,12 @@ photos:
 - title: Basketball Sizing Chart
   photo: "/Basketball Sizing Chart.PNG"
 promotions:
-- title: Spalding TF-500 Basketball - Sizes 5, 6, 7
-  image: "/TF500.png"
-  price: 31.5
-  description: ''
-- title: Spalding TF-250 Basketball - Sizes 5, 6, 7
-  image: "/TF250.png"
-  price: 24.25
-  description: ''
-- title: Spalding TF-150 Basketball - Sizes 5, 6, 7
-  image: "/TF150.png"
-  price: 12.75
-  description: ''
+- title: Wilson Evolution Basketball - Size 5, 6, 7
+  image: "/evolution.png"
+  price: 78
+  description: |-
+    Size 5 - Special Order
+    Size 6 & 7 - In Stock
 - title: CLEARANCE - Spalding All Conference Basketball 76-8988C - Size 7
   image: "/2022-01-04 14.03.42.jpg"
   price: 27
@@ -46,6 +40,18 @@ promotions:
   image: "/spalding precision.png"
   price: 49.5
   description: "- Comparable feel and bounce to Wilson Evolution ball"
+- title: Spalding TF-150 Basketball - Sizes 5, 6, 7
+  image: "/TF150.png"
+  price: 12.75
+  description: ''
+- title: Spalding TF-250 Basketball - Sizes 5, 6, 7
+  image: "/TF250.png"
+  price: 24.25
+  description: ''
+- title: Spalding TF-500 Basketball - Sizes 5, 6, 7
+  image: "/TF500.png"
+  price: 31.5
+  description: ''
 - title: Spalding Eco-Green - Size 29.5 (7)
   image: "/Spalding Size 7 Green.jpg"
   price: 11
