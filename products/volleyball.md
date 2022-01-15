@@ -34,6 +34,10 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
+- title: CLEARANCE - Mikasa MVA-350 Volleyball
+  image: "/2022-01-04 11.50.55.jpg"
+  price: 23
+  description: ONE available only.
 - title: Cobra Outdoor Volleyball System
   image: "/cobra on grass.JPG"
   price: 750
