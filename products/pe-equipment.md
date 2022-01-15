@@ -76,7 +76,7 @@ promotions:
   image: "/TRN2-rebounder-360athl.jpg"
   price: 395
   description: |
-    8 sets available only.
+    7 sets available only.
 
     Includes:
     - 2 RED frames
