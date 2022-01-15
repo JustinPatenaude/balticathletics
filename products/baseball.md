@@ -12,41 +12,6 @@ products:
 - Pants
 photos: []
 promotions:
-- title: CLEARANCE - Fat Bat and Ball FBFB27 - 27" and 29"
-  image: "/FBFB29-Fat-Bat-And-Ball-800x1000px-600x750.jpg"
-  price: 19
-  description: |-
-    6 available 27" - $19.00
-    6 available 29" - $20.00
-
-
-    A great starter set and a classic take on the fat bat, this set features high density foam construction.
-- title: CLEARANCE - Champion Pro Catchers Chest Pad P100SBK - Adult
-  image: "/2022-01-04 15.14.17.jpg"
-  price: 75
-  description: ONE available
-- title: CLEARANCE - Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
-  image: "/Rawlings HFP125BP Baseball Glove.jpg"
-  price: 40
-  description: |-
-    - All leather shell
-    - Soft & supple, very flexible (broken in feel)
-
-    12 available (black/purple)
-- title: CLEARANCE - Russell Baseball Pants - 234DBMK (baseball grey only - assorted
-    sizes)
-  image: "/234DBMK_GRAY.jpg"
-  price: 18
-  description: |-
-    Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
-    Belt not included
-- title: CLEARANCE - SKLZ Batting BT360-100-02
-  image: "/2022-01-04 14.46.04.jpg"
-  price: 36
-  description: |-
-    ONE available.
-
-    Promote proper swing mechanics and body positioning using the 360 Tee. It swivels to various pitch locations for full plate coverage. Practice hitting outside, middle, inside, high and low pitches. The slanted rubber cup is designed to hold the ball in place in any position.
 - title: Wilson A360 RHC & LHC - 11", 12" and 13"
   image: "/2022-01-04 15.19.08.jpg"
   price: 43
@@ -63,6 +28,14 @@ promotions:
   image: "/2020-04-11 14.51.18.jpg"
   price: 60
   description: "- All leather"
+- title: CLEARANCE - Rawlings HFP125BP Baseball Glove - 12.5" Left Hand Catch only
+  image: "/Rawlings HFP125BP Baseball Glove.jpg"
+  price: 40
+  description: |-
+    - All leather shell
+    - Soft & supple, very flexible (broken in feel)
+
+    12 available (black/purple)
 - title: SKLZ Soft Hands Fielding Training Aid SH01-000-04
   image: "/cb0srcz8f0zmzprchkjo_800x800.jpg"
   price: 14
@@ -130,10 +103,26 @@ promotions:
   image: "/plsb-lifestyle-1_l.jpg"
   price: 1.5
   description: 35 available
+- title: CLEARANCE - SKLZ Batting BT360-100-02
+  image: "/2022-01-04 14.46.04.jpg"
+  price: 36
+  description: |-
+    ONE available.
+
+    Promote proper swing mechanics and body positioning using the 360 Tee. It swivels to various pitch locations for full plate coverage. Practice hitting outside, middle, inside, high and low pitches. The slanted rubber cup is designed to hold the ball in place in any position.
 - title: Worth Mayhem Softball Bats
   image: "/2020-03-07 11.21.13.jpg"
   price: 49
   description: 34" - 28 oz
+- title: CLEARANCE - Fat Bat and Ball FBFB27 - 27" and 29"
+  image: "/FBFB29-Fat-Bat-And-Ball-800x1000px-600x750.jpg"
+  price: 19
+  description: |-
+    6 available 27" - $19.00
+    6 available 29" - $20.00
+
+
+    A great starter set and a classic take on the fat bat, this set features high density foam construction.
 - title: Champion SM1 Softball Catcher's Mask
   image: "/sm1_n.jpg"
   price: 30.75
@@ -153,6 +142,17 @@ promotions:
     - Removable liner for comfort
     - Movable chin cup
     - Sized for adult players
+- title: CLEARANCE - Champion Pro Catchers Chest Pad P100SBK - Adult
+  image: "/2022-01-04 15.14.17.jpg"
+  price: 75
+  description: ONE available
+- title: CLEARANCE - Russell Baseball Pants - 234DBMK (baseball grey only - assorted
+    sizes)
+  image: "/234DBMK_GRAY.jpg"
+  price: 18
+  description: |-
+    Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
+    Belt not included
 - title: Champion BP2040 Baseball Backpack
   image: "/bp2040-front_l.jpg"
   price: 42.95
