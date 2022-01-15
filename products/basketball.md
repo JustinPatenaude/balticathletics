@@ -20,8 +20,10 @@ promotions:
   image: "/evolution.png"
   price: 78
   description: |-
-    Size 5 - Special Order
-    Size 6 & 7 - In Stock
+    - Size 5 - Special Order
+    - Size 6 & 7 - In Stock
+
+    - Receive a FREE Champion Ball Bag (BK25BK) when you purchase 8+ Wilson Evolution balls.
 - title: CLEARANCE - Spalding All Conference Basketball 76-8988C - Size 7
   image: "/2022-01-04 14.03.42.jpg"
   price: 27
