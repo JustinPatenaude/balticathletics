@@ -8,29 +8,6 @@ products:
 - Ball carts
 photos: []
 promotions:
-- title: Custom Steel Racquet Cart - Small
-  image: "/2022-01-10 11.10.28.jpg"
-  price: 425
-  description: |-
-    - 32"L  X 16" W X 32" T
-    - Holds approx 30 racquets
-    - suitable size for elementary/middle school
-    - swivel casters
-    - plastic bin included on bottom shelf
-    - welded steel - much stronger and more durable than PVC plastic
-    - available in BLACK, BLUE, GREEN, GREY, RED
-    - racquets & shuttles in photo not included
-
-    CUSTOM ITEM (allow 3-4 weeks for manufacturing)
-- title: Blue Ball Carrier
-  image: "/BSU-100 Ball Storage Cart.jpg"
-  price: 350
-  description: |-
-    - 36" H x 24" W x 36" L
-    - Easy to move around with 4 non-marking swivel caster wheels
-    - Hinged lockable top
-    - lightweight 1" round tubular steel (35 lbs)
-    - finished with blue powder coat
 - title: Champion BK25BK Deluxe Basketball Carry Bag
   image: "/bk25bk_n.jpg"
   price: 26
@@ -63,18 +40,6 @@ promotions:
     - 47” x 8.5” x 6.5”
 
     6 available
-- title: Tachikara BIKSP Ball Cart
-  image: "/biksp.jpg"
-  price: 180
-  description: |-
-    - Designed to provide you extra height
-    - A sturdy galvanized steel frame
-    - Large caster wheels
-    - Durable black nylon cover.
-    - This cart has the largest capacity of all our ball carts, holding up to 36 inflated balls and is completely collapsible for easy storage.
-    - Size: 25"W x 25"D x 40"H
-    - Black in stock
-    - Scarlet, Navy or Royal is special order.
 - title: Tachikara BC-HAM Ball Hammock
   image: "/bc-ham.jpg"
   price: 180
@@ -96,6 +61,18 @@ promotions:
     This is a great economical storage and transporting solution for balls.
 
     9 available
+- title: Tachikara BIKSP Ball Cart
+  image: "/biksp.jpg"
+  price: 180
+  description: |-
+    - Designed to provide you extra height
+    - A sturdy galvanized steel frame
+    - Large caster wheels
+    - Durable black nylon cover.
+    - This cart has the largest capacity of all our ball carts, holding up to 36 inflated balls and is completely collapsible for easy storage.
+    - Size: 25"W x 25"D x 40"H
+    - Black in stock
+    - Scarlet, Navy or Royal is special order.
 - title: Jaypro TE-PE01 Totemaster Open Top Multipurpose Ball Cart
   image: "/Capture.PNG"
   price: 450
@@ -135,12 +112,35 @@ promotions:
     - Black
 
     3 available
+- title: Blue Ball Carrier
+  image: "/BSU-100 Ball Storage Cart.jpg"
+  price: 350
+  description: |-
+    - 36" H x 24" W x 36" L
+    - Easy to move around with 4 non-marking swivel caster wheels
+    - Hinged lockable top
+    - lightweight 1" round tubular steel (35 lbs)
+    - finished with blue powder coat
 - title: VBC Victor Badminton Cart
   image: "/VBC cart.jpg"
   price: 160
   description: |-
     - holds approximately 50 racquets
     - 25" Long, 34" Tall, 12" wide
+- title: Custom Steel Racquet Cart - Small
+  image: "/2022-01-10 11.10.28.jpg"
+  price: 425
+  description: |-
+    - 32"L  X 16" W X 32" T
+    - Holds approx 30 racquets
+    - suitable size for elementary/middle school
+    - swivel casters
+    - plastic bin included on bottom shelf
+    - welded steel - much stronger and more durable than PVC plastic
+    - available in BLACK, BLUE, GREEN, GREY, RED
+    - racquets & shuttles in photo not included
+
+    CUSTOM ITEM (allow 3-4 weeks for manufacturing)
 - title: Custom Steel Racquet Cart - Large
   image: "/20200401 racquet cart.jpg"
   price: 475
