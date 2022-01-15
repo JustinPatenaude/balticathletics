@@ -17,7 +17,7 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: Uhlsport Ligue 1 Conforama Soccer Ball - Size 5
+- title: CLEARANCE - Uhlsport Ligue 1 Conforama Soccer Ball - Size 5
   image: "/2022-01-04 12.27.05.jpg"
   price: 27
   description: 4 available
