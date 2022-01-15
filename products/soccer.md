@@ -22,7 +22,8 @@ promotions:
   price: 45
   description: |-
     6 available
-    Pro training ball
+    Training and individual skill ball for hard ground pitches and artificial turf, abrasion resistant, soft PVC material, 4 layer PES/PV lamination, Butyl bladder
+    White/Black/Neon Green
 - title: CLEARANCE - Uhlsport Pro Ligue Elysia Training Ball - Size 5
   image: "/2022-01-04 12.28.24.jpg"
   price: 48
