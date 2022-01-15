@@ -13,10 +13,16 @@ photos:
 suppliers: []
 date: '2019-03-29T23:01:07.000+00:00'
 promotions:
-- title: ''
-  image: ''
-  price: 
-  description: ''
+- title: STX Stallion 50 Complete Lacrosse Stick STX-STK-ST05-WB
+  image: "/STX-STK-ST05-2_590.jpg"
+  price: 45
+  description: "The STX Stallion 50 lacrosse complete stick is designed for the younger,
+    entry-level player who is just learning the game. With a slightly smaller 7/8\"
+    circumference and shortened handle, this stick is designed for better mobility
+    as youngsters establish the fundamentals. \n\nHead is molded with softer material
+    to provide a forgiving response. Includes shorter and thinner handles for easier
+    handling. Designed to help players develop proper fundamentals. Easy catching
+    and ball control for all entry-level players. Soft mesh stringing."
 - title: CLEARANCE - GAIT6000 Lacrosse Stick - Adult
   image: "/2022-01-04 14.30.51.jpg"
   price: 45
