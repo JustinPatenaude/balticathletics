@@ -22,12 +22,6 @@ products:
 - Whiffle balls
 photos: []
 promotions:
-- title: Whiffle Balls 3" PSCW950 - Coloured or White - Set of 50
-  image: "/2022-01-05 14.50.20.jpg"
-  price: 60
-  description: |-
-    - 50 Pack of rainbow coloured or white perforated plastic practice balls.
-    - 9″ circumference / 3″ diameter
 - title: CLEARANCE - 360 Playground Balls 7" SPG7 - Set of 6
   image: "/2022-01-05 14.48.310.jpg"
   price: 57.5
@@ -126,6 +120,12 @@ promotions:
     - The cord is 18" long and is durable but gentle on legs
     - Ankle ring is 5.5" D and slips over most feet easily
     - Set of six colors: one of each in red, orange, yellow, green, blue and purple
+- title: Whiffle Balls 3" PSCW950 - Coloured or White - Set of 50
+  image: "/2022-01-05 14.50.20.jpg"
+  price: 60
+  description: |-
+    - 50 Pack of rainbow coloured or white perforated plastic practice balls.
+    - 9″ circumference / 3″ diameter
 - title: Ultra Skin 360 Dodgeballs - 3.5", 6", 7", 8", 8.3"
   image: "/FX83R-Ultraskin-Balls-800x1000px-600x750.jpg"
   price: 7.5
