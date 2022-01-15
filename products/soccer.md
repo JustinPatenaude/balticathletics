@@ -28,6 +28,30 @@ promotions:
     - 4" square mesh
     - Easy to assemble
     - Includes stakes
+- title: CLEARANCE - Eletto SC-1100 Classic Pro Soccer Socks - WHITE - Size 7-9
+  image: "/Eletto Classic Pro SC1100 sock.PNG"
+  price: 8
+  description: |-
+    - Made of Polyester and spandex leg with elastic on ankle
+    - Foot made of polyester, spandex and lycra
+    - Eletto logo on foot only
+    - DryForm Technology for wicking away sweat.
+
+    9 pairs available
+- title: CLEARANCE - Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
+  image: "/diadora finale sock.PNG"
+  price: 6.5
+  description: |-
+    - 80% Polyester, 10% Lycra, 10% Spandex
+
+    12 pairs available
+- title: CLEARANCE - Admiral Pro Soccer Socks - GOLD only
+  image: "/admiral gold soccer sock.jpg"
+  price: 8
+  description: |-
+    - Adult size 10-13
+    - High quality sock, padded foot, ribbed articulated ankle, arch support
+    - 14 pairs available
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -294,30 +318,6 @@ promotions:
   image: "/2020-04-16 16.08.01.jpg"
   price: 9.5
   description: 1 available
-- title: CLEARANCE - Admiral Pro Soccer Socks - GOLD only
-  image: "/admiral gold soccer sock.jpg"
-  price: 8
-  description: |-
-    - Adult size 10-13
-    - High quality sock, padded foot, ribbed articulated ankle, arch support
-    - 14 pairs available
-- title: CLEARANCE - Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
-  image: "/diadora finale sock.PNG"
-  price: 6.5
-  description: |-
-    - 80% Polyester, 10% Lycra, 10% Spandex
-
-    12 pairs available
-- title: CLEARANCE - Eletto SC-1100 Classic Pro Soccer Socks - WHITE - Size 7-9
-  image: "/Eletto Classic Pro SC1100 sock.PNG"
-  price: 8
-  description: |-
-    - Made of Polyester and spandex leg with elastic on ankle
-    - Foot made of polyester, spandex and lycra
-    - Eletto logo on foot only
-    - DryForm Technology for wicking away sweat.
-
-    9 pairs available
 - title: Spring Loaded Soccer Corner Flags w/bases USC4 (Set of 4)
   image: "/usc4-a-main_n.jpg"
   price: 105
