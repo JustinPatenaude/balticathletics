@@ -23,7 +23,7 @@ promotions:
   description: ''
 - title: CLEARANCE - Uhlsport Eliminator Soft Rollfinger UHL-0179 - Sizes 8, 9, 10
   image: "/100017901_back-714x500.jpg"
-  price: 
+  price: 50
   description: |-
     Available:
     - 1 of Size 8
