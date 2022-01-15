@@ -17,10 +17,6 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: CLEARANCE - Training Hurdles SH9 - 9" Orange
-  image: "/2022-01-04 13.10.45.jpg"
-  price: 9
-  description: 3 available
 - title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
   image: "/koaq7uwwxfpikdddykcn_800x800.jpg"
   price: 180
@@ -303,31 +299,6 @@ promotions:
   image: "/2022-01-04 14.00.09.jpg"
   price: 25
   description: Holds 10-12 Balls
-- title: CLEARANCE - FRK-SOC-5660P1 Franklin Soccer Goal
-  image: "/2022-01-06 17.09.02.jpg"
-  price: 99
-  description: |-
-    - 2 available only
-    - Sold in eaches
-    - Steel frame
-    - 72" x 48"
-    - 4" square mesh
-    - Easy to assemble
-    - Includes stakes
-- title: CLEARANCE - Eletto Flip V Flat Goalkeeper Gloves EG-2020 - Size 8, 9, 10
-  image: "/2022-01-04 13.52.02.jpg"
-  price: 19
-  description: |-
-    Available:
-    - 2 - Size 8
-    - 2 of Size 9
-    - 2 of Size 10
-
-    - 3mm latex foam palm
-    - Backside molded foam
-    - V-Notch with half-strap around wrist.
-
-    BENEFITS: Good feel and grip; Comfortable and durable.
 - title: CLEARANCE - Uhlsport Cerberus Starter Graphit 100036101 - Size 8, 9
   image: "/2022-01-04 13.47.29.jpg"
   price: 30
@@ -377,15 +348,31 @@ promotions:
     - Adult size 10-13
     - High quality sock, padded foot, ribbed articulated ankle, arch support
     - 14 pairs available
-- title: CLEARANCE - Eletto SG2001 Victory IV Soft Shell Shinpads
-  image: "/b8561d_dd80a71d631143acae4b62da12c36703_mv2.webp"
-  price: 14
-  description: "Available:\n- 4 of size X-Small\n- 6 of size Small\n- 5 of size Medium\n-
-    4 of size Large\n- 4 of size XL\n\nFEATURES\n• Ultra durable soft shell\n• Backside:
-    sof EVA polyester fabric\n• Adjustable wraparound velcro strap\n• EVA ankle/achilles
-    protection                                                          \n\nBENEFITS\n•
-    Great protection, lightweight\n• Comfortable, good ventilation\n• Keeps guard
-    secure and comfortable\n• Light, comfortable protection"
+- title: CLEARANCE - FRK-SOC-5660P1 Franklin Soccer Goal
+  image: "/2022-01-06 17.09.02.jpg"
+  price: 99
+  description: |-
+    - 2 available only
+    - Sold in eaches
+    - Steel frame
+    - 72" x 48"
+    - 4" square mesh
+    - Easy to assemble
+    - Includes stakes
+- title: CLEARANCE - Eletto Flip V Flat Goalkeeper Gloves EG-2020 - Size 8, 9, 10
+  image: "/2022-01-04 13.52.02.jpg"
+  price: 19
+  description: |-
+    Available:
+    - 2 - Size 8
+    - 2 of Size 9
+    - 2 of Size 10
+
+    - 3mm latex foam palm
+    - Backside molded foam
+    - V-Notch with half-strap around wrist.
+
+    BENEFITS: Good feel and grip; Comfortable and durable.
 - title: CLEARANCE - Eletto SC-1100 Classic Pro Soccer Socks - WHITE - Size 7-9
   image: "/Eletto Classic Pro SC1100 sock.PNG"
   price: 8
@@ -396,21 +383,28 @@ promotions:
     - DryForm Technology for wicking away sweat.
 
     9 pairs available
+- title: CLEARANCE - Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
+  image: "/diadora finale sock.PNG"
+  price: 6.5
+  description: |-
+    - 80% Polyester, 10% Lycra, 10% Spandex
+
+    12 pairs available
 - title: Diadora 152655 Xeres You Soccer Shin Guards - Size M
   image: "/2020-04-16 16.06.08.jpg"
   price: 9
   description: 1 available
-- title: Eletto SG1440 React Hard Shell Soccer Shin Guards - Size L
-  image: "/2020-04-16 16.15.34.jpg"
-  price: 8
+- title: Eletto SG1500 Soft Shell Soccer Shin Guards - Size M
+  image: "/2020-04-16 16.10.59.jpg"
+  price: 11
   description: 1 available
 - title: Eletto SG1202 Iron Soccer Shin Pads with Compression Sleeves - Size M
   image: "/2020-04-16 16.13.19.jpg"
   price: 14
   description: 1 available
-- title: Eletto SG1500 Soft Shell Soccer Shin Guards - Size M
-  image: "/2020-04-16 16.10.59.jpg"
-  price: 11
+- title: Eletto SG1440 React Hard Shell Soccer Shin Guards - Size L
+  image: "/2020-04-16 16.15.34.jpg"
+  price: 8
   description: 1 available
 - title: Uhlsport 6774 Pro Lite Soccer Shin Guards - Size M
   image: "/2020-04-16 16.03.21.jpg"
@@ -420,13 +414,19 @@ promotions:
   image: "/2020-04-16 16.04.39.jpg"
   price: 18
   description: 1 available
-- title: CLEARANCE - Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
-  image: "/diadora finale sock.PNG"
-  price: 6.5
-  description: |-
-    - 80% Polyester, 10% Lycra, 10% Spandex
-
-    12 pairs available
+- title: CLEARANCE - Eletto SG2001 Victory IV Soft Shell Shinpads
+  image: "/b8561d_dd80a71d631143acae4b62da12c36703_mv2.webp"
+  price: 14
+  description: "Available:\n- 4 of size X-Small\n- 6 of size Small\n- 5 of size Medium\n-
+    4 of size Large\n- 4 of size XL\n\nFEATURES\n• Ultra durable soft shell\n• Backside:
+    sof EVA polyester fabric\n• Adjustable wraparound velcro strap\n• EVA ankle/achilles
+    protection                                                          \n\nBENEFITS\n•
+    Great protection, lightweight\n• Comfortable, good ventilation\n• Keeps guard
+    secure and comfortable\n• Light, comfortable protection"
+- title: CLEARANCE - Uhlsport 101106302 Starter Soft Goalkeeper Gloves - Size 7
+  image: "/2022-01-04 13.48.28.jpg"
+  price: 35
+  description: ''
 - title: CLEARANCE - Puma One Protect 3 RC Goalkeeper Gloves - Size 8, 9, 10
   image: "/Puma-OneProtect1RCGoalkeeperGloves_04165702_-01_720x.jpg"
   price: 45
@@ -435,18 +435,6 @@ promotions:
     wrist for secure fit and easy on/off\n- Puma ONE and Puma Cat logos at back of
     hand and strap\n- Product Material: 56% Latex, 43% Polyester, 1% Polyurethane\n-
     Product Colour: Yellow / Black / White "
-- title: CLEARANCE - Uhlsport Fang Hand Soft UHL-0965 - Size 10
-  image: "/100096501_fv-1000x700.jpg"
-  price: 30
-  description: |-
-    4 available in Size 10
-
-    FANGHAND SOFT is the replica model of the FANGHAND ADVANCE and in terms of design and colours, it looks basically the same as the top model. Its cut: Classic. Its inside hand? Our SOFT foam was extended to cover the side of the hand to expand the palm. The very comfortable PU material, which is slightly abraded on the inside, ensures an optimal wearing sensation. The fastener? Classic full bandage with wraparound strap made of EVA. The backhand? Made of embossed latex.
-- title: CLEARANCE - Uhlsport 100022201 Cerberus Start Soccer Goal Keeper Gloves -
-    Size 9
-  image: "/2020-04-16 15.59.31.jpg"
-  price: 30
-  description: 1 available
 - title: CLEARANCE - Uhlsport UHL-0179 Eliminator Soft Rollfinger  - Sizes 8, 9, 10
   image: "/100017901_back-714x500.jpg"
   price: 50
@@ -464,41 +452,32 @@ promotions:
     DESIGN: ELIMINATOR design with design highlights
     Material:
     45% latex, 14% EVA, 34% polyester, 7% nylon
-- title: CLEARANCE - Uhlsport 100054801 Eliminator Soccer Goal Keeper Gloves - Size
-    9
-  image: "/2020-04-16 15.56.28.jpg"
-  price: 45
-  description: 1 available
-- title: CLEARANCE - Uhlsport 101106302 Starter Soft Goalkeeper Gloves - Size 7
-  image: "/2022-01-04 13.48.28.jpg"
-  price: 35
-  description: ''
 - title: 'CLEARANCE - Uhlsport 0150 Ergonomic Starter Graphit Soccer Goal Keeper Gloves
     - Size 7 '
   image: "/2020-04-16 16.01.43.jpg"
   price: 25
   description: 1 available
+- title: CLEARANCE - Uhlsport 100022201 Cerberus Start Soccer Goal Keeper Gloves -
+    Size 9
+  image: "/2020-04-16 15.59.31.jpg"
+  price: 30
+  description: 1 available
+- title: CLEARANCE - Uhlsport 100054801 Eliminator Soccer Goal Keeper Gloves - Size
+    9
+  image: "/2020-04-16 15.56.28.jpg"
+  price: 45
+  description: 1 available
+- title: CLEARANCE - Uhlsport Fang Hand Soft UHL-0965 - Size 10
+  image: "/100096501_fv-1000x700.jpg"
+  price: 30
+  description: |-
+    4 available in Size 10
+
+    FANGHAND SOFT is the replica model of the FANGHAND ADVANCE and in terms of design and colours, it looks basically the same as the top model. Its cut: Classic. Its inside hand? Our SOFT foam was extended to cover the side of the hand to expand the palm. The very comfortable PU material, which is slightly abraded on the inside, ensures an optimal wearing sensation. The fastener? Classic full bandage with wraparound strap made of EVA. The backhand? Made of embossed latex.
 - title: Eletto GK0800 Soccer Goal Keeper Knee Pads - Size M
   image: "/2020-04-16 16.08.01.jpg"
   price: 9.5
   description: 1 available
-- title: Spring Loaded Soccer Corner Flags w/bases USC4 (Set of 4)
-  image: "/usc4-a-main_n.jpg"
-  price: 105
-  description: |-
-    - Versatile design for indoor or outdoor use
-    - Yellow hollow base to be filled with sand for added stability
-    - Spring-loaded base bends upon impact
-    - Red
-- title: Champion Soccer Linesman Flags LF3 (Set of 2)
-  image: "/lf3_n.jpg"
-  price: 12
-  description: |-
-    - Heavy-duty material for durability in outdoor environments
-    - Custom foam handles for added grip and comfort
-    - Advanced swivel design to prevent flags from becoming wound around
-    - Official diamond patterned flag designed with a bright red and yellow diamond pattern
-    - Custom carrying case for easy and convenient transportation
 - title: Franklin FRK-SOC-30125X Premier Steel Soccer Goal 12' x 6'
   image: "/5680.PNG"
   price: 380
@@ -551,6 +530,23 @@ promotions:
   image: "/2020-04-16 15.43.25.jpg"
   price: 9.5
   description: 1 available
+- title: Champion Soccer Linesman Flags LF3 (Set of 2)
+  image: "/lf3_n.jpg"
+  price: 12
+  description: |-
+    - Heavy-duty material for durability in outdoor environments
+    - Custom foam handles for added grip and comfort
+    - Advanced swivel design to prevent flags from becoming wound around
+    - Official diamond patterned flag designed with a bright red and yellow diamond pattern
+    - Custom carrying case for easy and convenient transportation
+- title: Spring Loaded Soccer Corner Flags w/bases USC4 (Set of 4)
+  image: "/usc4-a-main_n.jpg"
+  price: 105
+  description: |-
+    - Versatile design for indoor or outdoor use
+    - Yellow hollow base to be filled with sand for added stability
+    - Spring-loaded base bends upon impact
+    - Red
 - title: Soccer Corner Flag Anchors SCFA (set of 4)
   image: "/2020-04-16 15.39.13.jpg"
   price: 12
@@ -558,6 +554,10 @@ promotions:
     - 3/4" diameter post opening
     - 9.5" tall
     - spring attachment
+- title: CLEARANCE - Training Hurdles SH9 - 9" Orange
+  image: "/2022-01-04 13.10.45.jpg"
+  price: 9
+  description: 3 available
 date: '2019-03-29T23:03:26.000+00:00'
 
 ---
