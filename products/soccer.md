@@ -17,6 +17,14 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Adidas Ghost Shin Pads - Youth Sizes
+  image: "/2022-01-04 13.30.48.jpg"
+  price: 12
+  description: |-
+    Available:
+    - 4 of Size Yth Small
+    - 4 of Size Yth Medium
+    - 6 of Size Yth Large
 - title: 360 S6616 Shin Guard - Sizes XS, S
   image: "/2022-01-04 13.32.48.jpg"
   price: 9
