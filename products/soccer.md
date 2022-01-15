@@ -301,7 +301,7 @@ promotions:
     - Adult size 10-13
     - High quality sock, padded foot, ribbed articulated ankle, arch support
     - 14 pairs available
-- title: Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
+- title: CLEARANCE - Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
   image: "/diadora finale sock.PNG"
   price: 6.5
   description: |-
