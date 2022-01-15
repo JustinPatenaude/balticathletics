@@ -17,6 +17,16 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: Umbro Neo-Swerve Soccer Ball - Sizes 4, 5
+  image: "/2022-01-04 13.39.36.jpg"
+  price: 25
+  description: |-
+    Outer casing material: Embossed TPU
+    Material Thickness: 0.15mm
+    Internal Layers: 2
+    Construction: Machine Stitched Bladder: Latex
+    Panels: 16
+    Weight: 410-450
 - title: CLEARANCE - Admiral Pro Soccer Socks - GOLD only
   image: "/admiral gold soccer sock.jpg"
   price: 8
