@@ -14,7 +14,15 @@ promotions:
 - title: CLEARANCE - Salming Matrix Canada Floorball Stick - 103 cm RH
   image: "/2022-01-04 14.33.51.jpg"
   price: 40
-  description: ''
+  description: |-
+    1 available for $40, Regular $45
+
+    Flex: 32
+    BladeText: Mblade
+    GripText: Campus base grip
+    Length: 82, 87 cm
+    SKU: 3106128
+    Licensed by Hockey Canada. Coated composite shaft. X3M profiled grip. Powered with Mblade. Left and right hand cavity.
 - title: CLEARANCE - Salming Canada Matrix Floorball Stick - 87 cm RH
   image: "/2022-01-04 14.34.16.jpg"
   price: 40
