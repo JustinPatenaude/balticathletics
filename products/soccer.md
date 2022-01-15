@@ -17,6 +17,10 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: Eletto Training Poles AC-0113 (Set of 12)
+  image: "/b8561d_7d098c39842c4f16bded2c59ffac0f94_mv2.webp"
+  price: 155
+  description: 12 poles plus carry bag
 - title: Eletto Pop Up Goal Set - 3 sizes available (Sold as a pair)
   image: "/b8561d_695bdb543d6a401da2c6fee2e5c696eb_mv2.webp"
   price: 92
