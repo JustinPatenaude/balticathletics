@@ -82,25 +82,28 @@ promotions:
   image: "/XV5S-Xtreme-Celular-Beach-Volleyball-800x1000px-600x750.jpg"
   price: 18.5
   description: "- Soft durable rubber fiber outer"
-- title: Tachikara SVMNC Volley Lite Volleyball
-  image: "/Tachikara SVMN w colours.png"
-  price: 47
-  description: |-
-    - Good for ages 12 and under
-    - Great training ball
-    - Select colours in stock, other colours special order
-- title: Tachikara SV18S Volleyball
-  image: "/Tachikara SV18S w colours.png"
-  price: 42
-  description: |-
-    - Performance volleyball
-    - Indoor volleyball
-    - Great for gym classes or elementary game ball
-    - Select colours in stock, other colours special order
 - title: Champion VL25 Fabric Training Volleyball
   image: "/vl25-enhanced1-l.jpg"
   price: 18.95
   description: ''
+- title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
+  image: "/2020-03-30 11.33.27.jpg"
+  price: 4
+  description: |-
+    Only white as shown
+
+    9 available
+- title: Champion VL20 Volleyball Trainer - Size 8
+  image: "/vl20-front-l.jpg"
+  price: 16.5
+  description: |-
+    - Same size as a traditional volleyball but 20% lighter for training and accuracy practice
+    - 18 Soft, hand-sewn vinyl-covered nylon panels
+    - Tough rubber bladder for exceptional air retention
+    - Size 8
+    - Yellow (not exact ball shown-graphics on ball different)
+
+    2 available
 - title: Mikasa VQ200W-CAN Volleyball
   image: "/VQ200W-CAN_1-Z.jpg"
   price: 68
@@ -108,6 +111,53 @@ promotions:
     - MHSAA Official Volleyball
     - Buy 6 get a free clipboard
     - Buy 12+ get a Mikasa briefcase or storage bag
+- title: Mikasa FIVB Snow Volleyball SV335-V8
+  image: "/SV335-V8-B.jpg"
+  price: 47
+  description: |-
+    ORDER NOW FOR DECEMBER DELIVERY
+
+    • Professional Model as seen in the world’s top Professional games
+
+    • Perfect for our Canadian winter, this ball is a great addition to your volleyball options
+
+    • Iconic 8 paneled design with contrasting colors for spin tracking
+
+    • Stable Softness even in cold winter weather from 2 years of development and testing
+
+    • Laminating construction and covering with sponge material enable the ball to combine the perfect water proofness and softness in extremely low temperature
+
+    • FOB Winnipeg
+- title: Mikasa VUL500 Starter Ultra-Light Training Volleyball
+  image: "/VUL500_1-Z.jpg"
+  price: 55
+  description: |-
+    - Youth starter training ball for 12 years & under.
+    - Ultra-light and premium composite cover.
+    - Weight: 8 ounces (227 g)
+
+    1 available
+- title: Mikasa VXL30 Official 2016 Olympics Beach Volleyball Replica
+  image: "/VXL30_1-Z.jpg"
+  price: 24
+  description: |-
+    - Soft stitched cover
+    - Butyl airlock bladder
+    - Size #5 – Official
+
+    1 available
+- title: Mikasa NVL-VX Official NVL Game Ball Replica Beach Volleyball
+  image: "/NVL-VX_1-B.jpg"
+  price: 23
+  description: "- Official NVL beach volleyball replica\n- Cushioned synthetic leather
+    cover, butyl bladder for maximum air retention. \n- White\n\n4 available"
+- title: Mikasa NVL-PRO Official NVL Game Beach Volleyball
+  image: "/NVL-PRO_1-Z.jpg"
+  price: 45
+  description: "- Official National Volleyball League (NVL) game volleyball\n- Soft
+    supple composite leather cover\n- Unique 18 panel hand sewn construction\n- Unique
+    red, white and blue design \n- Made to Mikasa’s well known standard of excellent
+    quality\n- Size 5 - Official \n\n1 available"
 - title: CLEARANCE - Mikasa MVA-350 Volleyball
   image: "/2022-01-04 11.50.55.jpg"
   price: 23
@@ -132,77 +182,25 @@ promotions:
     - Yellow and red
 
     1 available
-- title: CLEARANCE - Wilson 84-7967 Prestige Indoor Volleyball
-  image: "/prestige red.white.jpg"
-  price: 27
+- title: Tachikara SV18S Volleyball
+  image: "/Tachikara SV18S w colours.png"
+  price: 42
   description: |-
-    - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
-    - Wound, cloth-wrapped (CW) carcass construction for extended durability
-    - V-Tec seams
-    - Official size and weight
-    - 1 available
-- title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
-  image: "/2020-03-30 11.33.27.jpg"
-  price: 4
+    - Performance volleyball
+    - Indoor volleyball
+    - Great for gym classes or elementary game ball
+    - Select colours in stock, other colours special order
+- title: Tachikara SVMNC Volley Lite Volleyball
+  image: "/Tachikara SVMN w colours.png"
+  price: 47
   description: |-
-    Only white as shown
-
-    9 available
+    - Good for ages 12 and under
+    - Great training ball
+    - Select colours in stock, other colours special order
 - title: Wilson AVP Replica Beach/Crossnet Volleyball
   image: "/wilson avp ball.jpg"
   price: 29.5
   description: OPTX Optic bright yellow ball
-- title: Mikasa FIVB Snow Volleyball SV335-V8
-  image: "/SV335-V8-B.jpg"
-  price: 47
-  description: |-
-    ORDER NOW FOR DECEMBER DELIVERY
-
-    • Professional Model as seen in the world’s top Professional games
-
-    • Perfect for our Canadian winter, this ball is a great addition to your volleyball options
-
-    • Iconic 8 paneled design with contrasting colors for spin tracking
-
-    • Stable Softness even in cold winter weather from 2 years of development and testing
-
-    • Laminating construction and covering with sponge material enable the ball to combine the perfect water proofness and softness in extremely low temperature
-
-    • FOB Winnipeg
-- title: Champion VL20 Volleyball Trainer - Size 8
-  image: "/vl20-front-l.jpg"
-  price: 16.5
-  description: |-
-    - Same size as a traditional volleyball but 20% lighter for training and accuracy practice
-    - 18 Soft, hand-sewn vinyl-covered nylon panels
-    - Tough rubber bladder for exceptional air retention
-    - Size 8
-    - Yellow (not exact ball shown-graphics on ball different)
-
-    2 available
-- title: Mikasa VUL500 Starter Ultra-Light Training Volleyball
-  image: "/VUL500_1-Z.jpg"
-  price: 55
-  description: |-
-    - Youth starter training ball for 12 years & under.
-    - Ultra-light and premium composite cover.
-    - Weight: 8 ounces (227 g)
-
-    1 available
-- title: Mikasa VXL30 Official 2016 Olympics Beach Volleyball Replica
-  image: "/VXL30_1-Z.jpg"
-  price: 24
-  description: |-
-    - Soft stitched cover
-    - Butyl airlock bladder
-    - Size #5 – Official
-
-    1 available
-- title: Mikasa NVL-VX Official NVL Game Ball Replica Beach Volleyball
-  image: "/NVL-VX_1-B.jpg"
-  price: 23
-  description: "- Official NVL beach volleyball replica\n- Cushioned synthetic leather
-    cover, butyl bladder for maximum air retention. \n- White\n\n4 available"
 - title: Wilson WTH4407 Canada Official Beach Volleyball Replica
   image: "/WTH4407 Canada Official Beach Replica Volleyball.jpg"
   price: 30
@@ -213,13 +211,15 @@ promotions:
     - Butyl rubber bladder for extended air retention
 
     1 available
-- title: Mikasa NVL-PRO Official NVL Game Beach Volleyball
-  image: "/NVL-PRO_1-Z.jpg"
-  price: 45
-  description: "- Official National Volleyball League (NVL) game volleyball\n- Soft
-    supple composite leather cover\n- Unique 18 panel hand sewn construction\n- Unique
-    red, white and blue design \n- Made to Mikasa’s well known standard of excellent
-    quality\n- Size 5 - Official \n\n1 available"
+- title: CLEARANCE - Wilson 84-7967 Prestige Indoor Volleyball
+  image: "/prestige red.white.jpg"
+  price: 27
+  description: |-
+    - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
+    - Wound, cloth-wrapped (CW) carcass construction for extended durability
+    - V-Tec seams
+    - Official size and weight
+    - 1 available
 - title: Tachikara TV6 Volleyball Briefcase
   image: "/tv6.jpg"
   price: 37
