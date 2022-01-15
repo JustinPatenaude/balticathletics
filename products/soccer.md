@@ -28,7 +28,7 @@ promotions:
 
     PALM: patented SOFT latex foam in energy blue
     BACKHAND: embossed, soft EVA
-    CUT: classic cut provides a maximised catching area
+    CUT: classic cut provides a maximized catching area
     GLOVE BODY: elastic textile for good wearing comfort
     FASTENING: Wrap-around EVA strap and half bandage
     DESIGN: ELIMINATOR design with design highlights
