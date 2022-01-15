@@ -16,6 +16,10 @@ photos:
 - title: Basketball Sizing Chart
   photo: "/Basketball Sizing Chart.PNG"
 promotions:
+- title: Spalding TF-250 Basketball - Sizes 5, 6, 7
+  image: "/TF250.png"
+  price: 24.25
+  description: ''
 - title: Spalding TF-500 Basketball - Sizes 5, 6, 7
   image: "/TF150.png"
   price: 12.75
