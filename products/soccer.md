@@ -17,6 +17,10 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: 360 S6616 Shin Guard - Sizes XS, S
+  image: "/2022-01-04 13.32.48.jpg"
+  price: 9
+  description: Appropriate for ages 3 - 6 year old kids
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -319,14 +323,6 @@ promotions:
     - Butyl bladder for good air retention
 
     3 available
-- title: CLEARANCE - Puma One Protect 3 RC Goalkeeper Gloves - Size 8, 9, 10
-  image: "/Puma-OneProtect1RCGoalkeeperGloves_04165702_-01_720x.jpg"
-  price: 45
-  description: "Available:\n- 3 of Size 8\n- 3 of Size 9\n- 3 of Size 10\n\n- Soccer
-    goalkeeper gloves\n- Thumb wrap for added dexterity\n- Hook-and-loop closure at
-    wrist for secure fit and easy on/off\n- Puma ONE and Puma Cat logos at back of
-    hand and strap\n- Product Material: 56% Latex, 43% Polyester, 1% Polyurethane\n-
-    Product Colour: Yellow / Black / White "
 - title: Diadora Nurnberg Ball Bag
   image: "/2022-01-04 14.00.09.jpg"
   price: 25
@@ -355,6 +351,21 @@ promotions:
   image: "/2020-04-16 16.04.39.jpg"
   price: 18
   description: 1 available
+- title: CLEARANCE - Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
+  image: "/diadora finale sock.PNG"
+  price: 6.5
+  description: |-
+    - 80% Polyester, 10% Lycra, 10% Spandex
+
+    12 pairs available
+- title: CLEARANCE - Puma One Protect 3 RC Goalkeeper Gloves - Size 8, 9, 10
+  image: "/Puma-OneProtect1RCGoalkeeperGloves_04165702_-01_720x.jpg"
+  price: 45
+  description: "Available:\n- 3 of Size 8\n- 3 of Size 9\n- 3 of Size 10\n\n- Soccer
+    goalkeeper gloves\n- Thumb wrap for added dexterity\n- Hook-and-loop closure at
+    wrist for secure fit and easy on/off\n- Puma ONE and Puma Cat logos at back of
+    hand and strap\n- Product Material: 56% Latex, 43% Polyester, 1% Polyurethane\n-
+    Product Colour: Yellow / Black / White "
 - title: CLEARANCE - Uhlsport Fang Hand Soft UHL-0965 - Size 10
   image: "/100096501_fv-1000x700.jpg"
   price: 30
@@ -384,13 +395,6 @@ promotions:
     DESIGN: ELIMINATOR design with design highlights
     Material:
     45% latex, 14% EVA, 34% polyester, 7% nylon
-- title: CLEARANCE - Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
-  image: "/diadora finale sock.PNG"
-  price: 6.5
-  description: |-
-    - 80% Polyester, 10% Lycra, 10% Spandex
-
-    12 pairs available
 - title: CLEARANCE - Uhlsport 100054801 Eliminator Soccer Goal Keeper Gloves - Size
     9
   image: "/2020-04-16 15.56.28.jpg"
