@@ -17,6 +17,13 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: Deluxe Bungee Net Fastener (Pkg of 30)
+  image: "/10B3501_1-scaled-600x400.jpg"
+  price: 62
+  description: |-
+    4 pkgs available
+
+    The Deluxe Bungee Net Fasteners are designed to secure nets to any soccer goal with 4” x 2” or 4” x 4” square posts, and/or a round post that is greater than 3”. The bungee net fasteners feature a thick, black, elastic cord with knobs. The durable, elastic cord is UV-resistant which helps increase the longevity of each fastener.
 - title: CLEARANCE - Eletto SG2001 Victory IV Soft Shell Shinpads
   image: "/b8561d_dd80a71d631143acae4b62da12c36703_mv2.webp"
   price: 14
