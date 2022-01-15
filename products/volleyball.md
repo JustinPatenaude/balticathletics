@@ -34,10 +34,6 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
-- title: CLEARANCE - Mikasa MVA-350 Volleyball
-  image: "/2022-01-04 11.50.55.jpg"
-  price: 23
-  description: ONE available only.
 - title: Cobra Outdoor Volleyball System
   image: "/cobra on grass.JPG"
   price: 750
@@ -82,22 +78,40 @@ promotions:
     grows the size of each square to 11.5 x 11.5 feet to allow for plenty of room\nORIGINAL
     SET REQUIRED: Our add-on net is conveniently interchangeable with the original
     set and is required for use *"
-- title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
-  image: "/2020-03-30 11.33.27.jpg"
-  price: 4
+- title: 360 XV5S Cellular Indoor/Outdoor Volleyball
+  image: "/XV5S-Xtreme-Celular-Beach-Volleyball-800x1000px-600x750.jpg"
+  price: 18.5
+  description: "- Soft durable rubber fiber outer"
+- title: Tachikara SVMNC Volley Lite Volleyball
+  image: "/Tachikara SVMN w colours.png"
+  price: 47
   description: |-
-    Only white as shown
-
-    9 available
-- title: CLEARANCE - Wilson 84-7967 Prestige Indoor Volleyball
-  image: "/prestige red.white.jpg"
-  price: 27
+    - Good for ages 12 and under
+    - Great training ball
+    - Select colours in stock, other colours special order
+- title: Tachikara SV18S Volleyball
+  image: "/Tachikara SV18S w colours.png"
+  price: 42
   description: |-
-    - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
-    - Wound, cloth-wrapped (CW) carcass construction for extended durability
-    - V-Tec seams
-    - Official size and weight
-    - 1 available
+    - Performance volleyball
+    - Indoor volleyball
+    - Great for gym classes or elementary game ball
+    - Select colours in stock, other colours special order
+- title: Champion VL25 Fabric Training Volleyball
+  image: "/vl25-enhanced1-l.jpg"
+  price: 18.95
+  description: ''
+- title: Mikasa VQ200W-CAN Volleyball
+  image: "/VQ200W-CAN_1-Z.jpg"
+  price: 68
+  description: |-
+    - MHSAA Official Volleyball
+    - Buy 6 get a free clipboard
+    - Buy 12+ get a Mikasa briefcase or storage bag
+- title: CLEARANCE - Mikasa MVA-350 Volleyball
+  image: "/2022-01-04 11.50.55.jpg"
+  price: 23
+  description: ONE available only.
 - title: CLEARANCE - Mikasa VSL215PNK Indoor/Outdoor Volleyball
   image: "/VSL215PNK_1-Z.jpg"
   price: 26
@@ -118,36 +132,22 @@ promotions:
     - Yellow and red
 
     1 available
-- title: Champion VL25 Fabric Training Volleyball
-  image: "/vl25-enhanced1-l.jpg"
-  price: 18.95
-  description: ''
-- title: Tachikara SVMNC Volley Lite Volleyball
-  image: "/Tachikara SVMN w colours.png"
-  price: 47
+- title: CLEARANCE - Wilson 84-7967 Prestige Indoor Volleyball
+  image: "/prestige red.white.jpg"
+  price: 27
   description: |-
-    - Good for ages 12 and under
-    - Great training ball
-    - Select colours in stock, other colours special order
-- title: SV18S Tachikara Volleyball
-  image: "/Tachikara SV18S w colours.png"
-  price: 42
+    - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
+    - Wound, cloth-wrapped (CW) carcass construction for extended durability
+    - V-Tec seams
+    - Official size and weight
+    - 1 available
+- title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
+  image: "/2020-03-30 11.33.27.jpg"
+  price: 4
   description: |-
-    - Performance volleyball
-    - Indoor volleyball
-    - Great for gym classes or elementary game ball
-    - Select colours in stock, other colours special order
-- title: Mikasa VQ200W-CAN Volleyball
-  image: "/VQ200W-CAN_1-Z.jpg"
-  price: 68
-  description: |-
-    - MHSAA Official Volleyball
-    - Buy 6 get a free clipboard
-    - Buy 12+ get a Mikasa briefcase or storage bag
-- title: 360 XV5S Cellular Indoor/Outdoor Volleyball
-  image: "/XV5S-Xtreme-Celular-Beach-Volleyball-800x1000px-600x750.jpg"
-  price: 18.5
-  description: "- Soft durable rubber fiber outer"
+    Only white as shown
+
+    9 available
 - title: Wilson AVP Replica Beach/Crossnet Volleyball
   image: "/wilson avp ball.jpg"
   price: 29.5
