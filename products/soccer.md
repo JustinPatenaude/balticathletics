@@ -17,6 +17,14 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: Kwik Goal 2B7 Infinity Pop Up Goals - 48" and 72" (Sold in eaches)
+  image: "/2B7106_1_IMG_0101-600x400.jpg"
+  price: 78
+  description: |-
+    48" - $78.00
+    72" - $95.00
+
+    With the simple action of crossing and uncrossing your arms, the Infinity Pop-up Soccer Goals can be ready for play or get packed away. Infinity goals are ideal for small-sided training or simple backyard play. These goals includes a Polyester travel bag, Nylon pegs (for anchoring on grass surfaces), Elastic anchor tethers and Velcro fasteners (to hold goal in folded position).
 - title: 360 SVS10 Soccer Net Attachments (Pkg of 10)
   image: "/SVS10-Soccer-VelcroNetAttachmentSet-800x1000px-600x750.jpg"
   price: 16
