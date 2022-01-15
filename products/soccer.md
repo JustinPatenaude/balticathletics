@@ -24,9 +24,16 @@ promotions:
     Balls are great training balls for intermediate players. These soccer balls are
     available in three sizes that will fit the requirements of your league, age group,
     or skill level.
+- title: 360 Screamer Soccer Ball - Size 3
+  image: "/2022-01-04 11.41.03.jpg"
+  price: 14.95
+  description: |-
+    - 2.7mm with 2 ply cloth backing
+    - Butyl bladder
+    - Orange
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
-  price: 12
+  price: 14.75
   description: |-
     - Ideal for beginner level players
     - Designed for game play, practice or recreation
@@ -35,13 +42,6 @@ promotions:
     - 2 ply cloth backing
 
     1 available
-- title: 360 Screamer Soccer Ball - Size 3
-  image: "/2022-01-04 11.41.03.jpg"
-  price: 14.95
-  description: |-
-    - 2.7mm with 2 ply cloth backing
-    - Butyl bladder
-    - Orange
 - title: 360 PGS4B Playground Series Soccer Ball - Size 4
   image: "/PGS4B-web.jpg"
   price: 7.75
