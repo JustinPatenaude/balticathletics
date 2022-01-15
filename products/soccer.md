@@ -308,7 +308,7 @@ promotions:
     - 80% Polyester, 10% Lycra, 10% Spandex
 
     12 pairs available
-- title: Eletto SC-1100 Classic Pro Soccer Socks - WHITE - Size 7-9
+- title: CLEARANCE - Eletto SC-1100 Classic Pro Soccer Socks - WHITE - Size 7-9
   image: "/Eletto Classic Pro SC1100 sock.PNG"
   price: 8
   description: |-
