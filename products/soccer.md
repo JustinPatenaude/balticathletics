@@ -17,7 +17,11 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: CLEARANCE - Uhlsport Eliminator Soft Rollfinger 100054801 - Sizes 8, 9, 10
+- title: ''
+  image: ''
+  price: 
+  description: ''
+- title: CLEARANCE - Uhlsport Eliminator Soft Rollfinger UHL-0179 - Sizes 8, 9, 10
   image: "/100017901_back-714x500.jpg"
   price: 
   description: |-
