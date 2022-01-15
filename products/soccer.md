@@ -17,7 +17,11 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: Uhlsport Pro Ligue Elysia Training Ball - Size 5
+- title: ''
+  image: ''
+  price: 
+  description: ''
+- title: CLEARANCE - Uhlsport Pro Ligue Elysia Training Ball - Size 5
   image: "/2022-01-04 12.28.24.jpg"
   price: 48
   description: Pro training ball
