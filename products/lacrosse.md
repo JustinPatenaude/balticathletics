@@ -38,4 +38,6 @@ promotions:
     - Orange frame and black net provides better visibility for players and spectators
     - Official size
 
+    - 4 in stock
+
 ---
