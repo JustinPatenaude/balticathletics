@@ -17,6 +17,14 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: CLEARANCE - Puma One Grip 1 RC Goalkeeper Gloves - Size 8, 9, 10
+  image: "/Puma-OneGrip1RCGoalkeeperGloves_04165102_-01_720x.jpg"
+  price: 
+  description: "Available:\n- 3 of Size 8\n- 3 of Size 9\n- 3 of Size 10\n\nSoccer
+    goalkeeper gloves\nThumb wrap for added dexterity\nHook-and-loop closure at wrist
+    for secure fit and easy on/off\nPuma ONE and Puma Cat logos at back of hand and
+    strap\nProduct Material: 56% Latex, 43% Polyester, 1% Polyurethane\nProduct Colour:
+    Yellow / Black / White "
 - title: CLEARANCE - Uhlsport UHL-0192 Eliminator Starter Graphit Goalkeeper Gloves
     - Size 8
   image: "/2022-01-04 13.46.39.jpg"
