@@ -16,10 +16,10 @@ photos:
 - title: Basketball Sizing Chart
   photo: "/Basketball Sizing Chart.PNG"
 promotions:
-- title: Spalding Precision Basketball - Available in Size 6 & 7
-  image: "/spalding precision.png"
-  price: 49.5
-  description: "- Comparable feel and bounce to Wilson Evolution ball"
+- title: CLEARANCE - Spalding All Conference Basketball 76-8988C - Size 7
+  image: "/2022-01-04 14.03.42.jpg"
+  price: 27
+  description: "- 24 available in stock"
 - title: CLEARANCE - Spalding TF-750 Composite Basketball 74-7938C
   image: "/2022-01-04 14.21.27.jpg"
   price: 45
@@ -30,6 +30,10 @@ promotions:
   description: |-
     - 9 available only
     - Indoor/Outdoor
+- title: Spalding Precision Basketball - Available in Size 6 & 7
+  image: "/spalding precision.png"
+  price: 49.5
+  description: "- Comparable feel and bounce to Wilson Evolution ball"
 - title: Spalding Eco-Green - Size 29.5 (7)
   image: "/Spalding Size 7 Green.jpg"
   price: 11
