@@ -20,7 +20,9 @@ promotions:
 - title: Uhlsport 100158801 Rebell Tri-Concept 2.0 Soccer Ball - Size 5
   image: "/2022-01-04 12.27.54.jpg"
   price: 45
-  description: 6 available
+  description: |-
+    6 available
+    Pro training ball
 - title: CLEARANCE - Uhlsport Pro Ligue Elysia Training Ball - Size 5
   image: "/2022-01-04 12.28.24.jpg"
   price: 48
