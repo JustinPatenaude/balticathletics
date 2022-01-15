@@ -17,38 +17,11 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: CLEARANCE - Uhlsport Top Soccer Ball 100151201 - Size 5
-  image: "/2022-01-04 12.25.23.jpg"
-  price: 40
-  description: |-
-    Purple/White/Black
-    Match and training ball, soft PU cover with shiny finish, 5 layer PV lamination, high air retention, IMS (International Matchball Standard)
-- title: Adidas Tango Glider Soccer Ball - Size 5
-  image: "/2022-01-04 12.25.47.jpg"
-  price: 35
-  description: ''
-- title: CLEARANCE - Uhlsport Tri Concept League Soccer Ball - Size 5
-  image: "/2022-01-04 12.26.52.jpg"
-  price: 60
-  description: |-
-    White/Blue
-    FIFA Approved, single chamber bladder, Soft PU backing, 4-Ply lamination abrasion resistant, superior flight and bounce characteristics, good air retention
-- title: CLEARANCE - Uhlsport Ligue 1 Conforama Soccer Ball - Size 5
-  image: "/2022-01-04 12.27.05.jpg"
+- title: Uhlsport Elysia Ballon Replica Ligue 1 Soccer Ball 1001685012019 - Size 5
+  image: "/2022-01-04 12.25.11.jpg"
   price: 27
-  description: 4 available
-- title: CLEARANCE - Uhlsport 100158801 Rebell Tri-Concept 2.0 Soccer Ball - Size
-    5
-  image: "/2022-01-04 12.27.54.jpg"
-  price: 45
-  description: |-
-    6 available
-    Training and individual skill ball for hard ground pitches and artificial turf, abrasion resistant, soft PVC material, 4 layer PES/PV lamination, Butyl bladder
-    White/Black/Neon Green
-- title: CLEARANCE - Uhlsport Pro Ligue Elysia Training Ball - Size 5
-  image: "/2022-01-04 12.28.24.jpg"
-  price: 48
-  description: Pro training ball
+  description: "ONE available\nYellow/Black/Silver \nCushioned panels, Butyl Bladder,
+    Replica ball of the France Ligue 1 Official ball"
 - title: 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
   price: 12
@@ -88,6 +61,10 @@ promotions:
   description: |-
     Soft touch game or training ball
     1 available
+- title: Adidas Tango Glider Soccer Ball - Size 5
+  image: "/2022-01-04 12.25.47.jpg"
+  price: 35
+  description: ''
 - title: Adidas Pink/Blue Soccer Ball - Size 5
   image: "/Adidas pink.jpg"
   price: 24
@@ -105,24 +82,6 @@ promotions:
     - Yellow/Black
 
     2 available
-- title: 360 SVS10 Soccer Net Attachments (Pkg of 10)
-  image: "/SVS10-Soccer-VelcroNetAttachmentSet-800x1000px-600x750.jpg"
-  price: 16
-  description: These double-sided Velcro strips make attaching soccer nets to goal
-    posts much easier. With 10 pieces in the set, these durable Soccer Net Attachments
-    are bright orange and measure 22” in length and 1” in height.
-- title: Eletto Pop Up Goal Set - 3 sizes available (Sold as a pair)
-  image: "/b8561d_695bdb543d6a401da2c6fee2e5c696eb_mv2.webp"
-  price: 92
-  description: |-
-    AC0066 Small 30" wide x 18" tall - $75.00 (Special Order)
-    AC0064 Medium 48" wide x 30" tall - $92.00
-    AC0065 Large 72" wide x 42" tall - $116.00
-
-    Net pops up in seconds and can be easily flattened for transport. Great Net for training drills, accuracy as well as for beaches, backyards or fields. Polyester net, 15mm mesh. Floor corner in metal for durability covered in nylon for protection. Elastic hooks to lock to ground with pegs included). Velcro® fastener to hold goal in fold position.
-    Nylon carry bag included. Set of 2.
-
-    Color of products may vary.
 - title: Champion EX5PR Extreme Soccer Ball - Size 5
   image: "/ex5pr-a-front_l.jpg"
   price: 15.5
@@ -136,10 +95,6 @@ promotions:
     - Purple
 
     1 available
-- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
-  image: "/2020-04-16 16.16.51.jpg"
-  price: 39
-  description: 1 available
 - title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
   image: "/Eletto LNA-290 soccer ball.jpg"
   price: 
@@ -148,6 +103,10 @@ promotions:
   image: "/Eletto LIGA comp soccer ball.jpg"
   price: 29
   description: ''
+- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
+  image: "/2020-04-16 16.16.51.jpg"
+  price: 39
+  description: 1 available
 - title: SKLZ Quickster Soccer Goal 2617 (Sold in eaches)
   image: "/koaq7uwwxfpikdddykcn_800x800.jpg"
   price: 180
@@ -158,6 +117,32 @@ promotions:
   image: "/b8561d_7d098c39842c4f16bded2c59ffac0f94_mv2.webp"
   price: 155
   description: 12 poles plus carry bag (photo not accurate)
+- title: CLEARANCE - Uhlsport 100158801 Rebell Tri-Concept 2.0 Soccer Ball - Size
+    5
+  image: "/2022-01-04 12.27.54.jpg"
+  price: 45
+  description: |-
+    6 available
+    Training and individual skill ball for hard ground pitches and artificial turf, abrasion resistant, soft PVC material, 4 layer PES/PV lamination, Butyl bladder
+    White/Black/Neon Green
+- title: CLEARANCE - Uhlsport Tri Concept League Soccer Ball - Size 5
+  image: "/2022-01-04 12.26.52.jpg"
+  price: 60
+  description: |-
+    White/Blue
+    FIFA Approved, single chamber bladder, Soft PU backing, 4-Ply lamination abrasion resistant, superior flight and bounce characteristics, good air retention
+- title: CLEARANCE - Uhlsport Top Soccer Ball 100151201 - Size 5
+  image: "/2022-01-04 12.25.23.jpg"
+  price: 40
+  description: |-
+    Purple/White/Black
+    Match and training ball, soft PU cover with shiny finish, 5 layer PV lamination, high air retention, IMS (International Matchball Standard)
+- title: 360 SVS10 Soccer Net Attachments (Pkg of 10)
+  image: "/SVS10-Soccer-VelcroNetAttachmentSet-800x1000px-600x750.jpg"
+  price: 16
+  description: These double-sided Velcro strips make attaching soccer nets to goal
+    posts much easier. With 10 pieces in the set, these durable Soccer Net Attachments
+    are bright orange and measure 22” in length and 1” in height.
 - title: Deluxe Bungee Net Fastener (Pkg of 30)
   image: "/10B3501_1-scaled-600x400.jpg"
   price: 62
@@ -165,6 +150,18 @@ promotions:
     4 pkgs available
 
     The Deluxe Bungee Net Fasteners are designed to secure nets to any soccer goal with 4” x 2” or 4” x 4” square posts, and/or a round post that is greater than 3”. The bungee net fasteners feature a thick, black, elastic cord with knobs. The durable, elastic cord is UV-resistant which helps increase the longevity of each fastener.
+- title: Eletto Pop Up Goal Set - 3 sizes available (Sold as a pair)
+  image: "/b8561d_695bdb543d6a401da2c6fee2e5c696eb_mv2.webp"
+  price: 92
+  description: |-
+    AC0066 Small 30" wide x 18" tall - $75.00 (Special Order)
+    AC0064 Medium 48" wide x 30" tall - $92.00
+    AC0065 Large 72" wide x 42" tall - $116.00
+
+    Net pops up in seconds and can be easily flattened for transport. Great Net for training drills, accuracy as well as for beaches, backyards or fields. Polyester net, 15mm mesh. Floor corner in metal for durability covered in nylon for protection. Elastic hooks to lock to ground with pegs included). Velcro® fastener to hold goal in fold position.
+    Nylon carry bag included. Set of 2.
+
+    Color of products may vary.
 - title: Kwik Goal 2B7 Infinity Pop Up Goals - 48" and 72" (Sold in eaches)
   image: "/2B7106_1_IMG_0101-600x400.jpg"
   price: 78
@@ -217,6 +214,14 @@ promotions:
     - 1 Yellow
     - 1 Blue
     - 2 Purple
+- title: CLEARANCE - Uhlsport Pro Ligue Elysia Training Ball - Size 5
+  image: "/2022-01-04 12.28.24.jpg"
+  price: 48
+  description: Pro training ball
+- title: CLEARANCE - Uhlsport Ligue 1 Conforama Soccer Ball - Size 5
+  image: "/2022-01-04 12.27.05.jpg"
+  price: 27
+  description: 4 available
 - title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
   image: "/w1B3205-1BasicTrainingBall.jpg"
   price: 19
