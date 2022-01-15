@@ -17,6 +17,13 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
+- title: 360 Super Nova S36403 Soccer Ball - Size 3
+  image: "/2022-01-04 11.41.27.jpg"
+  price: 15.95
+  description: |-
+    4 available
+    Soft Touch Micro Cellular PVC and EVA foam backing
+    Black/Red/White
 - title: 360 Attack Soccer Ball - Sizes 3, 4, 5
   image: "/ATTACK4-Soccer-AttackSoccerBall-Size4-800x1000px-600x750.jpg"
   price: 12.95
