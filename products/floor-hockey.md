@@ -11,7 +11,7 @@ products:
 - Player Sticks
 photos: []
 promotions:
-- title: Linwood FI-1224 Street Hawk Canada Set
+- title: Linwood FI-1224 Street Hawk Canada Set - 23" pads
   image: "/2022-01-03 16.20.27.jpg"
   price: 59
   description: Includes Blocker, Trapper, Goal Pads
