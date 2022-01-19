@@ -16,6 +16,13 @@ photos:
 - title: Basketball Sizing Chart
   photo: "/Basketball Sizing Chart.PNG"
 promotions:
+- title: Lolimpin Rear Mounted Standard Basketball Rim LO-B60
+  image: "/LO-B601.jpg"
+  price: 185
+  description: |-
+    Rear Mounted Standard Rim for use on fan-shaped backboards
+
+    Official size 457mm[18"] ring of 16mm[5/8"] solid steel with 12 no-tie net holders. Flat steel braces bent and welded offer additional support on nearly half of the rim. Powder coated to withstand outdoor use. Complete with nylon mesh and zinc plated hardware.
 - title: CLEARANCE - Molded Backboard Padding LO-B73M (sold in eaches)
   image: "/LO-B73M-6.jpg"
   price: 325
