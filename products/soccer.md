@@ -433,21 +433,6 @@ promotions:
   image: "/b8561d_7d098c39842c4f16bded2c59ffac0f94_mv2.webp"
   price: 155
   description: 12 poles plus carry bag (photo not accurate)
-- title: CLEARANCE - Eletto EG1440 Legend Soccer Goal Gloves - Size 8
-  image: "/2020-04-16 16.16.51.jpg"
-  price: 39
-  description: 1 available
-- title: CLEARANCE - Uhlsport UHL-0192 Eliminator Starter Graphit Goalkeeper Gloves
-    - Size 8
-  image: "/2022-01-04 13.46.39.jpg"
-  price: 35
-  description: 2 of Size 8 available
-- title: CLEARANCE - Acacia Inferno Goalkeeper Gloves - Size 8
-  image: "/inferno_lime.jpg"
-  price: 13
-  description: 'INFERNO KEEPER GLOVES: Designed for beginner and junior level players.
-    Polyester/ cotton micro-air material and a latex foam palm provides excellent
-    grip and durability. Made with a Velcro wrist strap closure for a secure fit.'
 - title: CLEARANCE - Admiral Pro Soccer Socks - GOLD only
   image: "/admiral gold soccer sock.jpg"
   price: 5
@@ -515,6 +500,29 @@ promotions:
   image: "/2020-04-16 16.15.34.jpg"
   price: 8
   description: 1 available
+- title: CLEARANCE - Adidas Ghost Shin Pads - Youth Sizes
+  image: "/2022-01-04 13.30.48.jpg"
+  price: 12
+  description: |-
+    Available:
+    - 4 of Size Yth Small
+    - 4 of Size Yth Medium
+    - 6 of Size Yth Large
+- title: CLEARANCE - Uhlsport UHL-0192 Eliminator Starter Graphit Goalkeeper Gloves
+    - Size 8
+  image: "/2022-01-04 13.46.39.jpg"
+  price: 35
+  description: 2 of Size 8 available
+- title: CLEARANCE - Eletto EG1440 Legend Soccer Goal Gloves - Size 8
+  image: "/2020-04-16 16.16.51.jpg"
+  price: 39
+  description: 1 available
+- title: CLEARANCE - Acacia Inferno Goalkeeper Gloves - Size 8
+  image: "/inferno_lime.jpg"
+  price: 13
+  description: 'INFERNO KEEPER GLOVES: Designed for beginner and junior level players.
+    Polyester/ cotton micro-air material and a latex foam palm provides excellent
+    grip and durability. Made with a Velcro wrist strap closure for a secure fit.'
 - title: CLEARANCE - Puma Future Grip 5.4 Goalkeeper Gloves - Size 6, 7
   image: "/2022-01-04 13.52.42.jpg"
   price: 39
@@ -530,18 +538,6 @@ promotions:
     Available:
     - 2 of Size 8
     - 2 of Size 9
-- title: CLEARANCE - Adidas Ghost Shin Pads - Youth Sizes
-  image: "/2022-01-04 13.30.48.jpg"
-  price: 12
-  description: |-
-    Available:
-    - 4 of Size Yth Small
-    - 4 of Size Yth Medium
-    - 6 of Size Yth Large
-- title: CLEARANCE - Eletto GK0800 Soccer Goal Keeper Knee Pads - Size M
-  image: "/2020-04-16 16.08.01.jpg"
-  price: 9.5
-  description: 1 available
 - title: CLEARANCE - Eletto Flip V Flat Goalkeeper Gloves EG-2020 - Size 8, 9, 10
   image: "/2022-01-04 13.52.02.jpg"
   price: 19
@@ -607,7 +603,11 @@ promotions:
     4 available in Size 10
 
     FANGHAND SOFT is the replica model of the FANGHAND ADVANCE and in terms of design and colours, it looks basically the same as the top model. Its cut: Classic. Its inside hand? Our SOFT foam was extended to cover the side of the hand to expand the palm. The very comfortable PU material, which is slightly abraded on the inside, ensures an optimal wearing sensation. The fastener? Classic full bandage with wraparound strap made of EVA. The backhand? Made of embossed latex.
-- title: Franklin FRK-SOC-30125X Premier Steel Soccer Goal 12' x 6'
+- title: CLEARANCE - Eletto GK0800 Soccer Goal Keeper Knee Pads - Size M
+  image: "/2020-04-16 16.08.01.jpg"
+  price: 9.5
+  description: 1 available
+- title: CLEARANCE - Franklin FRK-SOC-30125X Premier Steel Soccer Goal 12' x 6'
   image: "/5680.PNG"
   price: 380
   description: |-
