@@ -13,86 +13,6 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
-- title: DOM RR-G Gym Ringette Rings
-  image: "/gymringette_RRG_gymring.jpg"
-  price: 11.35
-  description: 6", 5 oz, high optic orange Skinex ring is safe, slides easily and
-    is highly durable
-- title: DOM Gym Ringette 35", 44", 50" available
-  image: "/ringette_r2_family.jpg"
-  price: 10.5
-  description: |-
-    - YOUTH R2 - 35" - $10.50 each
-    Twin "I" beam ribs add strength. Flexible stick will not break, kink or suffer shaft fatigue.
-    - INTERMEDIATE R3 - 44" - $17.50 each
-    Our most popular model.
-    Semi-rigid shaft, reinforced with 1/2" fiberglass tubing.
-    - SENIOR R7 - 50" - $19.25 each
-    Super strong!
-    Poly-shaft reinforced with 1/2" fiberglass rod can take the force of rugged senior play.
-- title: DOM SB-76 Standard Replacement Blades
-  image: "/hockey_blades_SB76.jpg"
-  price: 4.75
-  description: |-
-    SB-76 Blade fits over shafts of all major brands
-    Shatterproof, impact resistant.
-
-    Made from high density polyethylene. Solid continuous striking surface - no gimmicky patterns notched into blade which can weaken blade over time. Can be shaped left or right (by hand only), hundreds of times, without compromising strength or durability. Blades will never mark gym floors! Excellent for outdoor surfaces too.
-
-    REPLACEMENT BLADE FOR:
-    Youth, Excel, Cup, Pro, Elite, VISION
-    COLOURS: Red, Blue, Black & White
-    All colours in stock.
-- title: DOM FP-05 ProFelt Puck (Sold in pairs)
-  image: "/hockey_FP05fp.jpg"
-  price: 22.5
-  description: |-
-    - Best floor hockey puck ever made!
-    - Safe, simple and functional!
-    - Glides well! Handles predictably! All achieved without compromising safety! - -- Special sewing technique helps retain shape and provides slight edge curve which minimizes bounce and roll.
-    - Perform without bruises attributed to flying rubber pucks!
-    - For indoor use only.
-    - 100% Pure South African Wool
-    - Made in Canada
-    - Sold in Pairs Only.
-    - FP-05 40 grams
-    - SIZE: 3" x 7/8"
-- title: DOM-83 GymHockey Ball
-  image: "/hockey_dom83.jpg"
-  price: 3.75
-  description: |-
-    - Designed for maximum safety and excellent playability.
-    - Very soft, bright orange, no-bounce plastisol ball.
-    - DOM-83 62 grams
-    - COLOUR: Optic Orange
-- title: DOM P70 PRO Floor Hockey Set
-  image: "/P70 PRO Set.jpg"
-  price: 245
-  description: |-
-    Shaft guaranteed indestructible! Same engineering specs as the CUP, this 52" length stick is for those players who prefer a longer stick.
-
-    Includes:
-    - 12 PRO Sticks (6 Red / 6 Blue)
-    - 2 DOM-84 SuperPucks
-    - 2 DOM-83 Balls
-- title: DOM C60 CUP Floor Hockey Set
-  image: "/C60 Cup Set.jpg"
-  price: 231
-  description: |-
-    Simply Indestructible! If a C6 shaft breaks we will replace it. Tough, rigid stick specially designed to take the force of rugged play. High-density poly outer shell is impervious to impact, and 1/2" fiberglass solid rod provides rigidity, strength and maintains integrity, even below freezing temperatures. Standard blade (SB-76), firmly secured with two screws, offers improved control.
-
-    Includes:
-    - 12 CUP Sticks (6 Red / 6 Blue)
-    - 2 DOM-84 SuperPucks
-    - 2 DOM-83 Balls
-- title: DOM X90 EXCEL Floor Hockey Set
-  image: "/X90 Excel Set.jpg"
-  price: 215
-  description: |-
-    Includes
-    - 12 EXCEL Sticks (6 Red / 6 Blue)
-    - 2 DOM-84 SuperPucks
-    - 2 DOM-83 Balls
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
@@ -111,6 +31,47 @@ promotions:
     - plastic butt end
 
     6 available
+- title: DOM C60 CUP Floor Hockey Set
+  image: "/C60 Cup Set.jpg"
+  price: 231
+  description: |-
+    Simply Indestructible! If a C6 shaft breaks we will replace it. Tough, rigid stick specially designed to take the force of rugged play. High-density poly outer shell is impervious to impact, and 1/2" fiberglass solid rod provides rigidity, strength and maintains integrity, even below freezing temperatures. Standard blade (SB-76), firmly secured with two screws, offers improved control.
+
+    Includes:
+    - 12 CUP Sticks (6 Red / 6 Blue)
+    - 2 DOM-84 SuperPucks
+    - 2 DOM-83 Balls
+- title: DOM P70 PRO Floor Hockey Set
+  image: "/P70 PRO Set.jpg"
+  price: 245
+  description: |-
+    Shaft guaranteed indestructible! Same engineering specs as the CUP, this 52" length stick is for those players who prefer a longer stick.
+
+    Includes:
+    - 12 PRO Sticks (6 Red / 6 Blue)
+    - 2 DOM-84 SuperPucks
+    - 2 DOM-83 Balls
+- title: DOM X90 EXCEL Floor Hockey Set
+  image: "/X90 Excel Set.jpg"
+  price: 215
+  description: |-
+    Includes
+    - 12 EXCEL Sticks (6 Red / 6 Blue)
+    - 2 DOM-84 SuperPucks
+    - 2 DOM-83 Balls
+- title: DOM SB-76 Standard Replacement Blades
+  image: "/hockey_blades_SB76.jpg"
+  price: 4.75
+  description: |-
+    SB-76 Blade fits over shafts of all major brands
+    Shatterproof, impact resistant.
+
+    Made from high density polyethylene. Solid continuous striking surface - no gimmicky patterns notched into blade which can weaken blade over time. Can be shaped left or right (by hand only), hundreds of times, without compromising strength or durability. Blades will never mark gym floors! Excellent for outdoor surfaces too.
+
+    REPLACEMENT BLADE FOR:
+    Youth, Excel, Cup, Pro, Elite, VISION
+    COLOURS: Red, Blue, Black & White
+    All colours in stock.
 - title: CLEARANCE - Cosom Floor Hockey Stick CH-700833-BK - 42"
   image: "/2020-06-02 12.57.52.jpg"
   price: 9.75
@@ -156,6 +117,28 @@ promotions:
     - Medium hardness - 0-15 degrees Celsius
 
     1 pair available
+- title: DOM-83 GymHockey Ball
+  image: "/hockey_dom83.jpg"
+  price: 3.75
+  description: |-
+    - Designed for maximum safety and excellent playability.
+    - Very soft, bright orange, no-bounce plastisol ball.
+    - DOM-83 62 grams
+    - COLOUR: Optic Orange
+- title: DOM FP-05 ProFelt Puck (Sold in pairs)
+  image: "/hockey_FP05fp.jpg"
+  price: 22.5
+  description: |-
+    - Best floor hockey puck ever made!
+    - Safe, simple and functional!
+    - Glides well! Handles predictably! All achieved without compromising safety! - -- Special sewing technique helps retain shape and provides slight edge curve which minimizes bounce and roll.
+    - Perform without bruises attributed to flying rubber pucks!
+    - For indoor use only.
+    - 100% Pure South African Wool
+    - Made in Canada
+    - Sold in Pairs Only.
+    - FP-05 40 grams
+    - SIZE: 3" x 7/8"
 - title: Linwood FI-1223 Street Hawk Canada Floor Hockey Pads - 23"
   image: "/2022-01-03 16.20.35.jpg"
   price: 25
