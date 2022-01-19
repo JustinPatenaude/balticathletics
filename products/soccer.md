@@ -116,6 +116,36 @@ promotions:
     1 set available
   title: Speedskin Soft Soccer Ball Set of 6 - Size 4
   image: "/SSSOCCERKIT_1-Z.jpg"
+- title: Uhlsport Elysia Ballon Replica Soccer Ball - Size 5
+  image: "/2022-01-04 12.07.19.jpg"
+  price: 35
+  description: |-
+    - 32 available
+    - Fluorescent Yellow / Orange / Navy Blue
+    - Soft Touch cushioned panels
+    - Butyl Bladder
+    - Superior bounce and control
+- title: Uhlsport 1503 M-Konzept TEAM Soccer Ball - Size 4, 5
+  image: "/100150312_fv-714x500.jpg"
+  price: 25
+  description: |-
+    - Available in Orange, Yellow, Green and Blue
+    - Excellent, machine stitched training and individual skill ball
+    - New 22 panel shape
+    - Long lasting and Soft TPU material with Additional foam lamination
+    - High rebound Butyl bladder for best air retention and playing characteristics
+    Material:
+    - TPU 20%, Rubber 40 %, EVA 30% , PES 10 %
+- title: Umbro Neo-Swerve Soccer Ball - Sizes 4, 5
+  image: "/2022-01-04 13.39.36.jpg"
+  price: 25
+  description: |-
+    Outer casing material: Embossed TPU
+    Material Thickness: 0.15mm
+    Internal Layers: 2
+    Construction: Machine Stitched Bladder: Latex
+    Panels: 16
+    Weight: 410-450
 - title: CLEARANCE - 360 Super Nova S36403 Soccer Ball - Size 3
   image: "/2022-01-04 11.41.27.jpg"
   price: 15.95
@@ -271,17 +301,6 @@ promotions:
   image: "/BOCA-2.jpg"
   price: 28
   description: 1 available
-- title: Uhlsport 1503 M-Konzept TEAM Soccer Ball - Size 4, 5
-  image: "/100150312_fv-714x500.jpg"
-  price: 25
-  description: |-
-    - Available in Orange, Yellow, Green and Blue
-    - Excellent, machine stitched training and individual skill ball
-    - New 22 panel shape
-    - Long lasting and Soft TPU material with Additional foam lamination
-    - High rebound Butyl bladder for best air retention and playing characteristics
-    Material:
-    - TPU 20%, Rubber 40 %, EVA 30% , PES 10 %
 - title: CLEARANCE - Uhlsport Elysia Replica Soccer Ball - Size 5
   image: "/Uhlsport Replica.jpg"
   price: 25
@@ -292,24 +311,6 @@ promotions:
     provides outstanding roundness and extremely low water uptake
     - Durable structured PU material with additional foam-layer
     - HAR bladder with excellent air retention
-- title: Uhlsport Elysia Ballon Replica Soccer Ball - Size 5
-  image: "/2022-01-04 12.07.19.jpg"
-  price: 35
-  description: |-
-    - 32 available
-    - Fluorescent Yellow / Orange / Navy Blue
-    - Soft Touch cushioned panels
-    - Butyl Bladder
-    - Superior bounce and control
-- title: Uhlsport Medusa Keto Sala 1525 Soccer Ball - Size 4
-  image: "/2020-04-14 16.23.55.jpg"
-  price: 29
-  description: |-
-    - Made with new abrasion resistant, environmentally friendly, kid grain PVC upper material
-    - Low rebound characteristic
-    - Butyl bladder for good air retention
-
-    3 available
 - title: CLEARANCE - Uhlsport Pro Match PT5 Soccer Ball - Size 5
   image: "/2022-01-04 11.49.43.jpg"
   price: 80
@@ -366,16 +367,6 @@ promotions:
   image: "/2022-01-04 12.27.05.jpg"
   price: 27
   description: 4 available
-- title: Umbro Neo-Swerve Soccer Ball - Sizes 4, 5
-  image: "/2022-01-04 13.39.36.jpg"
-  price: 25
-  description: |-
-    Outer casing material: Embossed TPU
-    Material Thickness: 0.15mm
-    Internal Layers: 2
-    Construction: Machine Stitched Bladder: Latex
-    Panels: 16
-    Weight: 410-450
 - title: CLEARANCE - Umbro Neo Trainer Soccer Ball - Size 5
   image: "/2022-01-04 11.49.14.jpg"
   price: 21
@@ -442,7 +433,7 @@ promotions:
   image: "/b8561d_7d098c39842c4f16bded2c59ffac0f94_mv2.webp"
   price: 155
   description: 12 poles plus carry bag (photo not accurate)
-- title: Eletto EG1440 Legend Soccer Goal Gloves - Size 8
+- title: CLEARANCE - Eletto EG1440 Legend Soccer Goal Gloves - Size 8
   image: "/2020-04-16 16.16.51.jpg"
   price: 39
   description: 1 available
