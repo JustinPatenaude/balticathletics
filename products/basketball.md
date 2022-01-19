@@ -20,6 +20,8 @@ promotions:
   image: "/LO-B601.jpg"
   price: 185
   description: |-
+    ONE in stock.
+
     Rear Mounted Standard Rim for use on fan-shaped backboards
 
     Official size 457mm[18"] ring of 16mm[5/8"] solid steel with 12 no-tie net holders. Flat steel braces bent and welded offer additional support on nearly half of the rim. Powder coated to withstand outdoor use. Complete with nylon mesh and zinc plated hardware.
