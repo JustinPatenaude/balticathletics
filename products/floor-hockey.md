@@ -9,7 +9,9 @@ products:
 - Goalie Protection
 - Goalie Sticks
 - Player Sticks
-photos: []
+photos:
+- title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe
+  photo: "/hockey_main.jpg"
 promotions:
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
