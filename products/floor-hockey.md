@@ -143,7 +143,7 @@ promotions:
   image: "/2022-01-03 16.20.35.jpg"
   price: 25
   description: ONE pair available.
-- title: Linwood FI-1224 Street Hawk Canada Set - 23" pads
+- title: CLEARANCE - Linwood FI-1224 Street Hawk Canada Set - 23" pads
   image: "/2022-01-03 16.20.27.jpg"
   price: 59
   description: Includes Blocker, Trapper, Goal Pads
