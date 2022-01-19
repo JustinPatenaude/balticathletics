@@ -476,7 +476,7 @@ promotions:
   image: "/2020-04-16 16.06.08.jpg"
   price: 9
   description: 1 available
-- title: Eletto SG1500 Soft Shell Soccer Shin Guards - Size M
+- title: CLEARANCE - Eletto SG1500 Soft Shell Soccer Shin Guards - Size M
   image: "/2020-04-16 16.10.59.jpg"
   price: 11
   description: 1 available
