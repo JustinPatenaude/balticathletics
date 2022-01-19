@@ -13,10 +13,12 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
-- title: Mylec Goalie Box Set MK3GBS24 - Junior
+- title: CLEARANCE - Mylec Goalie Box Set MK3GBS24 - Junior
   image: "/2022-01-03 16.06.54.jpg"
   price: 160
   description: |-
+    - ONE available only.
+
     Includes:
     - 24" pads
     - RH blocker
