@@ -130,7 +130,7 @@ promotions:
     - 4.3m ladder
     - 10 flat rungs, adjustable distance
     - Carry / storage bag included
-- title: York 76000 High-Density Roll Mat - 24" x 72"
+- title: CLEARANCE - York 76000 High-Density Roll Mat - 24" x 72"
   image: "/2020-03-07 12.30.18.jpg"
   price: 18
   description: |-
