@@ -15,9 +15,9 @@ products:
 - Travel Bags
 photos: []
 promotions:
-- title: BacPacJac Backpack Shock Absorbers - Light (3 - 25 lbs)
+- title: CLEARANCE - BacPacJac Backpack Shock Absorbers - Light (3 - 25 lbs)
   image: "/2020-04-10 16.59.04.jpg"
-  price: 12
+  price: 8
   description: |-
     2 available (1 black, 1 blue)
 
