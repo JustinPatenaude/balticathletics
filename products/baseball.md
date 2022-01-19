@@ -64,8 +64,8 @@ promotions:
   image: "/2020-04-11 14.41.37.jpg"
   price: 7.5
   description: ''
-- title: Dudley 4Y222NC Thunder Heat COR44 Synthetic Softball - 12" Yellow (sold in
-    dozens)
+- title: CLEARANCE - Dudley 4Y222NC Thunder Heat COR44 Synthetic Softball - 12" Yellow
+    (sold in dozens)
   image: "/4A147YC Spalding Dudley Softballs.jpg"
   price: 72
   description: |-
