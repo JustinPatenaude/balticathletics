@@ -14,7 +14,7 @@ photos:
   photo: "/hockey_main.jpg"
 promotions:
 - title: DOM X90 Floor Hockey Set
-  image: ''
+  image: "/X90 Excel Set.jpg"
   price: 215
   description: |-
     Includes
