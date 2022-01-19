@@ -11,13 +11,6 @@ photos:
   photo: "/2022-01-05 15.01.12.jpg"
 suppliers: []
 promotions:
-- title: Innova Skillshot Disc Golf Target
-  image: "/Innova Skillshot target.png"
-  price: 260
-  description: |-
-    - Heavy duty
-    - Portage
-    - can set on uneven surfaces
 - title: Assorted Brands and Models of Discs
   image: "/2022-01-05 15.01.12.jpg"
   price: 
@@ -54,6 +47,17 @@ promotions:
   image: "/ace_line_set_collage_700x.jpg"
   price: 45
   description: ''
+- title: Dynamic Discs Cadet Backpack
+  image: "/2022-01-05 15.22.25.jpg"
+  price: 45
+  description: 7 available
+- title: Innova Skillshot Disc Golf Target
+  image: "/Innova Skillshot target.png"
+  price: 260
+  description: |-
+    - Heavy duty
+    - Portage
+    - can set on uneven surfaces
 - title: Axiom Pro HD Target Basket
   image: "/37249_source_1627052127.jpg"
   price: 225
@@ -129,9 +133,5 @@ promotions:
     - Available in three eye-catching colors: Yellow, Red, Blue (Subject to availability)
     - Comes with matching tote bag for easy transportation and storage
     - Includes removable flag for easy visibility and wind direction indication
-- title: Dynamic Discs Cadet Backpack
-  image: "/2022-01-05 15.22.25.jpg"
-  price: 45
-  description: 7 available
 
 ---
