@@ -174,7 +174,7 @@ promotions:
     - Size 9” x 6” x 3”
     - Shrink wrapped with full colour label
     - Used when tightness prevents hands from reaching the floor or balance is challenged.
-- title: Fox40 Ecoblast Rechargeable Air Horn & Air Pump 9509AZ
+- title: CLEARANCE - Fox40 Ecoblast Rechargeable Air Horn & Air Pump 9509AZ
   image: "/Fox40 9509AZ ecoblast horn.jpg"
   price: 28
   description: |-
