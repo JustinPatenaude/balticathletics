@@ -71,7 +71,7 @@ promotions:
   description: |-
     stitched seams
     4 dozen available
-- title: Easton Incrediball Vinyl cover Softball - 11"
+- title: CLEARANCE - Easton Incrediball Vinyl cover Softball - 11"
   image: "/2020-04-11 14.43.02.jpg"
   price: 11.5
   description: 12 available
