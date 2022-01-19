@@ -218,7 +218,7 @@ promotions:
     - Size 4
 
     1 available
-- title: Nike NKFC Total FC Soccer Ball - Size 4 & 5
+- title: CLEARANCE - Nike NKFC Total FC Soccer Ball - Size 4 & 5
   image: "/2020-04-14 16.27.06.jpg"
   price: 27
   description: |-
