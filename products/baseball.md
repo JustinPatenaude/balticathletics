@@ -153,7 +153,7 @@ promotions:
   description: |-
     Full length, straight hem, double knees, welt pockets, tunnel belt loops, brass zipper
     Belt not included
-- title: Champion BP2040 Baseball Backpack
+- title: CLEARANCE - Champion BP2040 Baseball Backpack
   image: "/bp2040-front_l.jpg"
   price: 42.95
   description: |-
