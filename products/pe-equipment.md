@@ -413,7 +413,7 @@ promotions:
     *Standard colours:
     Blue, Red, Purple, Orange, Green, Yellow, Pink
     * PE Kits, Timing mats, replacement cups are available and sold separately.
-- title: Bean Bag - Ultra-soft, 4" PX-501695
+- title: CLEARANCE - Bean Bag - Ultra-soft, 4" PX-501695
   image: "/bean bags.jpg"
   price: 2.5
   description: 6 colours available (green, blue, yellow, red, purple, orange)
