@@ -29,7 +29,7 @@ promotions:
   price: 7.75
   description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
     for classroom use.\n\n5 available"
-- title: 360 PS5RB Diamond Tek Soccer Ball - Size 5
+- title: CLEARANCE - 360 PS5RB Diamond Tek Soccer Ball - Size 5
   image: "/PS5RBG_Green_Diamond_Dek_Soccer_Ball_13980_0231.jpg"
   price: 19
   description: |-
