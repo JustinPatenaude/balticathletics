@@ -44,9 +44,5 @@ promotions:
   image: "/2022-01-04 15.13.28.jpg"
   price: 32
   description: ''
-- title: CLEARANCE - Replacement Hockey Net 48"H x 72"L (Sold as a pair)
-  image: "/NET46_1-Z.jpg"
-  price: 79
-  description: ''
 
 ---
