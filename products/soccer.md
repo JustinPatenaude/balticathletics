@@ -226,7 +226,7 @@ promotions:
 
     5 available - Size 4
     2 available - Size 5
-- title: Nike Pitch Training Ball - Size 5
+- title: CLEARANCE - Nike Pitch Training Ball - Size 5
   image: "/Nike pitch training.jpg"
   price: 23
   description: |-
