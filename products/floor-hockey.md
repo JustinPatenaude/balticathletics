@@ -13,16 +13,6 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
-- title: CLEARANCE - Mylec Pro Series Goalie Floor Hockey Equipment - Adult
-  image: "/2022-01-03 16.11.11.jpg"
-  price: 220
-  description: |-
-    Includes:
-    - Chest/Arm pad MK3CPS
-    - RH Blocker MK3BS
-    - LH Catch Trapper MK3CGS
-
-    ONE available only.
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
@@ -170,6 +160,16 @@ promotions:
     Pro-Style Trapper
     Adjustable Chest Protector
     Junior Mask
+- title: CLEARANCE - Mylec Pro Series Goalie Floor Hockey Equipment - Adult
+  image: "/2022-01-03 16.11.11.jpg"
+  price: 220
+  description: |-
+    Includes:
+    - Chest/Arm pad MK3CPS
+    - RH Blocker MK3BS
+    - LH Catch Trapper MK3CGS
+
+    ONE available only.
 - title: CLEARANCE - 360 Goalie RH Blocker and LH Trapper Set
   image: "/2022-01-03 16.13.16.jpg"
   price: 60
