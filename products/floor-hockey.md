@@ -13,10 +13,16 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
-- title: ''
-  image: ''
-  price: 
-  description: ''
+- title: DOM C60 CUP Floor Hockey Set
+  image: "/C60 Cup Set.jpg"
+  price: 231
+  description: |-
+    Simply Indestructible! If a C6 shaft breaks we will replace it. Tough, rigid stick specially designed to take the force of rugged play. High-density poly outer shell is impervious to impact, and 1/2" fiberglass solid rod provides rigidity, strength and maintains integrity, even below freezing temperatures. Standard blade (SB-76), firmly secured with two screws, offers improved control.
+
+    Includes:
+    - 12 CUP Sticks (6 Red / 6 Blue)
+    - 2 DOM-84 SuperPucks
+    - 2 DOM-83 Balls
 - title: DOM X90 EXCEL Floor Hockey Set
   image: "/X90 Excel Set.jpg"
   price: 215
