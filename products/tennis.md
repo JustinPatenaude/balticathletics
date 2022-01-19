@@ -33,7 +33,7 @@ promotions:
     - 15" head
 
     3 available
-- title: Cosom Plastic Tennis Racquets CM-051310-00 - Set of 6
+- title: CLEARANCE - Cosom Plastic Tennis Racquets CM-051310-00 - Set of 6
   image: "/2022-01-05 15.25.04.jpg"
   price: 24
   description: ''
