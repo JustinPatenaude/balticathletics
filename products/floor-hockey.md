@@ -245,7 +245,7 @@ promotions:
     - Strong nylon netting
     - Durable 1 1/4" plastic full frame
     - Back-Centre Support Bar
-- title: Replacement Street/Floor Hockey Net - Black - 4' x 6'
+- title: CLEARANCE - Replacement Street/Floor Hockey Net - Black - 4' x 6'
   image: "/NET46_1-Z.jpg"
   price: 48
   description: |-
