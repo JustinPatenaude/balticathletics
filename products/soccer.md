@@ -77,7 +77,7 @@ promotions:
   description: |-
     Match quality ball, superb bounce and feel
     1 available
-- title: Adidas Juventus European Club Soccer Ball - Size 5
+- title: CLEARANCE - Adidas Juventus European Club Soccer Ball - Size 5
   image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
   price: 25
   description: |-
