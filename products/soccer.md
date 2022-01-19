@@ -36,10 +36,10 @@ promotions:
     - textured outer shell, making the ball tough, durable and waterproof
     - Great for outdoor use in all conditions and surfaces.
 
-    Available:
-    - 7 Blue
-    - 6 Orange
-    - 6 Green
+    Colours Available:
+    - Blue
+    - Orange
+    - Green
 - title: CLEARANCE - 360 Screamer Soccer Ball - Size 3
   image: "/2022-01-04 11.41.03.jpg"
   price: 14.95
