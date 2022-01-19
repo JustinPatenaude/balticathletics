@@ -18,26 +18,6 @@ photos:
 - title: Champion FXSeries Footballs
   photo: "/fx600_n.jpg"
 promotions:
-- title: CLEARANCE - Football Kit (Package only - Not sold separately)
-  image: "/2022-01-04 16.15.43.jpg"
-  price: 150
-  description: |-
-    Kit Includes:
-    - 1 Russell padded 5 pc girdle RAIGRI - Size Medium
-    - 1 Russell non-padded girdle RAGR45 - Size Large
-    - 4 pairs small Russell knee pads RPIKPMK
-    - 5 pairs large Russell knee pads RPIKPMI
-    - 3 Russell three window wrist coaches RAWC30
-    - 1 360 helmet pump YZ15
-    - 2 Rawlings helmet pumps AIRPUMP
-- title: CLEARANCE - 360 Composite Football - Size 9
-  image: "/2022-01-04 15.57.14.jpg"
-  price: 19.5
-  description: |-
-    - butyl bladder
-    - raised tacky laces
-    - deep pebbled grain
-    - 18 available
 - title: Champion FXComp Football - FX Series
   image: "/fx600_n.jpg"
   price: 24
@@ -64,6 +44,14 @@ promotions:
   image: "/2022-01-04 15.53.05.jpg"
   price: 38
   description: "- tacky laces"
+- title: CLEARANCE - 360 Composite Football - Size 9
+  image: "/2022-01-04 15.57.14.jpg"
+  price: 19.5
+  description: |-
+    - butyl bladder
+    - raised tacky laces
+    - deep pebbled grain
+    - 18 available
 - title: CLEARANCE - Spalding J5Y Classic Football - Size 7
   image: "/J5Y Classic Football.jpg"
   price: 36
@@ -96,6 +84,18 @@ promotions:
   description: |-
     Composite varsity size 9 football
     - 10 available
+- title: CLEARANCE - Football Kit (Package only - Not sold separately)
+  image: "/2022-01-04 16.15.43.jpg"
+  price: 150
+  description: |-
+    Kit Includes:
+    - 1 Russell padded 5 pc girdle RAIGRI - Size Medium
+    - 1 Russell non-padded girdle RAGR45 - Size Large
+    - 4 pairs small Russell knee pads RPIKPMK
+    - 5 pairs large Russell knee pads RPIKPMI
+    - 3 Russell three window wrist coaches RAWC30
+    - 1 360 helmet pump YZ15
+    - 2 Rawlings helmet pumps AIRPUMP
 - title: Adams AFFB Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 4.5
