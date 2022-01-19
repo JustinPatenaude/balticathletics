@@ -160,7 +160,7 @@ promotions:
     Available are:
     - 1 Green
     - 1 Orange
-- title: Jeffix Street Resistant Rubber Soccer Ball - Size 5
+- title: CLEARANCE - Jeffix Street Resistant Rubber Soccer Ball - Size 5
   image: "/2020-04-17 09.18.01.jpg"
   price: 12.5
   description: |-
