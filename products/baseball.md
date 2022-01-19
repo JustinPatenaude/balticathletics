@@ -60,7 +60,7 @@ promotions:
     9" Training Baseball - $8.00
     11" Training Softball - $10.50
     12" Training Softball - $10.50
-- title: Spalding 100 Leather Baseball
+- title: CLEARANCE - Spalding 100 Leather Baseball
   image: "/spalding 100 baseball.jpg"
   price: 5
   description: 3 single balls available
