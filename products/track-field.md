@@ -61,7 +61,7 @@ promotions:
     * INCLUDES TFG13 fiberglass competition quality CROSSBAR
     * no freight if picked up or delivered in Winnipeg area
 
-- title: F30805B Aluminum High Jump Standards
+- title: CLEARANCE - F30805B Aluminum High Jump Standards
   image: "/F30805B standards.jpg"
   price: 875
   description: |-
