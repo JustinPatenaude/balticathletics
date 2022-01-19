@@ -100,6 +100,12 @@ promotions:
     - Deluxe cushioned cover
     - Butyl bladder
     - Available in a variety of colours
+- title: Puma Final 6 Soccer Ball - Size 5
+  image: "/Puma Final 6.jpg"
+  price: 26
+  description: |-
+    The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
+    excellent shape bounce and flight characteristics.
 - title: CLEARANCE - 360 Super Nova S36403 Soccer Ball - Size 3
   image: "/2022-01-04 11.41.27.jpg"
   price: 15.95
@@ -244,12 +250,6 @@ promotions:
     - Great bounce
 
     3 available (colours shown)
-- title: Puma Final 6 Soccer Ball - Size 5
-  image: "/Puma Final 6.jpg"
-  price: 26
-  description: |-
-    The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
-    excellent shape bounce and flight characteristics.
 - title: CLEARANCE - Puma Shock Soccer Ball - Size 5
   image: "/2022-01-04 12.02.59.jpg"
   price: 23
@@ -267,7 +267,7 @@ promotions:
     1 set available
   title: Speedskin Soft Soccer Ball Set of 6 - Size 4
   image: "/SSSOCCERKIT_1-Z.jpg"
-- title: Sporteck BOCA Soccer Ball - Size 4
+- title: CLEARANCE - Sporteck BOCA Soccer Ball - Size 4
   image: "/BOCA-2.jpg"
   price: 28
   description: 1 available
