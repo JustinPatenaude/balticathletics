@@ -152,7 +152,7 @@ promotions:
     - 6" diameter
     - Made of expanded polypropylene (EPP)
     - Eco-friendly
-- title: Chin Up Bar, Wall Mounted (WMCUB)
+- title: CLEARANCE - Chin Up Bar, Wall Mounted (WMCUB)
   image: "/WMCUB.JPG"
   price: 95
   description: |-
