@@ -450,7 +450,7 @@ promotions:
     grip and durability. Made with a Velcro wrist strap closure for a secure fit.'
 - title: CLEARANCE - Admiral Pro Soccer Socks - GOLD only
   image: "/admiral gold soccer sock.jpg"
-  price: 8
+  price: 5
   description: |-
     - Adult size 10-13
     - High quality sock, padded foot, ribbed articulated ankle, arch support
@@ -500,14 +500,6 @@ promotions:
     Available:
     - 2 of Size 8
     - 2 of Size 9
-- title: CLEARANCE - Adidas Ghost Shin Pads - Youth Sizes
-  image: "/2022-01-04 13.30.48.jpg"
-  price: 12
-  description: |-
-    Available:
-    - 4 of Size Yth Small
-    - 4 of Size Yth Medium
-    - 6 of Size Yth Large
 - title: CLEARANCE - Puma Future Grip 5.4 Goalkeeper Gloves - Size 6, 7
   image: "/2022-01-04 13.52.42.jpg"
   price: 39
@@ -536,6 +528,14 @@ promotions:
     protection                                                          \n\nBENEFITS\n•
     Great protection, lightweight\n• Comfortable, good ventilation\n• Keeps guard
     secure and comfortable\n• Light, comfortable protection"
+- title: CLEARANCE - Adidas Ghost Shin Pads - Youth Sizes
+  image: "/2022-01-04 13.30.48.jpg"
+  price: 12
+  description: |-
+    Available:
+    - 4 of Size Yth Small
+    - 4 of Size Yth Medium
+    - 6 of Size Yth Large
 - title: Eletto GK0800 Soccer Goal Keeper Knee Pads - Size M
   image: "/2020-04-16 16.08.01.jpg"
   price: 9.5
