@@ -60,10 +60,6 @@ promotions:
     9" Training Baseball - $8.00
     11" Training Softball - $10.50
     12" Training Softball - $10.50
-- title: CLEARANCE - Spalding 100 Leather Baseball
-  image: "/spalding 100 baseball.jpg"
-  price: 5
-  description: 3 single balls available
 - title: CLEARANCE - Spalding 41003 Official League Synthetic Cover Baseball (sold
     in case of 12)
   image: "/2020-03-07 11.09.54.jpg"
@@ -77,7 +73,7 @@ promotions:
   description: 12 available
 - title: Dudley 4A135 Thunder Heat Leather COR40 Softball - 12"
   image: "/2020-04-11 14.41.37.jpg"
-  price: 
+  price: 7.5
   description: ''
 - title: Dudley 4Y222NC Thunder Heat COR44 Synthetic Softball - 12" Yellow (sold in
     dozens)
@@ -95,6 +91,10 @@ promotions:
     - Optic yellow with red stitch
 
     3 available
+- title: CLEARANCE - Spalding 100 Leather Baseball
+  image: "/spalding 100 baseball.jpg"
+  price: 5
+  description: 3 single balls available
 - title: Wiffle Ball CX040630-00 - 9" circ / 3" dia (baseball size)
   image: "/plbb-enhanced-1_l.jpg"
   price: 1.5
