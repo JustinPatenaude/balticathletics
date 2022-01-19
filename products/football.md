@@ -15,8 +15,6 @@ products:
 - Uniforms
 - Yardage Markers
 photos:
-- title: ''
-  photo: ''
 - title: Champion FXSeries Footballs
   photo: "/fx600_n.jpg"
 promotions:
@@ -66,7 +64,7 @@ promotions:
   image: "/2022-01-04 15.53.05.jpg"
   price: 38
   description: "- tacky laces"
-- title: Spalding J5Y Classic Football - Size 7
+- title: CLEARANCE - Spalding J5Y Classic Football - Size 7
   image: "/J5Y Classic Football.jpg"
   price: 36
   description: |-
