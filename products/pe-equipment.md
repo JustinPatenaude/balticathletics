@@ -22,53 +22,6 @@ products:
 - Whiffle balls
 photos: []
 promotions:
-- title: CLEARANCE - 360 Playground Balls 7" SPG7 - Set of 6
-  image: "/2022-01-05 14.48.310.jpg"
-  price: 57.5
-  description: |-
-    - Set of 6 colours - Blue, green, orange, purple, red, yellow
-    - SIX SETS AVAILABLE ONLY
-- title: CLEARANCE - Foam Football Set FFSET - Set of 6
-  image: "/2022-01-04 16.06.45.jpg"
-  price: 30
-  description: 2 sets available only
-- title: CLEARANCE - Rhino Soft-Eeze Football Set - Set of 6
-  image: "/rs1set_n.jpg"
-  price: 99
-  description: |-
-    - Regular $120
-    - RHINO Skin® coated inflatable ball for exceptional tear-resistance
-    - Tacky cover for a soft feel and classic football design
-    - Rubber/butyl bladder for superior air retention
-    - Size: 8" D
-    - Set of 6 balls (1 of each) Red/Black, Orange/Black, Yellow/Black, Green/Black, Royal Blue/Black, Purple/Black
-    - ONE SET AVAILABLE at this price
-- title: CLEARANCE - Inflatable Hurdles - 18" - Set of 6
-  image: "/2022-01-05 15.54.24.jpg"
-  price: 20
-  description: |-
-    - 18" high
-    - 6 colours per set
-- title: CLEARANCE - Katch-a-Cup PX-500088-00 - Set of 6
-  image: "/2022-01-05 16.35.37.jpg"
-  price: 18
-  description: ''
-- title: CLEARANCE - Egg Stack Set FES
-  image: "/FES-Egg-Stack-Set-800x1000px-600x750.jpg"
-  price: 12
-  description: |-
-    - Challenge and develop fine motor skills by using chopsticks to stack irregular egg pieces.
-    - A great quiet team building activity, or perfect for indoor recess!
-- title: CLEARANCE - Juggling Clubs FJC3 - Set of 3
-  image: "/FJC3-Juggling-FoamJugglingClubs-800x1000px-600x750.jpg"
-  price: 45
-  description: |-
-    - Set includes (3) 20” L clubs. Red, Yellow and Blue
-    - High Density foam covered provides a better grip and extra durability.
-- title: Tchoukballs/Handballs, Assorted
-  image: "/2022-01-06 16.59.24.jpg"
-  price: 0
-  description: Many brands and sizes available.
 - title: 360 Cricket Set G209
   image: "/2022-01-05 16.18.05.jpg"
   price: 54.25
@@ -95,38 +48,6 @@ promotions:
     Say and Catch
 
     With at least 2 players, decide on a category, like animals, or countries or math question for example. Toss the ball back and forth among the players, and each time a player catches the ball, he must name something from the category chosen or he is out
-- title: Inflatables
-  image: "/2022-01-05 15.43.49.jpg"
-  price: 
-  description: ''
-- title: CLEARANCE - Tchoukball TRN2 SET (Red) - Sold as a set
-  image: "/TRN2-rebounder-360athl.jpg"
-  price: 395
-  description: |
-    7 sets available only.
-
-    Includes:
-    - 2 RED frames
-    - 2 balls (sizes 0, 1, 2 or 3) - Extra balls can be purchased separately.
-    - Game instructions (in English or French)
-
-    FITB approved! Drawn steel tube with rounded corners and a strong foldable
-    support mechanism keeps the frame stable during play. 10 angle adjustments on bar. Net is held by 52 steel “S” hooks spread around the frame. Non-marking guards at the bottom. Frame size is 1 m x 1 m and features rust-proof steel net rings.
-
-    FOB Winnipeg
-
-    Tchoukball Ball circumferences:
-    - #0 - 18 1/4" / 46 cm
-    - #1 - 20 3/4" / 53 cm
-    - #2 - 21 3/4" / 55 cm
-    - #3 - 22 3/4" / 58 cm
-- title: CLEARANCE - Cricket Set FCRS29
-  image: "/2022-01-05 16.37.44.jpg"
-  price: 40
-  description: |-
-    - Outdoor use
-    - High Density Foam
-    - Includes bat, 4 - 18 inch in-ground outdoor spike stumps, 2 balls, 2 bales
 - title: Aerobie Rocket Football 65186-0
   image: "/65186-0_aerobie_rocket_football_group(1).jpg"
   price: 12.5
@@ -136,6 +57,10 @@ promotions:
     - Soft squeezable foam for easy catches
     - Compact 6 inch size fits all hands
     - Eye-catching two tone neon colors look great in flight
+- title: Inflatables
+  image: "/2022-01-05 15.43.49.jpg"
+  price: 
+  description: ''
 - title: Swing Ball Set SBSET
   image: "/sbset-a-main_n.jpg"
   price: 22
@@ -145,36 +70,10 @@ promotions:
     - The cord is 18" long and is durable but gentle on legs
     - Ankle ring is 5.5" D and slips over most feet easily
     - Set of six colors: one of each in red, orange, yellow, green, blue and purple
-- title: Whiffle Balls 3" PSCW950 - Coloured or White - Set of 50
-  image: "/2022-01-05 14.50.20.jpg"
-  price: 60
-  description: |-
-    - 50 Pack of rainbow coloured or white perforated plastic practice balls.
-    - 9″ circumference / 3″ diameter
-- title: Ultra Skin 360 Dodgeballs - 3.5", 6", 7", 8", 8.3"
-  image: "/FX83R-Ultraskin-Balls-800x1000px-600x750.jpg"
-  price: 7.5
-  description: |-
-    FX35 (3.5") - $7.50 ea
-    FX63 (6.3") - $14.75 ea
-    FX70 (7") - $21.00 ea
-    FX80 (8") - $32.75 ea
-    FX83 (8.3") - $35.50 ea
-
-    - Each ball has a soft inner foam core that provides excellent bounce at 40Kgs/M3.
-    - Coating provides excellent protection from rough surfaces.
-    - Perfect for all ages and sports.
-- title: Rhino Skin RS5 Micro Playball Orange - 5 inch
-  image: "/rs5_n.jpg"
-  price: 17.45
-  description: |-
-    - RHINO Skin® coating for exceptional tear-resistance
-    - Low-density foam core and soft exterior to prevent injury when hit with the ball
-    - Size: 5" D
-    - Ball weight: 66 g
-    - Foam density: 65 kg/m3
-    - Recommended age: 10 years and up
-    - Orange only
+- title: Tchoukballs/Handballs, Assorted
+  image: "/2022-01-06 16.59.24.jpg"
+  price: 0
+  description: Many brands and sizes available.
 - title: Rhino Skin Low Bounce Dodgeball Set - 6 inch
   image: "/rxd6set_n.jpg"
   price: 118
@@ -247,6 +146,70 @@ promotions:
     - Recommended age: 10 years and up
 
     1 Blue available
+- title: Ultra Skin 360 Dodgeballs - 3.5", 6", 7", 8", 8.3"
+  image: "/FX83R-Ultraskin-Balls-800x1000px-600x750.jpg"
+  price: 7.5
+  description: |-
+    FX35 (3.5") - $7.50 ea
+    FX63 (6.3") - $14.75 ea
+    FX70 (7") - $21.00 ea
+    FX80 (8") - $32.75 ea
+    FX83 (8.3") - $35.50 ea
+
+    - Each ball has a soft inner foam core that provides excellent bounce at 40Kgs/M3.
+    - Coating provides excellent protection from rough surfaces.
+    - Perfect for all ages and sports.
+- title: Whiffle Balls 3" PSCW950 - Coloured or White - Set of 50
+  image: "/2022-01-05 14.50.20.jpg"
+  price: 60
+  description: |-
+    - 50 Pack of rainbow coloured or white perforated plastic practice balls.
+    - 9″ circumference / 3″ diameter
+- title: CLEARANCE - Foam Football Set FFSET - Set of 6
+  image: "/2022-01-04 16.06.45.jpg"
+  price: 30
+  description: 2 sets available only
+- title: CLEARANCE - Tchoukball TRN2 SET (Red) - Sold as a set
+  image: "/TRN2-rebounder-360athl.jpg"
+  price: 395
+  description: |
+    7 sets available only.
+
+    Includes:
+    - 2 RED frames
+    - 2 balls (sizes 0, 1, 2 or 3) - Extra balls can be purchased separately.
+    - Game instructions (in English or French)
+
+    FITB approved! Drawn steel tube with rounded corners and a strong foldable
+    support mechanism keeps the frame stable during play. 10 angle adjustments on bar. Net is held by 52 steel “S” hooks spread around the frame. Non-marking guards at the bottom. Frame size is 1 m x 1 m and features rust-proof steel net rings.
+
+    FOB Winnipeg
+
+    Tchoukball Ball circumferences:
+    - #0 - 18 1/4" / 46 cm
+    - #1 - 20 3/4" / 53 cm
+    - #2 - 21 3/4" / 55 cm
+    - #3 - 22 3/4" / 58 cm
+- title: 360 SPG6Y Rubber Playground Balls - 6 inch
+  image: "/SPG6Y.jpg"
+  price: 5.75
+  description: |-
+    - Classic rubber play ball.
+    - Essential for classrooms, playgrounds and kickball.
+    - Nylon wound with 3-ply rubber cover for extra durability.
+
+    1 available
+- title: Rhino Skin RS5 Micro Playball Orange - 5 inch
+  image: "/rs5_n.jpg"
+  price: 17.45
+  description: |-
+    - RHINO Skin® coating for exceptional tear-resistance
+    - Low-density foam core and soft exterior to prevent injury when hit with the ball
+    - Size: 5" D
+    - Ball weight: 66 g
+    - Foam density: 65 kg/m3
+    - Recommended age: 10 years and up
+    - Orange only
 - title: Rhino Skin RXD8SET Low Bounce Dodgeball Set - 8 inch
   image: "/rxd8set_n.jpg"
   price: 199.5
@@ -266,15 +229,52 @@ promotions:
     - durable 8.5” purple playground ball is always a popular choice!
 
     2 purple available
-- title: 360 SPG6Y Rubber Playground Balls - 6 inch
-  image: "/SPG6Y.jpg"
-  price: 5.75
+- title: CLEARANCE - 360 Playground Balls 7" SPG7 - Set of 6
+  image: "/2022-01-05 14.48.310.jpg"
+  price: 57.5
   description: |-
-    - Classic rubber play ball.
-    - Essential for classrooms, playgrounds and kickball.
-    - Nylon wound with 3-ply rubber cover for extra durability.
-
-    1 available
+    - Set of 6 colours - Blue, green, orange, purple, red, yellow
+    - SIX SETS AVAILABLE ONLY
+- title: CLEARANCE - Inflatable Hurdles - 18" - Set of 6
+  image: "/2022-01-05 15.54.24.jpg"
+  price: 20
+  description: |-
+    - 18" high
+    - 6 colours per set
+- title: CLEARANCE - Cricket Set FCRS29
+  image: "/2022-01-05 16.37.44.jpg"
+  price: 40
+  description: |-
+    - Outdoor use
+    - High Density Foam
+    - Includes bat, 4 - 18 inch in-ground outdoor spike stumps, 2 balls, 2 bales
+- title: CLEARANCE - Egg Stack Set FES
+  image: "/FES-Egg-Stack-Set-800x1000px-600x750.jpg"
+  price: 12
+  description: |-
+    - Challenge and develop fine motor skills by using chopsticks to stack irregular egg pieces.
+    - A great quiet team building activity, or perfect for indoor recess!
+- title: CLEARANCE - Juggling Clubs FJC3 - Set of 3
+  image: "/FJC3-Juggling-FoamJugglingClubs-800x1000px-600x750.jpg"
+  price: 45
+  description: |-
+    - Set includes (3) 20” L clubs. Red, Yellow and Blue
+    - High Density foam covered provides a better grip and extra durability.
+- title: CLEARANCE - Rhino Soft-Eeze Football Set - Set of 6
+  image: "/rs1set_n.jpg"
+  price: 99
+  description: |-
+    - Regular $120
+    - RHINO Skin® coated inflatable ball for exceptional tear-resistance
+    - Tacky cover for a soft feel and classic football design
+    - Rubber/butyl bladder for superior air retention
+    - Size: 8" D
+    - Set of 6 balls (1 of each) Red/Black, Orange/Black, Yellow/Black, Green/Black, Royal Blue/Black, Purple/Black
+    - ONE SET AVAILABLE at this price
+- title: CLEARANCE - Katch-a-Cup PX-500088-00 - Set of 6
+  image: "/2022-01-05 16.35.37.jpg"
+  price: 18
+  description: ''
 - title: Jeffix PR600 Playground Rubber Ball - 6 inch
   image: "/PR600_1-Z.jpg"
   price: 5.75
@@ -436,7 +436,7 @@ promotions:
     - Obstacle course, high jump, target etc
 
     5 available
-- title: Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
+- title: CLEARANCE - Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
   image: "/2020-03-07 12.12.53.jpg"
   price: 48
   description: Sold in sets of 6
