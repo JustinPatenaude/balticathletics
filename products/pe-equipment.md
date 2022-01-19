@@ -413,18 +413,9 @@ promotions:
     *Standard colours:
     Blue, Red, Purple, Orange, Green, Yellow, Pink
     * PE Kits, Timing mats, replacement cups are available and sold separately.
-- title: CLEARANCE -  AP1 Latex Pig
-  image: "/AP1_Rubber_Pig_DSF7529.jpg"
-  price: 9.5
-  description: |-
-    - This latex constructed pig is perfect for cooperative games
-    - Latex pig 17" in length
-    - Squeaks when it is squeezed
-
-    9 available
 - title: Bean Bag - Ultra-soft, 4" PX-501695
   image: "/bean bags.jpg"
-  price: 2.25
+  price: 2.5
   description: 6 colours available (green, blue, yellow, red, purple, orange)
 - title: Crocheted Hackey Sack
   image: "/hackysack2.jpg"
@@ -453,5 +444,14 @@ promotions:
   image: "/2020-03-07 12.12.53.jpg"
   price: 48
   description: Sold in sets of 6
+- title: CLEARANCE -  AP1 Latex Pig
+  image: "/AP1_Rubber_Pig_DSF7529.jpg"
+  price: 9.5
+  description: |-
+    - This latex constructed pig is perfect for cooperative games
+    - Latex pig 17" in length
+    - Squeaks when it is squeezed
+
+    9 available
 
 ---
