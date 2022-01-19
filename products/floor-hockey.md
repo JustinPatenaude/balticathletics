@@ -13,6 +13,10 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
+- title: CLEARANCE - Linwood FI-1295 Deluxe Floor Hockey Mask - Adult
+  image: "/2022-01-03 16.08.50.jpg"
+  price: 32
+  description: ONE available only.
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
