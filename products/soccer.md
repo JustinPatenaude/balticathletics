@@ -520,7 +520,7 @@ promotions:
   image: "/2020-04-16 16.04.39.jpg"
   price: 18
   description: 1 available
-- title: CLEARANCE - Eletto SG2001 Victory IV Soft Shell Shinpads
+- title: Eletto SG2001 Victory IV Soft Shell Shinpads
   image: "/b8561d_dd80a71d631143acae4b62da12c36703_mv2.webp"
   price: 14
   description: "Available:\n- 4 of size X-Small\n- 6 of size Small\n- 5 of size Medium\n-
