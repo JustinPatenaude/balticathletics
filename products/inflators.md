@@ -29,14 +29,14 @@ promotions:
     - Have on hand at any sports facility
 
     4 available
-- title: CLEARANCE - CCM Hand/Foot Pump
-  image: "/2020-03-07 12.26.20.jpg"
-  price: 24
-  description: 3 available
 - title: Omnikin 30191-700 Hand/Foot Ball Pump w/attachments
   image: "/2020-04-16 16.45.55.jpg"
   price: 10
   description: 2 available
+- title: CLEARANCE - CCM Hand/Foot Pump
+  image: "/2020-03-07 12.26.20.jpg"
+  price: 24
+  description: 3 available
 date: '2019-03-29T23:07:33.000+00:00'
 
 ---
