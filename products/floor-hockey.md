@@ -139,7 +139,7 @@ promotions:
     - Sold in Pairs Only.
     - FP-05 40 grams
     - SIZE: 3" x 7/8"
-- title: Linwood FI-1223 Street Hawk Canada Floor Hockey Pads - 23"
+- title: CLEARANCE - Linwood FI-1223 Street Hawk Canada Floor Hockey Pads - 23"
   image: "/2022-01-03 16.20.35.jpg"
   price: 25
   description: ONE pair available.
