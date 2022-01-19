@@ -14,7 +14,7 @@ promotions:
   image: "/2022-01-05 15.15.14.jpg"
   price: 
   description: ''
-- title: Franklin FRK-PIC-52710 Pickleball-X Volt Set
+- title: CLEARANCE - Franklin FRK-PIC-52710 Pickleball-X Volt Set
   image: "/2020-04-13 10.31.20.jpg"
   price: 40
   description: |-
