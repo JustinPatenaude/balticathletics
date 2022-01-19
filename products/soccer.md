@@ -100,14 +100,6 @@ promotions:
     - Deluxe cushioned cover
     - Butyl bladder
     - Available in a variety of colours
-- title: Nike Pitch Soccer Ball - Size 4
-  image: "/2020-04-14 16.26.42.jpg"
-  price: 24
-  description: |-
-    - Soft touch
-    - Size 4
-
-    1 available
 - title: CLEARANCE - 360 Super Nova S36403 Soccer Ball - Size 3
   image: "/2022-01-04 11.41.27.jpg"
   price: 15.95
@@ -218,6 +210,14 @@ promotions:
 
     3 available - Size 4
     2 available - Size 5
+- title: CLEARANCE - Nike Pitch Soccer Ball - Size 4
+  image: "/2020-04-14 16.26.42.jpg"
+  price: 24
+  description: |-
+    - Soft touch
+    - Size 4
+
+    1 available
 - title: Nike NKFC Total FC Soccer Ball - Size 4 & 5
   image: "/2020-04-14 16.27.06.jpg"
   price: 27
