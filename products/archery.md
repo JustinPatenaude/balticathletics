@@ -37,6 +37,14 @@ promotions:
   description: |-
     - ambidextrous
     - 25 lbs
+- title: Youth Archery Target Box AWSYT
+  image: "/AWSYT.jpg"
+  price: 75
+  description: |-
+    School youth target
+    Dense cardboard fill
+    32" x 32" x 12"
+    Targets on both sides (circles and apple)
 - title: CLEARANCE - Ragim RG-WC62 Wildcat Recurve Takedown Bow
   image: "/Wildcat Recurve Takedown Bow.png"
   price: 150
@@ -47,14 +55,6 @@ promotions:
     - includes string
 
     1 available
-- title: Youth Archery Target Box AWSYT
-  image: "/AWSYT.jpg"
-  price: 75
-  description: |-
-    School youth target
-    Dense cardboard fill
-    32" x 32" x 12"
-    Targets on both sides (circles and apple)
 - title: Foam Target Butt w/feet AWEZ36
   image: "/AWEZ36.jpg"
   price: 140
