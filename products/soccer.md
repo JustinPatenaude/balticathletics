@@ -485,6 +485,14 @@ promotions:
     protection                                                          \n\nBENEFITS\n•
     Great protection, lightweight\n• Comfortable, good ventilation\n• Keeps guard
     secure and comfortable\n• Light, comfortable protection"
+- title: Uhlsport 6774 Pro Lite Soccer Shin Guards - Size M
+  image: "/2020-04-16 16.03.21.jpg"
+  price: 16
+  description: 1 available
+- title: Uhlsport 100675901 T-Bone Pro Soccer Shin Guards - Size L
+  image: "/2020-04-16 16.04.39.jpg"
+  price: 18
+  description: 1 available
 - title: CLEARANCE - Eletto SG1500 Soft Shell Soccer Shin Guards - Size M
   image: "/2020-04-16 16.10.59.jpg"
   price: 11
@@ -503,6 +511,17 @@ promotions:
     - 7 of size Yth Small
 
     Appropriate for ages 3 - 6 year old kids
+- title: CLEARANCE - Eletto SG1440 React Hard Shell Soccer Shin Guards - Size L
+  image: "/2020-04-16 16.15.34.jpg"
+  price: 8
+  description: 1 available
+- title: CLEARANCE - Puma Future Grip 5.4 Goalkeeper Gloves - Size 6, 7
+  image: "/2022-01-04 13.52.42.jpg"
+  price: 39
+  description: |-
+    Available:
+    - 4 - Size 6
+    - 1 - Size 7
 - title: CLEARANCE - Uhlsport Cerberus Starter Graphit Gloves 100036101 - Size 8,
     9
   image: "/2022-01-04 13.47.29.jpg"
@@ -511,25 +530,6 @@ promotions:
     Available:
     - 2 of Size 8
     - 2 of Size 9
-- title: CLEARANCE - Puma Future Grip 5.4 Goalkeeper Gloves - Size 6, 7
-  image: "/2022-01-04 13.52.42.jpg"
-  price: 39
-  description: |-
-    Available:
-    - 4 - Size 6
-    - 1 - Size 7
-- title: CLEARANCE - Eletto SG1440 React Hard Shell Soccer Shin Guards - Size L
-  image: "/2020-04-16 16.15.34.jpg"
-  price: 8
-  description: 1 available
-- title: Uhlsport 6774 Pro Lite Soccer Shin Guards - Size M
-  image: "/2020-04-16 16.03.21.jpg"
-  price: 16
-  description: 1 available
-- title: Uhlsport 100675901 T-Bone Pro Soccer Shin Guards - Size L
-  image: "/2020-04-16 16.04.39.jpg"
-  price: 18
-  description: 1 available
 - title: CLEARANCE - Adidas Ghost Shin Pads - Youth Sizes
   image: "/2022-01-04 13.30.48.jpg"
   price: 12
@@ -538,7 +538,7 @@ promotions:
     - 4 of Size Yth Small
     - 4 of Size Yth Medium
     - 6 of Size Yth Large
-- title: Eletto GK0800 Soccer Goal Keeper Knee Pads - Size M
+- title: CLEARANCE - Eletto GK0800 Soccer Goal Keeper Knee Pads - Size M
   image: "/2020-04-16 16.08.01.jpg"
   price: 9.5
   description: 1 available
