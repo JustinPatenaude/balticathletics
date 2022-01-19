@@ -14,7 +14,7 @@ photos:
   photo: "/hockey_main.jpg"
 promotions:
 - title: CLEARANCE - Linwood FI-1295 Deluxe Floor Hockey Mask - Adult
-  image: "/2022-01-03 16.08.50.jpg"
+  image: "/2022-01-03 16.08.50 m.jpg"
   price: 32
   description: ONE available only.
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
