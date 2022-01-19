@@ -8,6 +8,16 @@ products:
 - Broomball Sticks
 photos: []
 promotions:
+- title: DOM SSB-S SuperSafe Broomball Set
+  image: "/supersafe_ssb_s.jpg"
+  price: 260
+  description: |-
+    Highly recommended among floor games played with a stick and a ball. The ball is swept along rather than being wildly swung at. The design of the stick also contributes to the safety of the game as the head has a flat surface, is semi-rounded along the bottom and has a big radius around the edges. Head is made from polyurethane Skinex® foam
+
+    Includes:
+    - 6 Yellow sticks (36")
+    - 6 Orange sticks (36")
+    - 1 Ball - 4"
 - title: Acacia Grip-inator Broomball Shoes 49-204 - Sizes 6-13
   image: "/2022-01-04 14.47.06.jpg"
   price: 90
