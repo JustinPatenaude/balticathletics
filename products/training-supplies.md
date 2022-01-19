@@ -258,7 +258,7 @@ promotions:
     - metal chrome housing
     - instant reset knob
     - four digit display up to 9999
-- title: 'Lowry #264 - 6 - 1L Waterbottles with Case'
+- title: 'CLEARANCE - Lowry #264 - 6 - 1L Waterbottles with Case'
   image: "/2020-04-16 14.24.44.jpg"
   price: 30
   description: 1 available
