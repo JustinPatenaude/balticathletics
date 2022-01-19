@@ -11,6 +11,14 @@ products:
 - Player Sticks
 photos: []
 promotions:
+- title: Sherwood Intermediate Hockey Goal - 54" (sold in eaches)
+  image: "/2022-01-04 14.15.21.jpg"
+  price: 59
+  description: |-
+    - Sherwood Steel Hockey Net with a pro style top shelf
+    - Features 1-1/4" steel and 5,000D netting
+    - Sleeve netting system for easy assembly
+    - Assembled Dimensions: 54" x 44" x 24" (137 x 111.7 x 61 cm)
 - title: iPLAY Hockey Net - 72" x 48" x 32" HG724832
   image: "/2022-01-04 14.12.17.jpg"
   price: 75
