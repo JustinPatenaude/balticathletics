@@ -413,7 +413,7 @@ promotions:
     *Standard colours:
     Blue, Red, Purple, Orange, Green, Yellow, Pink
     * PE Kits, Timing mats, replacement cups are available and sold separately.
-- title: AP1 Latex Pig
+- title: CLEARANCE -  AP1 Latex Pig
   image: "/AP1_Rubber_Pig_DSF7529.jpg"
   price: 9.5
   description: |-
