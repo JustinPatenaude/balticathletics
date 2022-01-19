@@ -11,6 +11,15 @@ products:
 - Player Sticks
 photos: []
 promotions:
+- title: Winnwell Hockey Net 48" x 72" (Sold as eaches)
+  image: "/2022-01-04 14.16.16.jpg"
+  price: 90
+  description: |-
+    - WinnWell Steel Hockey Net features a sturdy 1.5" (4 cm) diameter steel tubing
+    - Puck-strength netting
+    - Rust-resistant paint treatment
+    - Official NHL size: 48 x 72 x 29" (120 x 180 x 72.5 cm)
+    - Weight: 50 lbs (22.7 kg)
 - title: Sherwood Intermediate Hockey Goal - 54" (sold in eaches)
   image: "/2022-01-04 14.15.21.jpg"
   price: 59
