@@ -123,7 +123,7 @@ promotions:
 
 
     A great starter set and a classic take on the fat bat, this set features high density foam construction.
-- title: Champion SM1 Softball Catcher's Mask
+- title: CLEARANCE - Champion SM1 Softball Catcher's Mask
   image: "/sm1_n.jpg"
   price: 30.75
   description: |-
