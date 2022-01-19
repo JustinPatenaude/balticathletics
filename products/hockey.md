@@ -20,6 +20,10 @@ photos: []
 suppliers: []
 date: '2019-03-29T23:00:55.000+00:00'
 promotions:
+- title: Standard Ice Hockey Puck 294
+  image: "/2022-01-03 16.14.44.jpg"
+  price: 1.75
+  description: ''
 - title: Firm Sponge Pucks 295
   image: "/2022-01-03 16.15.08.jpg"
   price: 4.25
