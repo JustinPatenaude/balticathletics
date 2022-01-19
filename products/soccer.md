@@ -467,7 +467,7 @@ promotions:
     9 pairs available
 - title: CLEARANCE - Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
   image: "/diadora finale sock.PNG"
-  price: 6.5
+  price: 5
   description: |-
     - 80% Polyester, 10% Lycra, 10% Spandex
 
