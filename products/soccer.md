@@ -71,7 +71,7 @@ promotions:
   description: 'GALAXY BEACH: 32 Panel machine sewn ball with a durable, super-soft
     microfiber foam outer shell. An excellent game level team ball for the beach/grass
     soccer with a 4-ply poly/cotton backing. Excellent in all weather conditions.'
-- title: Adidas Krasava Soccer Ball - Size 5
+- title: CLEARANCE - Adidas Krasava Soccer Ball - Size 5
   image: "/KRASAVA Adidas SB size 5.jpg"
   price: 45
   description: |-
