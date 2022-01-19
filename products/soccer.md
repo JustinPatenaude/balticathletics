@@ -169,7 +169,7 @@ promotions:
     - Ideal for the school yard
 
     1 available
-- title: Jeffix S5R Rubber Recreative Soccer Ball - Size 5
+- title: CLEARANCE - Jeffix S5R Rubber Recreative Soccer Ball - Size 5
   image: "/S4RKIT_1-ZA.jpg"
   price: 9
   description: |-
