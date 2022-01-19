@@ -23,15 +23,7 @@ promotions:
     - Size 4
 
     1 available
-- title: CLEARANCE - Puma Futsal Ball - Size 4
-  image: "/2020-04-14 16.23.25.jpg"
-  price: 27
-  description: |-
-    - Soft touch
-    - Low rebound
-
-    6 available
-- title: Uhlsport Medusa Nereo 1501 Futsal Ball - Size 4
+- title: CLEARANCE - Uhlsport Medusa Nereo 1501 Futsal Ball - Size 4
   image: "/2020-04-14 16.25.08.jpg"
   price: 32
   description: |-
@@ -58,6 +50,14 @@ promotions:
   image: "/2020-03-30 12.15.56.jpg"
   price: 23
   description: 1 available
+- title: CLEARANCE - Puma Futsal Ball - Size 4
+  image: "/2020-04-14 16.23.25.jpg"
+  price: 27
+  description: |-
+    - Soft touch
+    - Low rebound
+
+    6 available
 - title: CLEARANCE - Puma 08297403 Futsal 1 Trainer Ball - Size 4
   image: "/2022-01-04 12.02.38.jpg"
   price: 25
