@@ -144,7 +144,7 @@ promotions:
   image: "/2020-03-07 12.33.42.jpg"
   price: 23
   description: ''
-- title: Firm Foam Roller EPPFR36  - 6" dia x 36" high
+- title: CLEARANCE - Firm Foam Roller EPPFR36  - 6" dia x 36" high
   image: "/Firm Foam Roller EPPFR36 a.jpg"
   price: 35
   description: |-
