@@ -232,7 +232,7 @@ promotions:
   description: |-
     Soft touch, training ball
     38 available
-- title: Puma Arsenal Soccer Ball - Size 5
+- title: CLEARANCE - Puma Arsenal Soccer Ball - Size 5
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 25
   description: Only 1 available
