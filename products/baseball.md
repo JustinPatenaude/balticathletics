@@ -64,8 +64,8 @@ promotions:
   image: "/spalding 100 baseball.jpg"
   price: 5
   description: 3 single balls available
-- title: Spalding 41003 Official League Synthetic Cover Baseball (sold in case of
-    12)
+- title: CLEARANCE - Spalding 41003 Official League Synthetic Cover Baseball (sold
+    in case of 12)
   image: "/2020-03-07 11.09.54.jpg"
   price: 48
   description: |-
