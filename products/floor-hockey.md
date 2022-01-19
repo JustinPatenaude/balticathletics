@@ -13,6 +13,19 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
+- title: DOM SB-76 Standard Replacement Blades
+  image: "/hockey_blades_SB76.jpg"
+  price: 4.75
+  description: |-
+    SB-76 Blade fits over shafts of all major brands
+    Shatterproof, impact resistant.
+
+    Made from high density polyethylene. Solid continuous striking surface - no gimmicky patterns notched into blade which can weaken blade over time. Can be shaped left or right (by hand only), hundreds of times, without compromising strength or durability. Blades will never mark gym floors! Excellent for outdoor surfaces too.
+
+    REPLACEMENT BLADE FOR:
+    Youth, Excel, Cup, Pro, Elite, VISION
+    COLOURS: Red, Blue, Black & White
+    All colours in stock.
 - title: DOM FP-05 ProFelt Puck (Sold in pairs)
   image: "/hockey_FP05fp.jpg"
   price: 22.5
