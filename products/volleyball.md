@@ -48,14 +48,6 @@ promotions:
     Installation on artificial turf, sport courts, and more. Call us to customize!\n\n2-for-1
     system. Components may be purchased to convert your outdoor system for indoor
     use as well.\n\nPlay on the beach, in the park or your backyard."
-- title: Spieth Replacement Winch 600019
-  image: "/SAVB303AW_Spool-typewinch_5000x.jpg"
-  price: 499
-  description: |-
-    - ONE in stock
-    - For use on Spieth volleyball posts or 3" posts
-    - Self-locking external winch with collapsible handle
-    - Provides smooth, controlled and even tension over the entire net surface.
 - title: Crossnet 4Square Volleyball
   image: "/Crossnet Hero Image_V2.png"
   price: 189.99
@@ -94,13 +86,6 @@ promotions:
   image: "/vl25-enhanced1-l.jpg"
   price: 18.95
   description: ''
-- title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
-  image: "/2020-03-30 11.33.27.jpg"
-  price: 4
-  description: |-
-    Only white as shown
-
-    9 available
 - title: Champion VL20 Volleyball Trainer - Size 8
   image: "/vl20-front-l.jpg"
   price: 16.5
@@ -166,6 +151,50 @@ promotions:
     supple composite leather cover\n- Unique 18 panel hand sewn construction\n- Unique
     red, white and blue design \n- Made to Mikasa’s well known standard of excellent
     quality\n- Size 5 - Official \n\n1 available"
+- title: Tachikara SV18S Volleyball
+  image: "/Tachikara SV18S w colours.png"
+  price: 42
+  description: |-
+    - Performance volleyball
+    - Indoor volleyball
+    - Great for gym classes or elementary game ball
+    - Select colours in stock, other colours special order
+- title: Tachikara SVMNC Volley Lite Volleyball
+  image: "/Tachikara SVMN w colours.png"
+  price: 47
+  description: |-
+    - Good for ages 12 and under
+    - Great training ball
+    - Select colours in stock, other colours special order
+- title: Spieth Replacement Winch 600019
+  image: "/SAVB303AW_Spool-typewinch_5000x.jpg"
+  price: 499
+  description: |-
+    - ONE in stock
+    - For use on Spieth volleyball posts or 3" posts
+    - Self-locking external winch with collapsible handle
+    - Provides smooth, controlled and even tension over the entire net surface.
+- title: Wilson AVP Replica Beach/Crossnet Volleyball
+  image: "/wilson avp ball.jpg"
+  price: 29.5
+  description: OPTX Optic bright yellow ball
+- title: Wilson WTH4407 Canada Official Beach Volleyball Replica
+  image: "/WTH4407 Canada Official Beach Replica Volleyball.jpg"
+  price: 30
+  description: |-
+    - Replica look of the Volleyball Canada Official Game Ball
+    - Synthetic leather cover for enhanced durability
+    - 18-panel, machine sewn construction for optimal shape retention
+    - Butyl rubber bladder for extended air retention
+
+    1 available
+- title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
+  image: "/2020-03-30 11.33.27.jpg"
+  price: 4
+  description: |-
+    Only white as shown
+
+    9 available
 - title: CLEARANCE - Mikasa MVA-350 Volleyball
   image: "/2022-01-04 11.50.55.jpg"
   price: 23
@@ -188,35 +217,6 @@ promotions:
     - Excellent recreational ball.
     - Great for swimming pools and volleyball camps.
     - Yellow and red
-
-    1 available
-- title: Tachikara SV18S Volleyball
-  image: "/Tachikara SV18S w colours.png"
-  price: 42
-  description: |-
-    - Performance volleyball
-    - Indoor volleyball
-    - Great for gym classes or elementary game ball
-    - Select colours in stock, other colours special order
-- title: Tachikara SVMNC Volley Lite Volleyball
-  image: "/Tachikara SVMN w colours.png"
-  price: 47
-  description: |-
-    - Good for ages 12 and under
-    - Great training ball
-    - Select colours in stock, other colours special order
-- title: Wilson AVP Replica Beach/Crossnet Volleyball
-  image: "/wilson avp ball.jpg"
-  price: 29.5
-  description: OPTX Optic bright yellow ball
-- title: Wilson WTH4407 Canada Official Beach Volleyball Replica
-  image: "/WTH4407 Canada Official Beach Replica Volleyball.jpg"
-  price: 30
-  description: |-
-    - Replica look of the Volleyball Canada Official Game Ball
-    - Synthetic leather cover for enhanced durability
-    - 18-panel, machine sewn construction for optimal shape retention
-    - Butyl rubber bladder for extended air retention
 
     1 available
 - title: CLEARANCE - Wilson 84-7967 Prestige Indoor Volleyball
