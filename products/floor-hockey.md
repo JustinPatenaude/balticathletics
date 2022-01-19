@@ -11,6 +11,15 @@ products:
 - Player Sticks
 photos: []
 promotions:
+- title: iPLAY Hockey Net - 72" x 48" x 32" HG724832
+  image: "/2022-01-04 14.12.17.jpg"
+  price: 75
+  description: |-
+    - 5 available
+    - 1 1/4" steel frame construction
+    - Polyester rope netting (White)
+    - easy to transport
+    - easy to put together, no tools required
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
