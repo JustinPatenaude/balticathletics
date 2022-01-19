@@ -13,17 +13,6 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
-- title: CLEARANCE - Mylec Goalie Box Set MK3GBS24 - Junior
-  image: "/2022-01-03 16.06.54.jpg"
-  price: 160
-  description: |-
-    - ONE available only.
-
-    Includes:
-    - 24" pads
-    - RH blocker
-    - Left trapper
-    - Canada mask MK3GMC
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
@@ -192,6 +181,17 @@ promotions:
   image: "/2022-01-03 16.08.50 m.jpg"
   price: 32
   description: ONE available only.
+- title: CLEARANCE - Mylec Goalie Box Set MK3GBS24 - Junior
+  image: "/2022-01-03 16.06.54.jpg"
+  price: 160
+  description: |-
+    - ONE available only.
+
+    Includes:
+    - 24" pads
+    - RH blocker
+    - Left trapper
+    - Canada mask MK3GMC
 - title: iPLAY Hockey Net - 72" x 48" x 32" HG724832
   image: "/2022-01-04 14.12.17.jpg"
   price: 75
