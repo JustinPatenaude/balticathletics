@@ -82,9 +82,9 @@ promotions:
   image: "/XV5S-Xtreme-Celular-Beach-Volleyball-800x1000px-600x750.jpg"
   price: 18.5
   description: "- Soft durable rubber fiber outer"
-- title: Champion VL25 Fabric Training Volleyball
+- title: CLEARANCE - Champion VL25 Fabric Training Volleyball
   image: "/vl25-enhanced1-l.jpg"
-  price: 18.95
+  price: 17.95
   description: ''
 - title: Champion VL20 Volleyball Trainer - Size 8
   image: "/vl20-front-l.jpg"
