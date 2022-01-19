@@ -13,6 +13,20 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
+- title: DOM FP-05 ProFelt Puck (Sold in pairs)
+  image: "/hockey_FP05fp.jpg"
+  price: 22.5
+  description: |-
+    - Best floor hockey puck ever made!
+    - Safe, simple and functional!
+    - Glides well! Handles predictably! All achieved without compromising safety! - -- Special sewing technique helps retain shape and provides slight edge curve which minimizes bounce and roll.
+    - Perform without bruises attributed to flying rubber pucks!
+    - For indoor use only.
+    - 100% Pure South African Wool
+    - Made in Canada
+    - Sold in Pairs Only.
+    - FP-05 40 grams
+    - SIZE: 3" x 7/8"
 - title: DOM-83 GymHockey Ball
   image: "/hockey_dom83.jpg"
   price: 3.75
