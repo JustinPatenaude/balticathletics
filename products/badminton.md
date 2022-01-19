@@ -109,7 +109,7 @@ promotions:
   image: "/2022-01-04 15.34.42.jpg"
   price: 65
   description: One available
-- title: Carlton ISO4.3 Midi-Blade Badminton Racquet
+- title: CLEARANCE - Carlton ISO4.3 Midi-Blade Badminton Racquet
   image: "/Carlton ISO4.3 Midi-Blade Badminton Racquet.jpg"
   price: 15
   description: |-
