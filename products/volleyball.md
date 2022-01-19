@@ -38,7 +38,8 @@ promotions:
   image: "/SAVB303AW_Spool-typewinch_5000x.jpg"
   price: 499
   description: |-
-    - for use on Spieth volleyball posts or 3" posts
+    - ONE in stock
+    - For use on Spieth volleyball posts or 3" posts
     - Self-locking external winch with collapsible handle
     - Provides smooth, controlled and even tension over the entire net surface.
 - title: Cobra Outdoor Volleyball System
