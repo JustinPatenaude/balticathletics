@@ -65,34 +65,6 @@ promotions:
   description: |-
     - Set includes (3) 20” L clubs. Red, Yellow and Blue
     - High Density foam covered provides a better grip and extra durability.
-- title: CLEARANCE - Cricket Set FCRS29
-  image: "/2022-01-05 16.37.44.jpg"
-  price: 40
-  description: |-
-    - Outdoor use
-    - High Density Foam
-    - Includes bat, 4 - 18 inch in-ground outdoor spike stumps, 2 balls, 2 bales
-- title: CLEARANCE - Tchoukball TRN2 SET (Red) - Sold as a set
-  image: "/TRN2-rebounder-360athl.jpg"
-  price: 395
-  description: |
-    7 sets available only.
-
-    Includes:
-    - 2 RED frames
-    - 2 balls (sizes 0, 1, 2 or 3) - Extra balls can be purchased separately.
-    - Game instructions (in English or French)
-
-    FITB approved! Drawn steel tube with rounded corners and a strong foldable
-    support mechanism keeps the frame stable during play. 10 angle adjustments on bar. Net is held by 52 steel “S” hooks spread around the frame. Non-marking guards at the bottom. Frame size is 1 m x 1 m and features rust-proof steel net rings.
-
-    FOB Winnipeg
-
-    Tchoukball Ball circumferences:
-    - #0 - 18 1/4" / 46 cm
-    - #1 - 20 3/4" / 53 cm
-    - #2 - 21 3/4" / 55 cm
-    - #3 - 22 3/4" / 58 cm
 - title: Tchoukballs/Handballs, Assorted
   image: "/2022-01-06 16.59.24.jpg"
   price: 0
@@ -127,6 +99,34 @@ promotions:
   image: "/2022-01-05 15.43.49.jpg"
   price: 
   description: ''
+- title: CLEARANCE - Tchoukball TRN2 SET (Red) - Sold as a set
+  image: "/TRN2-rebounder-360athl.jpg"
+  price: 395
+  description: |
+    7 sets available only.
+
+    Includes:
+    - 2 RED frames
+    - 2 balls (sizes 0, 1, 2 or 3) - Extra balls can be purchased separately.
+    - Game instructions (in English or French)
+
+    FITB approved! Drawn steel tube with rounded corners and a strong foldable
+    support mechanism keeps the frame stable during play. 10 angle adjustments on bar. Net is held by 52 steel “S” hooks spread around the frame. Non-marking guards at the bottom. Frame size is 1 m x 1 m and features rust-proof steel net rings.
+
+    FOB Winnipeg
+
+    Tchoukball Ball circumferences:
+    - #0 - 18 1/4" / 46 cm
+    - #1 - 20 3/4" / 53 cm
+    - #2 - 21 3/4" / 55 cm
+    - #3 - 22 3/4" / 58 cm
+- title: CLEARANCE - Cricket Set FCRS29
+  image: "/2022-01-05 16.37.44.jpg"
+  price: 40
+  description: |-
+    - Outdoor use
+    - High Density Foam
+    - Includes bat, 4 - 18 inch in-ground outdoor spike stumps, 2 balls, 2 bales
 - title: Aerobie Rocket Football 65186-0
   image: "/65186-0_aerobie_rocket_football_group(1).jpg"
   price: 12.5
@@ -413,13 +413,9 @@ promotions:
     *Standard colours:
     Blue, Red, Purple, Orange, Green, Yellow, Pink
     * PE Kits, Timing mats, replacement cups are available and sold separately.
-- title: CLEARANCE - Bean Bag - Ultra-soft, 4" PX-501695
-  image: "/bean bags.jpg"
-  price: 2.5
-  description: 6 colours available (green, blue, yellow, red, purple, orange)
 - title: Crocheted Hackey Sack
   image: "/hackysack2.jpg"
-  price: 3
+  price: 3.85
   description: 12 available in assorted colours
 - title: Target Net Set TNM18SET
   image: "/tnm18set_n.jpg"
@@ -453,5 +449,9 @@ promotions:
     - Squeaks when it is squeezed
 
     9 available
+- title: CLEARANCE - Bean Bag - Ultra-soft, 4" PX-501695
+  image: "/bean bags.jpg"
+  price: 2.5
+  description: 6 colours available (green, blue, yellow, red, purple, orange)
 
 ---
