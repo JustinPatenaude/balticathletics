@@ -87,7 +87,7 @@ promotions:
   image: "/2022-01-04 12.25.47.jpg"
   price: 35
   description: ''
-- title: Adidas Pink/Blue Soccer Ball - Size 5
+- title: CLEARANCE - Adidas Pink/Blue Soccer Ball - Size 5
   image: "/Adidas pink.jpg"
   price: 24
   description: |-
