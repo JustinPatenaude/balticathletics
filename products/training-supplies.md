@@ -203,9 +203,9 @@ promotions:
     - lacrosse
 
     1 available
-- title: Rubbermaid Drink Station
+- title: CLEARANCE - Rubbermaid Drink Station
   image: "/2020-04-11 14.32.44.jpg"
-  price: 40
+  price: 35
   description: |-
     - 18.9 L
     - Insulated
