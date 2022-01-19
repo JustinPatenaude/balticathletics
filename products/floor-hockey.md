@@ -13,6 +13,13 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
+- title: CLEARANCE - 360 Goalie RH Blocker and LH Trapper Set
+  image: "/2022-01-03 16.13.16.jpg"
+  price: 60
+  description: |
+    - Lightweight and durable, as well as flexible!
+    - Sold only as a set
+    - 2 sets available
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
