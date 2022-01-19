@@ -237,7 +237,7 @@ promotions:
     - Strong nylon netting
     - Durable 1 1/4" plastic full frame
     - Back-Centre Support Bar
-- title: Linwood Plastic Goals FI-1420
+- title: CLEARANCE - Linwood Plastic Goals FI-1420
   image: "/FI-1420.png"
   price: 49
   description: |-
