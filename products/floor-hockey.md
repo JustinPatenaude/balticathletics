@@ -13,6 +13,11 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
+- title: DOM RR-G Gym Ringette Rings
+  image: "/gymringette_RRG_gymring.jpg"
+  price: 11.35
+  description: 6", 5 oz, high optic orange Skinex ring is safe, slides easily and
+    is highly durable
 - title: DOM Gym Ringette 35", 44", 50" available
   image: "/ringette_r2_family.jpg"
   price: 10.5
