@@ -29,9 +29,9 @@ promotions:
     Easily installs on any backpack
 
     https://bacpacjac.com/
-- title: BacPacJac Backpack Shock Absorbers - Heavy (20 - 50 lbs)
+- title: CLEARANCE - BacPacJac Backpack Shock Absorbers - Heavy (20 - 50 lbs)
   image: "/2020-04-10 16.58.32.jpg"
-  price: 14
+  price: 8
   description: |-
     2 available (1 black, 1 pink)
 
