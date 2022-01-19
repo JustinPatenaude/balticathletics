@@ -508,7 +508,7 @@ promotions:
     Available:
     - 4 - Size 6
     - 1 - Size 7
-- title: Eletto SG1440 React Hard Shell Soccer Shin Guards - Size L
+- title: CLEARANCE - Eletto SG1440 React Hard Shell Soccer Shin Guards - Size L
   image: "/2020-04-16 16.15.34.jpg"
   price: 8
   description: 1 available
