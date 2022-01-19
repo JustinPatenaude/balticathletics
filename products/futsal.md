@@ -10,6 +10,15 @@ products:
 - Futsal Balls
 photos: []
 promotions:
+- title: Uhlsport Medusa Keto Sala 1525 Futsal Ball - Size 4
+  image: "/2020-04-14 16.23.55.jpg"
+  price: 29
+  description: |-
+    - Made with new abrasion resistant, environmentally friendly, kid grain PVC upper material
+    - Low rebound characteristic
+    - Butyl bladder for good air retention
+
+    3 available
 - title: Diadora Futsala ID II 881701 Futsal Ball - Size 4
   image: "/2020-04-14 16.25.24.jpg"
   price: 38
