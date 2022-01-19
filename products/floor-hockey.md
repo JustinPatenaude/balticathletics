@@ -229,7 +229,7 @@ promotions:
     Goals are 33"x22"x12" and are easy to assemble
     Mini Hockey Net Set is great for kids
     Lightweight and portable so you can pack it up and play anywhere
-- title: Linwood Plastic Goals FI-1400
+- title: CLEARANCE - Linwood Plastic Goals FI-1400
   image: "/FI-1400.png"
   price: 43
   description: |-
