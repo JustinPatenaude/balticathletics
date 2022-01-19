@@ -46,7 +46,7 @@ promotions:
     - Available for FREE with a purchase of 8 or more Wilson Evolution basketballs
 
     8 available
-- title: Volleyball Carrying Bag (L6V)
+- title: CLEARANCE - 360 Volleyball Carrying Bag (L6V)
   image: "/l6v.jpg"
   price: 15
   description: |-
