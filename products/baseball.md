@@ -72,7 +72,7 @@ promotions:
     - 12" synthetic cover
 
     7 dozen available
-- title: Dudley 4A147 Thunder Heat Leather COR47 Fastpitch Ball - 12"
+- title: CLEARANCE - Dudley 4A147 Thunder Heat Leather COR47 Fastpitch Ball - 12"
   image: "/Dudley 4A147 Thunder Heat Leather COR47 Fastpitch Ball.jpg"
   price: 7.5
   description: |-
