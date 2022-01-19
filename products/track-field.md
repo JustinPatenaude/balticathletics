@@ -50,6 +50,19 @@ promotions:
   description: |-
     - 100 blanks per container
     - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
+- title: Professional High Jump Standards (HJSP)
+  image: "/HJSP.JPG"
+  price: 995
+  description: |
+    - INCLUDES: competition level fiberglass 13.1' crossbar (not shown)
+    - Height range-69-250cm
+    - 75mm aluminum pole with 59x53cm “T” shape laser cut base, casting alum.
+    - Crossbar platform and top cap.
+    - Extra weighted base for stability.
+    - Red only
+    - IAAF Certified.
+
+    1 pair available
 - title: CLEARANCE - F30805R Aluminum High Jump Standards
   image: "/F30805R standards.jpg"
   price: 775
@@ -72,19 +85,6 @@ promotions:
     * adjustable heights up to 243 cm
     * new though shown as a sales sample
     * no freight if picked up or delivered in Winnipeg area
-- title: Professional High Jump Standards (HJSP)
-  image: "/HJSP.JPG"
-  price: 995
-  description: |
-    - INCLUDES: competition level fiberglass 13.1' crossbar (not shown)
-    - Height range-69-250cm
-    - 75mm aluminum pole with 59x53cm “T” shape laser cut base, casting alum.
-    - Crossbar platform and top cap.
-    - Extra weighted base for stability.
-    - Red only
-    - IAAF Certified.
-
-    1 pair available
 - title: Stackhouse TFG13-1 Official Fiberglass Crossbar - Competition
   image: "/crossbar-sh-offcl-comp-z.jpg"
   price: 265
