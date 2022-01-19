@@ -29,84 +29,6 @@ promotions:
   price: 7.75
   description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
     for classroom use.\n\n5 available"
-- title: CLEARANCE - 360 PS5RB Diamond Tek Soccer Ball - Size 5
-  image: "/PS5RBG_Green_Diamond_Dek_Soccer_Ball_13980_0231.jpg"
-  price: 19
-  description: |-
-    - textured outer shell, making the ball tough, durable and waterproof
-    - Great for outdoor use in all conditions and surfaces.
-
-    Colours Available:
-    - Blue
-    - Orange
-    - Green
-- title: CLEARANCE - 360 Screamer Soccer Ball - Size 3
-  image: "/2022-01-04 11.41.03.jpg"
-  price: 14.95
-  description: |-
-    - 2.7mm with 2 ply cloth backing
-    - Butyl bladder
-    - Orange
-- title: CLEARANCE - 360 Screamer Soccer Ball - Size 4
-  image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
-  price: 14.75
-  description: |-
-    - Ideal for beginner level players
-    - Designed for game play, practice or recreation
-    - Butyl bladder for maximum air retention to keep the ball's shape and stay inflated longer
-    - Durable 2.7mm PVC cover with a gloss finish
-    - 2 ply cloth backing
-
-    1 available
-- title: CLEARANCE - 360 Super Nova S36403 Soccer Ball - Size 3
-  image: "/2022-01-04 11.41.27.jpg"
-  price: 15.95
-  description: |-
-    4 available
-    Soft Touch Micro Cellular PVC and EVA foam backing
-    Black/Red/White
-- title: Acacia Galaxy Training Ball 24-205 - Size 5
-  image: "/2022-01-04 11.47.33.jpg"
-  price: 19
-  description: 'GALAXY BEACH: 32 Panel machine sewn ball with a durable, super-soft
-    microfiber foam outer shell. An excellent game level team ball for the beach/grass
-    soccer with a 4-ply poly/cotton backing. Excellent in all weather conditions.'
-- title: CLEARANCE - Adidas Krasava Soccer Ball - Size 5
-  image: "/KRASAVA Adidas SB size 5.jpg"
-  price: 45
-  description: |-
-    Match quality ball, superb bounce and feel
-    1 available
-- title: CLEARANCE - Adidas Juventus European Club Soccer Ball - Size 5
-  image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
-  price: 25
-  description: |-
-    Soft touch game or training ball
-    1 available
-- title: Adidas Tango Glider Soccer Ball - Size 5
-  image: "/2022-01-04 12.25.47.jpg"
-  price: 35
-  description: ''
-- title: CLEARANCE - Adidas Pink/Blue Soccer Ball - Size 5
-  image: "/Adidas pink.jpg"
-  price: 24
-  description: |-
-    Soft touch ball for game or training.
-    10 available
-- title: CLEARANCE - Adidas Nativo XXV Soccer Ball - Size 5
-  image: "/2022-01-04 11.40.47.jpg"
-  price: 23
-  description: |-
-    - 9 available
-    - Green/Teal/Black
-    - Soft touch
-- title: CLEARANCE - Campea C1190 Tempest Soccer Ball - Size 3
-  image: "/2022-01-04 11.42.57.jpg"
-  price: 15
-  description: |-
-    - 6 available
-    - Soft Touch
-    - Butyl Bladder
 - title: Champion SL10 Soccer Ball Trainer - Size 4
   image: "/sl10-a-front_l.jpg"
   price: 16.5
@@ -118,6 +40,16 @@ promotions:
     - Yellow/Black
 
     2 available
+- title: Acacia Galaxy Training Ball 24-205 - Size 5
+  image: "/2022-01-04 11.47.33.jpg"
+  price: 19
+  description: 'GALAXY BEACH: 32 Panel machine sewn ball with a durable, super-soft
+    microfiber foam outer shell. An excellent game level team ball for the beach/grass
+    soccer with a 4-ply poly/cotton backing. Excellent in all weather conditions.'
+- title: Adidas Tango Glider Soccer Ball - Size 5
+  image: "/2022-01-04 12.25.47.jpg"
+  price: 35
+  description: ''
 - title: Champion EX5PR Extreme Soccer Ball - Size 5
   image: "/ex5pr-a-front_l.jpg"
   price: 15.5
@@ -131,13 +63,13 @@ promotions:
     - Purple
 
     1 available
-- title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
-  image: "/Eletto LNA-290 soccer ball.jpg"
-  price: 
-  description: ''
 - title: Eletto LIGA Competition 30.1 Soccer Ball - Sizes 3, 4, 5
   image: "/Eletto LIGA comp soccer ball.jpg"
   price: 29
+  description: ''
+- title: Eletto LNA-290 Ultra-light Soccer Ball - Size 4
+  image: "/Eletto LNA-290 soccer ball.jpg"
+  price: 
   description: ''
 - title: Eletto LIGA Trainer 10.1 Soccer Ball - Size 5
   image: "/2020-03-30 12.26.05.jpg"
@@ -145,11 +77,79 @@ promotions:
   description: |-
     Also available in sizes 3 & 4
     1 available
+- title: CLEARANCE - 360 Super Nova S36403 Soccer Ball - Size 3
+  image: "/2022-01-04 11.41.27.jpg"
+  price: 15.95
+  description: |-
+    4 available
+    Soft Touch Micro Cellular PVC and EVA foam backing
+    Black/Red/White
+- title: CLEARANCE - 360 Screamer Soccer Ball - Size 3
+  image: "/2022-01-04 11.41.03.jpg"
+  price: 14.95
+  description: |-
+    - 2.7mm with 2 ply cloth backing
+    - Butyl bladder
+    - Orange
 - title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
   image: "/Eletto LNA-350 soccer ball.jpg"
   price: 22
   description: ''
-- title: Jeffix S4R Recreative Rubber Soccer Balls - Size 4
+- title: CLEARANCE - Campea C1190 Tempest Soccer Ball - Size 3
+  image: "/2022-01-04 11.42.57.jpg"
+  price: 15
+  description: |-
+    - 6 available
+    - Soft Touch
+    - Butyl Bladder
+- title: CLEARANCE - 360 Screamer Soccer Ball - Size 4
+  image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
+  price: 14.75
+  description: |-
+    - Ideal for beginner level players
+    - Designed for game play, practice or recreation
+    - Butyl bladder for maximum air retention to keep the ball's shape and stay inflated longer
+    - Durable 2.7mm PVC cover with a gloss finish
+    - 2 ply cloth backing
+
+    1 available
+- title: CLEARANCE - 360 PS5RB Diamond Tek Soccer Ball - Size 5
+  image: "/PS5RBG_Green_Diamond_Dek_Soccer_Ball_13980_0231.jpg"
+  price: 19
+  description: |-
+    - textured outer shell, making the ball tough, durable and waterproof
+    - Great for outdoor use in all conditions and surfaces.
+
+    Colours Available:
+    - Blue
+    - Orange
+    - Green
+- title: CLEARANCE - Adidas Krasava Soccer Ball - Size 5
+  image: "/KRASAVA Adidas SB size 5.jpg"
+  price: 45
+  description: |-
+    Match quality ball, superb bounce and feel
+    1 available
+- title: CLEARANCE - Adidas Juventus European Club Soccer Ball - Size 5
+  image: "/Adidas European Soccer Club Promo Ball size 5.jpg"
+  price: 25
+  description: |-
+    Soft touch game or training ball
+    1 available
+- title: CLEARANCE - Adidas Pink/Blue Soccer Ball - Size 5
+  image: "/Adidas pink.jpg"
+  price: 24
+  description: |-
+    Soft touch ball for game or training.
+    10 available
+- title: CLEARANCE - Adidas Nativo XXV Soccer Ball - Size 5
+  image: "/2022-01-04 11.40.47.jpg"
+  price: 23
+  description: |-
+    - 9 available
+    - Green/Teal/Black
+    - Soft touch
+- title: CLEARANCE - Jeffix S4R Recreative Rubber Soccer Balls - Size 4
   image: "/S4RKIT_1-Zc.jpg"
   price: 8.5
   description: |-
