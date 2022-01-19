@@ -13,6 +13,14 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
+- title: DOM X90 Floor Hockey Set
+  image: ''
+  price: 215
+  description: |-
+    Includes
+    - 12 EXCEL Sticks (6 Red / 6 Blue)
+    - 2 DOM-84 SuperPucks
+    - 2 DOM-83 Balls
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
