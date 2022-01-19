@@ -87,7 +87,7 @@ promotions:
     - includes carrying stacker
 
      20 available
-- title: Inflatable Cones PP-508178/9-00  8" & 12" height
+- title: CLEARANCE - Inflatable Cones PP-508178/9-00  8" & 12" height
   image: "/2020-03-07 12.25.41.jpg"
   price: 15
   description: |-
