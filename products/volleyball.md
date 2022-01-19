@@ -34,14 +34,6 @@ photos:
 - title: Cellular and Rubber Volleyballs
   photo: "/2022-01-06 17.28.15.jpg"
 promotions:
-- title: Spieth Replacement Winch 600019
-  image: "/SAVB303AW_Spool-typewinch_5000x.jpg"
-  price: 499
-  description: |-
-    - ONE in stock
-    - For use on Spieth volleyball posts or 3" posts
-    - Self-locking external winch with collapsible handle
-    - Provides smooth, controlled and even tension over the entire net surface.
 - title: Cobra Outdoor Volleyball System
   image: "/cobra on grass.JPG"
   price: 750
@@ -56,6 +48,14 @@ promotions:
     Installation on artificial turf, sport courts, and more. Call us to customize!\n\n2-for-1
     system. Components may be purchased to convert your outdoor system for indoor
     use as well.\n\nPlay on the beach, in the park or your backyard."
+- title: Spieth Replacement Winch 600019
+  image: "/SAVB303AW_Spool-typewinch_5000x.jpg"
+  price: 499
+  description: |-
+    - ONE in stock
+    - For use on Spieth volleyball posts or 3" posts
+    - Self-locking external winch with collapsible handle
+    - Provides smooth, controlled and even tension over the entire net surface.
 - title: Crossnet 4Square Volleyball
   image: "/Crossnet Hero Image_V2.png"
   price: 189.99
