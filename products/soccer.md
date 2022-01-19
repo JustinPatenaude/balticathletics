@@ -236,7 +236,7 @@ promotions:
   image: "/ARSENAL Puma SB size 5.jpg"
   price: 25
   description: Only 1 available
-- title: Puma Trainer Soccer Ball - Size 4
+- title: CLEARANCE - Puma Trainer Soccer Ball - Size 4
   image: "/2020-04-11 14.30.31.jpg"
   price: 25
   description: |-
