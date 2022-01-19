@@ -10,52 +10,6 @@ products:
 - Shuttles
 photos: []
 promotions:
-- title: CLEARANCE - Black Knight Diamond D100 Racquet
-  image: "/2022-01-04 15.25.08.jpg"
-  price: 39
-  description: TWO available
-- title: CLEARANCE - Black Knight BA250 Racquet
-  image: "/2022-01-04 15.25.48.jpg"
-  price: 18
-  description: "ONE available.\n\nDesigned for: Novice players looking an economical
-    racquet with moderate weight\n \nFrame: Aluminium head, steel shaft\nString: Lonfibre
-    SX21\nString Tension: 12-17lbs\nAFW: 110g\nOverall length: 66.5cm\nWarranty: 6-months
-    (includes 45-day “No fault” Guarantee*)\n \nCharacteristic: Excellent value for
-    the novice player with moderate weight, headcover."
-- title: 'CLEARANCE - Black Knight Super Nano Racquet BA417 '
-  image: "/2022-01-04 15.26.24.jpg"
-  price: 42
-  description: ONE available.
-- title: CLEARANCE - Yonex Muscle Power Junior Racquet MP2JR
-  image: "/2022-01-04 15.31.27.jpg"
-  price: 25
-  description: "A shorter junior racquet for easy handling\n\nFrame\tAluminum\nShaft\tSteel\nLength\t21
-    in.\nWeight / Grip\t4U (Avg. 83g) G5\nStringing Advice\t4U: 14 - 18 lbs\n\nONE
-    available"
-- title: CLEARANCE - Yonex CAB6000N Racquet
-  image: "/2022-01-04 15.32.57.jpg"
-  price: 49
-  description: "The round-shape head with box-shape frame cross section gives Carbonex
-    a unique and solid feeling. For players who seek a solid feel from the strings
-    at impact. At impact, Elastic Ti resists deformation, stretching then recovering
-    its shape quickly to launch accurate shots with the full energy of the swing.\n\nFrame\tAluminum\nShaft\tSteel
-    / CARBON NANOTUBE\nWeight / Grip\tU (105g and below) G4\nStringing Advice\tU:
-    16 - 20 lbs\nColor(s)\tBlack / Yellow\n\n3 available"
-- title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
-  image: "/2022-01-04 15.42.36.jpg"
-  price: 6
-  description: Championship shuttlecock
-- title: CLEARANCE - 360 JEX700 Badminton Shuttles - Tube of 6
-  image: "/2022-01-04 15.44.29.jpg"
-  price: 13.5
-  description: |-
-    Available:
-    5 Green (slow speed)
-    2 Blue (medium speed)
-- title: CLEARANCE - Victor Badminton Racquet Bag
-  image: "/2022-01-04 15.23.14.jpg"
-  price: 45
-  description: Holds up to 16 racquets.
 - title: Black Knight Graphite BA190DG Racquet
   image: "/2022-01-04 15.26.48.jpg"
   price: 30.95
@@ -100,15 +54,50 @@ promotions:
     short length and the light aluminum head make the racquet easy to handle for the
     young player. The overall length is 53 cm, versus the standard 66.5 cm.  This
     racquet is sold with a headcover."
+- title: Victor Aeropower Racquet AP9000
+  image: "/2022-01-04 15.34.42.jpg"
+  price: 65
+  description: One available
 - title: Yonex B4000 Racquet
   image: "/2022-01-04 15.32.19.jpg"
   price: 24
   description: "Frame\tAluminum\nShaft\tSteel\nWeight / Grip\tU (105g and below) G4\nStringing
     Advice\tU: 16 - 20 lbs\n\n6 available"
-- title: Victor Aeropower Racquet AP9000
-  image: "/2022-01-04 15.34.42.jpg"
-  price: 65
-  description: One available
+- title: CLEARANCE - Black Knight Diamond D100 Racquet
+  image: "/2022-01-04 15.25.08.jpg"
+  price: 39
+  description: TWO available
+- title: CLEARANCE - Black Knight BA250 Racquet
+  image: "/2022-01-04 15.25.48.jpg"
+  price: 18
+  description: "ONE available.\n\nDesigned for: Novice players looking an economical
+    racquet with moderate weight\n \nFrame: Aluminium head, steel shaft\nString: Lonfibre
+    SX21\nString Tension: 12-17lbs\nAFW: 110g\nOverall length: 66.5cm\nWarranty: 6-months
+    (includes 45-day “No fault” Guarantee*)\n \nCharacteristic: Excellent value for
+    the novice player with moderate weight, headcover."
+- title: 'CLEARANCE - Black Knight Super Nano Racquet BA417 '
+  image: "/2022-01-04 15.26.24.jpg"
+  price: 42
+  description: ONE available.
+- title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
+  image: "/2022-01-04 15.42.36.jpg"
+  price: 6
+  description: Championship shuttlecock
+- title: CLEARANCE - Yonex Muscle Power Junior Racquet MP2JR
+  image: "/2022-01-04 15.31.27.jpg"
+  price: 25
+  description: "A shorter junior racquet for easy handling\n\nFrame\tAluminum\nShaft\tSteel\nLength\t21
+    in.\nWeight / Grip\t4U (Avg. 83g) G5\nStringing Advice\t4U: 14 - 18 lbs\n\nONE
+    available"
+- title: CLEARANCE - Yonex CAB6000N Racquet
+  image: "/2022-01-04 15.32.57.jpg"
+  price: 49
+  description: "The round-shape head with box-shape frame cross section gives Carbonex
+    a unique and solid feeling. For players who seek a solid feel from the strings
+    at impact. At impact, Elastic Ti resists deformation, stretching then recovering
+    its shape quickly to launch accurate shots with the full energy of the swing.\n\nFrame\tAluminum\nShaft\tSteel
+    / CARBON NANOTUBE\nWeight / Grip\tU (105g and below) G4\nStringing Advice\tU:
+    16 - 20 lbs\nColor(s)\tBlack / Yellow\n\n3 available"
 - title: CLEARANCE - Carlton ISO4.3 Midi-Blade Badminton Racquet
   image: "/Carlton ISO4.3 Midi-Blade Badminton Racquet.jpg"
   price: 15
@@ -131,6 +120,13 @@ promotions:
   image: "/2022-01-04 15.43.37.jpg"
   price: 14.5
   description: "- Yellow skirt / Blue bands"
+- title: CLEARANCE - 360 JEX700 Badminton Shuttles - Tube of 6
+  image: "/2022-01-04 15.44.29.jpg"
+  price: 13.5
+  description: |-
+    Available:
+    5 Green (slow speed)
+    2 Blue (medium speed)
 - title: CLEARANCE - Yonex Mavis 300 Shuttles
   image: "/yonex mavis 300.jpg"
   price: 14
@@ -138,6 +134,10 @@ promotions:
     - Yellow skirt, Blue band
     - Tube of 6
     - Limited quantities
+- title: CLEARANCE - Victor Badminton Racquet Bag
+  image: "/2022-01-04 15.23.14.jpg"
+  price: 45
+  description: Holds up to 16 racquets.
 - title: Victor Stand Alone Badminton Net C-7041
   image: "/75284_1_20201124061631.jpg"
   price: 115
