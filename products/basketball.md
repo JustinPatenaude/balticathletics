@@ -60,7 +60,7 @@ promotions:
   image: "/TF500.png"
   price: 31.5
   description: ''
-- title: Spalding Eco-Green - Size 29.5 (7)
+- title: CLEARANCE - Spalding Eco-Green - Size 29.5 (7)
   image: "/Spalding Size 7 Green.jpg"
   price: 11
   description: "- 12 available"
