@@ -50,7 +50,7 @@ promotions:
   description: |-
     - 100 blanks per container
     - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
-- title: F30805R Aluminum High Jump Standards
+- title: CLEARANCE - F30805R Aluminum High Jump Standards
   image: "/F30805R standards.jpg"
   price: 775
   description: |+
