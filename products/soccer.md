@@ -77,6 +77,37 @@ promotions:
   description: |-
     Also available in sizes 3 & 4
     1 available
+- title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
+  image: "/Eletto LNA-350 soccer ball.jpg"
+  price: 22
+  description: ''
+- title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
+  image: "/w1B3205-1BasicTrainingBall.jpg"
+  price: 19
+  description: |-
+    - A great ball for training and at home practice and comes in multiple sizes for different age groups.
+    - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
+    - 32 panel
+    - High gloss finish
+    - Available in White, Hi-Vis-Green or Hi-Vis Orange
+    - 7 available in Size 4 at this price, Additional size 4 balls and Size 5 can be ordered for $29 each (2021 pricing)
+- title: Mikasa SS50 - Available in sizes 3, 4, 5
+  image: "/Mikasa SS50.jpg"
+  price: 24
+  description: |-
+    - Cushioned cover soccer ball.
+    - Ideal for clubs or for practice.
+    - Deluxe cushioned cover
+    - Butyl bladder
+    - Available in a variety of colours
+- title: Nike Pitch Soccer Ball - Size 4
+  image: "/2020-04-14 16.26.42.jpg"
+  price: 24
+  description: |-
+    - Soft touch
+    - Size 4
+
+    1 available
 - title: CLEARANCE - 360 Super Nova S36403 Soccer Ball - Size 3
   image: "/2022-01-04 11.41.27.jpg"
   price: 15.95
@@ -91,10 +122,6 @@ promotions:
     - 2.7mm with 2 ply cloth backing
     - Butyl bladder
     - Orange
-- title: Eletto LNA-350 Ultra-light Soccer Ball - Size 5
-  image: "/Eletto LNA-350 soccer ball.jpg"
-  price: 22
-  description: ''
 - title: CLEARANCE - Campea C1190 Tempest Soccer Ball - Size 3
   image: "/2022-01-04 11.42.57.jpg"
   price: 15
@@ -183,34 +210,7 @@ promotions:
     - 1 Yellow
     - 1 Blue
     - 2 Purple
-- title: Kwik Goal 1B32 Training Soccer Ball - Sizes 4 & 5
-  image: "/w1B3205-1BasicTrainingBall.jpg"
-  price: 19
-  description: |-
-    - A great ball for training and at home practice and comes in multiple sizes for different age groups.
-    - Polyurethane cover; Non-leak butyl bladder; EVA foam core; Poly-cotton lining
-    - 32 panel
-    - High gloss finish
-    - Available in White, Hi-Vis-Green or Hi-Vis Orange
-    - 7 available in Size 4 at this price, Additional size 4 balls and Size 5 can be ordered for $29 each (2021 pricing)
-- title: Mikasa SS50 - Available in sizes 3, 4, 5
-  image: "/Mikasa SS50.jpg"
-  price: 24
-  description: |-
-    - Cushioned cover soccer ball.
-    - Ideal for clubs or for practice.
-    - Deluxe cushioned cover
-    - Butyl bladder
-    - Available in a variety of colours
-- title: Nike Pitch Soccer Ball - Size 4
-  image: "/2020-04-14 16.26.42.jpg"
-  price: 24
-  description: |-
-    - Soft touch
-    - Size 4
-
-    1 available
-- title: Nike Phantom Venom Soccer Ball - Size 4 & 5
+- title: CLEARANCE - Nike Phantom Venom Soccer Ball - Size 4 & 5
   image: "/2020-04-14 16.27.21.jpg"
   price: 27
   description: |-
