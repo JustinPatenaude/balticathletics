@@ -439,7 +439,9 @@ promotions:
 - title: CLEARANCE - Potato Sack Nylon Race Bags 500327-00 - Set of 6 multicoloured
   image: "/2020-03-07 12.12.53.jpg"
   price: 48
-  description: Sold in sets of 6
+  description: |-
+    - Sold in sets of 6
+    - 4 sets available
 - title: CLEARANCE -  AP1 Latex Pig
   image: "/AP1_Rubber_Pig_DSF7529.jpg"
   price: 9.5
