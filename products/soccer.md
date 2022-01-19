@@ -476,6 +476,15 @@ promotions:
   image: "/2020-04-16 16.06.08.jpg"
   price: 9
   description: 1 available
+- title: Eletto SG2001 Victory IV Soft Shell Shinpads
+  image: "/b8561d_dd80a71d631143acae4b62da12c36703_mv2.webp"
+  price: 14
+  description: "Available:\n- 4 of size X-Small\n- 6 of size Small\n- 5 of size Medium\n-
+    4 of size Large\n- 4 of size XL\n\nFEATURES\n• Ultra durable soft shell\n• Backside:
+    sof EVA polyester fabric\n• Adjustable wraparound velcro strap\n• EVA ankle/achilles
+    protection                                                          \n\nBENEFITS\n•
+    Great protection, lightweight\n• Comfortable, good ventilation\n• Keeps guard
+    secure and comfortable\n• Light, comfortable protection"
 - title: CLEARANCE - Eletto SG1500 Soft Shell Soccer Shin Guards - Size M
   image: "/2020-04-16 16.10.59.jpg"
   price: 11
@@ -494,7 +503,8 @@ promotions:
     - 7 of size Yth Small
 
     Appropriate for ages 3 - 6 year old kids
-- title: CLEARANCE - Uhlsport Cerberus Starter Graphit 100036101 - Size 8, 9
+- title: CLEARANCE - Uhlsport Cerberus Starter Graphit Gloves 100036101 - Size 8,
+    9
   image: "/2022-01-04 13.47.29.jpg"
   price: 30
   description: |-
@@ -520,15 +530,6 @@ promotions:
   image: "/2020-04-16 16.04.39.jpg"
   price: 18
   description: 1 available
-- title: Eletto SG2001 Victory IV Soft Shell Shinpads
-  image: "/b8561d_dd80a71d631143acae4b62da12c36703_mv2.webp"
-  price: 14
-  description: "Available:\n- 4 of size X-Small\n- 6 of size Small\n- 5 of size Medium\n-
-    4 of size Large\n- 4 of size XL\n\nFEATURES\n• Ultra durable soft shell\n• Backside:
-    sof EVA polyester fabric\n• Adjustable wraparound velcro strap\n• EVA ankle/achilles
-    protection                                                          \n\nBENEFITS\n•
-    Great protection, lightweight\n• Comfortable, good ventilation\n• Keeps guard
-    secure and comfortable\n• Light, comfortable protection"
 - title: CLEARANCE - Adidas Ghost Shin Pads - Youth Sizes
   image: "/2022-01-04 13.30.48.jpg"
   price: 12
