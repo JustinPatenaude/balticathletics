@@ -13,6 +13,16 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
+- title: DOM P70 PRO Floor Hockey Set
+  image: "/P70 PRO Set.jpg"
+  price: 245
+  description: |-
+    Shaft guaranteed indestructible! Same engineering specs as the CUP, this 52" length stick is for those players who prefer a longer stick.
+
+    Includes:
+    - 12 PRO Sticks (6 Red / 6 Blue)
+    - 2 DOM-84 SuperPucks
+    - 2 DOM-83 Balls
 - title: DOM C60 CUP Floor Hockey Set
   image: "/C60 Cup Set.jpg"
   price: 231
