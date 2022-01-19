@@ -77,13 +77,14 @@ promotions:
   description: |-
     Pebbled tacky laces
     6 available
-- title: Spalding 72702CA Alpha Composite Leather Varsity Football - Size 9
+- title: CLEARANCE - Spalding 72702CA Alpha Composite Leather Varsity Football - Size
+    9
   image: "/alpha varsity 72-702CA.jpg"
   price: 30
   description: |-
     Pebbled tacky laces
     7 available
-- title: Spalding 72-6548C Advance Pro Composite Football - Size 9
+- title: CLEARANCE - Spalding 72-6548C Advance Pro Composite Football - Size 9
   image: "/726548C Advance Pro Spalding FB.jpg"
   price: 30
   description: |-
