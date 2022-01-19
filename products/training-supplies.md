@@ -212,7 +212,7 @@ promotions:
     - Spigot on bottom
 
     1 available
-- title: Champion Stopwatches 910N
+- title: CLEARANCE - Champion Stopwatches 910N
   image: "/910neonset_l.jpg.png"
   price: 9
   description: |-
