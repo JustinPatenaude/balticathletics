@@ -20,6 +20,10 @@ photos: []
 suppliers: []
 date: '2019-03-29T23:00:55.000+00:00'
 promotions:
+- title: Firm Sponge Pucks 295
+  image: "/2022-01-03 16.15.08.jpg"
+  price: 4.25
+  description: "- For use on ice"
 - image: "/V3.0 playerhelmet.png"
   price: 65
   title: 'Tek2 3.0 ADULT Player Helmet '
