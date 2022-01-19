@@ -96,7 +96,7 @@ promotions:
     - 3 Russell three window wrist coaches RAWC30
     - 1 360 helmet pump YZ15
     - 2 Rawlings helmet pumps AIRPUMP
-- title: Adams AFFB Flag Football Belt w/flags
+- title: CLEARANCE - Adams AFFB Flag Football Belt w/flags
   image: "/AFFB Adams Flag Football belt.flags.jpg"
   price: 4.5
   description: |-
