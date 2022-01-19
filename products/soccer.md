@@ -687,7 +687,7 @@ promotions:
     - Yellow hollow base to be filled with sand for added stability
     - Spring-loaded base bends upon impact
     - Red
-- title: Soccer Corner Flag Anchors SCFA (set of 4)
+- title: CLEARANCE - Soccer Corner Flag Anchors SCFA (set of 4)
   image: "/2020-04-16 15.39.13.jpg"
   price: 12
   description: |-
