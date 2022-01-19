@@ -106,6 +106,16 @@ promotions:
   description: |-
     The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
     excellent shape bounce and flight characteristics.
+- price: 48
+  description: |-
+    - Set of 6 soccer balls
+    - SPEEDSKIN polyurethane covered high density foam.
+    - Size: #4
+    - Assorted colors
+
+    1 set available
+  title: Speedskin Soft Soccer Ball Set of 6 - Size 4
+  image: "/SSSOCCERKIT_1-Z.jpg"
 - title: CLEARANCE - 360 Super Nova S36403 Soccer Ball - Size 3
   image: "/2022-01-04 11.41.27.jpg"
   price: 15.95
@@ -257,16 +267,6 @@ promotions:
     6 available
     Soft Touch
     Yellow/Black
-- price: 48
-  description: |-
-    - Set of 6 soccer balls
-    - SPEEDSKIN polyurethane covered high density foam.
-    - Size: #4
-    - Assorted colors
-
-    1 set available
-  title: Speedskin Soft Soccer Ball Set of 6 - Size 4
-  image: "/SSSOCCERKIT_1-Z.jpg"
 - title: CLEARANCE - Sporteck BOCA Soccer Ball - Size 4
   image: "/BOCA-2.jpg"
   price: 28
@@ -282,7 +282,7 @@ promotions:
     - High rebound Butyl bladder for best air retention and playing characteristics
     Material:
     - TPU 20%, Rubber 40 %, EVA 30% , PES 10 %
-- title: Uhlsport Elysia Replica Soccer Ball - Size 5
+- title: CLEARANCE - Uhlsport Elysia Replica Soccer Ball - Size 5
   image: "/Uhlsport Replica.jpg"
   price: 25
   description: |-
