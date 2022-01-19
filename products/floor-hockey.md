@@ -13,6 +13,14 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
+- title: DOM-83 GymHockey Ball
+  image: "/hockey_dom83.jpg"
+  price: 3.75
+  description: |-
+    - Designed for maximum safety and excellent playability.
+    - Very soft, bright orange, no-bounce plastisol ball.
+    - DOM-83 62 grams
+    - COLOUR: Optic Orange
 - title: DOM P70 PRO Floor Hockey Set
   image: "/P70 PRO Set.jpg"
   price: 245
