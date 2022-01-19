@@ -37,7 +37,7 @@ promotions:
   description: |-
     - ambidextrous
     - 25 lbs
-- title: Ragim RG-WC62 Wildcat Recurve Takedown Bow
+- title: CLEARANCE - Ragim RG-WC62 Wildcat Recurve Takedown Bow
   image: "/Wildcat Recurve Takedown Bow.png"
   price: 150
   description: |-
