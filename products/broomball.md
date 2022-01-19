@@ -8,16 +8,6 @@ products:
 - Broomball Sticks
 photos: []
 promotions:
-- title: DOM SSP-S10 SuperSafe Polo Set
-  image: "/supersafe_ssp-s10.jpg"
-  price: 285
-  description: |-
-    An all ages and longtime favourite alternative to traditional hockey. Heads do not peel and will never slide off. The SuperSafe Skinex® polyurethane head design is moulded directly on the shaft.
-
-    POLO Set contains:
-    - 5 Yellow sticks (32")
-    - 5 Orange sticks (32")
-    - 1 DI-10, 4" Ball
 - title: DOM SSB-S SuperSafe Broomball Set
   image: "/supersafe_ssb_s.jpg"
   price: 260
@@ -28,6 +18,16 @@ promotions:
     - 6 Yellow sticks (36")
     - 6 Orange sticks (36")
     - 1 Ball - 4"
+- title: DOM SSP-S10 SuperSafe Polo Set
+  image: "/supersafe_ssp-s10.jpg"
+  price: 285
+  description: |-
+    An all ages and longtime favourite alternative to traditional hockey. Heads do not peel and will never slide off. The SuperSafe Skinex® polyurethane head design is moulded directly on the shaft.
+
+    POLO Set contains:
+    - 5 Yellow sticks (32")
+    - 5 Orange sticks (32")
+    - 1 DI-10, 4" Ball
 - title: Acacia Grip-inator Broomball Shoes 49-204 - Sizes 6-13
   image: "/2022-01-04 14.47.06.jpg"
   price: 90
