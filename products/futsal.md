@@ -23,7 +23,7 @@ promotions:
     - Size 4
 
     1 available
-- title: Puma Futsal Ball - Size 4
+- title: CLEARANCE - Puma Futsal Ball - Size 4
   image: "/2020-04-14 16.23.25.jpg"
   price: 27
   description: |-
