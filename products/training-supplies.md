@@ -262,7 +262,7 @@ promotions:
   image: "/2020-04-16 14.24.44.jpg"
   price: 30
   description: 1 available
-- title: Diadora 880200 Aluminum Water Bottle
+- title: CLEARANCE - Diadora 880200 Aluminum Water Bottle
   image: "/880200 Diadora Alum water bottle.jpg"
   price: 5
   description: |-
