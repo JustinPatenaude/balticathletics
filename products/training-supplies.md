@@ -140,7 +140,7 @@ promotions:
     - Rolls up for convenient storage
     - Perfect for any type of floor exercises
     - Reduces pressure on the back during exercise and is excellent for physical therapy
-- title: Acupoint L2489-6 Foam Roller - 5" dia x 12" high
+- title: CLEARANCE - Acupoint L2489-6 Foam Roller - 5" dia x 12" high
   image: "/2020-03-07 12.33.42.jpg"
   price: 23
   description: ''
