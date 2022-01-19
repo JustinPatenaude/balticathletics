@@ -188,7 +188,7 @@ promotions:
     - Made of lightweight aluminum and strong ABS plastic
 
     1 available
-- title: Kwikgoal Blast Air Horn 9A1
+- title: CLEARANCE - Kwikgoal Blast Air Horn 9A1
   image: "/2020-04-10 16.39.19.jpg"
   price: 24
   description: |-
