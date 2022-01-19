@@ -13,6 +13,15 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
+- title: Mylec Goalie Box Set MK3GBS24 - Junior
+  image: "/2022-01-03 16.06.54.jpg"
+  price: 160
+  description: |-
+    Includes:
+    - 24" pads
+    - RH blocker
+    - Left trapper
+    - Canada mask MK3GMC
 - title: Accufli Floorball Sticks - 100 cm, Right Hand only
   image: "/A90 LH Black.jpg"
   price: 27
