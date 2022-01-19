@@ -13,7 +13,11 @@ photos:
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
-- title: DOM X90 Floor Hockey Set
+- title: ''
+  image: ''
+  price: 
+  description: ''
+- title: DOM X90 EXCEL Floor Hockey Set
   image: "/X90 Excel Set.jpg"
   price: 215
   description: |-
