@@ -131,7 +131,7 @@ promotions:
   image: "/2022-01-04 15.43.37.jpg"
   price: 14.5
   description: "- Yellow skirt / Blue bands"
-- title: Yonex Mavis 300 Shuttles
+- title: CLEARANCE - Yonex Mavis 300 Shuttles
   image: "/yonex mavis 300.jpg"
   price: 14
   description: |-
