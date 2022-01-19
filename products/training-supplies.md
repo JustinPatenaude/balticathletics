@@ -214,7 +214,7 @@ promotions:
     1 available
 - title: CLEARANCE - Champion Stopwatches 910N
   image: "/910neonset_l.jpg.png"
-  price: 9
+  price: 7.5
   description: |-
     - 1/100 Second precision with lap counter (first 30 minutes)
     - 12/24 hr format with calendar & time
