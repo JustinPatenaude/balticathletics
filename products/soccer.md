@@ -457,7 +457,7 @@ promotions:
     - 14 pairs available
 - title: CLEARANCE - Eletto SC-1100 Classic Pro Soccer Socks - WHITE - Size 7-9
   image: "/Eletto Classic Pro SC1100 sock.PNG"
-  price: 8
+  price: 5
   description: |-
     - Made of Polyester and spandex leg with elastic on ankle
     - Foot made of polyester, spandex and lycra
