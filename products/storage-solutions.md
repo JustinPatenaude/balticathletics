@@ -8,18 +8,6 @@ products:
 - Ball carts
 photos: []
 promotions:
-- title: MRSC Multipurpose Round Storage Cart
-  image: "/red stick cart.jpg"
-  price: 475
-  description: |-
-    - 46" tall x 24" diameter
-    - Custom welded
-    Includes:
-    - four swivel polymer casters
-    - mesh bottom
-    Available in red, blue, black, green, grey
-
-    Custom items - please allow
 - title: Mesh Ball Bag / Laundry Bag L40
   image: "/L40_-_Laundry_Bags.jpg"
   price: 7.5
@@ -171,6 +159,20 @@ promotions:
     - welded steel - much stronger and more durable than PVC plastic
     - available in BLACK, BLUE, GREEN, GREY, RED
     - racquets & shuttles in photo not included
+
+    CUSTOM ITEM (allow 3-4 weeks for manufacturing)
+- title: MRSC Multipurpose Round Storage Cart
+  image: "/red stick cart.jpg"
+  price: 475
+  description: |-
+    - 46" tall x 24" diameter
+    - Custom welded
+    Includes:
+    - four swivel polymer casters
+    - mesh bottom
+    Available in red, blue, black, green, grey
+
+    Sticks not included.
 
     CUSTOM ITEM (allow 3-4 weeks for manufacturing)
 - title: Custom Hula Hoop Cart
