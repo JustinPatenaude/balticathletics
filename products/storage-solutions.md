@@ -161,7 +161,7 @@ promotions:
     - racquets & shuttles in photo not included
 
     CUSTOM ITEM (allow 3-4 weeks for manufacturing)
-- title: Custom MRSC Multipurpose Round Storage Cart
+- title: Custom Multipurpose Round Storage Cart
   image: "/red stick cart.jpg"
   price: 475
   description: |-
