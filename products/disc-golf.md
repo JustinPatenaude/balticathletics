@@ -122,7 +122,7 @@ promotions:
     Also included with the Black Hole® Transit case is a smaller bag for the header band and pro chain rack. Both bags have reinforced padded handles to provide a comfortable grip. For home practice, field work, or temporary courses, the Black Hole® Pro with Transit bag is the disc golfer’s best choice. Protect your Black Hole® Pro with the heavy duty Black Hole® Transit Bag. (Basket not included
 - title: Hive Cross Chain Practice Basket
   image: "/crosschain-modal__37003.1638919344.png"
-  price: 150
+  price: 160
   description: |-
     The Hive Practice Basket is a very economical option for disc golfers looking to sharpen their putting skills. It's also a great option for temporary pins at tournaments, tournament prizes, schools, or anyone getting started with disc golf.
 
