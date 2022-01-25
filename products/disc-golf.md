@@ -11,6 +11,21 @@ photos:
   photo: "/2022-01-05 15.01.12.jpg"
 suppliers: []
 promotions:
+- title: Disc Golf Park Pro Target - Permanent
+  image: "/DiscGolfPark_Pro_Target_Blue-1__29181.1635269208.jpg"
+  price: 650
+  description: |-
+    The target is the most important component of a disc golf course. That’s why Discmania have put a lot of effort into it. The target has gone through several improvements since its introduction in 2005. During the years, Discmania have learned a lot about creating a product that resists corrosion even in the most demanding conditions. Since 2010, the DiscGolfPark Pro Target has found its place on over 5000 disc golf holes across Europe, United States and Australia. It has become one of the most popular disc golf targets worldwide. This highly visible eye-catching target has everything that is needed from a championship level basket – and it stands the test of time. Discmania targets in the North American market are light blue, making it easy for players to distinguish and recognize them as high quality DiscGolfPark products. The DiscGolfPark Pro Target is manufactured in a modern hi-tech facility in Finland and it has been granted the TÜV-approval and the Finnish Key Flag Symbol and. TÜV is a German quality certificate.
+
+    Target Features
+    - Bright chain rack improves visibility in all conditions.
+    - Official, PDGA (Professional Disc Golf Association) approved target.
+    - 28 chains configured in two tiers for superior catching.
+    - The chain rack is hot-galvanized and powder-coated.
+    - All metal parts are hot-galvanized.
+    - A flag option on top.
+    - 10-year body warranty
+    - Pole diameter is 54mm. Installation work is done with a sleeve which has a diameter of 60mm. Fits a concrete base made for 60mm sleeve. We recommend installing the sleeve with a plastic socket.
 - title: Assorted Brands and Models of Discs
   image: "/2022-01-05 15.01.12.jpg"
   price: 
