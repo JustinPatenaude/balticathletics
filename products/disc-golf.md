@@ -51,8 +51,8 @@ promotions:
   image: "/2022-01-05 15.22.25.jpg"
   price: 45
   description: 7 available
-- title: Disc Golf Park Pro Target - Permanent
-  image: "/DiscGolfPark_Pro_Target_Blue-1__29181.1635269208.jpg"
+- title: Discmania - DiscGolfPark Pro Target - Permanent
+  image: "/DiscGolfPark_Pro_Target_Blue.jpg"
   price: 650
   description: |-
     The target is the most important component of a disc golf course. That’s why Discmania have put a lot of effort into it. The target has gone through several improvements since its introduction in 2005. During the years, Discmania have learned a lot about creating a product that resists corrosion even in the most demanding conditions. Since 2010, the DiscGolfPark Pro Target has found its place on over 5000 disc golf holes across Europe, United States and Australia. It has become one of the most popular disc golf targets worldwide. This highly visible eye-catching target has everything that is needed from a championship level basket – and it stands the test of time. Discmania targets in the North American market are light blue, making it easy for players to distinguish and recognize them as high quality DiscGolfPark products. The DiscGolfPark Pro Target is manufactured in a modern hi-tech facility in Finland and it has been granted the TÜV-approval and the Finnish Key Flag Symbol and. TÜV is a German quality certificate.
