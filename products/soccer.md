@@ -106,16 +106,6 @@ promotions:
   description: |-
     The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
     excellent shape bounce and flight characteristics.
-- price: 48
-  description: |-
-    - Set of 6 soccer balls
-    - SPEEDSKIN polyurethane covered high density foam.
-    - Size: #4
-    - Assorted colors
-
-    1 set available
-  title: Speedskin Soft Soccer Ball Set of 6 - Size 4
-  image: "/SSSOCCERKIT_1-Z.jpg"
 - title: Uhlsport Elysia Ballon Replica Soccer Ball - Size 5
   image: "/2022-01-04 12.07.19.jpg"
   price: 35
