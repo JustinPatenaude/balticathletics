@@ -359,7 +359,7 @@ promotions:
     - Set of six: one of each in red, orange, yellow, green, blue and purple
 - title: CLEARANCE - Tchoukball TRN2 SET (Red) - Sold as a set
   image: "/TRN2-rebounder-360athl.jpg"
-  price: 395
+  price: 425
   description: |
     7 sets available only.
 
