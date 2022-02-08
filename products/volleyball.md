@@ -106,7 +106,7 @@ promotions:
     - Buy 12+ get a Mikasa briefcase or storage bag
 - title: Mikasa FIVB Snow Volleyball SV335-V8
   image: "/SV335-V8-B.jpg"
-  price: 47
+  price: 49
   description: |-
     ORDER NOW FOR DECEMBER DELIVERY
 
