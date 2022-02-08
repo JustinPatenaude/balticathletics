@@ -123,7 +123,7 @@ promotions:
     • FOB Winnipeg
 - title: Mikasa VUL500 Starter Ultra-Light Training Volleyball
   image: "/VUL500_1-Z.jpg"
-  price: 55
+  price: 60
   description: |-
     - Youth starter training ball for 12 years & under.
     - Ultra-light and premium composite cover.
