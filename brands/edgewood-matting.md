@@ -31,6 +31,8 @@ catalogues:
   year: 2020
   pdf: "/ea-instafloor_brochure-revised-f.pdf"
 photos:
+- title: Prestige Jet Print logo - Lion
+  photo: "/Prestige Jet print logo mat - Lion.jpg"
 - title: Premier Print logo - Tiger
   photo: "/Premier Print Logo Mat - Tiger.jpg"
 - title: Premier Print logo - Coffee
