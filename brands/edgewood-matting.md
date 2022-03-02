@@ -31,20 +31,20 @@ catalogues:
   year: 2020
   pdf: "/ea-instafloor_brochure-revised-f.pdf"
 photos:
-- title: Prestige Jet Print logo - Lion
-  photo: "/Prestige Jet print logo mat - Lion.jpg"
-- title: Premier Print logo - Tiger
-  photo: "/Premier Print Logo Mat - Tiger.jpg"
-- title: Premier Print logo - Coffee
-  photo: "/Premier Print Logo Mat - Coffee.jpg"
-- title: Premier Print - Multi colour
-  photo: "/Premier Print sample.jpg"
+- title: Inlay logo - Home of the Hawks
+  photo: "/Inlay logo - Home of the hawks.JPG"
 - title: Inlay logo - Gators
   photo: "/inlay-logo_Golden Gate Gators.JPG"
 - title: Inlay logo - SFU
   photo: "/Inlay logo example.jpg"
-- title: Inlay logo - Home of the Hawks
-  photo: "/Inlay logo - Home of the hawks.JPG"
+- title: Premier Print - Multi colour
+  photo: "/Premier Print sample.jpg"
+- title: Premier Print logo - Tiger
+  photo: "/Premier Print Logo Mat - Tiger.jpg"
+- title: Premier Print logo - Coffee
+  photo: "/Premier Print Logo Mat - Coffee.jpg"
+- title: Prestige Jet Print logo - Lion
+  photo: "/Prestige Jet print logo mat - Lion.jpg"
 - title: Voyager Athletic Tile
   photo: "/Voyager athletic tile.PNG"
 - title: Voyager Athletic Tile Colour Swatches
