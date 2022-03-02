@@ -31,6 +31,8 @@ catalogues:
   year: 2020
   pdf: "/ea-instafloor_brochure-revised-f.pdf"
 photos:
+- title: Premier Print logo - Coffee
+  photo: "/Premier Print Logo Mat - Coffee.jpg"
 - title: Premier Print - Multi colour
   photo: "/Premier Print sample.jpg"
 - title: Inlay logo - Gators
