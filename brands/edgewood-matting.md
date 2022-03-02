@@ -31,6 +31,8 @@ catalogues:
   year: 2020
   pdf: "/ea-instafloor_brochure-revised-f.pdf"
 photos:
+- title: Inlay logo - Home of the Hawks
+  photo: "/Inlay logo - Home of the hawks.JPG"
 - title: Voyager Athletic Tile
   photo: "/Voyager athletic tile.PNG"
 - title: Voyager Athletic Tile Colour Swatches
