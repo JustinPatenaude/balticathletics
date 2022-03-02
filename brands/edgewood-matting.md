@@ -31,6 +31,8 @@ catalogues:
   year: 2020
   pdf: "/ea-instafloor_brochure-revised-f.pdf"
 photos:
+- title: Inlay logo - Gators
+  photo: "/inlay-logo_Golden Gate Gators.JPG"
 - title: Inlay logo - SFU
   photo: "/Inlay logo example.jpg"
 - title: Inlay logo - Home of the Hawks
