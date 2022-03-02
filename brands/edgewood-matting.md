@@ -31,6 +31,8 @@ catalogues:
   year: 2020
   pdf: "/ea-instafloor_brochure-revised-f.pdf"
 photos:
+- title: Premier Print - Multi colour
+  photo: "/Premier Print sample.jpg"
 - title: Inlay logo - Gators
   photo: "/inlay-logo_Golden Gate Gators.JPG"
 - title: Inlay logo - SFU
