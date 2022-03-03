@@ -11,7 +11,7 @@ categories:
 - products/workwear.md
 title: Canada Sportswear
 logo: "/canada-sportswear-logo.png"
-website: http://www.canadasportswear.com/
+website: https://canadasportswear.online/newsite/
 catalogues:
 - title: CSW General Sizing Guide
   year: 0
