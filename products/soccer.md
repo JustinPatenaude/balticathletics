@@ -159,7 +159,7 @@ promotions:
     - Butyl Bladder
 - title: CLEARANCE - 360 Screamer Soccer Ball - Size 4
   image: "/SCREAM4_Screamer_Soccer_Balls.jpg"
-  price: 14.75
+  price: 16.5
   description: |-
     - Ideal for beginner level players
     - Designed for game play, practice or recreation
