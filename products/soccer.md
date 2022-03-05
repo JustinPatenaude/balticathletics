@@ -447,10 +447,10 @@ promotions:
     - 80% Polyester, 10% Lycra, 10% Spandex
 
     12 pairs available
-- title: Diadora 152655 Xeres You Soccer Shin Guards - Size M
+- title: Diadora 152655 Xeres Soccer Shin Guards - Assorted sizes
   image: "/2020-04-16 16.06.08.jpg"
-  price: 9
-  description: 1 available
+  price: 10
+  description: ''
 - title: Eletto SG2001 Victory IV Soft Shell Shinpads
   image: "/b8561d_dd80a71d631143acae4b62da12c36703_mv2.webp"
   price: 14
