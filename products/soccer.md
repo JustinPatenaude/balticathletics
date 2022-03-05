@@ -492,7 +492,7 @@ promotions:
   description: 1 available
 - title: CLEARANCE - Adidas Ghost Shin Pads - Youth Sizes
   image: "/2022-01-04 13.30.48.jpg"
-  price: 12
+  price: 15
   description: |-
     Available:
     - 4 of Size Yth Small
