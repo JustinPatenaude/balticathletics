@@ -138,7 +138,7 @@ promotions:
     Weight: 410-450
 - title: CLEARANCE - 360 Super Nova S36403 Soccer Ball - Size 3
   image: "/2022-01-04 11.41.27.jpg"
-  price: 15.95
+  price: 16.95
   description: |-
     4 available
     Soft Touch Micro Cellular PVC and EVA foam backing
