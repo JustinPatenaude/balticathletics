@@ -447,7 +447,7 @@ promotions:
     - 80% Polyester, 10% Lycra, 10% Spandex
 
     12 pairs available
-- title: Diadora 152655 Xeres Soccer Shin Guards - Assorted sizes
+- title: Diadora 152655 Xeres Soccer Shin Guards - S, M, L
   image: "/2020-04-16 16.06.08.jpg"
   price: 10
   description: ''
