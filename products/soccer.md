@@ -19,7 +19,7 @@ photos:
 promotions:
 - title: 360 Attack Soccer Ball - Sizes 3, 4, 5
   image: "/ATTACK4-Soccer-AttackSoccerBall-Size4-800x1000px-600x750.jpg"
-  price: 14.5
+  price: 16.5
   description: Featuring a butyl bladder with maximum air retention, the Attack Soccer
     Balls are great training balls for intermediate players. These soccer balls are
     available in three sizes that will fit the requirements of your league, age group,
