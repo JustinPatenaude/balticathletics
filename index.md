@@ -12,10 +12,10 @@ slideshow:
   button_link: https://balticathletics.com/contact-us/
   image: "/York IN STOCK 2020.png"
 - title: THE BALTIC BANNER
-  text: 'Highlighting: Floor Hockey, Floorball and Table Tennis'
-  button_text: Click here to read - June 15, 2021
-  button_link: https://sh1.sendinblue.com/v57yesu9ht7e.html?t=1623824284
-  image: "/floor hockey_floorball_table tennis.png"
+  text: 'Highlighting: Outdoor Playground Fun!'
+  button_text: Click here to read - March 7, 2022
+  button_link: https://sh1.sendinblue.com/adz2vlm35xpfe.html?t=1646680522
+  image: "/2022.03.07 banner title.png"
 - title: Baltic Banner Past Issues
   text: Have you missed the Banner and want to catch up?
   button_text: Past Issues
