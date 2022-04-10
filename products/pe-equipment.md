@@ -438,7 +438,7 @@ promotions:
     5 available
 - title: CLEARANCE -  AP1 Latex Pig
   image: "/AP1_Rubber_Pig_DSF7529.jpg"
-  price: 9.5
+  price: 12
   description: |-
     - This latex constructed pig is perfect for cooperative games
     - Latex pig 17" in length
