@@ -6,6 +6,7 @@ permalink: "/the-baltic-banner/"
 ---
 To get the Banner delivered direct to your inbox sign up [here](https://balticathletics.com/newsletter/).
 
+* [April 12, 2022 Racquet Sports](https://sh1.sendinblue.com/mk/sc/v0F8cO1BWioZ36WaMFJwmBzD9ku1cB8cB-eDTFXqo7_x8yvnq-HzFjNjfxv387DRHS6D5TIPufGTCbpnrT5Dlt4O01h16A)
 * [March 7, 2022 Outdoor Playground Fun](https://sh1.sendinblue.com/adz2vlm35xpfe.html?t=1646680522)
 * [Baltic Catalogue revised October 31, 2021](https://balticathletics.com/brands/01-baltic-catalogues)
 * [June 15, 2021 Floor Hockey / Floor Ball / Table Tennis](https://sh1.sendinblue.com/v57yesu9ht7e.html?t=1623823947)
