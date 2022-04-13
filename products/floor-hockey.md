@@ -1,7 +1,7 @@
 ---
 layout: product
 permalink: "/products/floor-hockey/"
-title: Floor Hockey
+title: Floorball / Floor Hockey
 products:
 - Balls
 - Floorball
