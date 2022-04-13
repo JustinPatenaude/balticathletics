@@ -34,7 +34,7 @@ promotions:
   image: "/Traditions 209 starting pistol.jpg"
   price: 255
   description: |
-    uses 209 primers (100/box $13)
+    uses 209 primers
     - includes carrying case and cleaning brush shown.
     * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
 - title: Traditions 209 Starting Pistol Blanks
