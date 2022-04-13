@@ -10,6 +10,8 @@ products:
 - Goalie Sticks
 - Player Sticks
 photos:
+- title: Floorball Stick Length Guide
+  photo: "/Stick Length Guide.jpg"
 - title: DOM Sports sticks, pucks, ringette, broomball, SuperSafe IN STOCK
   photo: "/hockey_main.jpg"
 promotions:
