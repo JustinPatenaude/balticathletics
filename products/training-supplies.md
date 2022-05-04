@@ -72,14 +72,6 @@ promotions:
   image: "/2022-01-06 12.14.55.jpg"
   price: 
   description: ''
-- title: Saucer Cone Set CM50P - 5 colour/50 pack
-  image: "/2020-04-09 19.13.46.jpg"
-  price: 26
-  description: |-
-    - includes carrying stacker
-    - 7.5" saucer cones
-
-    8 available
 - title: Saucer Cone Set CM36P - 4 colour/36 pack
   image: "/2020-04-09 19.14.58.jpg"
   price: 22
@@ -87,6 +79,14 @@ promotions:
     - includes carrying stacker
 
     20 available
+- title: Saucer Cone Set CM50P - 5 colour/50 pack
+  image: "/2020-04-09 19.13.46.jpg"
+  price: 30
+  description: |-
+    - includes carrying stacker
+    - 7.5" saucer cones
+
+    8 available
 - title: CLEARANCE - Inflatable Cones PP-508178/9-00  8" & 12" height
   image: "/2020-03-07 12.25.41.jpg"
   price: 15
