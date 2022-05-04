@@ -23,6 +23,7 @@ promotions:
     Gross Weight: 120 KG (265 LBS)
 
     Slight cosmetic damage during Shipping - REPAIRED
+
     Regular price $1200
 - title: 1Star Table Tennis Balls - Box of 144
   image: "/1star144_l.jpg"
