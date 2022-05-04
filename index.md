@@ -3,7 +3,7 @@ layout: home
 slideshow:
 - title: Table Tennis Table DEAL!!
   text: Lion Competition Table
-  button_text: Take a look!
+  button_text: More Details!
   button_link: https://balticathletics.com/products/table-tennis/
   image: "/12610-8_A_LionCompetitionTTTable_main.jpg"
 - title: Official MHSAA Volleyballs are now IN STOCK
