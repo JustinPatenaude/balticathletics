@@ -423,30 +423,6 @@ promotions:
   image: "/b8561d_7d098c39842c4f16bded2c59ffac0f94_mv2.webp"
   price: 155
   description: 12 poles plus carry bag (photo not accurate)
-- title: CLEARANCE - Admiral Pro Soccer Socks - GOLD only
-  image: "/admiral gold soccer sock.jpg"
-  price: 5
-  description: |-
-    - Adult size 10-13
-    - High quality sock, padded foot, ribbed articulated ankle, arch support
-    - 14 pairs available
-- title: CLEARANCE - Eletto SC-1100 Classic Pro Soccer Socks - WHITE - Size 7-9
-  image: "/Eletto Classic Pro SC1100 sock.PNG"
-  price: 5
-  description: |-
-    - Made of Polyester and spandex leg with elastic on ankle
-    - Foot made of polyester, spandex and lycra
-    - Eletto logo on foot only
-    - DryForm Technology for wicking away sweat.
-
-    9 pairs available
-- title: CLEARANCE - Diadora 885040 Finale Soccer Socks - White/Navy logo - Size 7-9
-  image: "/diadora finale sock.PNG"
-  price: 5
-  description: |-
-    - 80% Polyester, 10% Lycra, 10% Spandex
-
-    12 pairs available
 - title: Diadora 152655 Xeres Soccer Shin Guards - S, M, L
   image: "/2020-04-16 16.06.08.jpg"
   price: 10
