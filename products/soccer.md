@@ -332,7 +332,7 @@ promotions:
 - title: CLEARANCE - Uhlsport Elysia Ballon Replica Ligue 1 Soccer Ball 1001685012019
     - Size 5
   image: "/2022-01-04 12.25.11.jpg"
-  price: 27
+  price: 35
   description: "ONE available\nYellow/Black/Silver \nCushioned panels, Butyl Bladder,
     Replica ball of the France Ligue 1 Official ball"
 - title: CLEARANCE - Uhlsport Tri Concept League Soccer Ball - Size 5
