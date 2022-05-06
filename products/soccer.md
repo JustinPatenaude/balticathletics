@@ -355,7 +355,7 @@ promotions:
   description: Pro training ball
 - title: CLEARANCE - Uhlsport Ligue 1 Conforama Soccer Ball - Size 5
   image: "/2022-01-04 12.27.05.jpg"
-  price: 27
+  price: 35
   description: 4 available
 - title: CLEARANCE - Umbro Neo Trainer Soccer Ball - Size 5
   image: "/2022-01-04 11.49.14.jpg"
