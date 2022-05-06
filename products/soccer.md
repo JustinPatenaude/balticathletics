@@ -293,7 +293,7 @@ promotions:
   description: 1 available
 - title: CLEARANCE - Uhlsport Elysia Replica Soccer Ball - Size 5
   image: "/Uhlsport Replica.jpg"
-  price: 25
+  price: 35
   description: |-
     - Match and training ball with new synergy technology
     - Ligue 1 design with a 32 panel construction
