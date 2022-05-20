@@ -10,7 +10,7 @@ slideshow:
   text: Who doesn't love a hoodie??  Well we sell more hoodies than any other garment
     we offer!! Everyone loves a great hoodie!!
   button_text: Colours close up
-  button_link: https://balticathletics.com/gallery/
+  button_link: https://sageflip.com/51695-2022/42/
   image: "/2022.05.16 St Therese hoodie pic.png"
 - title: Official MHSAA Volleyballs are now IN STOCK
   text: Mikasa Volleyball Canada Competition Ball - VQ200W-CAN
