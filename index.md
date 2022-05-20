@@ -6,6 +6,12 @@ slideshow:
   button_text: More Details!
   button_link: https://balticathletics.com/products/table-tennis/
   image: "/12610-8_A_LionCompetitionTTTable_main.jpg"
+- title: Hoodies Galore!!!
+  text: Who doesn't love a hoodie?? Well we sell more hoodies than any other garment
+    we offer!! Everyone loves a great hoodie!!
+  button_text: ''
+  button_link: ''
+  image: "/2022.05.16 St Therese hoodie pic.png"
 - title: Official MHSAA Volleyballs are now IN STOCK
   text: Mikasa Volleyball Canada Competition Ball - VQ200W-CAN
   button_text: Details
