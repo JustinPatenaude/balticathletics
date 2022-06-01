@@ -5,9 +5,9 @@ permalink: "/meet-the-team/"
 team-members:
 - name: Jeffrey
   bio: |-
-    Jeffrey assists with the equipment side of the business. He inflates hundreds of balls and is our go-to heavy lifter.
+    Jeffrey is our jack of all trades! He does our heat pressing, inflates hundreds of balls and is our go-to heavy lifter.
 
-    He enjoys gaming, reading books and playing the piano.
+    He enjoys gaming, reading books, playing the piano and has a green thumb.
   photo: "/10102020_72.jpg"
 - name: Bill ~ Bill Swift Transport
   bio: |-
