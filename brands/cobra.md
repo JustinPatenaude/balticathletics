@@ -8,10 +8,7 @@ categories:
 title: Cobra
 logo: "/cobra logo.png"
 website: ''
-catalogues:
-- title: Cobra Outdoor Volleyball Net System
-  year: 2019
-  pdf: "/COBRA OUTDOOR VOLLEYBALL NET SYSTEM.pdf"
+catalogues: []
 photos:
 - title: Cobra Outdoor Volleyball System pieces
   photo: "/Cobra outdoor v-ball system.JPG"
