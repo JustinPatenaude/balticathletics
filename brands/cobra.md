@@ -8,7 +8,10 @@ categories:
 title: Cobra
 logo: "/cobra logo.png"
 website: ''
-catalogues: []
+catalogues:
+- title: Cobra flyer 2022.05.24
+  year: 2022
+  pdf: "/16 Cobra Outdoor V-ball 2022.pdf"
 photos:
 - title: Cobra Outdoor Volleyball System pieces
   photo: "/Cobra outdoor v-ball system.JPG"
