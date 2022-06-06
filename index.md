@@ -23,10 +23,10 @@ slideshow:
   button_link: https://balticathletics.com/contact-us/
   image: "/York IN STOCK 2020.png"
 - title: THE BALTIC BANNER
-  text: 'Highlighting: Outdoor Playground Fun!'
-  button_text: Click here to read - March 7, 2022
-  button_link: https://sh1.sendinblue.com/adz2vlm35xpfe.html?t=1646680522
-  image: "/2022.03.07 banner title.png"
+  text: 'Highlighting: Outdoor Equipment, Orange tees, Uniforms, Ordering for Fall'
+  button_text: Click here to read - June 6, 2022
+  button_link: https://sh1.sendinblue.com/mk/sc/7A8mTEXJYZR3hR5ir1QP6_uwLvzGxRNzhJ_IGwYxU5QtHZkSbAA_0T1qKNtA0akesBYq8XenoaFYZhQoshACDXlGH4SD8w
+  image: ''
 - title: Baltic Banner Past Issues
   text: Have you missed the Banner and want to catch up?
   button_text: Past Issues
