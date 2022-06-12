@@ -53,9 +53,9 @@ promotions:
   description: ''
 - title: Spikeball & Spikeball PRO
   image: "/2022-01-05 16.50.13.jpg"
-  price: 85
+  price: 90.0
   description: |-
-    Spikeball $85.00
+    Spikeball $90.00
     Standard kit with 3 balls
 
     Spikeball PRO $135.00
@@ -66,6 +66,5 @@ promotions:
     - 2 Spikeball Pro balls
     - Portable ball pump and gauge
     - Carrying bag
-    - 1 free registration to Spikeball Roundnet Association tournament ($50 value)
 
 ---
