@@ -99,7 +99,7 @@ promotions:
     2 available
 - title: Mikasa VQ200W-CAN Volleyball
   image: "/VQ200W-CAN_1-Z.jpg"
-  price: 70
+  price: 74
   description: |-
     - MHSAA Official Volleyball
     - Buy 6 get a free clipboard
