@@ -18,7 +18,7 @@ photos:
 promotions:
 - title: Wilson Evolution Basketball - Size 5, 6, 7
   image: "/evolution.png"
-  price: 78
+  price: 82
   description: |-
     - Size 5 - Special Order
     - Size 6 & 7 - In Stock
