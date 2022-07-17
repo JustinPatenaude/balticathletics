@@ -10,6 +10,10 @@ products:
 - Shuttles
 photos: []
 promotions:
+- title: Yonex YM350 Shuttles
+  image: ''
+  price: 18
+  description: ''
 - title: Black Knight Graphite BA190DG Racquet
   image: "/2022-01-04 15.26.48.jpg"
   price: 30.95
@@ -127,13 +131,6 @@ promotions:
     Available:
     5 Green (slow speed)
     2 Blue (medium speed)
-- title: CLEARANCE - Yonex Mavis 300 Shuttles
-  image: "/yonex mavis 300.jpg"
-  price: 14
-  description: |-
-    - Yellow skirt, Blue band
-    - Tube of 6
-    - Limited quantities
 - title: CLEARANCE - Victor Badminton Racquet Bag
   image: "/2022-01-04 15.23.14.jpg"
   price: 45
