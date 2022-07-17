@@ -10,10 +10,6 @@ products:
 - Shuttles
 photos: []
 promotions:
-- title: Yonex YM350 Shuttles
-  image: ''
-  price: 18
-  description: ''
 - title: Black Knight Graphite BA190DG Racquet
   image: "/2022-01-04 15.26.48.jpg"
   price: 30.95
@@ -83,6 +79,10 @@ promotions:
   image: "/2022-01-04 15.26.24.jpg"
   price: 42
   description: ONE available.
+- title: Yonex YM350 Shuttles
+  image: ''
+  price: 18
+  description: ''
 - title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
   image: "/2022-01-04 15.42.36.jpg"
   price: 6
