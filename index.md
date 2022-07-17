@@ -12,7 +12,7 @@ slideshow:
   button_text: Colours close up
   button_link: https://sageflip.com/51695-2022/42/
   image: "/2022.05.16 St Therese hoodie pic.png"
-- title: Official MHSAA Volleyballs are now IN STOCK
+- title: Official MHSAA Volleyballs are IN STOCK
   text: Mikasa Volleyball Canada Competition Ball - VQ200W-CAN
   button_text: Details
   button_link: https://balticathletics.com/products/volleyball/
