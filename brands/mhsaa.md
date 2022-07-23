@@ -1,13 +1,15 @@
 ---
 layout: brand
-permalink: "/brands/TITLE"
+permalink: "/brands/MHSAA"
 categories: []
 title: MHSAA
 logo: ''
 website: ''
-catalogues: []
+catalogues:
+- title: Volleyball Canada Uniform Guidelines
+  pdf: ''
+  year: 
 photos: []
 info: ''
-published: false
 
 ---
