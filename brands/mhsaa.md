@@ -4,12 +4,14 @@ permalink: "/brands/MHSAA"
 categories: []
 title: MHSAA
 logo: ''
-website: ''
+website: https://www.mhsaa.ca/
 catalogues:
 - title: Volleyball Canada Uniform Guidelines
   pdf: ''
   year: 
-photos: []
-info: ''
+photos:
+- title: ''
+  photo: ''
+info: MHSAA - Manitoba High School Athletic Association
 
 ---
