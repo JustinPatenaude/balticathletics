@@ -1,6 +1,11 @@
 ---
 layout: home
 slideshow:
+- title: MHSAA Volleyball Uniform Guidelines
+  text: Buying a new set of uniforms...this is important!
+  button_text: ''
+  button_link: ''
+  image: ''
 - title: Table Tennis Table DEAL!!
   text: Lion Competition Table
   button_text: More Details!
