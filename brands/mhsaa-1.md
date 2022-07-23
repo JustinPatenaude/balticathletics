@@ -10,6 +10,6 @@ catalogues:
   pdf: ''
   year: 
 photos: []
-info: ''
+info: MHSAA - Manitoba High School Athletic Association
 
 ---
