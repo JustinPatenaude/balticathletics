@@ -11,6 +11,5 @@ catalogues:
   year: 
 photos: []
 info: ''
-published: false
 
 ---
