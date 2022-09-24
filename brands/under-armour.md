@@ -22,9 +22,7 @@ categories:
 title: Under Armour
 logo: "/logo-under-armour.png"
 website: ''
-catalogues:
-- title: Winter 2022 UA Team Catalogue
-  year: 2022
+catalogues: []
 info: "**Under Armour** was founded on September 25, 1996 by Kevin Plank, a then 24-year-old
   former special teams captain of the University of Maryland football team. Plank
   initially began the business from his grandmother's basement in Washington, D.C.\n\nPlank
