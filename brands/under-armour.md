@@ -24,7 +24,7 @@ logo: "/logo-under-armour.png"
 website: ''
 catalogues: []
 info: |-
-  Spring/Summer 2023 Team Catalogue link:  [https://trayinc.cld.bz/SS23-Team-Canada](https://trayinc.cld.bz/SS23-Team-Canada "https://trayinc.cld.bz/SS23-Team-Canada")
+  Spring/Summer 2023 (Athlete Essentials/Baseball/Softball/Lacrosse/Track/Soccer/Volleyball) Team Catalogue link:  [https://trayinc.cld.bz/SS23-Team-Canada](https://trayinc.cld.bz/SS23-Team-Canada "https://trayinc.cld.bz/SS23-Team-Canada")
 
   Winter 2022 (Basketball/Hockey) Team Catalogue link: [https://trayinc.cld.bz/W22-Team-CAN](https://trayinc.cld.bz/W22-Team-CAN "https://trayinc.cld.bz/W22-Team-CAN")
 
