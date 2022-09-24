@@ -23,6 +23,8 @@ title: Under Armour
 logo: "/logo-under-armour.png"
 website: ''
 catalogues:
+- title: Spring/Summer 2023 Team Catalogue - https://trayinc.cld.bz/SS23-Team-Canada
+  year: 2023
 - title: Winter 2022 UA Team Catalogue
   year: 2022
 info: "**Under Armour** was founded on September 25, 1996 by Kevin Plank, a then 24-year-old
