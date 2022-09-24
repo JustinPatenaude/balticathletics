@@ -24,9 +24,13 @@ logo: "/logo-under-armour.png"
 website: ''
 catalogues: []
 info: |-
-  Spring/Summer 2023 (Athlete Essentials/Baseball/Softball/Lacrosse/Track/Soccer/Volleyball) Team Catalogue link:  [https://trayinc.cld.bz/SS23-Team-Canada](https://trayinc.cld.bz/SS23-Team-Canada "https://trayinc.cld.bz/SS23-Team-Canada")
+  Spring/Summer 2023 (Athlete Essentials/Baseball/Softball/Lacrosse/Track/Soccer/Volleyball) Team Catalogue link:
 
-  Winter 2022 (Basketball/Hockey) Team Catalogue link: [https://trayinc.cld.bz/W22-Team-CAN](https://trayinc.cld.bz/W22-Team-CAN "https://trayinc.cld.bz/W22-Team-CAN")
+  [https://trayinc.cld.bz/SS23-Team-Canada](https://trayinc.cld.bz/SS23-Team-Canada "https://trayinc.cld.bz/SS23-Team-Canada")
+
+  Winter 2022 (Basketball/Hockey) Team Catalogue link:
+
+  [https://trayinc.cld.bz/W22-Team-CAN](https://trayinc.cld.bz/W22-Team-CAN "https://trayinc.cld.bz/W22-Team-CAN")
 
   **Under Armour** was founded on September 25, 1996 by Kevin Plank, a then 24-year-old former special teams captain of the University of Maryland football team. Plank initially began the business from his grandmother's basement in Washington, D.C.
 
