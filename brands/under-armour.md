@@ -23,12 +23,16 @@ title: Under Armour
 logo: "/logo-under-armour.png"
 website: ''
 catalogues: []
-info: "**Under Armour** was founded on September 25, 1996 by Kevin Plank, a then 24-year-old
-  former special teams captain of the University of Maryland football team. Plank
-  initially began the business from his grandmother's basement in Washington, D.C.\n\nPlank
-  opted to use the British spelling \"armour\" in the company name because the toll-free
-  vanity number was still available for that version. \n\nUnder Armour is now a well
-  known sports brand."
+info: |-
+  Spring/Summer 2023 Team Catalogue link:
+
+  [https://trayinc.cld.bz/SS23-Team-Canada](https://trayinc.cld.bz/SS23-Team-Canada "https://trayinc.cld.bz/SS23-Team-Canada")
+
+  **Under Armour** was founded on September 25, 1996 by Kevin Plank, a then 24-year-old former special teams captain of the University of Maryland football team. Plank initially began the business from his grandmother's basement in Washington, D.C.
+
+  Plank opted to use the British spelling "armour" in the company name because the toll-free vanity number was still available for that version.
+
+  Under Armour is now a well known sports brand.
 photos:
 - title: 1300123 UA Hustle Hoodie
   photo: "/1300123 UA Hustle hoodie ROYAL.jpg"
