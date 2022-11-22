@@ -13,7 +13,7 @@ categories:
 - products/whistles.md
 title: Lowry Sports
 logo: "/lowry-logo.png"
-website: http://lowrysports.com/
+website: ''
 pdfs:
 - "/2018-lowry's-catalogue.pdf"
 info: "**Lowry Sports** is a Winnipeg company founded in 1969 and is now one of the
