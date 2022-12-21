@@ -6,7 +6,9 @@ testimonials:
 - testimonial: |-
     On behalf of Rossburn Fire Department, I would like to send out a huge thank you to everyone involved in taking care of us this year. I have heard nothing but amazing reviews from our firefighters. The clothing is truly amazing.
 
+
     Special thank you goes out to Corina. From answering your phone over the weekend or responding to emails quickly…. You truly take pride in your work and our department is very thankful for your dedication. With your expertise you were able to make this project simple and efficient for our department. We couldn’t have done it without you.
+
 
     We look forward to working with your company in the future, and will be recommending you as much as we can.
   name: ''
