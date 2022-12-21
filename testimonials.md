@@ -3,14 +3,13 @@ layout: testimonials
 title: Testimonials
 permalink: "/testimonials/"
 testimonials:
-- testimonial: 'Everything was super well received and we were super impressed with
-    the packaging and how well everything looked and how easy the team order management
-    wise for us it’s definitely going to be something we will do again. My sincere
-    thanks and kudos. I have been singing your praises to anyone I talk to about clothing
-    and equipment as you have definitely become my "go-to" cause your service is awesome
-    and appreciate all your hard work.  I love supporting a Manitoba made family run
-    business. '
-  name: Kendall
+- testimonial: |-
+    On behalf of Rossburn Fire Department, I would like to send out a huge thank you to everyone involved in taking care of us this year. I have heard nothing but amazing reviews from our firefighters. The clothing is truly amazing.
+
+    Special thank you goes out to Corina. From answering your phone over the weekend or responding to emails quickly…. You truly take pride in your work and our department is very thankful for your dedication. With your expertise you were able to make this project simple and efficient for our department. We couldn’t have done it without you.
+
+    We look forward to working with your company in the future, and will be recommending you as much as we can.
+  name: ''
 - testimonial: We really appreciate our personal connection with Baltic. For an experienced
     Phys. Ed. teacher, doing things on-line doesn't always make sense. The staff at
     Baltic are efficient, knowledgeable and willing to go above and beyond for their
