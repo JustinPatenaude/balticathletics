@@ -188,27 +188,10 @@ promotions:
     - Butyl rubber bladder for extended air retention
 
     1 available
-- title: CLEARANCE - Cosom CX-700095-00 Foam Multipurpose/Volleyball Ball - 7.5"
-  image: "/2020-03-30 11.33.27.jpg"
-  price: 4
-  description: |-
-    Only white as shown
-
-    9 available
 - title: CLEARANCE - Mikasa MVA-350 Volleyball
   image: "/2022-01-04 11.50.55.jpg"
   price: 23
   description: ONE available only.
-- title: CLEARANCE - Mikasa VSL215PNK Indoor/Outdoor Volleyball
-  image: "/VSL215PNK_1-Z.jpg"
-  price: 26
-  description: |-
-    - Competitive class ball
-    - Durable synthetic leather cover, designed for indoor and outdoor use
-    - Great for recreational play.
-    - Pink and white
-
-    2 available
 - title: CLEARANCE - Mikasa VSV800 Squish Beach Volleyball
   image: "/VSV800_1-B.jpg"
   price: 24
@@ -219,15 +202,6 @@ promotions:
     - Yellow and red
 
     1 available
-- title: CLEARANCE - Wilson 84-7967 Prestige Indoor Volleyball
-  image: "/prestige red.white.jpg"
-  price: 27
-  description: |-
-    - Wilson Prestige Indoor Volleyball features a premium colour, synthetic leather cover (TPE) for a great look and feel
-    - Wound, cloth-wrapped (CW) carcass construction for extended durability
-    - V-Tec seams
-    - Official size and weight
-    - 1 available
 - title: Tachikara TV6 Volleyball Briefcase
   image: "/tv6.jpg"
   price: 37
@@ -239,10 +213,6 @@ promotions:
   image: "/M6B_1-Z.jpg"
   price: 55
   description: "- Holds 6 balls"
-- title: Mikasa SDBMIK Volleyball Duffle Storage Bag
-  image: "/SDBMIK_1-Z.jpg"
-  price: 55
-  description: "- Holds 16 volleyballs"
 - title: Net Chain Height Gauge VNCHG
   image: "/VNCHG-z.jpg"
   price: 16
@@ -258,19 +228,6 @@ promotions:
     - Inserts into the top of 2" badminton posts for mini-volleyball play
     - 4 easy height adjustments
     - 2 eyelets for side by side courts
-- title: CLEARANCE - 360 VN790 World Competition Volleyball Net
-  image: "/VN790-Volleyball-WorldCompetitionNet-800x1000px-600x750.jpg"
-  price: 325
-  description: |-
-    - This net features a 3.0mm knotless nylon netting
-    - 42’ Kevlar® core rope top (that will not kink or fray)
-    - 42’ bottom rope
-    - End dowels
-    - Rope tighteners
-    - Tension kit.
-    - Size: 32’ x 1’ cable top, bottom and side headbands.
-
-    ONE available
 - title: CLEARANCE - Tachikara PV-NET Volleyball Net - 32 ft
   image: "/pv-net.jpg"
   price: 225
