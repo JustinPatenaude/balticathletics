@@ -47,10 +47,6 @@ promotions:
     Installation on artificial turf, sport courts, and more. Call us to customize!\n\n2-for-1
     system. Components may be purchased to convert your outdoor system for indoor
     use as well.\n\nPlay on the beach, in the park or your backyard."
-- title: CLEARANCE - Slammo SL01
-  image: "/2022-01-05 16.51.01.jpg"
-  price: 75
-  description: ''
 - title: Spikeball & Spikeball PRO
   image: "/2022-01-05 16.50.13.jpg"
   price: 90.0
