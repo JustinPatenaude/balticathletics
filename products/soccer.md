@@ -236,10 +236,6 @@ promotions:
   description: |-
     Soft touch, training ball
     38 available
-- title: CLEARANCE - Puma Arsenal Soccer Ball - Size 5
-  image: "/ARSENAL Puma SB size 5.jpg"
-  price: 25
-  description: Only 1 available
 - title: CLEARANCE - Puma Trainer Soccer Ball - Size 4
   image: "/2020-04-11 14.30.31.jpg"
   price: 25
@@ -297,12 +293,6 @@ promotions:
   description: "- 2 available\n- Pro Playing characteristics, less H20 retention\nadditional
     foam lamination for optimized ball control, HAR Bladder \nFIFA QUALITY PRO certified"
   image: "/2022-01-04 12.23.41.jpg"
-- title: CLEARANCE - Uhlsport Elysia Ballon Replica Ligue 1 Soccer Ball 1001685012019
-    - Size 5
-  image: "/2022-01-04 12.25.11.jpg"
-  price: 35
-  description: "ONE available\nYellow/Black/Silver \nCushioned panels, Butyl Bladder,
-    Replica ball of the France Ligue 1 Official ball"
 - title: CLEARANCE - Uhlsport Tri Concept League Soccer Ball - Size 5
   image: "/2022-01-04 12.26.52.jpg"
   price: 60
