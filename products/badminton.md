@@ -11,7 +11,7 @@ products:
 photos: []
 promotions:
 - title: Yonex YM350 Shuttles
-  image: ''
+  image: "/yonex-mavis-350.png"
   price: 18
   description: ''
 - title: CLEARANCE - Wilson Badminton Shuttles WRT604012 - Tube of 3
