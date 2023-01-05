@@ -17,29 +17,6 @@ photos:
 - title: What soccer ball size do we need?
   photo: "/soccer-ball-sizes.jpg"
 promotions:
-- title: 360 Attack Soccer Ball - Sizes 3, 4, 5
-  image: "/ATTACK4-Soccer-AttackSoccerBall-Size4-800x1000px-600x750.jpg"
-  price: 16.5
-  description: Featuring a butyl bladder with maximum air retention, the Attack Soccer
-    Balls are great training balls for intermediate players. These soccer balls are
-    available in three sizes that will fit the requirements of your league, age group,
-    or skill level.
-- title: 360 PGS4B Playground Series Soccer Ball - Size 4
-  image: "/PGS4B-web.jpg"
-  price: 7.75
-  description: "- smooth cover\n- butyl bladder\n- nylon wound. \n\nThese are great
-    for classroom use.\n\n5 available"
-- title: Champion SL10 Soccer Ball Trainer - Size 4
-  image: "/sl10-a-front_l.jpg"
-  price: 16.5
-  description: |-
-    - Soft, lightweight cover ideal for blocking shots or heading the ball
-    - 30% Lighter than traditional size 4 balls
-    - 32 Panels for added quality and durability
-    - Size 4
-    - Yellow/Black
-
-    2 available
 - title: Acacia Galaxy Training Ball 24-205 - Size 5
   image: "/2022-01-04 11.47.33.jpg"
   price: 19
@@ -106,15 +83,6 @@ promotions:
   description: |-
     The combination of the TPU casing, TPE foam, and polyester backing with rubber bladder and machine stitching gives the ball a soft feel
     excellent shape bounce and flight characteristics.
-- title: Uhlsport Elysia Ballon Replica Soccer Ball - Size 5
-  image: "/2022-01-04 12.07.19.jpg"
-  price: 35
-  description: |-
-    - 32 available
-    - Fluorescent Yellow / Orange / Navy Blue
-    - Soft Touch cushioned panels
-    - Butyl Bladder
-    - Superior bounce and control
 - title: Uhlsport 1503 M-Konzept TEAM Soccer Ball - Size 4, 5
   image: "/100150312_fv-714x500.jpg"
   price: 25
