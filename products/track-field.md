@@ -63,17 +63,6 @@ promotions:
     - IAAF Certified.
 
     1 pair available
-- title: CLEARANCE - F30805R Aluminum High Jump Standards
-  image: "/F30805R standards.jpg"
-  price: 775
-  description: |+
-    * Steel base in red
-    * Aluminum standards
-    * adjustable heights up to 203 cm
-    * new though shown as a sales sample
-    * INCLUDES TFG13 fiberglass competition quality CROSSBAR
-    * no freight if picked up or delivered in Winnipeg area
-
 - title: CLEARANCE - F30805B Aluminum High Jump Standards
   image: "/F30805B standards.jpg"
   price: 875
@@ -95,18 +84,6 @@ promotions:
     - ORANGE (not shown)
 
     8 available
-
-    **PLEASE NOTE**
-    This item is subject to higher shipping costs due to length. This item needs to be trucked. Item price shown is FOB Winnipeg and pick up in Winnipeg is recommended to avoid extra shipping charges.
-- title: Stackhouse TFP-13 Official Fiberglass Crossbar - Practice
-  image: "/crossbar-sh-offcl-prac-z.jpg"
-  price: 240
-  description: |-
-    - 13' 1.5" length
-    - Practice fiberglass one piece
-    - Yellow
-
-    1 available
 
     **PLEASE NOTE**
     This item is subject to higher shipping costs due to length. This item needs to be trucked. Item price shown is FOB Winnipeg and pick up in Winnipeg is recommended to avoid extra shipping charges.
