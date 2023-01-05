@@ -44,10 +44,6 @@ promotions:
   image: "/Tachikara BB.jpg"
   price: 10
   description: "- 8 available"
-- title: CLEARANCE - Spalding Eco-Green - Size 29.5 (7)
-  image: "/Spalding Size 7 Green.jpg"
-  price: 11
-  description: "- 12 available"
 - title: CLEARANCE - Spalding Super Flite NBA Basketball - Size 7 Mens 29.5
   image: "/2022-01-04 14.21.39.jpg"
   price: 19.95
@@ -58,10 +54,6 @@ promotions:
   image: "/2022-01-04 14.03.42.jpg"
   price: 27
   description: "- 24 available in stock"
-- title: CLEARANCE - Spalding TF-750 Composite Basketball 74-7938C
-  image: "/2022-01-04 14.21.27.jpg"
-  price: 45
-  description: "- ONE available only\n"
 - title: SKLZ D-Man Basketball Trainer DMBK-000-02
   image: "/d-man_672x672.jpg"
   price: 76.75
