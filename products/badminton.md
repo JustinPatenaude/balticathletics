@@ -18,28 +18,6 @@ promotions:
   image: "/2022-01-04 15.42.36.jpg"
   price: 6
   description: Championship shuttlecock
-- title: CLEARANCE - Yonex Muscle Power Junior Racquet MP2JR
-  image: "/2022-01-04 15.31.27.jpg"
-  price: 25
-  description: "A shorter junior racquet for easy handling\n\nFrame\tAluminum\nShaft\tSteel\nLength\t21
-    in.\nWeight / Grip\t4U (Avg. 83g) G5\nStringing Advice\t4U: 14 - 18 lbs\n\nONE
-    available"
-- title: CLEARANCE - Yonex CAB6000N Racquet
-  image: "/2022-01-04 15.32.57.jpg"
-  price: 49
-  description: "The round-shape head with box-shape frame cross section gives Carbonex
-    a unique and solid feeling. For players who seek a solid feel from the strings
-    at impact. At impact, Elastic Ti resists deformation, stretching then recovering
-    its shape quickly to launch accurate shots with the full energy of the swing.\n\nFrame\tAluminum\nShaft\tSteel
-    / CARBON NANOTUBE\nWeight / Grip\tU (105g and below) G4\nStringing Advice\tU:
-    16 - 20 lbs\nColor(s)\tBlack / Yellow\n\n3 available"
-- title: CLEARANCE - Carlton ISO4.3 Midi-Blade Badminton Racquet
-  image: "/Carlton ISO4.3 Midi-Blade Badminton Racquet.jpg"
-  price: 15
-  description: |-
-    - Titanium Alloy/Steel Racquet
-
-    1 available
 - title: Victor Badminton Grips GR200
   image: "/2022-01-04 15.41.51.jpg"
   price: 3
