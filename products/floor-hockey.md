@@ -82,43 +82,6 @@ promotions:
     - recommended for grades 4-7
     - blade inserted into shaft
     - green or orange blades
-- title: CLEARANCE - Salming Matrix Canada Floorball Stick - 103 cm RH
-  image: "/2022-01-04 14.33.51.jpg"
-  price: 40
-  description: ''
-- title: CLEARANCE - Salming Canada Matrix Floorball Stick - 87 cm RH
-  image: "/2022-01-04 14.34.16.jpg"
-  price: 40
-  description: |-
-    1 available for $40, Regular $45
-
-    Flex: 32
-    BladeText: Mblade
-    GripText: Campus base grip
-    Length: 82, 87 cm
-    SKU: 3106128
-    Licensed by Hockey Canada. Coated composite shaft. X3M profiled grip. Powered with Mblade. Left and right hand cavity.
-- title: D-Gel 350P Street Hockey Ball - Orange (set of 2)
-  image: "/2020-04-16 17.08.39.jpg"
-  price: 8
-  description: |-
-    - 0 to 15 degrees Celsius
-
-    1 pair available
-- title: D-Gel 315P Street Hockey Ball - Yellow (set of 2)
-  image: "/2020-04-16 17.06.56.jpg"
-  price: 7
-  description: |-
-    - Soft hardness  -5 to -10 degrees Celsius
-
-    1 set available
-- title: D-Gel 385 Street Hockey Ball - Pink (set of 2)
-  image: "/2020-04-16 17.05.19.jpg"
-  price: 7
-  description: |-
-    - Medium hardness - 0-15 degrees Celsius
-
-    1 pair available
 - title: DOM-83 GymHockey Ball
   image: "/hockey_dom83.jpg"
   price: 3.75
@@ -154,35 +117,6 @@ promotions:
     Pro-Style Trapper
     Adjustable Chest Protector
     Junior Mask
-- title: CLEARANCE - 360 Goalie RH Blocker and LH Trapper Set
-  image: "/2022-01-03 16.13.16.jpg"
-  price: 60
-  description: |
-    - Lightweight and durable, as well as flexible!
-    - Sold only as a set
-    - 2 sets available
-- title: CLEARANCE - Linwood FI-1223 Street Hawk Canada Floor Hockey Pads - 23"
-  image: "/2022-01-03 16.20.35.jpg"
-  price: 25
-  description: ONE pair available.
-- title: CLEARANCE - Linwood FI-1224 Street Hawk Canada Set - 23" pads
-  image: "/2022-01-03 16.20.27.jpg"
-  price: 59
-  description: Includes Blocker, Trapper, Goal Pads
-- title: CLEARANCE - Linwood FI-1295 Deluxe Floor Hockey Mask - Adult
-  image: "/2022-01-03 16.08.50 m.jpg"
-  price: 32
-  description: ONE available only.
-- title: CLEARANCE - Mylec Pro Series Goalie Floor Hockey Equipment - Adult
-  image: "/2022-01-03 16.11.11.jpg"
-  price: 220
-  description: |-
-    Includes:
-    - Chest/Arm pad MK3CPS
-    - RH Blocker MK3BS
-    - LH Catch Trapper MK3CGS
-
-    ONE available only.
 - title: CLEARANCE - Mylec Goalie Box Set MK3GBS24 - Junior
   image: "/2022-01-03 16.06.54.jpg"
   price: 160
