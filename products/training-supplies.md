@@ -58,54 +58,16 @@ promotions:
   image: "/2022-01-06 12.15.19.jpg"
   price: 
   description: Various products available
-- title: Cramer 950 Athletic Trainer's Tape - Box of 32 rolls
-  image: "/cramer 950 tape.jpg"
-  price: 95
-  description: |-
-    Designed from the ground up to meet the needs of athletic trainers. Quality adhesive, consistent unwind, easy tear...everything an athletic trainer needs 950 delivers.
-
-    • Zinc Oxide Tape provides excellent tensile strength and superior conformability
-    • Computer calibrated unwind for consistency and performance roll to roll
-    • Non-Latex adhesive
-    • A high-quality porous, 100% cotton tape at an affordable price
 - title: SKLZ Shot Spots - Basketball Training Aid
   image: "/2022-01-06 12.14.55.jpg"
   price: 
   description: ''
-- title: Saucer Cone Set CM36P - 4 colour/36 pack
-  image: "/2020-04-09 19.14.58.jpg"
-  price: 22
-  description: |-
-    - includes carrying stacker
-
-    20 available
-- title: Saucer Cone Set CM50P - 5 colour/50 pack
-  image: "/2020-04-09 19.13.46.jpg"
-  price: 30
-  description: |-
-    - includes carrying stacker
-    - 7.5" saucer cones
-
-    8 available
 - title: CLEARANCE - Inflatable Cones PP-508178/9-00  8" & 12" height
   image: "/2020-03-07 12.25.41.jpg"
   price: 15
   description: |-
     PP-508178-00  8" set of 6 - $15.00
     PP-508179-00  12" set of 6 - $18.00
-- title: BY Group Classic Fitness Ball 92141
-  image: "/BY Group fitness ball 92141.jpg"
-  price: 18
-  description: |-
-    - Diameter 55 cm
-    - Great for all fitness levels
-    - Increases muscle flexibility and strength
-    - Strengthens and tones your body
-    - Gain coordination with each workout
-    - With anti-burst strength of 1000 lbs
-    - Dual action pump INCLUDED
-
-    1 available at this price
 - title: BY Group Classic Fitness Ball 92139
   image: "/2020-03-07 12.43.06.jpg"
   price: 15
@@ -144,14 +106,6 @@ promotions:
   image: "/2020-03-07 12.33.42.jpg"
   price: 23
   description: ''
-- title: CLEARANCE - Firm Foam Roller EPPFR36  - 6" dia x 36" high
-  image: "/Firm Foam Roller EPPFR36 a.jpg"
-  price: 35
-  description: |-
-    - Firm density, retains shape longer
-    - 6" diameter
-    - Made of expanded polypropylene (EPP)
-    - Eco-friendly
 - title: CLEARANCE - Chin Up Bar, Wall Mounted (WMCUB)
   image: "/WMCUB.JPG"
   price: 95
@@ -174,60 +128,6 @@ promotions:
     - Size 9” x 6” x 3”
     - Shrink wrapped with full colour label
     - Used when tightness prevents hands from reaching the floor or balance is challenged.
-- title: CLEARANCE - Fox40 Ecoblast Rechargeable Air Horn & Air Pump 9509AZ
-  image: "/Fox40 9509AZ ecoblast horn.jpg"
-  price: 28
-  description: |-
-    - Great alternative to traditional starter pistol, as they can be used to initiate the start of track & field or swimming events
-    - The non-toxic, 100% ozone safe EcoBlast™
-    - Rechargeable safety signal air horn can be refilled quickly and easily with mini
-    air pump
-    - Powerful 120 dB sound power
-    - Can be stored indoors and outdoors
-    - Reliable in all weather conditions
-    - Made of lightweight aluminum and strong ABS plastic
-
-    1 available
-- title: CLEARANCE - Kwikgoal Blast Air Horn 9A1
-  image: "/2020-04-10 16.39.19.jpg"
-  price: 24
-  description: |-
-    8 oz
-    Ozone friendly
-
-    Used in all sports:
-    - soccer
-    - basketball
-    - field hockey
-    - wrestling
-    - lacrosse
-
-    1 available
-- title: CLEARANCE - Rubbermaid Drink Station
-  image: "/2020-04-11 14.32.44.jpg"
-  price: 35
-  description: |-
-    - 18.9 L
-    - Insulated
-    - Spigot on bottom
-
-    1 available
-- title: CLEARANCE - Champion Stopwatches 910N
-  image: "/910neonset_l.jpg.png"
-  price: 7.5
-  description: |-
-    - 1/100 Second precision with lap counter (first 30 minutes)
-    - 12/24 hr format with calendar & time
-    - Daily alarm
-    - Hourly chime
-    - Big digit display
-    - Water & shock resistant structure
-
-    4 available:
-    - 1 yellow
-    - 1 orange
-    - 1 pink
-    - 1 green
 - title: Robic 12 Memory Stopwatch TSW505
   image: "/2022-01-06 11.58.29.jpg"
   price: 69.5
@@ -262,19 +162,6 @@ promotions:
   image: "/2020-04-16 14.24.44.jpg"
   price: 30
   description: 1 available
-- title: CLEARANCE - Diadora 880200 Aluminum Water Bottle
-  image: "/880200 Diadora Alum water bottle.jpg"
-  price: 5
-  description: |-
-    with carabiner
-    11 available
-- title: CLEARANCE - Shaker Cup FI-5090 - 700 mL with steel ball
-  image: "/2020-04-16 16.54.50.jpg"
-  price: 4.5
-  description: |-
-    2 - black
-    1 - red
-    1 - blue
 date: '2019-03-29T23:08:03.000+00:00'
 
 ---
