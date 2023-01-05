@@ -57,60 +57,10 @@ promotions:
     - Nylon wound with 3-ply rubber cover for extra durability.
 
     1 available
-- title: Aerobie Rocket Football 65186-0
-  image: "/65186-0_aerobie_rocket_football_group(1).jpg"
-  price: 12.5
-  description: |-
-    - Patented curved fins for spectacular spirals
-    - Aerodynamic design for long distance flights
-    - Soft squeezable foam for easy catches
-    - Compact 6 inch size fits all hands
-    - Eye-catching two tone neon colors look great in flight
 - title: Inflatables
   image: "/2022-01-05 15.43.49.jpg"
   price: 
   description: ''
-- title: Concorde GPG7 Grippy Playground Ball - 7 inch
-  image: "/2020-04-17 09.01.39.jpg"
-  price: 6.75
-  description: 1 available
-- title: Jeffix PR600 Playground Rubber Ball - 6 inch
-  image: "/PR600_1-Z.jpg"
-  price: 5.75
-  description: |-
-    - Deluxe playground ball
-    - 4 ply. Nylon winding under tough rubber cover
-    - Softer, better bounce and durability!
-    - 6" (15 cm)
-    - Available in orange color only
-
-    5 available
-- title: Jeffix PR700 Playground Rubber Ball - 7 inch
-  image: "/PR700-R_1-Z.jpg.png"
-  price: 6.5
-  description: |-
-    - Deluxe playground ball
-    - 4 ply Nylon winding under tough rubber cover
-    - Softer, better bounce and durability!
-    - Size: 7” (18 cm)
-
-    Available:
-    - 1 Blue
-    - 1 Green
-    - 1 Red
-- title: Jeffix PR850 Playground Rubber Ball - 8.5 inch
-  image: "/PR850-Y_1-Z.png"
-  price: 8
-  description: |-
-    - Deluxe playground ball
-    - 4 ply Nylon winding under tough rubber cover
-    - Softer, better bounce and durability!
-    - Size: 8.5” (22 cm)
-
-    Available:
-    - 1 Green
-    - 1 Yellow
-    - 1 Purple
 - title: Rhino Skin Low Bounce Dodgeball Set - 6 inch
   image: "/rxd6set_n.jpg"
   price: 118
@@ -133,15 +83,6 @@ promotions:
     - Recommended age: 10 years and up
 
     1 Royal Blue available
-- title: Rhino PG7RD Rubber Playground Ball - 7 inch
-  image: "/pg7rd_l.jpg"
-  price: 7.25
-  description: |-
-    - high bouncing 2-ply balls are nylon wound
-    - feature an easy grip textured surface
-    - durable 7" diameter red playground ball is always a popular choice!
-
-    4 red available
 - title: Rhino Skin RS5 Micro Playball Orange - 5 inch
   image: "/rs5_n.jpg"
   price: 17.45
@@ -204,24 +145,6 @@ promotions:
     - Ball weight: 175 g
     - Foam density: 28 kg/m3
     - Set of six: one of each in red, orange, yellow, green, blue and purple
-- title: Rhino PG85PR Rubber Playground Ball - 8.5 inch
-  image: "/pg85pr_l.jpg"
-  price: 8.5
-  description: |-
-    - high bouncing 2-ply balls are nylon wound
-    - feature an easy grip textured surface
-    - durable 8.5” purple playground ball is always a popular choice!
-
-    2 purple available
-- title: Softex P60Y Playball - 6 inch
-  image: "/P60Y.jpg"
-  price: 3.5
-  description: |-
-    - Soft inflatable vinyl balls are extra thick
-    - best sellers for young school aged children
-    - Can be used for a variety of games and activities.
-
-    2 yellow available
 - title: Swing Ball Set SBSET
   image: "/sbset-a-main_n.jpg"
   price: 22
@@ -268,17 +191,6 @@ promotions:
     - Size: 8" (21 cm)
 
     1 blue available
-- title: Mikasa P850 Four Square Playground Ball - 8.5 inch
-  image: "/P850PINK_1-Z (1).jpg.png"
-  price: 10
-  description: |-
-    - Ideal for any type of playground, its resistance and rebound are out of this world!
-
-    - Size: 8.5" (22 cm)
-    - Premium rubber cover
-    - Latex-free
-
-    1 Pink available
 - title: Mikasa T8000 Rubber Cover Tetherball
   image: "/T8000_1-Z.jpg"
   price: 22
@@ -418,12 +330,6 @@ promotions:
     - Outdoor use
     - High Density Foam
     - Includes bat, 4 - 18 inch in-ground outdoor spike stumps, 2 balls, 2 bales
-- title: CLEARANCE - Juggling Clubs FJC3 - Set of 3
-  image: "/FJC3-Juggling-FoamJugglingClubs-800x1000px-600x750.jpg"
-  price: 45
-  description: |-
-    - Set includes (3) 20” L clubs. Red, Yellow and Blue
-    - High Density foam covered provides a better grip and extra durability.
 - title: CLEARANCE - Katch-a-Cup PX-500088-00 - Set of 6
   image: "/2022-01-05 16.35.37.jpg"
   price: 18
