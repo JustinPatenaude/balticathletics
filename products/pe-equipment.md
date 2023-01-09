@@ -22,6 +22,13 @@ products:
 - Whiffle balls
 photos: []
 promotions:
+- title: CLEARANCE - Cricket Set FCRS29
+  image: "/Screenshot 2023-01-09 3.41.37 PM.png"
+  price: 40.0
+  description: |-
+    -Outdoor use
+    -High Density Foam
+    -Includes bat, 4 - 18 inch in-ground outdoor spike stumps, 2 balls, 2 bales
 - title: 360 Cricket Set G209
   image: "/2022-01-05 16.18.05.jpg"
   price: 54.25
