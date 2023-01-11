@@ -6,8 +6,8 @@ products:
 - Jerseys
 - Nets
 - Poles
-- Shuttles
 - Racquets
+- Shuttles
 photos: []
 promotions:
 - title: Yonex YM350 Shuttles
