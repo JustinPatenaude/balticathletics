@@ -37,12 +37,13 @@ promotions:
     uses 209 primers
     - includes carrying case and cleaning brush shown.
     * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
-- title: Traditions 209 Starting Pistol Blanks
+- title: 209 Starting Pistol Blanks
   image: "/209 primer blanks.jpg"
-  price: 15
+  price: 16
   description: |-
     - 100 blanks per box
     - To be used with Traditions 209 starting pistol
+    - CCI, Clerinox or Federal brands supplied with stock available
     - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
 - title: 22 Caliber 6mm Acorn Starting Blanks
   image: "/22 Cal blanks.jpg"
