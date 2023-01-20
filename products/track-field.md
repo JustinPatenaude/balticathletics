@@ -46,7 +46,7 @@ promotions:
     - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
 - title: 22 Caliber 6mm Acorn Starting Blanks
   image: "/22 Cal blanks.jpg"
-  price: 33
+  price: 35
   description: |-
     - 100 blanks per container
     - * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
