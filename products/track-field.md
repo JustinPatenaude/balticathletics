@@ -39,7 +39,7 @@ promotions:
     * Please note: Pistols and blanks cannot be shipped. Delivery or pick up will need to be arranged.
 - title: 209 Starting Pistol Blanks
   image: "/209 primer blanks.jpg"
-  price: 16
+  price: 19
   description: |-
     - 100 blanks per box
     - To be used with Traditions 209 starting pistol
