@@ -32,7 +32,7 @@ promotions:
     - For close up photos see "Ribbons" category
 - title: Traditions 209 Starting Pistol
   image: "/Traditions 209 starting pistol.jpg"
-  price: 265
+  price: 295
   description: |
     uses 209 primers
     - includes carrying case and cleaning brush shown.
