@@ -136,6 +136,5 @@ promotions:
     1 - Adidas (blue left)
     1 - Saucony
 date: '2019-03-29T23:04:41.000+00:00'
-published: false
 
 ---
