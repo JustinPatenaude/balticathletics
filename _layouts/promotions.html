@@ -37,7 +37,7 @@ layout: default
           {% assign productPages = site.pages | where: 'layout', "product" %}
           {% for page in productPages %}
             {% for product in page.promotions %}
-              <div class="col-3_md-4_sm-6_ty-12">
+              <div class="col-3_md-4_sm-6_ty-12" data-test="{{ page.title }}">
                 {% include promotion-product.html %}
               </div>
             {% endfor %}
